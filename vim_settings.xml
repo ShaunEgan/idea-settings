@@ -3,245 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/deleted.json" timestamp="1468402014329">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1470124572571">
-        <mark key="[" line="19" column="95" />
-        <mark key="]" line="19" column="95" />
-        <mark key="." line="19" column="95" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1470298376693" />
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/index.js" timestamp="1468606777839">
-        <mark key="[" line="2" column="41" />
-        <mark key="]" line="2" column="41" />
-        <mark key="." line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/mutationSecondSource.json" timestamp="1468403549216">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/config.js" timestamp="1467010533610">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="39" column="62" />
-        <mark key="." line="39" column="62" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/index.js" timestamp="1469791867176">
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="3" column="37" />
-        <mark key="^" line="3" column="37" />
-        <mark key="." line="3" column="37" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/colour-tools.js" timestamp="1468840221081">
-        <mark key="[" line="67" column="117" />
-        <mark key="]" line="67" column="115" />
-        <mark key="." line="67" column="115" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/scrubber/waveform.js" timestamp="1469446484694">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="14" column="23" />
-        <mark key="." line="14" column="23" />
-        <mark key="^" line="24" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player.js" timestamp="1469188135673">
-        <mark key="[" line="18" column="33" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/bind-callbacks.js" timestamp="1469448836468">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="4" column="1" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470331732472">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/scrubber-factory.js" timestamp="1469792186636">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="7" column="44" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/lib/MessageQueue/RabbitMQListener.js" timestamp="1468501530484">
-        <mark key="[" line="30" column="15" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/mutationSource1.json" timestamp="1468403463415">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="26" />
-        <mark key="." line="24" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Notifications/index.js" timestamp="1470332363642">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/bar-scrubber.js" timestamp="1469792444990">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="47" column="40" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform-scrubber.js" timestamp="1469792536146">
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="114" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Mongo/index.js" timestamp="1470328391642">
-        <mark key="[" line="15" column="18" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="26" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/source/has-offers.js" timestamp="1466783541569">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_compact-player.scss" timestamp="1469793191139">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470123818244">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_standard-player.scss" timestamp="1469793121759">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-        <mark key="^" line="38" column="7" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="21" />
-        <mark key="." line="29" column="21" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1469370181360">
-        <mark key="[" line="156" column="30" />
-        <mark key="]" line="156" column="30" />
-        <mark key="." line="156" column="30" />
-        <mark key="^" line="109" column="25" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/pause-all.csv" timestamp="1466589616341">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/GetMongoConnectionString/index.js" timestamp="1470315002691">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-        <mark key="^" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/display-meta-data.js" timestamp="1469448600721">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1469793201437">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/unit/crowdcaster-player/index-spec.js" timestamp="1470134203980">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/source/source-factory.js" timestamp="1466500459306">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/frontend/index.js" timestamp="1467616524002">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466423756028">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_errors.scss" timestamp="1469705977966">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" timestamp="1470078064125">
-        <mark key="'" line="9" column="5" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="29" column="18" />
-        <mark key="^" line="29" column="18" />
-        <mark key="." line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/repositories/network-monitor/src/index.js" timestamp="1466446013920">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/pretty-duration.js" timestamp="1469710406573">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1470306706809">
-        <mark key="'" line="0" column="3469" />
-        <mark key="[" line="0" column="2533" />
-        <mark key="]" line="0" column="3647" />
-        <mark key="^" line="0" column="3647" />
-        <mark key="." line="0" column="3647" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/spec/unit/reactivity-manager-spec.js" timestamp="1470078087599">
-        <mark key="'" line="53" column="19" />
-        <mark key="[" line="133" column="3" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/models/offer.js" timestamp="1469629767291">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-player.js" timestamp="1469444030064">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1470300402504" />
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/Filters.scala" timestamp="1469437445990">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1469699218100">
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="61" column="36" />
-        <mark key="." line="59" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1466499191683">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/has-offers-affiliate.js" timestamp="1466424205037">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -252,28 +13,58 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" timestamp="1470134086658">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1466499191683">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end.js" timestamp="1470123716591">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/pretty-duration.js" timestamp="1469710406573">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform.js" timestamp="1469787503685">
-        <mark key="[" line="30" column="52" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/Filters.scala" timestamp="1469437445990">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/config.js" timestamp="1470315015787">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="2" />
-        <mark key="^" line="7" column="32" />
-        <mark key="." line="11" column="2" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466423756028">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/source/source-factory.js" timestamp="1466500459306">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" timestamp="1470078064125">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="29" column="18" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/support/unit.json" timestamp="1470124556150">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="." line="1" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/mutationSource1.json" timestamp="1468403463415">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/frontend/index.js" timestamp="1467616524002">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_errors.scss" timestamp="1469705977966">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/scrubber.js" timestamp="1468919474806">
         <mark key="[" line="43" column="0" />
@@ -293,20 +84,43 @@
         <mark key="." line="25" column="59" />
         <mark key="^" line="25" column="59" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/index.js" timestamp="1470075955654">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="103" column="25" />
-        <mark key="." line="103" column="25" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-player.js" timestamp="1469444030064">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/support/unit.json" timestamp="1470124556150">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="15" />
+      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/deleted.json" timestamp="1468402014329">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/app.js" timestamp="1467629499961">
-        <mark key="[" line="14" column="41" />
-        <mark key="]" line="15" column="61" />
-        <mark key="." line="15" column="61" />
+      <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/lib/MessageQueue/RabbitMQListener.js" timestamp="1468501530484">
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/models/offer.js" timestamp="1469629767291">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" timestamp="1469630682110">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="63" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/unit/crowdcaster-player/index-spec.js" timestamp="1470134203980">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/lib/Mongo/index.js" timestamp="1470401279995">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466783326991">
         <mark key="[" line="56" column="0" />
@@ -319,27 +133,26 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="$USER_HOME$/repositories/yazimedia/.dockerignore" timestamp="1466757574102">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1469793201437">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/index.js" timestamp="1470075955654">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="103" column="25" />
+        <mark key="." line="103" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/index.html" timestamp="1470041663716">
         <mark key="[" line="35" column="50" />
         <mark key="]" line="25" column="207" />
         <mark key="^" line="25" column="207" />
         <mark key="." line="25" column="207" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" timestamp="1469630682110">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="23" column="63" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-      </file>
-      <file name="$USER_HOME$/repositories/yazimedia/.dockerignore" timestamp="1466757574102">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/index.js" timestamp="1470332304360">
         <mark key="'" line="31" column="31" />
@@ -348,10 +161,194 @@
         <mark key="." line="28" column="1" />
         <mark key="^" line="28" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" timestamp="1470134086658">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/spec/unit/reactivity-manager-spec.js" timestamp="1470078087599">
+        <mark key="'" line="53" column="19" />
+        <mark key="[" line="133" column="3" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="133" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/index.js" timestamp="1469791867176">
+        <mark key="[" line="3" column="40" />
+        <mark key="]" line="3" column="37" />
+        <mark key="^" line="3" column="37" />
+        <mark key="." line="3" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1469370181360">
+        <mark key="[" line="156" column="30" />
+        <mark key="]" line="156" column="30" />
+        <mark key="." line="156" column="30" />
+        <mark key="^" line="109" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/app.js" timestamp="1467629499961">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="15" column="61" />
+        <mark key="." line="15" column="61" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1470124572571">
+        <mark key="[" line="19" column="95" />
+        <mark key="]" line="19" column="95" />
+        <mark key="." line="19" column="95" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/index.js" timestamp="1468606777839">
+        <mark key="[" line="2" column="41" />
+        <mark key="]" line="2" column="41" />
+        <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1469699218100">
+        <mark key="[" line="49" column="31" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="61" column="36" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/source/has-offers.js" timestamp="1466783541569">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/lib/GetMongoConnectionString/index.js" timestamp="1470315002691">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/config.js" timestamp="1467010533610">
+        <mark key="[" line="39" column="62" />
+        <mark key="]" line="39" column="62" />
+        <mark key="." line="39" column="62" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/colour-tools.js" timestamp="1468840221081">
+        <mark key="[" line="67" column="117" />
+        <mark key="]" line="67" column="115" />
+        <mark key="." line="67" column="115" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/env/dev.env" timestamp="1468565829424">
         <mark key="[" line="9" column="95" />
         <mark key="]" line="9" column="95" />
         <mark key="." line="9" column="95" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/mutationSecondSource.json" timestamp="1468403549216">
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/bar-scrubber.js" timestamp="1469792444990">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="47" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/pause-all.csv" timestamp="1466589616341">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1470306706809">
+        <mark key="'" line="0" column="3469" />
+        <mark key="[" line="0" column="2533" />
+        <mark key="]" line="0" column="3647" />
+        <mark key="^" line="0" column="3647" />
+        <mark key="." line="0" column="3647" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform-scrubber.js" timestamp="1469792536146">
+        <mark key="[" line="92" column="19" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="114" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470331732472">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform.js" timestamp="1469787503685">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/scrubber/waveform.js" timestamp="1469446484694">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="14" column="23" />
+        <mark key="." line="14" column="23" />
+        <mark key="^" line="24" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470123818244">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player.js" timestamp="1469188135673">
+        <mark key="[" line="18" column="33" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/config.js" timestamp="1470401084585">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/lib/Notifications/index.js" timestamp="1470332363642">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end.js" timestamp="1470123716591">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_compact-player.scss" timestamp="1469793191139">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/scrubber-factory.js" timestamp="1469792186636">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="7" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_standard-player.scss" timestamp="1469793121759">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="4" />
+        <mark key="." line="38" column="4" />
+        <mark key="^" line="38" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/display-meta-data.js" timestamp="1469448600721">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/network-monitor/src/index.js" timestamp="1466446013920">
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/bind-callbacks.js" timestamp="1469448836468">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="1" />
+        <mark key="." line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -458,10 +455,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rxNode</text>
+        <text>Mongo();</text>
       </register>
       <register name="-" type="4">
-        <text>rxNode</text>
+        <text>Mongo();</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -469,35 +466,35 @@
       <register name="0" type="4">
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
-      <register name="1" type="4">
-        <text>rxNode</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgTW9uZ28gPSAoKSA9PiB7Cn07Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBkYiA9IG5ldyBEYihjb25maWcubW9uZ29EYiwgbmV3IFNlcnZlcihjb25maWcubW9uZ29Ib3N0LCBjb25maWcubW9uZ29Qb3J0KSk7CgogIGNvbnN0IGNvbm5lY3Rpb24gPSByeC5PYnNlcnZhYmxlCiAgICAuZnJvbU5vZGVDYWxsYmFjayhkYi5vcGVuLCBkYikoKQogICAgLnNoYXJlUmVwbGF5KCk7CgogIHJldHVybiB7CiAgICAvKioKICAgICAqIFJldHVybnMgYSBzdHJlYW0gY29udGFpbmluZyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLiBUaGUgc3RyZWFtIGlzIHJlcGxheWVkLCBhbmQgY2FuIGJlCiAgICAgKiB1c2VkIHNhZmVseSBieSBtdWx0aXBsZSBzZXJ2aWNlcy4KICAgICAqLwogICAgZ2V0Q29ubmVjdGlvblN0cmVhbTogKCkgPT4gY29ubmVjdGlvbiwKCiAgICAvKioKICAgICAqIENsb3NlcyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLgogICAgICovCiAgICBjbG9zZTogKCkgPT4gZGIuY2xvc2UoKQogIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text>stream</text>
+      <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgU2VydmVyID0gcmVxdWlyZSgnbW9uZ29kYicpLlNlcnZlcjsK</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgRGIgPSByZXF1aXJlKCdtb25nb2RiJykuRGI7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>(</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBtb25nb0hvc3Q6IGVudi5ESUdFU1RPUl9NT05HT19IT1NUIHx8ICdsb2NhbGhvc3QnLAogIG1vbmdvUG9ydDogZW52LkRJR0VTVE9SX01PTkdPX1BPUlQgfHwgJzI3MDE3JywKICBtb25nb0RiOiBlbnYuRElHRVNUT1JfTU9OR09fREIgfHwgJ2Nyb3dkY2FzdGVyJywKICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>rxNode</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBtb25nb0hvc3Q6IGVudi5ESUdFU1RPUl9NT05HT19IT1NUIHx8ICdsb2NhbGhvc3QnLAogIG1vbmdvUG9ydDogZW52LkRJR0VTVE9SX01PTkdPX1BPUlQgfHwgJzI3MDE3JywKICBtb25nb0RiOiBlbnYuRElHRVNUT1JfTU9OR09fREIgfHwgJ2Nyb3dkY2FzdGVyJywKCiAgbW9uZ29Db25uZWN0aW9uU3RyaW5nOiBlbnYuRElHRVNUT1JfTU9OR09fQ09OTkVUSU9OX1NUUklORyB8fCAnbW9uZ29kYjovL2xvY2FsaG9zdDoyNzAxNycsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBtb25nb0hvc3Q6IGVudi5ESUdFU1RPUl9NT05HT19IT1NUIHx8ICdsb2NhbGhvc3QnLAogIG1vbmdvUG9ydDogZW52LkRJR0VTVE9SX01PTkdPX1BPUlQgfHwgJzI3MDE3JywKICBtb25nb0RiOiBlbnYuRElHRVNUT1JfTU9OR09fREIgfHwgJ2Nyb3dkY2FzdGVyJywKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="4">
-        <text>stream</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBtb25nb0hvc3Q6IGVudi5ESUdFU1RPUl9NT05HT19IT1NUIHx8ICdsb2NhbGhvc3QnLAogIG1vbmdvUG9ydDogZW52LkRJR0VTVE9SX01PTkdPX1BPUlQgfHwgJzI3MDE3JywKICBtb25nb0RiOiBlbnYuRElHRVNUT1JfTU9OR09fREIgfHwgJ2Nyb3dkY2FzdGVyJywK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
@@ -576,6 +573,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift meta pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
