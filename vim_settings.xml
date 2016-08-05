@@ -154,12 +154,11 @@
         <mark key="^" line="25" column="207" />
         <mark key="." line="25" column="207" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/index.js" timestamp="1470410403983">
-        <mark key="'" line="31" column="31" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="28" column="1" />
+      <file name="$USER_HOME$/repositories/digestor/index.js" timestamp="1470411544392">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="2" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" timestamp="1470134086658">
         <mark key="[" line="2" column="0" />
@@ -267,11 +266,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="114" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470410522682">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="15" />
+      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470411416104">
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform.js" timestamp="1469787503685">
         <mark key="[" line="30" column="52" />
@@ -299,8 +295,8 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/config.js" timestamp="1470401084585">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/config.js" timestamp="1470411423340">
+        <mark key="[" line="7" column="90" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -359,7 +355,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="14" filename="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" />
       <jump line="91" column="20" filename="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" />
       <jump line="84" column="3" filename="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" />
       <jump line="119" column="48" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -459,13 +454,14 @@
       <jump line="39" column="0" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="40" column="28" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="31" column="31" filename="$USER_HOME$/repositories/digestor/index.js" />
+      <jump line="34" column="26" filename="$USER_HOME$/repositories/digestor/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>takeUnit</text>
+        <text>users.get()</text>
       </register>
       <register name="-" type="4">
-        <text>takeUnit</text>
+        <text>users.get()</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -473,8 +469,8 @@
       <register name="0" type="4">
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvLmdldENvbm5lY3Rpb25TdHJlYW0oKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBGZXRjaGVzIHVzZXJzIGFzIGEgc3RyZWFtLgogICAqLwogIGdldDogKCkgPT4gZGIkLmZsYXRNYXAoZGIgPT4KICAgIGRiLmNvbGxlY3Rpb24oJ3VzZXJzJykKICAgICAgLmdyb3VwKAogICAgICAgIHsgJ3Byb2ZpbGUucHJpbWFyeUVtYWlsJzogMSB9LAogICAgICAgIHt9LAogICAgICAgIHt9LAogICAgICAgICdmdW5jdGlvbiAoY3VycmVudCwgYWNjdW11bGF0b3IpIHsgYWNjdW11bGF0b3IuX2lkID0gY3VycmVudC5faWQ7IGFjY3VtdWxhdG9yLm5hbWUgPSBjdXJyZW50LnByb2ZpbGUuZGlzcGxheU5hbWU7IGFjY3VtdWxhdG9yLmVtYWlsID0gY3VycmVudC5wcm9maWxlLnByaW1hcnlFbWFpbDsgfScKICAgICAgKSkKICAgIC50YXAoZGF0YSA9PiBjb25zb2xlLmxvZygnRmV0Y2hlZCBzdHVmZicpKQogICAgLnRhcChjb25zb2xlLmxvZykKICAgIC5mbGF0TWFwKHJ4Lk9ic2VydmFibGUuZnJvbSk=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -483,25 +479,25 @@
         <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvLmdldENvbm5lY3Rpb25TdHJlYW0oKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvCg==</text>
+        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvLmdldENvbm5lY3Rpb25TdHJlYW0oKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vbmdvLmNsb3NlKCk7Cg==</text>
+        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcnhOb2RlID0gcmVxdWlyZSgncngtbm9kZScpOwo=</text>
+        <text encoding="base64">ICAgIG1vbmdvLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTW9uZ28gPSAoKSA9PiB7Cn07Cgo=</text>
+        <text encoding="base64">Y29uc3QgcnhOb2RlID0gcmVxdWlyZSgncngtbm9kZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBkYiA9IG5ldyBEYihjb25maWcubW9uZ29EYiwgbmV3IFNlcnZlcihjb25maWcubW9uZ29Ib3N0LCBjb25maWcubW9uZ29Qb3J0KSk7CgogIGNvbnN0IGNvbm5lY3Rpb24gPSByeC5PYnNlcnZhYmxlCiAgICAuZnJvbU5vZGVDYWxsYmFjayhkYi5vcGVuLCBkYikoKQogICAgLnNoYXJlUmVwbGF5KCk7CgogIHJldHVybiB7CiAgICAvKioKICAgICAqIFJldHVybnMgYSBzdHJlYW0gY29udGFpbmluZyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLiBUaGUgc3RyZWFtIGlzIHJlcGxheWVkLCBhbmQgY2FuIGJlCiAgICAgKiB1c2VkIHNhZmVseSBieSBtdWx0aXBsZSBzZXJ2aWNlcy4KICAgICAqLwogICAgZ2V0Q29ubmVjdGlvblN0cmVhbTogKCkgPT4gY29ubmVjdGlvbiwKCiAgICAvKioKICAgICAqIENsb3NlcyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLgogICAgICovCiAgICBjbG9zZTogKCkgPT4gZGIuY2xvc2UoKQogIH0K</text>
+        <text encoding="base64">Y29uc3QgTW9uZ28gPSAoKSA9PiB7Cn07Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgU2VydmVyID0gcmVxdWlyZSgnbW9uZ29kYicpLlNlcnZlcjsK</text>
+        <text encoding="base64">ICBjb25zdCBkYiA9IG5ldyBEYihjb25maWcubW9uZ29EYiwgbmV3IFNlcnZlcihjb25maWcubW9uZ29Ib3N0LCBjb25maWcubW9uZ29Qb3J0KSk7CgogIGNvbnN0IGNvbm5lY3Rpb24gPSByeC5PYnNlcnZhYmxlCiAgICAuZnJvbU5vZGVDYWxsYmFjayhkYi5vcGVuLCBkYikoKQogICAgLnNoYXJlUmVwbGF5KCk7CgogIHJldHVybiB7CiAgICAvKioKICAgICAqIFJldHVybnMgYSBzdHJlYW0gY29udGFpbmluZyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLiBUaGUgc3RyZWFtIGlzIHJlcGxheWVkLCBhbmQgY2FuIGJlCiAgICAgKiB1c2VkIHNhZmVseSBieSBtdWx0aXBsZSBzZXJ2aWNlcy4KICAgICAqLwogICAgZ2V0Q29ubmVjdGlvblN0cmVhbTogKCkgPT4gY29ubmVjdGlvbiwKCiAgICAvKioKICAgICAqIENsb3NlcyB0aGUgTW9uZ29EQiBjb25uZWN0aW9uLgogICAgICovCiAgICBjbG9zZTogKCkgPT4gZGIuY2xvc2UoKQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRGIgPSByZXF1aXJlKCdtb25nb2RiJykuRGI7Cg==</text>
+        <text encoding="base64">Y29uc3QgU2VydmVyID0gcmVxdWlyZSgnbW9uZ29kYicpLlNlcnZlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
