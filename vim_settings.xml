@@ -86,10 +86,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470498142520">
-        <mark key="[" line="2" column="29" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470502619984">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/deleted.json" timestamp="1468402014329">
         <mark key="[" line="23" column="26" />
@@ -188,6 +189,12 @@
         <mark key="[" line="2" column="41" />
         <mark key="]" line="2" column="41" />
         <mark key="." line="2" column="41" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/duplicate-user-reducer-spec.js" timestamp="1470502627049">
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="52" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/source/has-offers.js" timestamp="1466783541569">
         <mark key="[" line="4" column="0" />
@@ -386,11 +393,11 @@
       <jump line="11" column="35" filename="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -399,34 +406,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjdXJyZW50KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cDogKCkgPT4gW10K</text>
+        <text encoding="base64">ICAgICdwcm9maWxlLnByaW1hcnlFbWFpbCc6ICdzdWJiZWRAZ21haWwuY29tJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICdwcm9maWxlLnByaW1hcnlFbWFpbCc6ICd1bnN1YnNjcmliZWRAZ21haWwuY29tJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29sbGVjdGlvbjogdGhpcy5tb2NrQ29sbGVjdGlvbigpCg==</text>
+        <text encoding="base64">ICAgICdwcm9maWxlLiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMubW9ja0RiID0gewo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBncm91cDogKCkgPT4gW10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNweU9uKHRoaXMubW9ja0NvbGxlY3Rpb24sICdncm91cCcpLmFuZC5jYWxsVGhyb3VnaCgpOwo=</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29sbGVjdGlvbjogdGhpcy5tb2NrQ29sbGVjdGlvbigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMubW9ja0NvbGxlY3Rpb24gPSAoKSA9PiAoeyBncm91cDogKCkgPT4gW10gfSk7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMubW9ja0RiID0gewo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
