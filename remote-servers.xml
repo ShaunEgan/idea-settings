@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="localhost" type="docker">
+      <configuration>
+        <option name="apiUrl" value="127.0.0.1:2376" />
+        <option name="pathMappings">
+          <list />
+        </option>
+      </configuration>
+    </remote-server>
+  </component>
+</application>
