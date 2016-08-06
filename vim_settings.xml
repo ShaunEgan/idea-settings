@@ -8,18 +8,18 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/package.json" timestamp="1470476247664">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-        <mark key="^" line="22" column="43" />
+      <file name="$USER_HOME$/repositories/digestor/package.json" timestamp="1470485206233">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="6" column="43" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1469631351640">
         <mark key="[" line="71" column="44" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470481390615">
+      <file name="/a.dummy" timestamp="1470485181272">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1466499191683">
@@ -128,11 +128,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470483668219">
-        <mark key="[" line="12" column="33" />
-        <mark key="]" line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-        <mark key="." line="12" column="32" />
+      <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
+        <mark key="[" line="17" column="7" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466783326991">
         <mark key="[" line="56" column="0" />
@@ -144,7 +144,8 @@
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1470482344763">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1470485018055">
+        <mark key="'" line="0" column="149" />
         <mark key="[" line="0" column="59" />
         <mark key="]" line="0" column="59" />
         <mark key="." line="0" column="59" />
@@ -265,6 +266,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1470482058262" />
+      <file name="$USER_HOME$/repositories/digestor/test/lib/Config/index.js" timestamp="1470485791662">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1470306706809">
         <mark key="'" line="0" column="3469" />
         <mark key="[" line="0" column="2533" />
@@ -277,10 +284,6 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="114" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470474664706">
-        <mark key="[" line="16" column="7" />
-        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform.js" timestamp="1469787503685">
         <mark key="[" line="30" column="52" />
@@ -313,13 +316,7 @@
         <mark key="]" line="23" column="58" />
         <mark key="." line="23" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Notifications/index.js" timestamp="1470483170982">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Trending/index.js" timestamp="1470482706948">
-        <mark key="[" line="13" column="7" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
@@ -366,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="20" filename="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" />
       <jump line="84" column="3" filename="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" />
       <jump line="119" column="48" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="216" column="24" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -466,13 +462,14 @@
       <jump line="40" column="28" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="31" column="31" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="34" column="0" filename="$USER_HOME$/repositories/digestor/index.js" />
+      <jump line="0" column="149" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gdXNlcnMuZ2V0KCkKLy8gICAuZmxhdE1hcChub3RpZmljYXRpb25zLmdldCkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ2NsaXAnKSkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ3Nob3cnKSkK</text>
+      <register name="&quot;" type="4">
+        <text>mongoHost</text>
       </register>
       <register name="-" type="4">
-        <text>tap</text>
+        <text>mongoHost</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -481,34 +478,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gdXNlcnMuZ2V0KCkKLy8gICAuZmxhdE1hcChub3RpZmljYXRpb25zLmdldCkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ2NsaXAnKSkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ3Nob3cnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC50YWtlKDEpCiAgICAudGFrZShjb25maWcubm8pCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgaXQoJ2dldHMgYSBub24tZW1wdHkgc3RyaW5nIG1vbmdvIHBvcnQnLCAoKSA9PiB7CiAgICBhc3NlcnQodHlwZW9mIGNvbmZpZy5tb25nb1BvcnQgPT09ICdzdHJpbmcnKTsKICAgIGFzc2VydChjb25maWcubW9uZ29Qb3J0Lmxlbmd0aCA+IDApOwogIH0pOwoKICBpdCgnZ2V0cyBhIG5vbi1lbXB0eSBzdHJpbmcgbW9uZ28gZGInLCAoKSA9PiB7CiAgICBhc3NlcnQodHlwZW9mIGNvbmZpZy5tb25nb0RiID09PSAnc3RyaW5nJyk7CiAgICBhc3NlcnQoY29uZmlnLm1vbmdvRGIubGVuZ3RoID4gMCk7CiAgfSk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy5ub3RpZmljYXRpb25MaW1pdCkK</text>
+        <text encoding="base64">ICAgICJyeC1ub2RlIjogIl4xLjAuMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5zaGFyZVJlcGxheSgpCg==</text>
+        <text encoding="base64">Ly8gdXNlcnMuZ2V0KCkKLy8gICAuZmxhdE1hcChub3RpZmljYXRpb25zLmdldCkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ2NsaXAnKSkKLy8gICAuZmxhdE1hcCgoKSA9PiB0cmVuZGluZy5nZXQoJ3Nob3cnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC50YWtlKDEpCiAgICAudGFrZShjb25maWcubm8pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAudGFwKGNvbnNvbGUubG9nKQo=</text>
+        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy5ub3RpZmljYXRpb25MaW1pdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJfaWQiOiAiSkFIZXZpUEVDNjR6ZjN6aUciLAo=</text>
+        <text encoding="base64">ICAgIC5zaGFyZVJlcGxheSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAid2hlbiI6IElTT0RhdGUKICAgICAgICAgICAgICAgICAgICAoCiAgICAgICAgICAgICAgICAgICAgIjIwMTUtMDktMDJUMTk6MTg6MDUuNjkxWiIKICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJjcmVhdGVkQXQiOiBJU09EYXRlCiAgICAoCiAgICAiMjAxNS0wOS0wMlQxOToxODowNS41NzdaIgogICAgKSwK</text>
+        <text encoding="base64">ICAudGFwKGNvbnNvbGUubG9nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
