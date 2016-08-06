@@ -40,6 +40,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/mongo-commands.js" timestamp="1470495545967" />
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1466423756028">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -95,6 +96,9 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/index.js" timestamp="1470496214364">
+        <mark key="[" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
         <mark key="]" line="17" column="0" />
@@ -118,12 +122,7 @@
         <mark key="." line="0" column="59" />
         <mark key="^" line="0" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/docker-compose.yml" timestamp="1470493561826">
-        <mark key="[" line="5" column="24" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-      </file>
+      <file name="$USER_HOME$/repositories/digestor/docker-compose.yml" timestamp="1470496083377" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1469793201437">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -139,7 +138,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470493570219" />
+      <file name="$USER_HOME$/repositories/digestor/.dockerignore" timestamp="1470496616672">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/Trending/index.js" timestamp="1470490744083">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -359,11 +362,11 @@
       <jump line="0" column="149" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3J0czoKICAgIC0gMjcwMTc6MjcwMTcK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>image</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
