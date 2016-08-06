@@ -8,6 +8,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/package.json" timestamp="1470476247664">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="43" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1469631351640">
         <mark key="[" line="71" column="44" />
         <mark key="]" line="147" column="0" />
@@ -119,11 +125,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Mongo/index.js" timestamp="1470410558603">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="29" column="7" />
-        <mark key="." line="29" column="7" />
-        <mark key="^" line="29" column="6" />
+      <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470476374280">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/source/has-offers-spec.js" timestamp="1466783326991">
         <mark key="[" line="56" column="0" />
@@ -157,11 +163,10 @@
         <mark key="^" line="25" column="207" />
         <mark key="." line="25" column="207" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/index.js" timestamp="1470411887707">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="33" column="9" />
-        <mark key="." line="33" column="9" />
-        <mark key="^" line="33" column="12" />
+      <file name="$USER_HOME$/repositories/digestor/index.js" timestamp="1470476109571">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" timestamp="1470134086658">
         <mark key="[" line="2" column="0" />
@@ -269,7 +274,8 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="114" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470411416104">
+      <file name="$USER_HOME$/repositories/digestor/lib/Users/index.js" timestamp="1470474664706">
+        <mark key="[" line="16" column="7" />
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/scrubber/waveform.js" timestamp="1469787503685">
@@ -303,17 +309,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Notifications/index.js" timestamp="1470410497377">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-        <mark key="^" line="12" column="19" />
+      <file name="$USER_HOME$/repositories/digestor/lib/Notifications/index.js" timestamp="1470474539734">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/lib/Trending/index.js" timestamp="1470412351256">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="5" column="8" />
+      <file name="$USER_HOME$/repositories/digestor/lib/Trending/index.js" timestamp="1470474031484">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end.js" timestamp="1470123716591">
         <mark key="[" line="31" column="0" />
@@ -457,14 +462,14 @@
       <jump line="39" column="0" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="40" column="28" filename="$USER_HOME$/repositories/digestor/index.js" />
       <jump line="31" column="31" filename="$USER_HOME$/repositories/digestor/index.js" />
-      <jump line="34" column="26" filename="$USER_HOME$/repositories/digestor/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/repositories/digestor/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clip</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cnguT2JzZXJ2YWJsZS5tZXJnCg==</text>
       </register>
       <register name="-" type="4">
-        <text>clip</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -473,34 +478,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cnguT2JzZXJ2YWJsZS5tZXJnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGlnZXN0U3RyZWFtLnN1YnNjcmliZSgKICBjb25zb2xlLmxvZywKICBjb25zb2xlLmVycm9yLAogICgpID0+IHsgY29uc29sZS5sb2coJ0NvbXBsZXRlZCcpIH0KKTsK</text>
+        <text encoding="base64">dHJlbmRpbmcuZ2V0KCkKCnVzZXJzLmdldCgpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICApOwo=</text>
+        <text encoding="base64">Y29uc3QgbW9uZ28gPSByZXF1aXJlKCdsaWIvTW9uZ28nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gZGIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJlbmRpbmcuZ2V0KCdzaG93JykKICAuc3Vic2NyaWJlKAogICAgY29uc29sZS5sb2csCiAgICBjb25zb2xlLmVycm9yLAogICAgKCkgPT4gewogICAgICBjb25zb2xlLmxvZygnQ29tcGxldGVkJyk7Cg==</text>
+        <text encoding="base64">dXNlcnMuZ2V0KCkKICAuc3Vic2NyaWJlKAogICAgY29uc29sZS5sb2csCiAgICBjb25zb2xlLmVycm9yLAogICAgKCkgPT4geyBjb25zb2xlLmxvZygnQ29tcGxldGVkJykgfQogICk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAvKioKICAgKiBGZXRjaGVzIHVzZXJzIGFzIGEgc3RyZWFtLgogICAqLwogIGdldDogKCkgPT4gZGIkLmZsYXRNYXAoZGIgPT4KICAgIGRiLmNvbGxlY3Rpb24oJ3VzZXJzJykKICAgICAgLmdyb3VwKAogICAgICAgIHsgJ3Byb2ZpbGUucHJpbWFyeUVtYWlsJzogMSB9LAogICAgICAgIHt9LAogICAgICAgIHt9LAogICAgICAgICdmdW5jdGlvbiAoY3VycmVudCwgYWNjdW11bGF0b3IpIHsgYWNjdW11bGF0b3IuX2lkID0gY3VycmVudC5faWQ7IGFjY3VtdWxhdG9yLm5hbWUgPSBjdXJyZW50LnByb2ZpbGUuZGlzcGxheU5hbWU7IGFjY3VtdWxhdG9yLmVtYWlsID0gY3VycmVudC5wcm9maWxlLnByaW1hcnlFbWFpbDsgfScKICAgICAgKSkKICAgIC50YXAoZGF0YSA9PiBjb25zb2xlLmxvZygnRmV0Y2hlZCBzdHVmZicpKQogICAgLnRhcChjb25zb2xlLmxvZykKICAgIC5mbGF0TWFwKHJ4Lk9ic2VydmFibGUuZnJvbSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvLmdldENvbm5lY3Rpb25TdHJlYW0oKTsK</text>
+        <text encoding="base64">dHJlbmRpbmcuZ2V0KCkKICAuc3Vic2NyaWJlKAogICAgY29uc29sZS5sb2csCiAgICBjb25zb2xlLmVycm9yLAogICAgKCkgPT4geyBjb25zb2xlLmxvZygnQ29tcGxldGVkJykgfQogICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvbiA9IG1vbmdvLmdldENvbm5lY3Rpb25TdHJlYW0oKTsK</text>
+        <text encoding="base64">Ly8gZGIKY29uc3QgbW9uZ28gPSByZXF1aXJlKCdsaWIvTW9uZ28nKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
