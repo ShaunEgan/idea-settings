@@ -257,6 +257,13 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" timestamp="1470567242593">
+        <mark key="'" line="9" column="20" />
+        <mark key="[" line="74" column="9" />
+        <mark key="]" line="74" column="9" />
+        <mark key="^" line="74" column="9" />
+        <mark key="." line="74" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470123818244">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
@@ -282,7 +289,7 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470491236533">
+      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470567401448">
         <mark key="[" line="14" column="28" />
         <mark key="]" line="14" column="28" />
         <mark key="." line="14" column="28" />
@@ -292,16 +299,15 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1470565360710">
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1470567288345">
         <mark key="'" line="8" column="8" />
-        <mark key="[" line="54" column="5" />
+        <mark key="[" line="62" column="68" />
         <mark key="]" line="54" column="3" />
         <mark key="^" line="54" column="3" />
         <mark key="." line="54" column="3" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="0" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="219" column="0" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="96" column="70" filename="$USER_HOME$/repositories/yazimedia/spec/services/identity-processor-spec.js" />
       <jump line="83" column="27" filename="$USER_HOME$/repositories/yazimedia/spec/lib/has-offers/rules-spec.js" />
@@ -401,13 +407,14 @@
       <jump line="24" column="56" filename="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" />
       <jump line="11" column="35" filename="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" />
+      <jump line="9" column="20" filename="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgTm90aWZpY2F0aW9uc1NlcnZpY2UgPSAoKSA9PiAoewogIC8qKgogICAqIEZldGNoZXMgdW5yZWFkIG5vdGlmaWNhdGlvbnMgYXMgYSBzdHJlYW0uCiAgICoKICAgKiBAcGFyYW0gdXNlcgogICAqLwogIGdldDogdXNlciA9PiBkYiQuZmxhdE1hcChkYiA9PgogICAgZGIuY29sbGVjdGlvbignbm90aWZpY2F0aW9ucycpCiAgICAgIC5maW5kKHsKICAgICAgICB0b1VzZXJJZDogdXNlci5faWQsCiAgICAgICAgdW5SZWFkOiB0cnVlCiAgICAgIH0pCiAgICAgIC5zb3J0KHsgY3JlYXRlZEF0OiAtMSB9KQogICAgICAubGltaXQoY29uZmlnLm5vdGlmaWNhdGlvbkxpbWl0KQogICAgICAudG9BcnJheSgpKQogICAgLnRha2UoMSkKICAgIC5mbGF0TWFwKHJ4Lk9ic2VydmFibGUuZnJvbSkKfSk7Cgptb2R1bGUuZXhwb3J0cyA9IE5vdGlmaWNhdGlvbnNTZXJ2aWNlKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>trendingService</text>
       </register>
       <register name="-" type="4">
-        <text>duplicate;</text>
+        <text>trendingService</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
