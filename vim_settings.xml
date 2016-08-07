@@ -20,12 +20,18 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="42" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1470576336372">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1469631351640">
         <mark key="[" line="71" column="44" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470490564826">
+      <file name="/a.dummy" timestamp="1470572573115">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1466499191683">
@@ -168,6 +174,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" timestamp="1470576451512">
+        <mark key="'" line="6" column="25" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="32" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="21" />
@@ -234,6 +247,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1470574769247">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="2" column="16" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/test/lib/Config/index.js" timestamp="1470485791662">
         <mark key="[" line="11" column="18" />
         <mark key="]" line="11" column="18" />
@@ -289,10 +308,10 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470567401448">
-        <mark key="[" line="14" column="28" />
-        <mark key="]" line="14" column="28" />
-        <mark key="." line="14" column="28" />
+      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470572524185">
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="51" />
+        <mark key="." line="7" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/network-monitor/src/index.js" timestamp="1466446013920">
         <mark key="[" line="20" column="19" />
@@ -308,9 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="219" column="0" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="96" column="70" filename="$USER_HOME$/repositories/yazimedia/spec/services/identity-processor-spec.js" />
-      <jump line="83" column="27" filename="$USER_HOME$/repositories/yazimedia/spec/lib/has-offers/rules-spec.js" />
       <jump line="6" column="28" filename="$USER_HOME$/repositories/yazimedia/jasmine.js" />
       <jump line="55" column="14" filename="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" />
       <jump line="58" column="3" filename="$USER_HOME$/repositories/yazimedia/src/lib/incent.js" />
@@ -408,13 +424,16 @@
       <jump line="11" column="35" filename="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" />
       <jump line="9" column="20" filename="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" />
+      <jump line="5" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="8" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
+      <jump line="6" column="25" filename="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trendingService</text>
+        <text>mock</text>
       </register>
       <register name="-" type="4">
-        <text>trendingService</text>
+        <text>mock</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -423,36 +442,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgTm90aWZpY2F0aW9uc1NlcnZpY2UgPSAoKSA9PiAoewogIC8qKgogICAqIEZldGNoZXMgdW5yZWFkIG5vdGlmaWNhdGlvbnMgYXMgYSBzdHJlYW0uCiAgICoKICAgKiBAcGFyYW0gdXNlcgogICAqLwogIGdldDogdXNlciA9PiBkYiQuZmxhdE1hcChkYiA9PgogICAgZGIuY29sbGVjdGlvbignbm90aWZpY2F0aW9ucycpCiAgICAgIC5maW5kKHsKICAgICAgICB0b1VzZXJJZDogdXNlci5faWQsCiAgICAgICAgdW5SZWFkOiB0cnVlCiAgICAgIH0pCiAgICAgIC5zb3J0KHsgY3JlYXRlZEF0OiAtMSB9KQogICAgICAubGltaXQoY29uZmlnLm5vdGlmaWNhdGlvbkxpbWl0KQogICAgICAudG9BcnJheSgpKQogICAgLnRha2UoMSkKICAgIC5mbGF0TWFwKHJ4Lk9ic2VydmFibGUuZnJvbSkKfSk7Cgptb2R1bGUuZXhwb3J0cyA9IE5vdGlmaWNhdGlvbnNTZXJ2aWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcnggPSByZXF1aXJlKCdyeCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRvbmUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZGIkID0gcmVxdWlyZSgnTW9uZ28nKTsK</text>
+        <text encoding="base64">ICAgICAgICAoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Promise.resolve([
-
-      ])</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGV4cGVjdCh0aGlzLm1haWxlck1vY2suc2VuZE1haWwpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgVHJlbmRpbmdTZXJ2aWNlID0gKCkgPT4gKHsKICAvKioKICAgKiBGZXRjaGVzIGhvdCBtZWRpYSBpdGVtcyBhcyBhIHN0cmVhbS4gVGhpcyBtZXRob2QgaXMgbWVtb2l6ZWQuCiAgICoKICAgKiBAcGFyYW0gdHlwZSBTdHJpbmcKICAgKi8KICBnZXQ6IFIubWVtb2l6ZSh0eXBlID0+IGRiJC5mbGF0TWFwKGRiID0+CiAgICBkYi5jb2xsZWN0aW9uKCdtZWRpYScpCiAgICAgIC5maW5kKHsKICAgICAgICB0eXBlOiB0eXBlLAogICAgICAgIHB1Ymxpc2hlZFN0YXR1czogJ3B1Ymxpc2hlZCcsCiAgICAgICAgaG90OiB7ICRndDogMCB9CiAgICAgIH0pCiAgICAgIC5zb3J0KHsgaG90OiAtMSB9KQogICAgICAudG9BcnJheSgpKQogICAgLmZsYXRNYXAocnguT2JzZXJ2YWJsZS5mcm9tKQogICAgLnRha2UoY29uZmlnLnRyZW5kaW5nSXRlbUxpbWl0KSkKfSk7Cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VuZE1haWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7CmNvbnN0IHJ4ID0gcmVxdWlyZSgncngnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHt9LAogICAgICAgICAge30sCiAgICAgICAgICB7fSwKICAgICAgICAgIHt9LAogICAgICAgICAge30K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZGIkID0gcmVxdWlyZSgnTW9uZ28nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHt9LAogICAgICAgICAge30sCiAgICAgICAgICB7fSwKICAgICAgICAgIHt9LAogICAgICAgICAge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
