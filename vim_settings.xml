@@ -118,8 +118,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/index.js" timestamp="1470496214364">
-        <mark key="[" line="5" column="33" />
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/index.js" timestamp="1470577551110">
+        <mark key="[" line="3" column="33" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Digest/index-spec.js" timestamp="1470577254006">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
@@ -318,6 +326,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1470577527157">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1470567288345">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="62" column="68" />
@@ -429,11 +442,11 @@
       <jump line="6" column="25" filename="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mock</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mock</text>
+        <text>AJbdJKBADSJIASBD</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -442,34 +455,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAoKSA9PiB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgQVdTTWFpbGVyID0gKCkgPT4gewogIGNvbnN0IGNsaWVudCA9IHNlcy5jcmVhdGVDbGllbnQoewogICAga2V5OiBjb25maWcuYXdzS2V5LAogICAgc2VjcmV0OiBjb25maWcuYXdzU2VjcmV0LAogICAgYW1hem9uOiB1dGlsLmZvcm1hdCgnaHR0cHM6Ly9lbWFpbC4lcy5hbWF6b25hd3MuY29tJywgY29uZmlnLmF3c1JlZ2lvbikKICB9KTsKCiAgcmV0dXJuIHsKICAgIHNlbmRNYWlsOiAodG8sIGZyb20sIHN1YmplY3QsIG1lc3NhZ2UpID0+IHJ4Lk9ic2VydmFibGUKICAgICAgLmNyZWF0ZShvYnNlcnZlciA9PiB7CiAgICAgICAgY2xpZW50LnNlbmRFbWFpbCh7CiAgICAgICAgICB0bzogdG8sCiAgICAgICAgICBmcm9tOiBmcm9tLAogICAgICAgICAgc3ViamVjdDogc3ViamVjdCwKICAgICAgICAgIG1lc3NhZ2U6IG1lc3NhZ2UKICAgICAgICB9LCAoZXJyb3IsIGRhdGEsIHJlc3VsdCkgPT4gewogICAgICAgICAgZXJyb3IgPyBvYnNlcnZlci5vbkVycm9yKGVycm9yKSA6IG9ic2VydmVyLm9uTmV4dCh0byk7CiAgICAgICAgICBvYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0pOwogICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGV4cGVjdCh0aGlzLm1haWxlck1vY2suc2VuZE1haWwpLnRvSGF2ZUJlZW5DYWxsZWRUaW1lcygxKTsK</text>
+        <text encoding="base64">Y29uc3QgdXRpbCA9IHJlcXVpcmUoJ3V0aWwnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VuZE1haWwpOwo=</text>
+        <text encoding="base64">Y29uc3QgcnggPSByZXF1aXJlKCdyeCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt9LAogICAgICAgICAge30sCiAgICAgICAgICB7fSwKICAgICAgICAgIHt9LAogICAgICAgICAge30K</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt9LAogICAgICAgICAge30sCiAgICAgICAgICB7fSwKICAgICAgICAgIHt9LAogICAgICAgICAge30K</text>
+        <text encoding="base64">Y29uc3Qgc2VzID0gcmVxdWlyZSgnbm9kZS1zZXMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
