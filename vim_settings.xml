@@ -341,7 +341,6 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470647306030" />
     </filemarks>
     <jumps>
       <jump line="118" column="3" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
