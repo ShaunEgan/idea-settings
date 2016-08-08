@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/digestor/src/Users/users-service.js" timestamp="1470499892205">
+      <file name="$USER_HOME$/repositories/digestor/src/Users/users-service.js" timestamp="1470633648863">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="14" column="8" />
         <mark key="^" line="16" column="10" />
@@ -20,7 +20,7 @@
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1470576336372">
+      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1470633772706">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -87,7 +87,7 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470502619984">
+      <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470633891609">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -114,7 +114,7 @@
         <mark key="^" line="53" column="73" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/Trending/trending-service.js" timestamp="1470564095476">
+      <file name="$USER_HOME$/repositories/digestor/src/Trending/trending-service.js" timestamp="1470633944069">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -171,7 +171,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" timestamp="1470500039752">
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" timestamp="1470633549670">
         <mark key="'" line="11" column="35" />
         <mark key="[" line="14" column="24" />
         <mark key="]" line="15" column="0" />
@@ -268,6 +268,7 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/Digest/index.js" timestamp="1470633750454" />
       <file name="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" timestamp="1470498377301">
         <mark key="'" line="26" column="56" />
         <mark key="[" line="0" column="0" />
@@ -285,6 +286,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/Mongo/index.js" timestamp="1470633798918" />
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" timestamp="1470567242593">
         <mark key="'" line="9" column="20" />
         <mark key="[" line="74" column="9" />
