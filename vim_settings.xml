@@ -324,6 +324,11 @@
         <mark key="]" line="7" column="51" />
         <mark key="." line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1470650965581">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/network-monitor/src/index.js" timestamp="1466446013920">
         <mark key="[" line="20" column="19" />
         <mark key="]" line="28" column="0" />
@@ -341,6 +346,7 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="54" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470650509748" />
     </filemarks>
     <jumps>
       <jump line="118" column="3" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -445,11 +451,11 @@
       <jump line="3" column="825" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>db1.crowdcaster.com</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7CiAgICAgICAgIkluc3RhbmNlVHlwZSI6ICJ0Mi5taWNybyIKICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text>db1.crowdcaster.com</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>\\n</text>
@@ -458,34 +464,141 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh0aGlzLnNlc0NsaWVudE1vY2suc2VuZEVtYWlsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZGRkZGQKICAgICAgICAgICAgdG86ICdqb2VAZ21haWwuY29tJywKICAgICAgICAgICAgZnJvbTogJ2phbmVAZ21haWwuY29tJywKICAgICAgICAgICAgc3ViamVjdDogJ2hlbGxvJywKICAgICAgICAgICAgbWVzc2FnZTogJ2xvcmVtIGlwc3VtJwogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7CiAgICAgICAgIkluc3RhbmNlVHlwZSI6ICJ0Mi5taWNybyIKICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXdzTWFpbGVyKTsK</text>
+      <register name="3" type="4">
+        <text>&quot;MongoDbSg&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::SecurityGroup&quot;,
+      &quot;Properties&quot;: {
+        &quot;GroupDescription&quot;: &quot;Allows MongoDB from crowdCaster subnets, and all traffic out.&quot;,
+        &quot;VpcId&quot;: {
+          &quot;Ref&quot;: &quot;crowdCasterVpc&quot;
+        },
+        &quot;SecurityGroupIngress&quot;: [
+          {
+            &quot;IpProtocol&quot;: &quot;tcp&quot;,
+            &quot;FromPort&quot;: &quot;27017&quot;,
+            &quot;ToPort&quot;: &quot;27017&quot;,
+            &quot;CidrIp&quot;: &quot;10.0.0.0/16&quot;
+          }
+        ],
+        &quot;SecurityGroupEgress&quot;: [
+          {
+            &quot;IpProtocol&quot;: &quot;-1&quot;,
+            &quot;FromPort&quot;: &quot;0&quot;,
+            &quot;ToPort&quot;: &quot;65535&quot;,
+            &quot;CidrIp&quot;: &quot;0.0.0.0/0&quot;
+          }
+        ],
+        &quot;Tags&quot;: [
+          {
+            &quot;Key&quot;: &quot;Name&quot;,
+            &quot;Value&quot;: &quot;MongoDbSg&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgQVdTTWFpbGVyID0gKCkgPT4gewogIGNvbnN0IGNsaWVudCA9IHNlcy5jcmVhdGVDbGllbnQoewogICAga2V5OiBjb25maWcuYXdzS2V5LAogICAgc2VjcmV0OiBjb25maWcuYXdzU2VjcmV0LAogICAgYW1hem9uOiB1dGlsLmZvcm1hdCgnaHR0cHM6Ly9lbWFpbC4lcy5hbWF6b25hd3MuY29tJywgY29uZmlnLmF3c1JlZ2lvbikKICB9KTsKCiAgcmV0dXJuIHsKICAgIHNlbmRNYWlsOiAodG8sIGZyb20sIHN1YmplY3QsIG1lc3NhZ2UpID0+IHJ4Lk9ic2VydmFibGUKICAgICAgLmNyZWF0ZShvYnNlcnZlciA9PiB7CiAgICAgICAgY2xpZW50LnNlbmRFbWFpbCh7CiAgICAgICAgICB0bzogdG8sCiAgICAgICAgICBmcm9tOiBmcm9tLAogICAgICAgICAgc3ViamVjdDogc3ViamVjdCwKICAgICAgICAgIG1lc3NhZ2U6IG1lc3NhZ2UKICAgICAgICB9LCAoZXJyb3IsIGRhdGEsIHJlc3VsdCkgPT4gewogICAgICAgICAgZXJyb3IgPyBvYnNlcnZlci5vbkVycm9yKGVycm9yKSA6IG9ic2VydmVyLm9uTmV4dCh0byk7CiAgICAgICAgICBvYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0pOwogICAgICB9KQo=</text>
+      <register name="7" type="4">
+        <text>&quot;MongoDbInstance11a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::Instance&quot;,
+      &quot;Properties&quot;: {
+        &quot;AvailabilityZone&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;RegionMap&quot;,
+            {
+              &quot;Ref&quot;: &quot;AWS::Region&quot;
+            },
+            &quot;FirstAz&quot;
+          ]
+        },
+        &quot;ImageId&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;RegionMap&quot;,
+            {
+              &quot;Ref&quot;: &quot;AWS::Region&quot;
+            },
+            &quot;MongoDbAMI&quot;
+          ]
+        },
+        &quot;InstanceInitiatedShutdownBehavior&quot;: &quot;stop&quot;,
+        &quot;InstanceType&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;InstanceMap&quot;,
+            &quot;MongoDb&quot;,
+            &quot;InstanceType&quot;
+          ]
+        },
+        &quot;KeyName&quot;: {
+          &quot;Ref&quot;: &quot;KeyName&quot;
+        },
+        &quot;SecurityGroupIds&quot;: [
+          {
+            &quot;Ref&quot;: &quot;SshAccessFromBastionSg&quot;
+          },
+          {
+            &quot;Ref&quot;: &quot;PingableInternallySg&quot;
+          },
+          {
+            &quot;Ref&quot;: &quot;MongoDbSg&quot;
+          }
+        ],
+        &quot;SubnetId&quot;: {
+          &quot;Ref&quot;: &quot;MongoDbSubnet1a&quot;
+        },
+        &quot;Tenancy&quot;: &quot;default&quot;,
+        &quot;UserData&quot;: {
+          &quot;Fn::Base64&quot;: {
+            &quot;Fn::Join&quot;: [
+              &quot;\n&quot;,
+              [
+                &quot;#!/bin/bash&quot;,
+                &quot;mongod -f /etc/mongod.conf&quot;
+              ]
+            ]
+          }
+        },
+        &quot;Tags&quot;: [
+          {
+            &quot;Key&quot;: &quot;Name&quot;,
+            &quot;Value&quot;: &quot;MongoDB 1 1a&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbCA9IHJlcXVpcmUoJ3V0aWwnKTsK</text>
+      <register name="8" type="4">
+        <text>&quot;MongoDbInternetRoute1a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::Route&quot;,
+      &quot;DependsOn&quot;: &quot;crowdCasterInternetGatewayAttachment&quot;,
+      &quot;Properties&quot;: {
+        &quot;RouteTableId&quot;: {
+          &quot;Ref&quot;: &quot;MongoDbRoutes1a&quot;
+        },
+        &quot;DestinationCidrBlock&quot;: &quot;0.0.0.0/0&quot;,
+        &quot;InstanceId&quot;: {
+          &quot;Ref&quot;: &quot;BastionInstance1a&quot;
+        }
+      }
+    },</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcnggPSByZXF1aXJlKCdyeCcpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\\n/&quot;+\r&quot;/g</text>
