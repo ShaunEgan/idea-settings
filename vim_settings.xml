@@ -346,7 +346,11 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470650509748" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470657151983">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="118" column="3" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -452,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7CiAgICAgICAgIkluc3RhbmNlVHlwZSI6ICJ0Mi5taWNybyIKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>\\n</text>
@@ -464,138 +468,31 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7CiAgICAgICAgIkluc3RhbmNlVHlwZSI6ICJ0Mi5taWNybyIKICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiSW5zdGFuY2VUeXBlIjogIm0zLm1lZGl1bSIK</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;MongoDbSg&quot;: {
-      &quot;Type&quot;: &quot;AWS::EC2::SecurityGroup&quot;,
-      &quot;Properties&quot;: {
-        &quot;GroupDescription&quot;: &quot;Allows MongoDB from crowdCaster subnets, and all traffic out.&quot;,
-        &quot;VpcId&quot;: {
-          &quot;Ref&quot;: &quot;crowdCasterVpc&quot;
-        },
-        &quot;SecurityGroupIngress&quot;: [
-          {
-            &quot;IpProtocol&quot;: &quot;tcp&quot;,
-            &quot;FromPort&quot;: &quot;27017&quot;,
-            &quot;ToPort&quot;: &quot;27017&quot;,
-            &quot;CidrIp&quot;: &quot;10.0.0.0/16&quot;
-          }
-        ],
-        &quot;SecurityGroupEgress&quot;: [
-          {
-            &quot;IpProtocol&quot;: &quot;-1&quot;,
-            &quot;FromPort&quot;: &quot;0&quot;,
-            &quot;ToPort&quot;: &quot;65535&quot;,
-            &quot;CidrIp&quot;: &quot;0.0.0.0/0&quot;
-          }
-        ],
-        &quot;Tags&quot;: [
-          {
-            &quot;Key&quot;: &quot;Name&quot;,
-            &quot;Value&quot;: &quot;MongoDbSg&quot;
-          }
-        ]
-      }
-    },</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAiTW9uZ29EYkFNSSI6ICJhbWktZjBiNmU3ODciLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>&quot;MongoDbInstance11a&quot;: {
-      &quot;Type&quot;: &quot;AWS::EC2::Instance&quot;,
-      &quot;Properties&quot;: {
-        &quot;AvailabilityZone&quot;: {
-          &quot;Fn::FindInMap&quot;: [
-            &quot;RegionMap&quot;,
-            {
-              &quot;Ref&quot;: &quot;AWS::Region&quot;
-            },
-            &quot;FirstAz&quot;
-          ]
-        },
-        &quot;ImageId&quot;: {
-          &quot;Fn::FindInMap&quot;: [
-            &quot;RegionMap&quot;,
-            {
-              &quot;Ref&quot;: &quot;AWS::Region&quot;
-            },
-            &quot;MongoDbAMI&quot;
-          ]
-        },
-        &quot;InstanceInitiatedShutdownBehavior&quot;: &quot;stop&quot;,
-        &quot;InstanceType&quot;: {
-          &quot;Fn::FindInMap&quot;: [
-            &quot;InstanceMap&quot;,
-            &quot;MongoDb&quot;,
-            &quot;InstanceType&quot;
-          ]
-        },
-        &quot;KeyName&quot;: {
-          &quot;Ref&quot;: &quot;KeyName&quot;
-        },
-        &quot;SecurityGroupIds&quot;: [
-          {
-            &quot;Ref&quot;: &quot;SshAccessFromBastionSg&quot;
-          },
-          {
-            &quot;Ref&quot;: &quot;PingableInternallySg&quot;
-          },
-          {
-            &quot;Ref&quot;: &quot;MongoDbSg&quot;
-          }
-        ],
-        &quot;SubnetId&quot;: {
-          &quot;Ref&quot;: &quot;MongoDbSubnet1a&quot;
-        },
-        &quot;Tenancy&quot;: &quot;default&quot;,
-        &quot;UserData&quot;: {
-          &quot;Fn::Base64&quot;: {
-            &quot;Fn::Join&quot;: [
-              &quot;\n&quot;,
-              [
-                &quot;#!/bin/bash&quot;,
-                &quot;mongod -f /etc/mongod.conf&quot;
-              ]
-            ]
-          }
-        },
-        &quot;Tags&quot;: [
-          {
-            &quot;Key&quot;: &quot;Name&quot;,
-            &quot;Value&quot;: &quot;MongoDB 1 1a&quot;
-          }
-        ]
-      }
-    },</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;MongoDbInternetRoute1a&quot;: {
-      &quot;Type&quot;: &quot;AWS::EC2::Route&quot;,
-      &quot;DependsOn&quot;: &quot;crowdCasterInternetGatewayAttachment&quot;,
-      &quot;Properties&quot;: {
-        &quot;RouteTableId&quot;: {
-          &quot;Ref&quot;: &quot;MongoDbRoutes1a&quot;
-        },
-        &quot;DestinationCidrBlock&quot;: &quot;0.0.0.0/0&quot;,
-        &quot;InstanceId&quot;: {
-          &quot;Ref&quot;: &quot;BastionInstance1a&quot;
-        }
-      }
-    },</text>
+      <register name="8" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
