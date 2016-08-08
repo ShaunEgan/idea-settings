@@ -87,11 +87,6 @@
         <mark key="]" line="76" column="0" />
         <mark key="." line="76" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/Users/index.js" timestamp="1470498273199">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470502619984">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -112,6 +107,12 @@
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/AWSMailer/aws-mailer-service-spec.js" timestamp="1470578769308">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="73" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/Trending/trending-service.js" timestamp="1470564095476">
         <mark key="[" line="5" column="24" />
@@ -326,7 +327,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1470577527157">
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1470578047315">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -443,10 +444,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh0aGlzLnNlc0NsaWVudE1vY2suc2VuZEVtYWlsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZGRkZGQKICAgICAgICAgICAgdG86ICdqb2VAZ21haWwuY29tJywKICAgICAgICAgICAgZnJvbTogJ2phbmVAZ21haWwuY29tJywKICAgICAgICAgICAgc3ViamVjdDogJ2hlbGxvJywKICAgICAgICAgICAgbWVzc2FnZTogJ2xvcmVtIGlwc3VtJwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>AJbdJKBADSJIASBD</text>
+        <text>sendEmail</text>
       </register>
       <register name="/" type="4">
         <text>shaun@nonacreative.com</text>
@@ -455,34 +456,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCh0aGlzLnNlc0NsaWVudE1vY2suc2VuZEVtYWlsKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCh7ZGRkZGQKICAgICAgICAgICAgdG86ICdqb2VAZ21haWwuY29tJywKICAgICAgICAgICAgZnJvbTogJ2phbmVAZ21haWwuY29tJywKICAgICAgICAgICAgc3ViamVjdDogJ2hlbGxvJywKICAgICAgICAgICAgbWVzc2FnZTogJ2xvcmVtIGlwc3VtJwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuYXdzTWFpbGVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQVdTTWFpbGVyID0gKCkgPT4gewogIGNvbnN0IGNsaWVudCA9IHNlcy5jcmVhdGVDbGllbnQoewogICAga2V5OiBjb25maWcuYXdzS2V5LAogICAgc2VjcmV0OiBjb25maWcuYXdzU2VjcmV0LAogICAgYW1hem9uOiB1dGlsLmZvcm1hdCgnaHR0cHM6Ly9lbWFpbC4lcy5hbWF6b25hd3MuY29tJywgY29uZmlnLmF3c1JlZ2lvbikKICB9KTsKCiAgcmV0dXJuIHsKICAgIHNlbmRNYWlsOiAodG8sIGZyb20sIHN1YmplY3QsIG1lc3NhZ2UpID0+IHJ4Lk9ic2VydmFibGUKICAgICAgLmNyZWF0ZShvYnNlcnZlciA9PiB7CiAgICAgICAgY2xpZW50LnNlbmRFbWFpbCh7CiAgICAgICAgICB0bzogdG8sCiAgICAgICAgICBmcm9tOiBmcm9tLAogICAgICAgICAgc3ViamVjdDogc3ViamVjdCwKICAgICAgICAgIG1lc3NhZ2U6IG1lc3NhZ2UKICAgICAgICB9LCAoZXJyb3IsIGRhdGEsIHJlc3VsdCkgPT4gewogICAgICAgICAgZXJyb3IgPyBvYnNlcnZlci5vbkVycm9yKGVycm9yKSA6IG9ic2VydmVyLm9uTmV4dCh0byk7CiAgICAgICAgICBvYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0pOwogICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgdXRpbCA9IHJlcXVpcmUoJ3V0aWwnKTsK</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcnggPSByZXF1aXJlKCdyeCcpOwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgQVdTTWFpbGVyID0gKCkgPT4gewogIGNvbnN0IGNsaWVudCA9IHNlcy5jcmVhdGVDbGllbnQoewogICAga2V5OiBjb25maWcuYXdzS2V5LAogICAgc2VjcmV0OiBjb25maWcuYXdzU2VjcmV0LAogICAgYW1hem9uOiB1dGlsLmZvcm1hdCgnaHR0cHM6Ly9lbWFpbC4lcy5hbWF6b25hd3MuY29tJywgY29uZmlnLmF3c1JlZ2lvbikKICB9KTsKCiAgcmV0dXJuIHsKICAgIHNlbmRNYWlsOiAodG8sIGZyb20sIHN1YmplY3QsIG1lc3NhZ2UpID0+IHJ4Lk9ic2VydmFibGUKICAgICAgLmNyZWF0ZShvYnNlcnZlciA9PiB7CiAgICAgICAgY2xpZW50LnNlbmRFbWFpbCh7CiAgICAgICAgICB0bzogdG8sCiAgICAgICAgICBmcm9tOiBmcm9tLAogICAgICAgICAgc3ViamVjdDogc3ViamVjdCwKICAgICAgICAgIG1lc3NhZ2U6IG1lc3NhZ2UKICAgICAgICB9LCAoZXJyb3IsIGRhdGEsIHJlc3VsdCkgPT4gewogICAgICAgICAgZXJyb3IgPyBvYnNlcnZlci5vbkVycm9yKGVycm9yKSA6IG9ic2VydmVyLm9uTmV4dCh0byk7CiAgICAgICAgICBvYnNlcnZlci5vbkNvbXBsZXRlZCgpOwogICAgICAgIH0pOwogICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc2VzID0gcmVxdWlyZSgnbm9kZS1zZXMnKTsK</text>
+        <text encoding="base64">Y29uc3QgdXRpbCA9IHJlcXVpcmUoJ3V0aWwnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgcnggPSByZXF1aXJlKCdyeCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>122</text>
