@@ -162,7 +162,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470638328783" />
+      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470810850717" />
       <file name="$USER_HOME$/repositories/digestor/.dockerignore" timestamp="1470496616672">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -346,7 +346,7 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="54" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470657151983">
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470810806799">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
