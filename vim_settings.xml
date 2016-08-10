@@ -355,6 +355,9 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1470830779232">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1470578047315">
         <mark key="[" line="5" column="19" />
         <mark key="]" line="4" column="0" />
@@ -374,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="150" column="4" filename="$USER_HOME$/repositories/coursera/assignments/funsets/src/test/scala/funsets/FunSetSuite.scala" />
       <jump line="35" column="19" filename="$USER_HOME$/repositories/yazimedia/src/source/source-factory.js" />
       <jump line="47" column="28" filename="$USER_HOME$/repositories/yazimedia/src/source/source-factory.js" />
       <jump line="2" column="2" filename="$USER_HOME$/repositories/embed-service/spec/unit/config-spec.js" />
@@ -474,6 +476,7 @@
       <jump line="34" column="28" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" />
       <jump line="608" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" />
+      <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
