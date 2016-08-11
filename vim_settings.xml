@@ -34,7 +34,7 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470818953715">
+      <file name="/a.dummy" timestamp="1470912390113">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1470639484424">
@@ -195,6 +195,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1470913456308">
+        <mark key="[" line="6" column="53" />
+        <mark key="]" line="6" column="58" />
+        <mark key="." line="6" column="58" />
+        <mark key="^" line="6" column="58" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1470906658025" />
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
         <mark key="[" line="29" column="21" />
@@ -295,10 +301,10 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470123818244">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470912736286">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
@@ -457,11 +463,11 @@
       <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>``</text>
       </register>
       <register name="-" type="4">
-        <text>else {</text>
+        <text>``</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -470,7 +476,7 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -479,25 +485,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzTmV0d29ya0Vycm9yKGVyci5tZXNzYWdlKSk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhZFByZWZlcmVuY2UgZnJvbSAibW9uZ29kYi9saWIvcmVhZF9wcmVmZXJlbmNlIjsK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzb2NrZXRPcHRpb25zOiB7CiAgICBjb25uZWN0VGltZW91dE1TOiAwLAogICAgc29ja2V0VGltZW91dE1TOiAwCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YnVueWFuLWxvZ3N0YXNoIHNvY2tldCBjb25uZWN0aW9uIGVycm9yOiBFcnJvcjogZ2V0YWRkcmluZm8gRU5PVEZPVU5EIGh0dHBzOiAvL2NjNjJkODQxLWU5OWItNDYxNi1hNTc0LWNlMzhjYjFmNjQyMS1lcy5sb2dpdC5pby8/YXBpa2V5PTcyODA2MDY2LTkyY2UtNDM5MC04ZjkyLTM1MjFkZmU2YTM4Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
