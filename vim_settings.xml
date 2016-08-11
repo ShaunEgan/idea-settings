@@ -195,11 +195,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1470913456308">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="6" column="58" />
-        <mark key="." line="6" column="58" />
-        <mark key="^" line="6" column="58" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1470914242893">
+        <mark key="[" line="3" column="82" />
+        <mark key="]" line="3" column="82" />
+        <mark key="." line="3" column="82" />
+        <mark key="^" line="3" column="35" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1470906658025" />
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
@@ -464,10 +464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>``</text>
+        <text encoding="base64">fSY=</text>
       </register>
       <register name="-" type="4">
-        <text>``</text>
+        <text encoding="base64">fSY=</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
