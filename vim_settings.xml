@@ -26,7 +26,7 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1470823665943">
+      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1470900335061">
         <mark key="[" line="50" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1469631351640">
@@ -45,6 +45,12 @@
       </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1470900623587">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="5" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/pretty-duration.js" timestamp="1469710406573">
         <mark key="[" line="16" column="0" />
@@ -189,24 +195,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" timestamp="1470633549670">
-        <mark key="'" line="11" column="35" />
-        <mark key="[" line="14" column="24" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="23" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/src/Notifications/notifications-service.js" timestamp="1470565595023">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" timestamp="1470576451512">
-        <mark key="'" line="6" column="25" />
-        <mark key="[" line="42" column="32" />
-        <mark key="]" line="42" column="32" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/source/pending.json" timestamp="1466782583445">
         <mark key="[" line="29" column="21" />
@@ -292,13 +284,6 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" timestamp="1470498377301">
-        <mark key="'" line="26" column="56" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
-        <mark key="^" line="3" column="1" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/src/Notifications/index.js" timestamp="1470565608735">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="8" column="0" />
@@ -313,13 +298,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" timestamp="1470567242593">
-        <mark key="'" line="9" column="20" />
-        <mark key="[" line="74" column="9" />
-        <mark key="]" line="74" column="9" />
-        <mark key="^" line="74" column="9" />
-        <mark key="." line="74" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1470123818244">
         <mark key="[" line="129" column="0" />
@@ -373,13 +351,6 @@
         <mark key="[" line="5" column="19" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1470567288345">
-        <mark key="'" line="8" column="8" />
-        <mark key="[" line="62" column="68" />
-        <mark key="]" line="54" column="3" />
-        <mark key="^" line="54" column="3" />
-        <mark key="." line="54" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470810806799">
         <mark key="[" line="55" column="0" />
@@ -490,11 +461,11 @@
       <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>else {</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -503,34 +474,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzTmV0d29ya0Vycm9yKGVyci5tZXNzYWdlKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgUmVhZFByZWZlcmVuY2UgZnJvbSAibW9uZ29kYi9saWIvcmVhZF9wcmVmZXJlbmNlIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzb2NrZXRPcHRpb25zOiB7CiAgICBjb25uZWN0VGltZW91dE1TOiAwLAogICAgc29ja2V0VGltZW91dE1TOiAwCiAgfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YnVueWFuLWxvZ3N0YXNoIHNvY2tldCBjb25uZWN0aW9uIGVycm9yOiBFcnJvcjogZ2V0YWRkcmluZm8gRU5PVEZPVU5EIGh0dHBzOiAvL2NjNjJkODQxLWU5OWItNDYxNi1hNTc0LWNlMzhjYjFmNjQyMS1lcy5sb2dpdC5pby8/YXBpa2V5PTcyODA2MDY2LTkyY2UtNDM5MC04ZjkyLTM1MjFkZmU2YTM4Ygo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzTmV0d29ya0Vycm9yKGVyci5tZXNzYWdlKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiSW5zdGFuY2VUeXBlIjogIm0zLm1lZGl1bSIK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgUmVhZFByZWZlcmVuY2UgZnJvbSAibW9uZ29kYi9saWIvcmVhZF9wcmVmZXJlbmNlIjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIk1vbmdvRGIiOiB7Cg==</text>
+        <text encoding="base64">ICBzb2NrZXRPcHRpb25zOiB7CiAgICBjb25uZWN0VGltZW91dE1TOiAwLAogICAgc29ja2V0VGltZW91dE1TOiAwCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiTW9uZ29EYkFNSSI6ICJhbWktZjBiNmU3ODciLAo=</text>
+        <text encoding="base64">YnVueWFuLWxvZ3N0YXNoIHNvY2tldCBjb25uZWN0aW9uIGVycm9yOiBFcnJvcjogZ2V0YWRkcmluZm8gRU5PVEZPVU5EIGh0dHBzOiAvL2NjNjJkODQxLWU5OWItNDYxNi1hNTc0LWNlMzhjYjFmNjQyMS1lcy5sb2dpdC5pby8/YXBpa2V5PTcyODA2MDY2LTkyY2UtNDM5MC04ZjkyLTM1MjFkZmU2YTM4Ygo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
