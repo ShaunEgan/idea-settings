@@ -335,11 +335,10 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471004145125">
-        <mark key="[" line="91" column="41" />
-        <mark key="]" line="91" column="40" />
-        <mark key="." line="91" column="40" />
-        <mark key="^" line="91" column="40" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471006049751">
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470572524185">
         <mark key="[" line="7" column="51" />
@@ -473,8 +472,8 @@
       <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
@@ -486,34 +485,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGlmIChpc05ldHdvcmtFcnJvcihlcnIubWVzc2FnZSkpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gfSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIEBUT0RPOiBUaGlzIHNob3VsZCBiZSBzbWFydGVyIGFib3V0IHRoZSB0eXBlcyBvZiBlcnJvcnMgdGhhdCB3ZSBkb24ndCB3YW50IHRvIHJldHJ5IGZvcgo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gLnJldHJ5V2hlbihlcnJvciQgPT4gewogICAgICAvLyAgIHJldHVybiByeC5PYnNlcnZhYmxlLnJhbmdlKDEsIGNvbmZpZy5NQVhfUkVUUllfQVRURU1QVFMpCiAgICAgIC8vICAgICAuemlwKGVycm9yJCwgUi5pZGVudGl0eSkKICAgICAgLy8gICAgIC5mbGF0TWFwKGkgPT4gewogICAgICAvLyAgICAgICBsb2dnZXIuaW5mbyh7IHJldHJ5Q291bnQ6IGkgfSwgJ0RlbGF5aW5nIHJldHJ5IGJ5ICcgKyBpICsgJyBzZWNvbmQocyknKTsKICAgICAgLy8gICAgICAgcmV0dXJuIHJ4Lk9ic2VydmFibGUudGltZXIoaSAqIDEwMDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmIChpc05ldHdvcmtFcnJvcihlcnIubWVzc2FnZSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEBUT0RPOiBUaGlzIHNob3VsZCBiZSBzbWFydGVyIGFib3V0IHRoZSB0eXBlcyBvZiBlcnJvcnMgdGhhdCB3ZSBkb24ndCB3YW50IHRvIHJldHJ5IGZvcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIHJldHVybiByeC5PYnNlcnZhYmxlLnRpbWVyKGkgKiAxMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGxvZ2dlci5pbmZvKHsgcmV0cnlDb3VudDogaSB9LCAnRGVsYXlpbmcgcmV0cnkgYnkgJyArIGkgKyAnIHNlY29uZChzKScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAuZmxhdE1hcChpID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAuemlwKGVycm9yJCwgUi5pZGVudGl0eSkgLy8gKGluZGV4LCBlcnJvcikgPT4gaW5kZXgK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIHJldHVybiByeC5PYnNlcnZhYmxlLnRpbWVyKGkgKiAxMDAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
