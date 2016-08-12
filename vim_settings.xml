@@ -34,7 +34,7 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470912390113">
+      <file name="/a.dummy" timestamp="1470991012517">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1470639484424">
@@ -141,6 +141,12 @@
         <mark key="]" line="16" column="12" />
         <mark key="^" line="16" column="11" />
         <mark key="." line="16" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" timestamp="1470991397092">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="123" column="33" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
@@ -464,7 +470,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -476,34 +482,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29ja2V0ID0gbmV3IFNvY2tKcyhzb2NrZXRVcmwpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNvY2tldFVybCA9IDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybihzb2NrZXRVcmwpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc29ja2V0ID0gbmV3IFNvY2tKcyhzb2NrZXRVcmwpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNvY2tldFVybCA9IDsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybihzb2NrZXRVcmwpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
