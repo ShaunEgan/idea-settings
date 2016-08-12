@@ -335,11 +335,11 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471001685890">
-        <mark key="[" line="92" column="16" />
-        <mark key="]" line="92" column="8" />
-        <mark key="^" line="92" column="8" />
-        <mark key="." line="92" column="8" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471004145125">
+        <mark key="[" line="91" column="41" />
+        <mark key="]" line="91" column="40" />
+        <mark key="." line="91" column="40" />
+        <mark key="^" line="91" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470572524185">
         <mark key="[" line="7" column="51" />
@@ -474,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>attempt</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>attempt</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -486,34 +486,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGlmIChpc05ldHdvcmtFcnJvcihlcnIubWVzc2FnZSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLndhcm4pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIEBUT0RPOiBUaGlzIHNob3VsZCBiZSBzbWFydGVyIGFib3V0IHRoZSB0eXBlcyBvZiBlcnJvcnMgdGhhdCB3ZSBkb24ndCB3YW50IHRvIHJldHJ5IGZvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC50YWtlKDEpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGRkIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChpID0+IHsKICAgICAgICAgICAgY29uc29sZS53YXJuKGkpOwogICAgICAgICAgfSkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgIH0pCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICB9KTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIHJldHVybiByeC5PYnNlcnZhYmxlLnRpbWVyKGkgKiAxMDAwKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGxvZ2dlci5pbmZvKHsgcmV0cnlDb3VudDogaSB9LCAnRGVsYXlpbmcgcmV0cnkgYnkgJyArIGkgKyAnIHNlY29uZChzKScpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAuZmxhdE1hcChpID0+IHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29ja2V0ID0gbmV3IFNvY2tKcyhzb2NrZXRVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAuemlwKGVycm9yJCwgUi5pZGVudGl0eSkgLy8gKGluZGV4LCBlcnJvcikgPT4gaW5kZXgK</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
