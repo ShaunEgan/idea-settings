@@ -142,11 +142,11 @@
         <mark key="^" line="16" column="11" />
         <mark key="." line="16" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" timestamp="1470991397092">
+      <file name="$USER_HOME$/repositories/yazimedia/src/destination/has-offers.js" timestamp="1470993463863">
         <mark key="[" line="58" column="49" />
-        <mark key="]" line="57" column="0" />
-        <mark key="^" line="123" column="33" />
-        <mark key="." line="57" column="0" />
+        <mark key="]" line="132" column="24" />
+        <mark key="^" line="132" column="24" />
+        <mark key="." line="132" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
@@ -163,6 +163,9 @@
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/services/identity-processor.js" timestamp="1470993698394">
+        <mark key="[" line="51" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1469793201437">
         <mark key="[" line="66" column="0" />
