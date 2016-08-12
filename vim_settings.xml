@@ -26,8 +26,8 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1470900335061">
-        <mark key="[" line="50" column="29" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1470998674353">
+        <mark key="[" line="30" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/services/identity-processor-spec.js" timestamp="1469631351640">
         <mark key="[" line="71" column="44" />
@@ -46,7 +46,7 @@
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1470997416968" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1470998338013" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/pretty-duration.js" timestamp="1469710406573">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -335,10 +335,11 @@
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1470899102159">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471000982679">
+        <mark key="[" line="88" column="46" />
+        <mark key="]" line="88" column="46" />
+        <mark key="^" line="89" column="22" />
+        <mark key="." line="88" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1470572524185">
         <mark key="[" line="7" column="51" />
@@ -473,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Fetching</text>
+        <text>attempt</text>
       </register>
       <register name="-" type="4">
-        <text>Fetching</text>
+        <text>attempt</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -485,34 +486,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChjb25zb2xlLndhcm4pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC50YWtlKDEpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc29ja2V0ID0gbmV3IFNvY2tKcyhzb2NrZXRVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgIGRkIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNvY2tldFVybCA9IDsK</text>
+        <text encoding="base64">ICAgICAgICAgIC5kb09uTmV4dChpID0+IHsKICAgICAgICAgICAgY29uc29sZS53YXJuKGkpOwogICAgICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybihzb2NrZXRVcmwpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMuc29ja2V0ID0gbmV3IFNvY2tKcyhzb2NrZXRVcmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
