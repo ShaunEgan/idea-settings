@@ -34,7 +34,7 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_loading.scss" timestamp="1471261924913">
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_loading.scss" timestamp="1471263561579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1471259443840">
@@ -65,8 +65,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/templates/body.html" timestamp="1471260778147">
-        <mark key="[" line="7" column="27" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/templates/body.html" timestamp="1471263565429">
+        <mark key="[" line="4" column="27" />
         <mark key="]" line="7" column="27" />
         <mark key="^" line="29" column="26" />
         <mark key="." line="7" column="27" />
@@ -340,8 +340,8 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471261580080">
-        <mark key="[" line="111" column="13" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471264107639">
+        <mark key="[" line="127" column="5" />
         <mark key="]" line="111" column="13" />
         <mark key="^" line="111" column="13" />
         <mark key="." line="111" column="13" />
