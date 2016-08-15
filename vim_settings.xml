@@ -321,9 +321,6 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471248552290">
-        <mark key="[" line="118" column="68" />
-      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="9" column="6" />
@@ -487,11 +484,11 @@
       <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>playerType</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>playerType</text>
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -500,7 +497,7 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF5ZXJUeXBlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -509,12 +506,15 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0RGF0YSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhc3RJbmRleEluTmV3UGxheWxpc3QpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
       author: 'Joe Bloggs',
       description: 'Completely different cast',
@@ -527,17 +527,14 @@
       waveform: []
     }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlpbmdDYXN0SW5kZXgpO2RkCg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXJ0aW5nUGxheWxpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlpbmdDYXN0SW5kZXgpO2RkCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXJ0aW5nUGxheWxpc3QpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXJ0aW5nUGxheWxpc3QucHVzaChvdGhlckNhc3QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXJ0aW5nUGxheWxpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/}/},/g</text>
