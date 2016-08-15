@@ -34,7 +34,7 @@
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1470991012517">
+      <file name="/a.dummy" timestamp="1471241694480">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1470639484424">
@@ -309,11 +309,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471020674958">
-        <mark key="[" line="122" column="47" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
