@@ -340,11 +340,11 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471264107639">
-        <mark key="[" line="127" column="5" />
-        <mark key="]" line="111" column="13" />
-        <mark key="^" line="111" column="13" />
-        <mark key="." line="111" column="13" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471265176091">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="122" column="40" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
@@ -509,11 +509,11 @@
       <jump line="10" column="60" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">dmlzaWJpbGl0eSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmlzaWJpbGl0eSA=</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>}</text>
@@ -522,44 +522,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF5ZXJUeXBlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHR5cGVvZiByZXN1bHQuZGF0YSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0RGF0YSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhwbGF5ZXJUeXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhc3RJbmRleEluTmV3UGxheWxpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      author: 'Joe Bloggs',
-      description: 'Completely different cast',
-      duration: 138764,
-      publishedAt: '2016-07-28T07:38:52.754Z',
-      sourceUrl: 'http://localhost:3000/show/some-show-hash',
-      tags: ['foo', 'bar'],
-      thumbnail: 'http://localhost:3001/some-image',
-      title: 'Playlist remade',
-      waveform: []
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucGxheWxpc3QuZ2V0UGxheWxpc3QoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlpbmdDYXN0SW5kZXgpO2RkCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBsYXlsaXN0RGF0YSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN0YXJ0aW5nUGxheWxpc3QpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGNhc3RJbmRleEluTmV3UGxheWxpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
