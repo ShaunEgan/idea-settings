@@ -363,8 +363,11 @@
         <mark key="." line="13" column="72" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471333193051">
-        <mark key="[" line="128" column="5" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471343097936">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="^" line="125" column="25" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
@@ -532,8 +535,8 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>edAtSort</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="-" type="4">
         <text>edAtSort</text>
@@ -545,7 +548,7 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -560,20 +563,20 @@
         <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcXVlcnlNZWRpYUl0ZW1Db2xsZWN0aW9uKHF1ZXJ5LCBsaW1pdCwgTm9uZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgcXVlcnlNZWRpYUl0ZW1Db2xsZWN0aW9uKHF1ZXJ5LCBsaW1pdCwgTm9uZSkK</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIC5zb3J0KHNvcnQpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)
   }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsKCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
