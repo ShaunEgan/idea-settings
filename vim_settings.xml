@@ -60,6 +60,9 @@
         <mark key="^" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/response-types.js" timestamp="1471435438339">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1471327135335">
         <mark key="[" line="124" column="1" />
         <mark key="]" line="124" column="1" />
@@ -77,10 +80,11 @@
         <mark key="." line="13" column="72" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471434125773">
-        <mark key="[" line="84" column="14" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471435667759">
+        <mark key="[" line="55" column="13" />
+        <mark key="]" line="55" column="13" />
+        <mark key="." line="55" column="13" />
+        <mark key="^" line="155" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471006049751">
         <mark key="[" line="87" column="6" />
@@ -326,11 +330,11 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isPlaylistType(type)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>isPlaylistType(type)</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -345,28 +349,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiB0YWcgdGFnCiAgICogY2hhbm5lbCB0aXRsZQogICAqIHNob3cgdGl0bGUKICAgKiBmYXZvdXJpdGVzfHVzZXJzIGRpc3BsYXlOYW1lCiAgICovCg==</text>
+        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBpZiAodHlwZSA9PT0gUmVxdWVzdFR5cGVzLlNIT1cpIHsKICAvLyAgIHRpdGxlID0gbWV0YS50aXRsZTsKICAvLyB9IGVsc2UgaWYgKHR5cGUgPT09IFJlcXVlc3RUeXBlcy5UQUcpIHsKICAvLyAgIHRpdGxlID0gbWV0YS50YWc7CiAgLy8gfSAodHlwZSA9PT0gUmVxdSkKICAK</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhc2UgUmVxdWVzdFR5cGVzLkNIQU5ORUw6CiAgICAgIHRpdGxlCg==</text>
+        <text encoding="base64">ICB0eXBlID0+IFsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHR5cGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICogQ2hlY2tzIGlmIGEgcmVzcG9uc2UgaXMgb2YgYSBwbGF5bGlzdCB0eXBlCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
