@@ -22,10 +22,8 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1470998338013" />
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Media.scala" timestamp="1471416502454" />
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1471416057346">
-        <mark key="[" line="29" column="4" />
-      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Media.scala" timestamp="1471434258359" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1471416057346" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/index.js" timestamp="1471415328217">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -79,13 +77,11 @@
         <mark key="." line="13" column="72" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471432825216">
-        <mark key="[" line="59" column="16" />
-        <mark key="]" line="59" column="16" />
-        <mark key="." line="59" column="16" />
-        <mark key="^" line="141" column="44" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471434125773">
+        <mark key="[" line="84" column="14" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Playlist.scala" timestamp="1471416405939" />
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471006049751">
         <mark key="[" line="87" column="6" />
         <mark key="]" line="88" column="0" />
@@ -117,6 +113,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="^" line="7" column="69" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1471433814784">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="2" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/unit/reactivity-manager-spec.js" timestamp="1471250433084">
         <mark key="[" line="73" column="0" />
@@ -166,11 +168,11 @@
         <mark key="." line="11" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1471343453831">
-        <mark key="'" line="137" column="61" />
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="155" column="60" />
+        <mark key="'" line="135" column="61" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="153" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470810850717" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
@@ -324,11 +326,11 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cast</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>cast</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -343,28 +345,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAvKioKICAgKiB0YWcgdGFnCiAgICogY2hhbm5lbCB0aXRsZQogICAqIHNob3cgdGl0bGUKICAgKiBmYXZvdXJpdGVzfHVzZXJzIGRpc3BsYXlOYW1lCiAgICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAvLyBpZiAodHlwZSA9PT0gUmVxdWVzdFR5cGVzLlNIT1cpIHsKICAvLyAgIHRpdGxlID0gbWV0YS50aXRsZTsKICAvLyB9IGVsc2UgaWYgKHR5cGUgPT09IFJlcXVlc3RUeXBlcy5UQUcpIHsKICAvLyAgIHRpdGxlID0gbWV0YS50YWc7CiAgLy8gfSAodHlwZSA9PT0gUmVxdSkKICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgUmVxdWVzdFR5cGVzLkNIQU5ORUw6CiAgICAgIHRpdGxlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmNhc3RzKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZXJlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhkZXRhaWxzLnR5cGUpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
