@@ -26,7 +26,9 @@
       <file name="/a.dummy" timestamp="1471343569127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1471345916622">
+      <file name="$USER_HOME$/repositories/yazimedia/src/models/factories/has-offers-offer-factory.js" timestamp="1470998338013" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Media.scala" timestamp="1471416502454" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1471416057346">
         <mark key="[" line="29" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/pretty-duration.js" timestamp="1469710406573">
@@ -34,10 +36,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/index.js" timestamp="1471349567753">
-        <mark key="[" line="45" column="72" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/index.js" timestamp="1471415328217">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="65" column="40" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1470813801585">
         <mark key="'" line="610" column="0" />
@@ -191,16 +194,16 @@
         <mark key="." line="13" column="72" />
         <mark key="^" line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471413250419">
-        <mark key="[" line="113" column="0" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471415966558">
+        <mark key="[" line="113" column="27" />
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Playlist.scala" timestamp="1471347317181">
-        <mark key="[" line="61" column="50" />
-        <mark key="]" line="61" column="11" />
-        <mark key="." line="61" column="11" />
-        <mark key="^" line="61" column="11" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Playlist.scala" timestamp="1471416405939">
+        <mark key="[" line="54" column="33" />
+        <mark key="]" line="54" column="10" />
+        <mark key="." line="54" column="10" />
+        <mark key="^" line="54" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/is-dry-run-spec.js" timestamp="1465917675150">
         <mark key="[" line="4" column="0" />
@@ -338,6 +341,7 @@
         <mark key="." line="31" column="19" />
         <mark key="^" line="155" column="60" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470810850717" />
       <file name="$USER_HOME$/repositories/digestor/.dockerignore" timestamp="1470496616672">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -359,6 +363,7 @@
         <mark key="." line="3" column="129" />
         <mark key="^" line="3" column="129" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1470906658025" />
       <file name="$USER_HOME$/repositories/yazimedia/src/app.js" timestamp="1467629499961">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="15" column="61" />
@@ -544,7 +549,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHBsYXllciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jYy1lbWJlZC1wbGF5ZXInKTsKICAgIC8vIHBsYXllci5wYXJlbnROb2RlLmluc2VydEJlZm9yZShjb250YWluZXIsIHBsYXllci5uZXh0U2libGluZyk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -556,35 +561,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHBsYXllciA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoJy5jYy1lbWJlZC1wbGF5ZXInKTsKICAgIC8vIHBsYXllci5wYXJlbnROb2RlLmluc2VydEJlZm9yZShjb250YWluZXIsIHBsYXllci5uZXh0U2libGluZyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHBsYXllckVsZW1lbnQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcucGxheWxpc3QnKTsKICAgIC8vIHBsYXllckVsZW1lbnQucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoY29udGFpbmVyLCBwbGF5ZXJFbGVtZW50Lm5leHRTaWJsaW5nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
+        <text encoding="base64">ICAgIC8vIGRvY3VtZW50LmJvZHkuaW5zZXJ0QmVmb3JlKGNvbnRhaW5lciwgcGxheWVyRWxlbWVudCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHBsYXllckVsZW1lbnQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKCcuY2MtZW1iZWQtcGxheWVyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgcXVlcnlNZWRpYUl0ZW1Db2xsZWN0aW9uKHF1ZXJ5LCBsaW1pdCwgTm9uZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5zb3J0KHNvcnQpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>)
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHZhbCBzb3J0ID0gU29tZShKc29uLm9iaigiY3JlYXRlZEF0IiAtPiAtMSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
