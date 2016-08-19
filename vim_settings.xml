@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1471261940506">
         <mark key="[" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/docker-compose.yml" timestamp="1471597047094">
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="19" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/repositories/digestor/docker-compose.yml" timestamp="1471603523589">
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+        <mark key="." line="11" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1471327129681">
         <mark key="[" line="70" column="3" />
@@ -183,7 +183,7 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="153" column="60" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1471592482012" />
+      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1471603410190" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="3" column="129" />
@@ -196,7 +196,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471596127080">
+      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471603829016">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
