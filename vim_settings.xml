@@ -96,10 +96,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470984096116">
-        <mark key="[" line="2110" column="52" />
-        <mark key="]" line="2110" column="53" />
-        <mark key="." line="2110" column="53" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1471602914586">
+        <mark key="[" line="2107" column="22" />
+        <mark key="]" line="2107" column="22" />
+        <mark key="." line="2107" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/package.json" timestamp="1470491779366">
         <mark key="[" line="21" column="44" />
@@ -183,11 +183,7 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="153" column="60" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1471592482012">
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="8" column="64" />
-        <mark key="." line="8" column="64" />
-      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1471592482012" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="3" column="129" />
@@ -334,10 +330,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>436207616</text>
+        <text>512</text>
       </register>
       <register name="-" type="4">
-        <text>436207616</text>
+        <text>512</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
