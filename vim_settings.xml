@@ -80,7 +80,7 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/conf/application.conf" timestamp="1471335130480">
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/conf/application.conf" timestamp="1471592457448">
         <mark key="[" line="13" column="72" />
         <mark key="]" line="13" column="72" />
         <mark key="." line="13" column="72" />
@@ -99,6 +99,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1470895168069">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1470984096116">
         <mark key="[" line="2110" column="52" />
@@ -184,7 +189,11 @@
         <mark key="." line="29" column="19" />
         <mark key="^" line="153" column="60" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1470810850717" />
+      <file name="$USER_HOME$/repositories/digestor/src/config.js" timestamp="1471592482012">
+        <mark key="[" line="8" column="64" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
         <mark key="[" line="9" column="58" />
         <mark key="]" line="3" column="129" />
@@ -197,8 +206,8 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1470643976425">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471592849014">
+        <mark key="[" line="54" column="42" />
         <mark key="]" line="13" column="27" />
         <mark key="." line="13" column="27" />
       </file>
@@ -337,10 +346,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isPlaylistType(type)</text>
+        <text>'mongodb://localhost:27017/crowdcaster',</text>
       </register>
       <register name="-" type="4">
-        <text>isPlaylistType(type)</text>
+        <text>'mongodb://localhost:27017/crowdcaster',</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
