@@ -15,9 +15,6 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1470998674353">
-        <mark key="[" line="30" column="5" />
-      </file>
       <file name="/a.dummy" timestamp="1471343569127">
         <mark key="[" line="0" column="0" />
       </file>
@@ -41,9 +38,6 @@
         <mark key="[" line="38" column="51" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_errors.scss" timestamp="1471261932010">
-        <mark key="[" line="7" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/html/body.html" timestamp="1471243549660">
         <mark key="[" line="0" column="0" />
@@ -97,9 +91,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1470895168069">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="4" column="0" />
@@ -115,9 +106,6 @@
         <mark key="]" line="20" column="43" />
         <mark key="." line="20" column="43" />
         <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_loading.scss" timestamp="1471263561579">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
@@ -165,6 +153,12 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/style.scss" timestamp="1471261940506">
         <mark key="[" line="7" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/docker-compose.yml" timestamp="1471597047094">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_image-player.scss" timestamp="1471327129681">
         <mark key="[" line="70" column="3" />
         <mark key="]" line="70" column="7" />
@@ -206,10 +200,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471592849014">
-        <mark key="[" line="54" column="42" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="27" />
+      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471596127080">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/duplicate-user-reducer-spec.js" timestamp="1470563957234">
         <mark key="[" line="57" column="16" />
@@ -229,17 +223,11 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_variables.scss" timestamp="1471324831955">
-        <mark key="[" line="6" column="21" />
-      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end.js" timestamp="1471244664546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="5" column="20" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_compact-player.scss" timestamp="1471326288632">
-        <mark key="[" line="18" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -346,10 +334,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'mongodb://localhost:27017/crowdcaster',</text>
+        <text>436207616</text>
       </register>
       <register name="-" type="4">
-        <text>'mongodb://localhost:27017/crowdcaster',</text>
+        <text>436207616</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -358,34 +346,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
+        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlID0+IFsK</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
+        <text encoding="base64">ICB0eXBlID0+IFsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHR5cGUK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogQHBhcmFtIHR5cGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQ2hlY2tzIGlmIGEgcmVzcG9uc2UgaXMgb2YgYSBwbGF5bGlzdCB0eXBlCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
