@@ -36,15 +36,16 @@
         <mark key="." line="3" column="129" />
         <mark key="^" line="3" column="129" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/assets/email.jade" timestamp="1472108784563" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1471245056998">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1472106138151">
-        <mark key="[" line="35" column="37" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1472108720099">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/duplicate-user-reducer-spec.js" timestamp="1470563957234">
         <mark key="[" line="57" column="16" />
@@ -327,7 +328,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -339,34 +340,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
+        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
+        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlID0+IFsK</text>
+        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICB0eXBlID0+IFsK</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
