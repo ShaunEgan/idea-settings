@@ -27,6 +27,9 @@
       <file name="/a.dummy" timestamp="1471343569127">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" timestamp="1472110336598">
+        <mark key="[" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
       </file>
@@ -36,7 +39,11 @@
         <mark key="." line="3" column="129" />
         <mark key="^" line="3" column="129" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/assets/email.jade" timestamp="1472108784563" />
+      <file name="$USER_HOME$/repositories/digestor/assets/email.jade" timestamp="1472109860165">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1471245056998">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -154,11 +161,17 @@
         <mark key="." line="55" column="13" />
         <mark key="^" line="155" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/Digest/index-spec.js" timestamp="1470577254006">
-        <mark key="[" line="16" column="12" />
-        <mark key="]" line="16" column="12" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="12" />
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Digest/index-spec.js" timestamp="1472110482444">
+        <mark key="[" line="23" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="21" />
+        <mark key="." line="23" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/assets/layout.jade" timestamp="1472109045564">
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="30" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
@@ -215,6 +228,12 @@
         <mark key="[" line="2107" column="22" />
         <mark key="]" line="2107" column="22" />
         <mark key="." line="2107" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1472110287508">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="1" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1471343453831">
         <mark key="'" line="135" column="61" />
@@ -327,11 +346,11 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Shows</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Shows</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -340,34 +359,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">aXQoJ2VtaXRzIGEgc3RyZWFtIG9mIHRyZW5kaW5nIGl0ZW1zIGFuZCBsaW1pdHMgdGhpcyBzdHJlYW0gdG8gY29uZmlndXJlZCBib3VuZGFyaWVzJywgKGRvbmUpID0+IHsKICAgIGxldCBjb3VudCA9IDA7CgogICAgdGhpcy50cmVuZGluZ1NlcnZpY2UuZ2V0KCdjYXN0JykKICAgICAgLnN1YnNjcmliZSgKICAgICAgICBpdGVtID0+IGNvdW50KyssCiAgICAgICAgZG9uZS5mYWlsLAogICAgICAgICgpID0+IHsKICAgICAgICAgIGV4cGVjdChjb3VudCkudG9FcXVhbCh0aGlzLm1vY2tDb25maWcudHJlbmRpbmdJdGVtTGltaXQpOwoKICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9CiAgICAgICk7CiAgfSk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
+        <text encoding="base64">bWl4aW4gcG9kY2FzdEl0ZW0ocG9kY2FzdCkKICArbWVkaWFJdGVtKHBvZGNhc3QsIHJvb3RVcmwgKyAnbWVkaWEvJyArIHBvZGNhc3QuX2lkKQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
+        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
+        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlID0+IFsK</text>
+        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
