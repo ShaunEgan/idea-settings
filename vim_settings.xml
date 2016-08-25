@@ -41,10 +41,10 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1471603829016">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/src/index.js" timestamp="1472106138151">
+        <mark key="[" line="35" column="37" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Users/duplicate-user-reducer-spec.js" timestamp="1470563957234">
         <mark key="[" line="57" column="16" />
@@ -121,6 +121,9 @@
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/src/Digest/index.js" timestamp="1472106312391">
+        <mark key="[" line="20" column="51" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/AWSMailer/aws-mailer-service-spec.js" timestamp="1470578769308">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -138,6 +141,11 @@
         <mark key="]" line="13" column="72" />
         <mark key="." line="13" column="72" />
         <mark key="^" line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/Trending/trending-service.js" timestamp="1472106813968">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1471435667759">
         <mark key="[" line="55" column="13" />
@@ -318,11 +326,11 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>512</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>512</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -331,34 +339,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
+        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
+        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlID0+IFsK</text>
+        <text encoding="base64">ICBdLmluZGV4T2YodHlwZSkgPiAtMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
+        <text encoding="base64">ICAgIFJlc3BvbnNlVHlwZXMuUAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICB0eXBlID0+IFsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHR5cGUK</text>
+        <text encoding="base64">Y29uc3QgaXNQbGF5bGlzdFR5cGUgPQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
