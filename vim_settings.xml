@@ -66,20 +66,6 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="65" column="40" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1470813801585">
-        <mark key="'" line="610" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="610" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/templates/body.html" timestamp="1471326590766">
-        <mark key="'" line="7" column="70" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="7" column="69" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" timestamp="1471251252511">
         <mark key="[" line="38" column="51" />
         <mark key="]" line="46" column="0" />
@@ -107,6 +93,11 @@
         <mark key="]" line="96" column="2" />
         <mark key="^" line="96" column="2" />
         <mark key="." line="96" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/env/dev.env" timestamp="1472208557218">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/html/body.html" timestamp="1471243549660">
         <mark key="[" line="0" column="0" />
@@ -235,13 +226,6 @@
         <mark key="^" line="70" column="1" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1471343453831">
-        <mark key="'" line="135" column="61" />
-        <mark key="[" line="29" column="19" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="153" column="60" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="14" filename="$USER_HOME$/repositories/embed-service/spec/unit/lib/get-mongo-connection-string-spec.js" />
@@ -347,10 +331,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Shows</text>
+        <text>db</text>
       </register>
       <register name="-" type="4">
-        <text>Shows</text>
+        <text>db</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -359,34 +343,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">REI9MTkyLjE2OC4yMC4xMDUKcXVldWU9MTA0LjE5OS41LjE3NAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">UVVFVUVfQUREUkVTUz1hbXFwOi8vcXVldWU/aGVhcnRiZWF0PTMwCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aXQoJ2VtaXRzIGEgc3RyZWFtIG9mIHRyZW5kaW5nIGl0ZW1zIGFuZCBsaW1pdHMgdGhpcyBzdHJlYW0gdG8gY29uZmlndXJlZCBib3VuZGFyaWVzJywgKGRvbmUpID0+IHsKICAgIGxldCBjb3VudCA9IDA7CgogICAgdGhpcy50cmVuZGluZ1NlcnZpY2UuZ2V0KCdjYXN0JykKICAgICAgLnN1YnNjcmliZSgKICAgICAgICBpdGVtID0+IGNvdW50KyssCiAgICAgICAgZG9uZS5mYWlsLAogICAgICAgICgpID0+IHsKICAgICAgICAgIGV4cGVjdChjb3VudCkudG9FcXVhbCh0aGlzLm1vY2tDb25maWcudHJlbmRpbmdJdGVtTGltaXQpOwoKICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9CiAgICAgICk7CiAgfSk7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bWl4aW4gcG9kY2FzdEl0ZW0ocG9kY2FzdCkKICArbWVkaWFJdGVtKHBvZGNhc3QsIHJvb3RVcmwgKyAnbWVkaWEvJyArIHBvZGNhc3QuX2lkKQoK</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aXQoJ2VtaXRzIGEgc3RyZWFtIG9mIHRyZW5kaW5nIGl0ZW1zIGFuZCBsaW1pdHMgdGhpcyBzdHJlYW0gdG8gY29uZmlndXJlZCBib3VuZGFyaWVzJywgKGRvbmUpID0+IHsKICAgIGxldCBjb3VudCA9IDA7CgogICAgdGhpcy50cmVuZGluZ1NlcnZpY2UuZ2V0KCdjYXN0JykKICAgICAgLnN1YnNjcmliZSgKICAgICAgICBpdGVtID0+IGNvdW50KyssCiAgICAgICAgZG9uZS5mYWlsLAogICAgICAgICgpID0+IHsKICAgICAgICAgIGV4cGVjdChjb3VudCkudG9FcXVhbCh0aGlzLm1vY2tDb25maWcudHJlbmRpbmdJdGVtTGltaXQpOwoKICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9CiAgICAgICk7CiAgfSk7</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+        <text encoding="base64">bWl4aW4gcG9kY2FzdEl0ZW0ocG9kY2FzdCkKICArbWVkaWFJdGVtKHBvZGNhc3QsIHJvb3RVcmwgKyAnbWVkaWEvJyArIHBvZGNhc3QuX2lkKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmxpbWl0KGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkK</text>
+        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5mbGF0TWFwKCgpID0+IHJ4Lk9ic2VydmFibGUuaW50ZXJ2YWwoMzAwMCkudGFrZSgxKSkK</text>
+        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
