@@ -77,6 +77,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/Dockerfile" timestamp="1472723996217">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1471433814784">
         <mark key="[" line="2" column="13" />
         <mark key="]" line="2" column="13" />
@@ -238,6 +243,12 @@
         <mark key="^" line="70" column="1" />
         <mark key="." line="70" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/circle.yml" timestamp="1472723392402">
+        <mark key="a" line="0" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="21" column="14" filename="$USER_HOME$/repositories/embed-service/spec/unit/lib/get-mongo-connection-string-spec.js" />
@@ -342,11 +353,11 @@
       <jump line="137" column="61" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>PROJET_NAME</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -355,34 +366,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">REI9MTkyLjE2OC4yMC4xMDUKcXVldWU9MTA0LjE5OS41LjE3NAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">UVVFVUVfQUREUkVTUz1hbXFwOi8vcXVldWU/aGVhcnRiZWF0PTMwCg==</text>
+        <text encoding="base64">UlVOIGNkIC9zcmM7IG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aXQoJ2VtaXRzIGEgc3RyZWFtIG9mIHRyZW5kaW5nIGl0ZW1zIGFuZCBsaW1pdHMgdGhpcyBzdHJlYW0gdG8gY29uZmlndXJlZCBib3VuZGFyaWVzJywgKGRvbmUpID0+IHsKICAgIGxldCBjb3VudCA9IDA7CgogICAgdGhpcy50cmVuZGluZ1NlcnZpY2UuZ2V0KCdjYXN0JykKICAgICAgLnN1YnNjcmliZSgKICAgICAgICBpdGVtID0+IGNvdW50KyssCiAgICAgICAgZG9uZS5mYWlsLAogICAgICAgICgpID0+IHsKICAgICAgICAgIGV4cGVjdChjb3VudCkudG9FcXVhbCh0aGlzLm1vY2tDb25maWcudHJlbmRpbmdJdGVtTGltaXQpOwoKICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9CiAgICAgICk7CiAgfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">REI9MTkyLjE2OC4yMC4xMDUKcXVldWU9MTA0LjE5OS41LjE3NAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bWl4aW4gcG9kY2FzdEl0ZW0ocG9kY2FzdCkKICArbWVkaWFJdGVtKHBvZGNhc3QsIHJvb3RVcmwgKyAnbWVkaWEvJyArIHBvZGNhc3QuX2lkKQoK</text>
+        <text encoding="base64">UVVFVUVfQUREUkVTUz1hbXFwOi8vcXVldWU/aGVhcnRiZWF0PTMwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAudGFwKGRhdGEgPT4gY29uc29sZS5sb2coZGF0YS50cmVuZGluZy5wb2RjYXN0cykpCg==</text>
+        <text encoding="base64">ZGQK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC50YWtlKGNvbmZpZy50cmVuZGluZ0l0ZW1MaW1pdCkpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aXQoJ2VtaXRzIGEgc3RyZWFtIG9mIHRyZW5kaW5nIGl0ZW1zIGFuZCBsaW1pdHMgdGhpcyBzdHJlYW0gdG8gY29uZmlndXJlZCBib3VuZGFyaWVzJywgKGRvbmUpID0+IHsKICAgIGxldCBjb3VudCA9IDA7CgogICAgdGhpcy50cmVuZGluZ1NlcnZpY2UuZ2V0KCdjYXN0JykKICAgICAgLnN1YnNjcmliZSgKICAgICAgICBpdGVtID0+IGNvdW50KyssCiAgICAgICAgZG9uZS5mYWlsLAogICAgICAgICgpID0+IHsKICAgICAgICAgIGV4cGVjdChjb3VudCkudG9FcXVhbCh0aGlzLm1vY2tDb25maWcudHJlbmRpbmdJdGVtTGltaXQpOwoKICAgICAgICAgIGRvbmUoKTsKICAgICAgICB9CiAgICAgICk7CiAgfSk7</text>
       </register>
       <register name=":" type="4">
         <text>156</text>
