@@ -24,11 +24,11 @@
       <file name="/a.dummy" timestamp="1471343569127">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/.gitignore" timestamp="1472797458562">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/.gitignore" timestamp="1472800010050">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
@@ -373,8 +373,8 @@
       <jump line="3309" column="67" filename="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>104.155.127.153:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
       </register>
       <register name="-" type="4">
         <text>104.155.127.153:</text>
@@ -386,34 +386,34 @@
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIGNkIC9zcmM7IG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UlVOIGNkIC9zcmM7IG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REI9MTkyLjE2OC4yMC4xMDUKcXVldWU9MTA0LjE5OS41LjE3NAoK</text>
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UVVFVUVfQUREUkVTUz1hbXFwOi8vcXVldWU/aGVhcnRiZWF0PTMwCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">REI9MTkyLjE2OC4yMC4xMDUKcXVldWU9MTA0LjE5OS41LjE3NAoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">UVVFVUVfQUREUkVTUz1hbXFwOi8vcXVldWU/aGVhcnRiZWF0PTMwCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
