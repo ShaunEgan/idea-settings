@@ -244,11 +244,6 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1472452243418">
-        <mark key="[" line="137" column="28" />
-        <mark key="]" line="137" column="28" />
-        <mark key="." line="137" column="28" />
-      </file>
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" timestamp="1472725130815">
         <mark key="'" line="3309" column="67" />
       </file>
@@ -257,7 +252,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1472732496837">
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1472805669731">
         <mark key="[" line="2107" column="22" />
         <mark key="]" line="2107" column="22" />
         <mark key="." line="2107" column="22" />
