@@ -24,6 +24,12 @@
       <file name="/a.dummy" timestamp="1471343569127">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/.gitignore" timestamp="1472797458562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/lib/Digest/index.js" timestamp="1470411751374">
         <mark key="[" line="20" column="77" />
       </file>
@@ -127,11 +133,12 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/circle.yml" timestamp="1472795866184">
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/circle.yml" timestamp="1472797396342">
         <mark key="a" line="0" column="0" />
         <mark key="[" line="34" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+        <mark key="]" line="34" column="93" />
+        <mark key="." line="34" column="93" />
+        <mark key="^" line="34" column="93" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/response-types.js" timestamp="1471435438339">
         <mark key="[" line="0" column="0" />
