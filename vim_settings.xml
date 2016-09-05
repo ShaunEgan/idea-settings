@@ -253,11 +253,11 @@
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" timestamp="1472725130815">
         <mark key="'" line="3309" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473071711919">
-        <mark key="[" line="1958" column="52" />
-        <mark key="]" line="1895" column="116" />
-        <mark key="." line="1895" column="116" />
-        <mark key="^" line="1895" column="116" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473074950447">
+        <mark key="[" line="521" column="25" />
+        <mark key="]" line="522" column="26" />
+        <mark key="." line="522" column="26" />
+        <mark key="^" line="522" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
         <mark key="[" line="16" column="20" />
@@ -380,15 +380,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{
-                  &quot;Fn::GetAtt&quot;: [
-                    &quot;RabbitMqMaster1a&quot;,
-                    &quot;PrivateDnsName&quot;
-                  ]
-                }</text>
+        <text>10307</text>
       </register>
       <register name="-" type="4">
-        <text>host</text>
+        <text>10307</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
