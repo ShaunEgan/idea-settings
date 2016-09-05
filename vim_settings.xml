@@ -184,10 +184,10 @@
         <mark key="." line="96" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/env/dev.env" timestamp="1472732405689">
-        <mark key="[" line="9" column="69" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="14" />
+        <mark key="[" line="6" column="69" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="6" column="14" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1470574769247">
         <mark key="[" line="5" column="29" />
@@ -244,11 +244,13 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1473064239286" />
+      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1473068147070">
+        <mark key="[" line="137" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" timestamp="1472725130815">
         <mark key="'" line="3309" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473064134414" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473067697202" />
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="4" column="0" />
