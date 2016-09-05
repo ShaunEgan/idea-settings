@@ -244,9 +244,11 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1473064239286" />
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" timestamp="1472725130815">
         <mark key="'" line="3309" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473064134414" />
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="4" column="0" />
