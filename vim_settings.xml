@@ -43,7 +43,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/webapp/packages/audio-processor/server/Methods.js" timestamp="1472452480196">
+      <file name="$USER_HOME$/repositories/crowdCaster/webapp/packages/audio-processor/server/Methods.js" timestamp="1473068924429">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="8" />
         <mark key="." line="17" column="8" />
@@ -244,13 +244,21 @@
         <mark key="^" line="5" column="20" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1473068147070">
-        <mark key="[" line="137" column="29" />
+      <file name="$USER_HOME$/repositories/crowdCaster/webapp/local.sh" timestamp="1473069158966">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" timestamp="1472725130815">
         <mark key="'" line="3309" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473067697202" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473069299362">
+        <mark key="[" line="1895" column="25" />
+        <mark key="]" line="1895" column="8" />
+        <mark key="." line="1895" column="8" />
+        <mark key="^" line="1895" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
         <mark key="[" line="16" column="20" />
         <mark key="]" line="4" column="0" />
@@ -371,11 +379,16 @@
       <jump line="3309" column="67" filename="$USER_HOME$/repositories/crowdCaster-audioprocessor/npm-debug.log" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+                  &quot;Fn::GetAtt&quot;: [
+                    &quot;RabbitMqMaster1a&quot;,
+                    &quot;PrivateDnsName&quot;
+                  ]
+                }</text>
       </register>
       <register name="-" type="4">
-        <text>104.155.127.153:</text>
+        <text>host</text>
       </register>
       <register name="/" type="4">
         <text>this.createdAt</text>
@@ -383,38 +396,57 @@
       <register name="0" type="4">
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>{
+                  &quot;Fn::GetAtt&quot;: [
+                    &quot;RabbitMqMaster1a&quot;,
+                    &quot;PrivateDnsName&quot;
+                  ]
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIG92ZXJyaWRlOgogICAgLSBucG0gaW5zdGFsbAo=</text>
+        <text>{
+                  &quot;Fn::Join&quot;: [
+                    &quot;&quot;,
+                    [
+                      &quot;amqp://&quot;,
+                      {
+                        &quot;Fn::GetAtt&quot;: [
+                          &quot;RabbitMqMaster1a&quot;,
+                          &quot;PrivateDnsName&quot;
+                        ]
+                      },
+                      &quot;?heartbeat=30&quot;
+                    ]
+                  ]
+                }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzOgogIG92ZXJyaWRlOgogICAgLSBucG0gaW5zdGFsbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YXBwL2NvbmZpZy5qcwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">UlVOIGNkIC9zcmM7IG5wbSBpbnN0YWxsCg==</text>
+        <text encoding="base64">bm9kZV9tb2R1bGVzLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">UlVOIGNkIC9zcmM7IG5wbSBpbnN0YWxsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -466,10 +498,10 @@
         <entry>%s/\\n\&quot;+\r&quot;/g</entry>
         <entry>%s/\\n/&quot;+\r&quot;/g</entry>
         <entry>%s/}/},/g</entry>
-        <entry>w</entry>
         <entry>100</entry>
         <entry>156</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
