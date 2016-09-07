@@ -289,11 +289,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473230427081">
-        <mark key="[" line="2472" column="43" />
-        <mark key="]" line="2472" column="44" />
-        <mark key="." line="2472" column="44" />
-        <mark key="^" line="2409" column="138" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473232473071">
+        <mark key="[" line="1649" column="0" />
+        <mark key="]" line="1649" column="0" />
+        <mark key="^" line="2198" column="138" />
+        <mark key="." line="1649" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1472110287508">
         <mark key="[" line="70" column="0" />
@@ -411,8 +411,8 @@
       <jump line="87" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -423,37 +423,144 @@
       <register name="0" type="4">
         <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-            &quot;Ref&quot;: &quot;AWS::Region&quot;
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">XQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICJSYWJiaXRNcURucyI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpSb3V0ZTUzOjpSZWNvcmRTZXQiLAogICAgICAiUHJvcGVydGllcyI6IHsKICAgICAgICAiSG9zdGVkWm9uZUlkIjogewogICAgICAgICAgIlJlZiI6ICJjcm93ZENhc3RlclByaXZhdGVIb3N0ZWRab25lIgogICAgICAgIH0sCiAgICAgICAgIkNvbW1lbnQiOiAiRE5TIE5hbWUgZm9yIHRoZSBRdWV1ZSBFbGFzdGljIExvYWQgQmFsYW5jZXIiLAogICAgICAgICJOYW1lIjogInF1ZXVlLmNyb3dkY2FzdGVyLmNvbSIsCiAgICAgICAgIlR5cGUiOiAiQ05BTUUiLAogICAgICAgICJUVEwiOiAiMzAwIiwKICAgICAgICAiUmVzb3VyY2VSZWNvcmRzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiRm46OkdldEF0dCI6IFsKICAgICAgICAgICAgICAiUXVldWVMb2FkQmFsYW5jZXIiLAogICAgICAgICAgICAgICJETlNOYW1lIgogICAgICAgICAgICBdCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9CiAgICB9LA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="4" type="4">
+        <text>&quot;QueueLoadBalancer&quot;: {
+      &quot;Type&quot;: &quot;AWS::ElasticLoadBalancing::LoadBalancer&quot;,
+      &quot;Properties&quot;: {
+        &quot;CrossZone&quot;: &quot;false&quot;,
+        &quot;Scheme&quot;: &quot;internal&quot;,
+        &quot;ConnectionSettings&quot;: {
+          &quot;IdleTimeout&quot;: &quot;60&quot;
+        },
+        &quot;Subnets&quot;: [
+          {
+            &quot;Ref&quot;: &quot;QueueSubnet1a&quot;
+          }
+        ],
+        &quot;Instances&quot;: [
+          {
+            &quot;Ref&quot;: &quot;RabbitMqMaster1a&quot;
+          }
+        ],
+        &quot;Listeners&quot;: [
+          {
+            &quot;LoadBalancerPort&quot;: &quot;5672&quot;,
+            &quot;InstancePort&quot;: &quot;5672&quot;,
+            &quot;Protocol&quot;: &quot;TCP&quot;
+          }
+        ],
+        &quot;HealthCheck&quot;: {
+          &quot;Target&quot;: &quot;TCP:5672&quot;,
+          &quot;HealthyThreshold&quot;: &quot;3&quot;,
+          &quot;UnhealthyThreshold&quot;: &quot;5&quot;,
+          &quot;Interval&quot;: &quot;30&quot;,
+          &quot;Timeout&quot;: &quot;2&quot;
+        },
+        &quot;SecurityGroups&quot;: [
+          {
+            &quot;Ref&quot;: &quot;RabbitMqLoadBalancerSg&quot;
+          },
+          {
+            &quot;Ref&quot;: &quot;PingableInternallySg&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+      <register name="6" type="4">
+        <text>&quot;RabbitMqMaster1a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::Instance&quot;,
+      &quot;Properties&quot;: {
+        &quot;AvailabilityZone&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;RegionMap&quot;,
+            {
+              &quot;Ref&quot;: &quot;AWS::Region&quot;
+            },
+            &quot;FirstAz&quot;
+          ]
+        },
+        &quot;ImageId&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;RegionMap&quot;,
+            {
+              &quot;Ref&quot;: &quot;AWS::Region&quot;
+            },
+            &quot;RabbitMqMaster&quot;
+          ]
+        },
+        &quot;InstanceInitiatedShutdownBehavior&quot;: &quot;stop&quot;,
+        &quot;InstanceType&quot;: {
+          &quot;Fn::FindInMap&quot;: [
+            &quot;InstanceMap&quot;,
+            &quot;RabbitMqMaster&quot;,
+            &quot;InstanceType&quot;
+          ]
+        },
+        &quot;KeyName&quot;: {
+          &quot;Ref&quot;: &quot;KeyName&quot;
+        },
+        &quot;SecurityGroupIds&quot;: [
+          {
+            &quot;Ref&quot;: &quot;SshAccessFromBastionSg&quot;
+          },
+          {
+            &quot;Ref&quot;: &quot;PingableInternallySg&quot;
+          },
+          {
+            &quot;Ref&quot;: &quot;RabbitMqSg&quot;
+          }
+        ],
+        &quot;SubnetId&quot;: {
+          &quot;Ref&quot;: &quot;QueueSubnet1a&quot;
+        },
+        &quot;Tenancy&quot;: &quot;default&quot;,
+        &quot;Tags&quot;: [
+          {
+            &quot;Key&quot;: &quot;Name&quot;,
+            &quot;Value&quot;: &quot;RabbitMQ Master 1a&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+      <register name="9" type="4">
+        <text>&quot;AudioProcessorService&quot;: {
+      &quot;Type&quot;: &quot;AWS::ECS::Service&quot;,
+      &quot;DependsOn&quot;: [
+        &quot;AudioProcessorClusterAutoScalingGroup&quot;
+      ],
+      &quot;Properties&quot;: {
+        &quot;Cluster&quot;: {
+          &quot;Ref&quot;: &quot;AudioProcessorCluster&quot;
+        },
+        &quot;DesiredCount&quot;: &quot;4&quot;,
+        &quot;TaskDefinition&quot;: {
+          &quot;Ref&quot;: &quot;AudioProcessorTask&quot;
+        }
+      }
+    },</text>
       </register>
       <register name=":" type="4">
         <text>141</text>
