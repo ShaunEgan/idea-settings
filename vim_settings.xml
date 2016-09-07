@@ -289,11 +289,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473233092026">
-        <mark key="[" line="1020" column="0" />
-        <mark key="]" line="1020" column="0" />
-        <mark key="^" line="2092" column="138" />
-        <mark key="." line="1020" column="0" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473236948520">
+        <mark key="[" line="1284" column="0" />
+        <mark key="]" line="1284" column="0" />
+        <mark key="^" line="53" column="32" />
+        <mark key="." line="1284" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1472110287508">
         <mark key="[" line="70" column="0" />
@@ -429,32 +429,42 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>&quot;MeteorClusterRoutesAssociation1b&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::SubnetRouteTableAssociation&quot;,
+      &quot;Properties&quot;: {
+        &quot;SubnetId&quot;: {
+          &quot;Ref&quot;: &quot;MeteorSubnet1b&quot;
+        },
+        &quot;RouteTableId&quot;: {
+          &quot;Ref&quot;: &quot;MeteorClusterRoutes1a&quot;
+        }
+      }
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAiU2Vjb25kQXoiOiAiZXUtd2VzdC0xYiIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiSW5zdGFuY2VUeXBlIjogInQyLm1pY3JvIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIlJhYmJpdE1xU2xhdmUiOiB7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICJNZXRlb3JTdWJuZXQxYiI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpFQzI6OlN1Ym5ldCIsCiAgICAgICJQcm9wZXJ0aWVzIjogewogICAgICAgICJWcGNJZCI6IHsKICAgICAgICAgICJSZWYiOiAiY3Jvd2RDYXN0ZXJWcGMiCiAgICAgICAgfSwKICAgICAgICAiQ2lkckJsb2NrIjogIjEwLjAuNy4wLzI0IiwKICAgICAgICAiQXZhaWxhYmlsaXR5Wm9uZSI6IHsKICAgICAgICAgICJGbjo6RmluZEluTWFwIjogWwogICAgICAgICAgICAiUmVnaW9uTWFwIiwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJSZWYiOiAiQVdTOjpSZWdpb24iCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJTZWNvbmRBeiIKICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiTWV0ZW9yIDFiIgogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiSW5zdGFuY2VUeXBlIjogIm0zLm1lZGl1bSIK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICJCYXN0aW9uU3VibmV0MWIiOiB7CiAgICAgICJUeXBlIjogIkFXUzo6RUMyOjpTdWJuZXQiLAogICAgICAiUHJvcGVydGllcyI6IHsKICAgICAgICAiVnBjSWQiOiB7CiAgICAgICAgICAiUmVmIjogImNyb3dkQ2FzdGVyVnBjIgogICAgICAgIH0sCiAgICAgICAgIkNpZHJCbG9jayI6ICIxMC4wLjEwMS4wLzI0IiwKICAgICAgICAiQXZhaWxhYmlsaXR5Wm9uZSI6IHsKICAgICAgICAgICJGbjo6RmluZEluTWFwIjogWwogICAgICAgICAgICAiUmVnaW9uTWFwIiwKICAgICAgICAgICAgewogICAgICAgICAgICAgICJSZWYiOiAiQVdTOjpSZWdpb24iCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgICJTZWNvbmRBeiIKICAgICAgICAgIF0KICAgICAgICB9LAogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiQmFzdGlvbiAxYiIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0KICAgIH0s</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIlJhYmJpdE1xTWFzdGVyIjogewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgIlJhYmJpdE1xTWFzdGVyIjogImFtaS1iODljY2NjZiIsCiAgICAgICAgIlJhYmJpdE1xU2xhdmUiOiAiYW1pLWEyOWNjY2Q1Iiw=</text>
+        <text encoding="base64">ICAgIkJhc3Rpb25Sb3V0ZXNBc3NvY2lhdGlvbjFiIjogewogICAgICAiVHlwZSI6ICJBV1M6OkVDMjo6U3VibmV0Um91dGVUYWJsZUFzc29jaWF0aW9uIiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIlN1Ym5ldElkIjogewogICAgICAgICAgIlJlZiI6ICJCYXN0aW9uU3VibmV0MWIiCiAgICAgICAgfSwKICAgICAgICAiUm91dGVUYWJsZUlkIjogewogICAgICAgICAgIlJlZiI6ICJCYXN0aW9uUm91dGVzIgogICAgICAgIH0KICAgICAgfQogICAgfSw=</text>
       </register>
       <register name=":" type="4">
-        <text>141</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -507,9 +517,9 @@
         <entry>100</entry>
         <entry>156</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>18</entry>
         <entry>141</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
