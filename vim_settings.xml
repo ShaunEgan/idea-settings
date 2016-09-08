@@ -266,9 +266,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473334199116">
-        <mark key="[" line="1284" column="0" />
-        <mark key="]" line="1284" column="0" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473337779430">
+        <mark key="[" line="1653" column="0" />
+        <mark key="]" line="1653" column="15" />
         <mark key="^" line="53" column="32" />
         <mark key="." line="1284" column="0" />
       </file>
@@ -389,7 +389,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -397,8 +397,8 @@
       <register name="/" type="4">
         <text>1.0.4</text>
       </register>
-      <register name="0" type="4">
-        <text>WpNhMsvt3CgpuFLZwwVSyyH5gBSNtc3EpIsKQl9i</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
