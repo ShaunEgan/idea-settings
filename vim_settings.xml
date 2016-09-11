@@ -145,8 +145,8 @@
         <mark key="." line="27" column="4" />
         <mark key="^" line="27" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473510961455">
-        <mark key="[" line="0" column="31" />
+      <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473605420562">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
         <mark key="[" line="9" column="58" />
@@ -214,6 +214,9 @@
         <mark key="]" line="11" column="18" />
         <mark key="." line="11" column="18" />
         <mark key="^" line="11" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1473605619622">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/webapp/packages/cc-base/templates/footer.jade" timestamp="1473144065130">
         <mark key="'" line="6" column="0" />
