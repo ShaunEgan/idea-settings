@@ -30,6 +30,9 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1473675089393">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/.gitignore" timestamp="1472800010050">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -326,11 +329,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473414870685">
-        <mark key="[" line="1653" column="0" />
-        <mark key="]" line="1653" column="15" />
-        <mark key="^" line="53" column="32" />
-        <mark key="." line="1284" column="0" />
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473676295936">
+        <mark key="[" line="1220" column="0" />
+        <mark key="]" line="1220" column="0" />
+        <mark key="." line="1220" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1472110287508">
         <mark key="[" line="70" column="0" />
@@ -449,7 +451,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>Database</text>
@@ -461,34 +463,93 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tcHJvZHVjdGlvbgo=</text>
+      <register name="2" type="4">
+        <text>&quot;AudioProcessorClusterInternetRoute1a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::Route&quot;,
+      &quot;DependsOn&quot;: &quot;crowdCasterInternetGatewayAttachment&quot;,
+      &quot;Properties&quot;: {
+        &quot;RouteTableId&quot;: {
+          &quot;Ref&quot;: &quot;AudioProcessorClusterRoutes1a&quot;
+        },
+        &quot;DestinationCidrBlock&quot;: &quot;0.0.0.0/0&quot;,
+        &quot;InstanceId&quot;: {
+          &quot;Ref&quot;: &quot;BastionInstance1a&quot;
+        }
+      }
+    },</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHJhaXQgRGF0YWJhc2Ugewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzExLgogICovCg==</text>
+      <register name="4" type="4">
+        <text>&quot;AudioProcessorClusterRoutesAssociation1a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::SubnetRouteTableAssociation&quot;,
+      &quot;Properties&quot;: {
+        &quot;SubnetId&quot;: {
+          &quot;Ref&quot;: &quot;ProcessorSubnet1a&quot;
+        },
+        &quot;RouteTableId&quot;: {
+          &quot;Ref&quot;: &quot;AudioProcessorClusterRoutes1a&quot;
+        }
+      }
+    },</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8xMS4KICAqLwpjbGFzcyBEYXRhYmFzZSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWl0cy5EYXRhYmFzZUNvbmZpZ3VyYXRpb2RuCg==</text>
+      <register name="6" type="4">
+        <text>&quot;AudioProcessorClusterRoutes1a&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::RouteTable&quot;,
+      &quot;Properties&quot;: {
+        &quot;VpcId&quot;: {
+          &quot;Ref&quot;: &quot;crowdCasterVpc&quot;
+        },
+        &quot;Tags&quot;: [
+          {
+            &quot;Key&quot;: &quot;Name&quot;,
+            &quot;Value&quot;: &quot;AudioProcessorClusterRoutes1a&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSB0cmFpdHMK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>&quot;ProcessorSg&quot;: {
+      &quot;Type&quot;: &quot;AWS::EC2::SecurityGroup&quot;,
+      &quot;Properties&quot;: {
+        &quot;GroupDescription&quot;: &quot;Allows all traffic out.&quot;,
+        &quot;VpcId&quot;: {
+          &quot;Ref&quot;: &quot;crowdCasterVpc&quot;
+        },
+        &quot;SecurityGroupIngress&quot;: [
+        ],
+        &quot;SecurityGroupEgress&quot;: [
+          {
+            &quot;IpProtocol&quot;: &quot;-1&quot;,
+            &quot;FromPort&quot;: &quot;0&quot;,
+            &quot;ToPort&quot;: &quot;65535&quot;,
+            &quot;CidrIp&quot;: &quot;0.0.0.0/0&quot;
+          }
+        ],
+        &quot;Tags&quot;: [
+          {
+            &quot;Key&quot;: &quot;Name&quot;,
+            &quot;Value&quot;: &quot;ProcessorSg&quot;
+          }
+        ]
+      }
+    },</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
