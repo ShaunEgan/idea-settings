@@ -199,6 +199,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/Dockerfile" timestamp="1473672038410">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-practice/app/models/Practice.scala" timestamp="1473609027432">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -443,8 +448,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f926bf71-b9af-472a-9386-a42690dbb2d8/console.sql" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Database</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Database</text>
@@ -456,34 +461,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHJhaXQgRGF0YWJhc2Ugewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzExLgogICovCg==</text>
+        <text encoding="base64">UlVOIG5wbSBpbnN0YWxsIC0tcHJvZHVjdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8xMS4KICAqLwpjbGFzcyBEYXRhYmFzZSB7Cgp9Cg==</text>
+        <text encoding="base64">dHJhaXQgRGF0YWJhc2Ugewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWl0cy5EYXRhYmFzZUNvbmZpZ3VyYXRpb2RuCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzExLgogICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSB0cmFpdHMK</text>
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8xMS4KICAqLwpjbGFzcyBEYXRhYmFzZSB7Cgp9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWl0cy5EYXRhYmFzZUNvbmZpZ3VyYXRpb2RuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">cGFja2FnZSB0cmFpdHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMDkvMTEuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqLwo=</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
