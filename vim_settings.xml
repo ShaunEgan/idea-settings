@@ -192,11 +192,17 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473769492033">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="18" />
+      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473771046562">
+        <mark key="[" line="2" column="50" />
+        <mark key="]" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/MandrillMailer/index.js" timestamp="1473770849451">
+        <mark key="[" line="5" column="40" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="40" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473695552627">
         <mark key="[" line="2" column="0" />
@@ -526,10 +532,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asdfonsioajbvc@mailinator.com</text>
+        <text>mandril-test@gmail.com</text>
       </register>
       <register name="-" type="4">
-        <text>asdfonsioajbvc@mailinator.com</text>
+        <text>mandril-test@gmail.com</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
