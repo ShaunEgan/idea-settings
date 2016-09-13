@@ -222,8 +222,8 @@
         <mark key="." line="57" column="17" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473757866582">
-        <mark key="[" line="28" column="80" />
+      <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473758357175">
+        <mark key="[" line="32" column="9" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
@@ -368,7 +368,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1473757691007" />
       <file name="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" timestamp="1472110287508">
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
