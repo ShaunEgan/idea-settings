@@ -20,6 +20,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mandril/package.json" timestamp="1473768457365">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1470633772706">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -99,6 +104,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473767922766">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470639283660">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="9" column="37" />
@@ -131,6 +139,12 @@
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/SmptMailer/index.js" timestamp="1473767470105">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test.js" timestamp="1470484850744">
         <mark key="[" line="17" column="7" />
@@ -172,18 +186,17 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" timestamp="1473697232672">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="9" column="67" />
-        <mark key="]" line="9" column="67" />
-        <mark key="." line="9" column="67" />
-        <mark key="^" line="12" column="40" />
-      </file>
       <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1470895227029">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="11" column="62" />
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473769492033">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473695552627">
         <mark key="[" line="2" column="0" />
@@ -194,6 +207,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/MandrilMailer/mandril-mailer-service.js" timestamp="1473769394297">
+        <mark key="[" line="25" column="60" />
+        <mark key="]" line="25" column="60" />
+        <mark key="^" line="23" column="30" />
+        <mark key="." line="25" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1471248510720">
         <mark key="[" line="9" column="58" />
@@ -226,6 +245,11 @@
         <mark key="[" line="32" column="9" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/SmptMailer/smtp-mailer-service.js" timestamp="1473767662225">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/Dockerfile" timestamp="1472725009210">
         <mark key="[" line="5" column="0" />
@@ -313,6 +337,11 @@
         <mark key="." line="55" column="13" />
         <mark key="^" line="155" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/mandril/MandrilMailer/index.js" timestamp="1473768428732">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/assets/layout.jade" timestamp="1472109045564">
         <mark key="[" line="32" column="30" />
         <mark key="]" line="32" column="30" />
@@ -328,6 +357,9 @@
         <mark key="[" line="8" column="28" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/smtp-mailer-service.js" timestamp="1473767169194">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientPracticeTable.scala" timestamp="1473696476750">
         <mark key="[" line="5" column="0" />
@@ -493,11 +525,11 @@
       <jump line="3" column="22" filename="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgY29uZmlnID09PSAnZmFpbGNha2UnKS50b0JlVHJ1dGh5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>asdfonsioajbvc@mailinator.com</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>asdfonsioajbvc@mailinator.com</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -506,34 +538,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgY29uZmlnID09PSAnZmFpbGNha2UnKS50b0JlVHJ1dGh5KCk7Cg==</text>
+        <text encoding="base64">ICAgICJyeGpzIjogIl41LjAuMC1iZXRhLjEyIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdE91dHB1dERpcmVjdG9yeSA9IHByb2Nlc3MuZW52LkNJUkNMRV9URVNUX1JFUE9SVFMgfHwgJ3JlcG9ydHMnOyAvLyBAVE9ETzogY29weSBmaWxlIGluIHRlc3Qgc3RlcAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0hlbGxvIHdvcmxkJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgY29uZmlnID09PSAnZmFpbGNha2UnKS50b0JlVHJ1dGh5KCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc2V0IHVwIGV4aXQgc3RhdHVzCmxldCBzdGF0dXMgPSAwOwoK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U0hPVyBEQVRBQkFTRVM7Cg==</text>
+        <text encoding="base64">dmFyIG5vZGVtYWlsZXIgPSByZXF1aXJlKCdub2RlbWFpbGVyJyk7CnZhciBzbXRwVHJhbnNwb3J0ID0gcmVxdWlyZSgnbm9kZW1haWxlci1zbXRwLXRyYW5zcG9ydCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzEyLgogICovCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNsaWNrLmJhY2tlbmQuRGF0YWJhc2VDb25maWcKaW1wb3J0IHNsaWNrLmRyaXZlci5KZGJjUHJvZmlsZQppbXBvcnQgdGFibGVzLlBhdGllbnRUYWJsZQppbXBvcnQgdHJhaXRzLkRiCgpjbGFzcyBQYXRpZW50UmVwb3NpdG9yeSh2YWwgY29uZmlnOiBEYXRhYmFzZUNvbmZpZ1tKZGJjUHJvZmlsZV0pIGV4dGVuZHMgRGIgd2l0aCBQYXRpZW50VGFibGUgewogIGltcG9ydCBjb25maWcuZHJpdmVyLmFwaS5fCiAgaW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dC5JbXBsaWNpdHMuZ2xvYmFsCgogIGRlZiBpbml0ID0gZGIucnVuKERCSU9BY3Rpb24uc2VxKFBhdGllbnRzLnNjaGVtYS5jcmVhdGUpKQp9Cg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8xMy4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzEyLgogICovCmNsYXNzIFByYWN0aWNlUGF0aWVudFRhYmxlIHsKCn0K</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzEyLgogICovCmNsYXNzIFBhdGllbnRQcmFjdGljZVRhYmxlIHsKCn0K</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0eXBlb2YgY29uZmlnID09PSAnZmFpbGNha2UnKS50b0JlVHJ1dGh5KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
