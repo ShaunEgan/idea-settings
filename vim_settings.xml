@@ -15,8 +15,8 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/jasmine.js" timestamp="1473684497060">
-        <mark key="[" line="5" column="45" />
+      <file name="$USER_HOME$/repositories/digestor/jasmine.js" timestamp="1473748300132">
+        <mark key="[" line="9" column="73" />
         <mark key="]" line="29" column="21" />
         <mark key="." line="29" column="21" />
         <mark key="^" line="29" column="21" />
@@ -329,6 +329,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/.gitignore" timestamp="1473747895057">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471006049751">
         <mark key="[" line="87" column="6" />
