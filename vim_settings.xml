@@ -104,8 +104,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473767922766">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473841216739">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/src/Users/duplicate-user-reducer.js" timestamp="1470639283660">
         <mark key="[" line="2" column="29" />
@@ -192,11 +194,11 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473771046562">
-        <mark key="[" line="2" column="50" />
-        <mark key="]" line="2" column="50" />
-        <mark key="." line="2" column="50" />
-        <mark key="^" line="2" column="16" />
+      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473841399925">
+        <mark key="[" line="10" column="7" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/mandril/MandrillMailer/index.js" timestamp="1473770849451">
         <mark key="[" line="5" column="40" />
@@ -532,10 +534,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+        <text>marketing@crowdcaster.com</text>
       </register>
       <register name="-" type="4">
-        <text>mandril-test@gmail.com</text>
+        <text>marketing@crowdcaster.com</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
