@@ -268,10 +268,10 @@
         <mark key="." line="57" column="17" />
         <mark key="^" line="57" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473758357175">
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473921028927">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mandril/SmptMailer/smtp-mailer-service.js" timestamp="1473767662225">
         <mark key="[" line="6" column="46" />
