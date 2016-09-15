@@ -27,11 +27,11 @@
         <mark key="^" line="4" column="49" />
         <mark key="." line="4" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/jasmine.js" timestamp="1473857380602">
-        <mark key="[" line="10" column="39" />
-        <mark key="]" line="10" column="21" />
+      <file name="$USER_HOME$/repositories/digestor/jasmine.js" timestamp="1473923454685">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
         <mark key="^" line="10" column="21" />
-        <mark key="." line="10" column="21" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mandril/package.json" timestamp="1473768457365">
         <mark key="[" line="13" column="42" />
@@ -270,8 +270,8 @@
       </file>
       <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473921028927">
         <mark key="[" line="11" column="61" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/mandril/SmptMailer/smtp-mailer-service.js" timestamp="1473767662225">
         <mark key="[" line="6" column="46" />
@@ -283,10 +283,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/integration/mail-sending-spec.js" timestamp="1473854697251">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/repositories/digestor/spec/integration/mail-sending-spec.js" timestamp="1473923644988">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/Dockerfile" timestamp="1473672038410">
         <mark key="[" line="7" column="0" />
@@ -340,7 +340,7 @@
         <mark key="]" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" timestamp="1473761361988">
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" timestamp="1473923615506">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -574,11 +574,11 @@
       <jump line="56" column="4" filename="$USER_HOME$/repositories/digestor/src/digestor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>integration</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChkYXRhKS50b0VxdWFsKCdhc2Rvamhhc2lkaicpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>integration</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -587,34 +587,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChkYXRhKS50b0VxdWFsKCdhc2Rvamhhc2lkaicpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnaXMgaW5qZWN0ZWQnLCAoKSA9PiB7CiAgICBleHBlY3QobWFpbGVyKS50b0JlRGVmaW5lZCgpOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgIC8vIGV4cGVjdCh0eXBlb2YgY29uZmlnID09PSAnYXNramRuYWtzbGpkaCcpLnRvQmVUcnV0aHkoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2Fybignd29vcCcpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aWYgKHZlcmJvc2UpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ewogICAgICAgIHNlbmRNYWlsOiAodG8sIGZyb20sIHN1YmplY3QsIGh0bWwpID0+ICh7CiAgICAgICAgICBpbmZvOiB7CiAgICAgICAgICAgIGVudmVsb3BlOiB7CiAgICAgICAgICAgICAgdG86IFt0b10KICAgICAgICAgICAgfQogICAgICAgICAgfQogICAgICAgIH0pCiAgICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpdCgnaXMgaW5qZWN0ZWQnLCAoKSA9PiB7CiAgICBleHBlY3QobWFpbGVyKS50b0JlRGVmaW5lZCgpOwogIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2Fybignd29vcCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8xNC4K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmZvOiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
