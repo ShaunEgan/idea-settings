@@ -63,6 +63,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" timestamp="1474459663903">
+        <mark key="'" line="4" column="34" />
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="^" line="4" column="39" />
+        <mark key="." line="4" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster/webapp/packages/audio-processor/server/Methods.js" timestamp="1473143579370">
         <mark key="[" line="17" column="6" />
         <mark key="]" line="17" column="6" />
@@ -215,6 +222,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="." line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/readXml.sc" timestamp="1474462133645">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1470895227029">
         <mark key="[" line="11" column="62" />
         <mark key="]" line="11" column="62" />
@@ -232,10 +245,14 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/note.xml" timestamp="1474459972255" />
       <file name="$USER_HOME$/repositories/research/scala/src/sequences/BasicSequenceMethods.sc" timestamp="1474438571773">
         <mark key="[" line="1" column="8" />
         <mark key="]" line="1" column="9" />
         <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473695552627">
         <mark key="[" line="2" column="0" />
@@ -502,7 +519,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="5" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="70" column="5" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="83" column="5" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="174" column="22" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -602,13 +618,14 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/f926bf71-b9af-472a-9386-a42690dbb2d8/console.sql" />
       <jump line="3" column="22" filename="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" />
       <jump line="56" column="4" filename="$USER_HOME$/repositories/digestor/src/digestor.js" />
+      <jump line="4" column="34" filename="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -617,34 +634,39 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIHNxdWFyZSA9IHg6IERvdWJsZSA9PiB4ICogeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gc2FtcGxlcyB3aWxsIG5lZWQgdG8gYmUgbm9ybWFsaXNlZCBpbnRvIGhhbGYgaG91ciB0aW1lIGJsb2Nrcy4gVGhpcyB3aWxsIGxldCB1cyB1c2UgYSBzdGF0aWMgcmFuZ2UgaGVyZQp2YWwgcmFuZ2UgPSAxCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgZm9yIChpIDwtIDAgdG8gcmFuZ2UpIHsKICAgICBzYW1wbGVzKGkpCiAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBpZCA9IGNvbHVtbltJbnRdKCJpZCIsIE8uUHJpbWFyeUtleSwgTy5BdXRvSW5jKQo=</text>
+        <text encoding="base64">bCBkYXRhID0gU291cmNlLmZyb21GaWxlKGZpbGVuYW1lKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBVTklRVUUgbWVtYmVyc2hpcCAocHJhY3RpY2VfaWQsIHBhdGllbnRfaWQpCg==</text>
+        <text encoding="base64">bCBkYXRhID0gU291cmNlLmZyb21GaWxlKGZpbGVuYW1lKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBpZCBJTlQgVU5TSUdORUQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
+      <register name="6" type="4">
+        <text>import scala.io.Source
+
+System.getProperty(&quot;user.dir&quot;)
+val filename = &quot;~/repositories/research/scala-research/src/note.xml&quot;
+
+v</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiIC0+IHBhdGllbnQuaWQsCg==</text>
+        <text encoding="base64">dmFsIHNxdWFyZSA9IHg6IERvdWJsZSA9PiB4ICogeAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFBhdGllbnQoaWQsIHBhdGllbnRJZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
