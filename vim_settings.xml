@@ -221,6 +221,11 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala/src/sequences/BasicSequenceMethods.sc" timestamp="1474438571773">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473695552627">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -267,7 +272,6 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474288035357" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1471245056998">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
