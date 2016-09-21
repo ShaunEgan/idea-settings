@@ -86,6 +86,12 @@
         <mark key="]" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/LambdaExpressions.sc" timestamp="1474442986326">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="4" />
+        <mark key="^" line="4" column="6" />
+        <mark key="." line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" timestamp="1471251252511">
         <mark key="[" line="38" column="51" />
         <mark key="]" line="46" column="0" />
@@ -593,11 +599,11 @@
       <jump line="56" column="4" filename="$USER_HOME$/repositories/digestor/src/digestor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cube</text>
       </register>
       <register name="-" type="4">
-        <text>num</text>
+        <text>cube</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -606,7 +612,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFsIHNxdWFyZSA9IHg6IERvdWJsZSA9PiB4ICogeAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -615,25 +621,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiBpZCA9IGNvbHVtbltJbnRdKCJpZCIsIE8uUHJpbWFyeUtleSwgTy5BdXRvSW5jKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBVTklRVUUgbWVtYmVyc2hpcCAocHJhY3RpY2VfaWQsIHBhdGllbnRfaWQpCg==</text>
+        <text encoding="base64">ICAgIGRlZiBpZCA9IGNvbHVtbltJbnRdKCJpZCIsIE8uUHJpbWFyeUtleSwgTy5BdXRvSW5jKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZCBJTlQgVU5TSUdORUQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
+        <text encoding="base64">ICBVTklRVUUgbWVtYmVyc2hpcCAocHJhY3RpY2VfaWQsIHBhdGllbnRfaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiIC0+IHBhdGllbnQuaWQsCg==</text>
+        <text encoding="base64">ICBpZCBJTlQgVU5TSUdORUQgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAiaWQiIC0+IHBhdGllbnQuaWQsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFBhdGllbnQoaWQsIHBhdGllbnRJZCkK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">R0VUICAgICAvcGF0aWVudHMgICAgICAgY29udHJvbGxlcnMuUGF0aWVudENvbnRyb2xsZXIubGlzdAo=</text>
+        <text encoding="base64">ICAgICAgbmV3IFBhdGllbnQoaWQsIHBhdGllbnRJZCkK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
