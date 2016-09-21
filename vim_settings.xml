@@ -302,6 +302,11 @@
       <file name="$USER_HOME$/repositories/research/scala-research/src/Collections/ArraysAndLists.sc" timestamp="1474439903556">
         <mark key="[" line="14" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/Ifs.sc" timestamp="1474447918366">
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="27" />
+        <mark key="." line="26" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/mandril/SmptMailer/smtp-mailer-service.js" timestamp="1473767662225">
         <mark key="[" line="6" column="46" />
         <mark key="]" line="10" column="0" />
@@ -600,10 +605,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cube</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>cube</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
