@@ -35,6 +35,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474537379602">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1470633772706">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -104,6 +109,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1474537352157" />
       <file name="$USER_HOME$/dev/svc-patient/app/controllers/PatientController.scala" timestamp="1474126894882">
         <mark key="[" line="88" column="6" />
         <mark key="]" line="88" column="5" />
@@ -621,10 +627,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
