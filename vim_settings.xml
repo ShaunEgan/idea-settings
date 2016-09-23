@@ -67,11 +67,11 @@
         <mark key="." line="88" column="5" />
         <mark key="^" line="88" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474618708102">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474629206359">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473851147347">
         <mark key="[" line="3" column="0" />
@@ -198,11 +198,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474623470332">
-        <mark key="[" line="13" column="18" />
-        <mark key="]" line="13" column="18" />
-        <mark key="^" line="13" column="66" />
-        <mark key="." line="13" column="18" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474632065643">
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="42" column="13" />
+        <mark key="." line="42" column="13" />
+        <mark key="^" line="42" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/SmtpMailer/smtp-mailer-service-spec.js" timestamp="1473852661219">
         <mark key="[" line="50" column="34" />
@@ -233,11 +233,11 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474624578927">
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="16" column="31" />
-        <mark key="." line="16" column="31" />
-        <mark key="^" line="16" column="31" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474629418013">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="27" column="19" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/.gitignore" timestamp="1473747895057">
         <mark key="[" line="1" column="0" />
@@ -398,6 +398,11 @@
         <mark key="^" line="11" column="63" />
         <mark key="." line="11" column="62" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474629305762">
+        <mark key="]" line="10" column="53" />
+        <mark key="^" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
         <mark key="[" line="0" column="0" />
       </file>
@@ -424,7 +429,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474622579905">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474627825391">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="65" />
         <mark key="^" line="30" column="65" />
@@ -533,11 +538,11 @@
         <mark key="^" line="140" column="28" />
         <mark key="." line="140" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474624969013">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="21" column="46" />
-        <mark key="." line="21" column="46" />
-        <mark key="^" line="21" column="46" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474631530398">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473229865444">
         <mark key="[" line="680" column="6" />
@@ -662,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Json.obj</text>
+        <text>match {</text>
       </register>
       <register name="-" type="4">
-        <text>Json.obj</text>
+        <text>match {</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -674,34 +679,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGh0dHBSZXF1ZXN0LmdldCgiL3NvbWUvcGF0aCIpLm1hcCB7CiAgICAgIHJlc3BvbnNlID0+IE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEludFBhdHRlcm4oaWQpID0+IFNvbWUoaWQudG9JbnQpCiAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHBSZXF1ZXN0LmdldCgiL3NvbWUvcGF0aCIpLm1hcCB7CiAgICAgIHJlc3BvbnNlID0+IE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLkh0dHBSZXF1ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIEludCh4KSA9PiBTb21lKHgpCiAgICAgICAgY2FzZSAibnVsbCIgPT4gTm9uZQogICAgICAgIGNhc2UgIiIgPT4gTm9uZQogICAgICAgIGNhc2UgXyA9PiBOb25lCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgMmxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5kZWZhdWx0Q29udGV4dAoKLy8gIGRlZiBhbGwoKTogRnV0dXJlW1NlcVtUYXJpZmZdXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG9iamVjdCBJbnQgewogICAgICBkZWYgdW5hcHBseShzOiBTdHJpbmcpOiBPcHRpb25bSW50XSA9IHRyeSB7CiAgICAgICAgU29tZShzLnRvSW50KQogICAgICB9IGNhdGNoIHsKICAgICAgICBjYXNlIF8gOiBqYXZhLmxhbmcuTnVtYmVyRm9ybWF0RXhjZXB0aW9uID0+IE5vbmUKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIG5ldyBDYWxlbmRhcigKICAgICAgCiAgICApCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
