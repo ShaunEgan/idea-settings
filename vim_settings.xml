@@ -233,11 +233,11 @@
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474621178297">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="9" />
-        <mark key="." line="7" column="9" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474624578927">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/.gitignore" timestamp="1473747895057">
         <mark key="[" line="1" column="0" />
@@ -533,11 +533,11 @@
         <mark key="^" line="140" column="28" />
         <mark key="." line="140" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474620920613">
-        <mark key="[" line="15" column="40" />
-        <mark key="]" line="15" column="40" />
-        <mark key="." line="15" column="40" />
-        <mark key="^" line="15" column="42" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474624969013">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473229865444">
         <mark key="[" line="680" column="6" />
@@ -662,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>lineItemLength: Int</text>
+        <text>Json.obj</text>
       </register>
       <register name="-" type="4">
-        <text>lineItemLength: Int</text>
+        <text>Json.obj</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -674,34 +674,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGh0dHBSZXF1ZXN0LmdldCgiL3NvbWUvcGF0aCIpLm1hcCB7CiAgICAgIHJlc3BvbnNlID0+IE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCiAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGh0dHBSZXF1ZXN0LmdldCgiL3NvbWUvcGF0aCIpLm1hcCB7CiAgICAgIHJlc3BvbnNlID0+IE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLkh0dHBSZXF1ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgMmxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5kZWZhdWx0Q29udGV4dAoKLy8gIGRlZiBhbGwoKTogRnV0dXJlW1NlcVtUYXJpZmZdXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGFyaWZmIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cGFja2FnZSBtb2RlbHMKCmNhc2UgY2xhc3MgVG91UmF0ZVBlcmlvZCh0b3VJZDogSW50LCBkZXNjaXB0aW9uOiBTdHJpbmcpCgpjYXNlIGNsYXNzIENhbGVuZGFyKGVpZDogSW50LCBrZXkxOiBTdHJpbmcsIGtleTI6IFN0cmluZywgdG91UmF0ZVBlcmlvZHM6IFNlcVtUb3VSYXRlUGVyaW9kXSkKCmNhc2UgY2xhc3MgTGluZUl0ZW0odGFycmlmTGluZUlkOiBJbnQsIGRlc2NyaXB0aW9uOiBTdHJpbmcsIGNoYXJnZVR5cGU6IEludCwgY29tcGFyZUlkOiBJbnQsIGNvbG91cjogSW50LCB0b3VJZDogSW50KQoK</text>
+      <register name="9" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
