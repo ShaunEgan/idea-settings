@@ -198,11 +198,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474621317993">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474623470332">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="66" />
+        <mark key="." line="13" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/SmtpMailer/smtp-mailer-service-spec.js" timestamp="1473852661219">
         <mark key="[" line="50" column="34" />
@@ -424,7 +424,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474622082928">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474622579905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="30" column="65" />
         <mark key="^" line="30" column="65" />
@@ -661,11 +661,11 @@
       <jump line="4" column="34" filename="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>lineItemLength: Int</text>
       </register>
       <register name="-" type="4">
-        <text>defaultContext</text>
+        <text>lineItemLength: Int</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -674,34 +674,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCg==</text>
+        <text encoding="base64">Y2xhc3MgVGFyaWZmIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoyKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8yMy4KICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">R0VUICAgICAvaGVsbG8gICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaGVsbG9Xb3JsZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cGFja2FnZSBtb2RlbHMKCmNhc2UgY2xhc3MgVG91UmF0ZVBlcmlvZCh0b3VJZDogSW50LCBkZXNjaXB0aW9uOiBTdHJpbmcpCgpjYXNlIGNsYXNzIENhbGVuZGFyKGVpZDogSW50LCBrZXkxOiBTdHJpbmcsIGtleTI6IFN0cmluZywgdG91UmF0ZVBlcmlvZHM6IFNlcVtUb3VSYXRlUGVyaW9kXSkKCmNhc2UgY2xhc3MgTGluZUl0ZW0odGFycmlmTGluZUlkOiBJbnQsIGRlc2NyaXB0aW9uOiBTdHJpbmcsIGNoYXJnZVR5cGU6IEludCwgY29tcGFyZUlkOiBJbnQsIGNvbG91cjogSW50LCB0b3VJZDogSW50KQoK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
