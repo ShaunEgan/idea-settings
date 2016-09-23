@@ -15,9 +15,6 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/models/Patient.scala" timestamp="1474206942620">
-        <mark key="^" line="4" column="66" />
-      </file>
       <file name="$USER_HOME$/repositories/digestor/jasmine.js" timestamp="1473923454685">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -201,6 +198,12 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474621317993">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/repositories/digestor/spec/unit/SmtpMailer/smtp-mailer-service-spec.js" timestamp="1473852661219">
         <mark key="[" line="50" column="34" />
         <mark key="]" line="50" column="34" />
@@ -229,6 +232,12 @@
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474621178297">
+        <mark key="[" line="7" column="9" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/.gitignore" timestamp="1473747895057">
         <mark key="[" line="1" column="0" />
@@ -415,6 +424,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474622082928">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="30" column="65" />
+        <mark key="^" line="30" column="65" />
+        <mark key="." line="30" column="65" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1471245056998">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -503,6 +518,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" timestamp="1474621417663">
+        <mark key="[" line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end.js" timestamp="1471244664546">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -515,10 +533,11 @@
         <mark key="^" line="140" column="28" />
         <mark key="." line="140" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474618705500">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474620920613">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="40" />
+        <mark key="." line="15" column="40" />
+        <mark key="^" line="15" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473229865444">
         <mark key="[" line="680" column="6" />
@@ -643,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>import play.api.libs.concurrent.Execution.Implicits.defaultContext</text>
+        <text>defaultContext</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
@@ -655,34 +674,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoyKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8yMy4KICAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">R0VUICAgICAvaGVsbG8gICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaGVsbG9Xb3JsZAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoyKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8yMy4KICAqLwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsIG51bXMgPSBMaXN0KDEsIDIsIDMpCm51bXMucmVkdWNlTGVmdChfICsgXykK</text>
+        <text encoding="base64">R0VUICAgICAvaGVsbG8gICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaGVsbG9Xb3JsZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
