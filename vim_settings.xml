@@ -70,6 +70,12 @@
         <mark key="." line="88" column="5" />
         <mark key="^" line="88" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474618708102">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473851147347">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -444,8 +450,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1474616280466">
-        <mark key="[" line="2" column="73" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1474617118986">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/digestor/test/lib/Config/index.js" timestamp="1470485791662">
         <mark key="[" line="11" column="18" />
@@ -507,11 +515,10 @@
         <mark key="^" line="140" column="28" />
         <mark key="." line="140" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474615920576">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474618705500">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1473229865444">
         <mark key="[" line="680" column="6" />
@@ -636,51 +643,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>import play.api.libs.concurrent.Execution.Implicits.defaultContext</text>
       </register>
       <register name="/" type="4">
         <text>/\n//g</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIG51bXMgPSBMaXN0KDEsIDIsIDMpCm51bXMucmVkdWNlTGVmdChfICsgXykK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gc2FtcGxlcyB3aWxsIG5lZWQgdG8gYmUgbm9ybWFsaXNlZCBpbnRvIGhhbGYgaG91ciB0aW1lIGJsb2Nrcy4gVGhpcyB3aWxsIGxldCB1cyB1c2UgYSBzdGF0aWMgcmFuZ2UgaGVyZQp2YWwgcmFuZ2UgPSAxCg==</text>
+        <text encoding="base64">ICAgIE9rKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJzdWNjZXNzIikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZm9yIChpIDwtIDAgdG8gcmFuZ2UpIHsKICAgICBzYW1wbGVzKGkpCiAgIH0K</text>
+        <text encoding="base64">LyoyKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8wOS8yMy4KICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bCBkYXRhID0gU291cmNlLmZyb21GaWxlKGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">R0VUICAgICAvaGVsbG8gICAgICAgICAgICAgICAgICAgICAgY29udHJvbGxlcnMuSG9tZUNvbnRyb2xsZXIuaGVsbG9Xb3JsZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bCBkYXRhID0gU291cmNlLmZyb21GaWxlKGZpbGVuYW1lKQo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzIzLgogICovCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import scala.io.Source
-
-System.getProperty(&quot;user.dir&quot;)
-val filename = &quot;~/repositories/research/scala-research/src/note.xml&quot;
-
-v</text>
+      <register name="8" type="2">
+        <text encoding="base64">dmFsIG51bXMgPSBMaXN0KDEsIDIsIDMpCm51bXMucmVkdWNlTGVmdChfICsgXykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFsIHNxdWFyZSA9IHg6IERvdWJsZSA9PiB4ICogeAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
