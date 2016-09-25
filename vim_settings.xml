@@ -3,6 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/svc-practice/app/models/Patient.scala" timestamp="1474817679537">
+        <mark key="[" line="18" column="1" />
+        <mark key="^" line="4" column="66" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474547211925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -11,17 +15,82 @@
       <file name="/a.dummy" timestamp="1474807967164">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" timestamp="1471251252511">
+        <mark key="[" line="38" column="51" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474629206359">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PatientRepository.scala" timestamp="1474812130711">
-        <mark key="[" line="35" column="11" />
-        <mark key="]" line="34" column="13" />
-        <mark key="." line="34" column="13" />
-        <mark key="^" line="35" column="10" />
+      <file name="$USER_HOME$/workspace/mandril/config.js" timestamp="1473851147347">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/Collections/BasicSequenceMethods.sc" timestamp="1474440667774">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/traits/Database.scala" timestamp="1473695652023">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/Trending/trending-service.js" timestamp="1472106813968">
+        <mark key="[" line="22" column="32" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/index.js" timestamp="1473844275075">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/scala/src/sequences/BasicSequenceMethods.sc" timestamp="1474438571773">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/conf/application.conf" timestamp="1473695552627">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PatientRepository.scala" timestamp="1474813966954">
+        <mark key="[" line="38" column="85" />
+        <mark key="]" line="38" column="85" />
+        <mark key="." line="38" column="85" />
+        <mark key="^" line="38" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/SmptMailer/smtp-mailer-service.js" timestamp="1473767662225">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/Dockerfile" timestamp="1472725009210">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/integration/mail-sending-spec.js" timestamp="1473923644988">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/Dockerfile" timestamp="1473672038410">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1471327135335">
+        <mark key="[" line="124" column="1" />
+        <mark key="]" line="124" column="1" />
+        <mark key="." line="124" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474635256484">
         <mark key="[" line="31" column="17" />
@@ -29,11 +98,46 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="31" column="16" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/webapp/mobile-config.js" timestamp="1473144049945">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="17" />
+        <mark key="." line="7" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474635147905">
         <mark key="[" line="25" column="8" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
         <mark key="^" line="25" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/proxied-request.js" timestamp="1471006049751">
+        <mark key="[" line="87" column="6" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/DigestMailer/index.js" timestamp="1473850624906">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/src/AWSMailer/aws-mailer-service.js" timestamp="1471592810449">
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/package.json" timestamp="1473768457365">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/assets/email.jade" timestamp="1472109860165">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/.dockerignore" timestamp="1472804015097">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" timestamp="1474459663903">
         <mark key="'" line="4" column="34" />
@@ -42,12 +146,42 @@
         <mark key="^" line="4" column="39" />
         <mark key="." line="4" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/support/unit.json" timestamp="1473749244494">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="34" />
+        <mark key="." line="8" column="34" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1474537352157" />
       <file name="$USER_HOME$/dev/svc-practice/conf/routes" timestamp="1474812685946">
         <mark key="[" line="14" column="87" />
         <mark key="]" line="14" column="87" />
         <mark key="." line="14" column="87" />
         <mark key="^" line="14" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/production/VERSION" timestamp="1473143977775">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/Module.scala" timestamp="1473697897205">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/index.js" timestamp="1471432747732">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/conf/evolutions/default/1.sql" timestamp="1474207047074">
+        <mark key="[" line="10" column="72" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" timestamp="1474207574413">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/research/scala-research/src/readXml.sc" timestamp="1474532580520">
         <mark key="[" line="8" column="22" />
@@ -70,11 +204,10 @@
         <mark key="^" line="4" column="16" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PatientController.scala" timestamp="1474813007949">
-        <mark key="[" line="28" column="56" />
-        <mark key="]" line="28" column="56" />
-        <mark key="." line="28" column="56" />
-        <mark key="^" line="28" column="56" />
+      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PatientController.scala" timestamp="1474818184308">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474627825391">
         <mark key="[" line="0" column="0" />
@@ -82,13 +215,63 @@
         <mark key="^" line="30" column="65" />
         <mark key="." line="30" column="65" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/package.json" timestamp="1471245056998">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/circle.yml" timestamp="1473921028927">
+        <mark key="[" line="11" column="61" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/research/scala-research/src/Collections/ArraysAndLists.sc" timestamp="1474439903556">
         <mark key="[" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/models/Practice.scala" timestamp="1473695128226">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/controllers/Health.scala" timestamp="1473698002024">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1474617118986">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-audioprocessor/package.json" timestamp="1472725043970">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" timestamp="1473923615506">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/digestor/spec/support/integration.json" timestamp="1473857307073">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/mandril/MandrilMailer/index.js" timestamp="1473768428732">
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/build.sbt" timestamp="1473695603438">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientPracticeTable.scala" timestamp="1473696476750">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" timestamp="1474621417663">
         <mark key="[" line="0" column="6" />
@@ -203,11 +386,11 @@
       <jump line="4" column="34" filename="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -216,34 +399,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBOb25lID0+IE5vdEZvdW5kKEpzb24ub2JqKCJtZXNzYWdlIiAtPiBzIlVuYWJsZSB0byBmaW5kIHBhdGllbnQgJGlkIGluIHByYWN0aWNlICRwcmFjdGljZUlkIikpCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Tm90Rm91bmQoSnNvbi5vYmooCiAgICAgICAgInN0YXR1cyIgLT4gIk5vdCBmb3VuZCIsIAogICAgICAgICJtZXNzYWdlIiAtPiBzIlVuYWJsZSB0byBsb2NhdGUgcGF0aWVudCAkaWQgaW4gcHJhY3RpY2UgJHByYWN0aWNlSWQiCiAgICAgICkp</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgICkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">cGF0aWVudFJlcG9zaXRvcnkuaW5zZXJ0KG5ldyBQYXRpZW50KE5vbmUsIHByYWN0aWNlSWQsIChyZXF1ZXN0LmJvZHkgXCAicGF0aWVudElkIikuYXNbSW50XSkpLm1hcCB7IHBhdGllbnQgPT4KICAgICAgQ3JlYXRlZChKc29uLm9iaigKICAgICAgICAic3RhdHVzIiAtPiAib2siLAogICAgICAgICJwYXRpZW50IiAtPiBwYXRpZW50CiAgICAgICkpLndpdGhIZWFkZXJzKAogICAgICAgIExPQ0FUSU9OIC0+IHMiL3ByYWN0aWNlcy8kcHJhY3RpY2VJZC9wYXRpZW50cy8ke3BhdGllbnQucGF0aWVudElkfSIKICAgICAgKQogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgIGNhc2UgTm9uZSA9PiBGdXR1cmUuc3VjY2Vzc2Z1bChOb3RGb3VuZChKc29uLm9iaigic3RhdHVzIiAtPiAiTm90IGZvdW5kIiwgIm1lc3NhZ2UiIC0+IHMiVW5hYmxlIHRvIGxvY2F0ZSBwYXRpZW50ICRpZCBpbiBwcmFjdGljZSAkcHJhY3RpY2VJZCIpKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBwYXRpZW50SWQgPSAKCiAgICB2YWwgcGF0aWVudCA9IG5ldyBQYXRpZW50KE5vbmUsIHByYWN0aWNlSWQsIHBhdGllbnRJZCkKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBwYXRpZW50ID0gcmVxdWVzdC5ib2R5LnZhbGlkYXRlW1BhdGllbnRdCiAgICAvLwogICAgLy8gICAgcGF0aWVudC5mb2xkKAogICAgLy8gICAgICBlcnJvcnMgPT4gRnV0dXJlKEJhZFJlcXVlc3QoSnNvbi5vYmooCiAgICAvLyAgICAgICAgInN0YXR1cyIgLT4gIlBhdGllbnQgdXBkYXRlIGZhaWxlZCIsCiAgICAvLyAgICAgICAgImVycm9ycyIgLT4gSnNFcnJvci50b0pzb24oZXJyb3JzKQogICAgLy8gICAgICApKSksCiAgICAvLyAgICAgIHBhdGllbnQgPT4gewogICAgLy8gICAgICAgIHBhdGllbnRSZXBvc2l0b3J5LmZpbmRQYXRpZW50QnlQcmFjdGljZShwcmFjdGljZUlkLCBpZCkgZmxhdE1hcCB7CiAgICAvLyAgICAgICAgICBjYXNlIFNvbWUocCkgPT4KICAgIC8vICAgICAgICAgICAgcGF0aWVudFJlcG9zaXRvcnkudXBkYXRlKHBhdGllbnQuY29weShpZCA9IHAuaWQpKSBtYXAgewogICAgLy8gICAgICAgICAgICAgIGNhc2UgdHJ1ZSA9PiBPayhKc29uLm9iaigic3RhdHVzIiAtPiAib2siKSkKICAgIC8vICAgICAgICAgICAgICBjYXNlIGZhbHNlID0+IE5vdEZvdW5kKEpzb24ub2JqKCJzdGF0dXMiIC0+ICJOb3QgZm91bmQiLCAibWVzc2FnZSIgLT4gcyJVbmFibGUgdG8gbG9jYXRlIHBhdGllbnQgJGlkIGluIHByYWN0aWNlICRwcmFjdGljZUlkIikpCg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgIGNhc2UgTm9uZSA9PiBGdXR1cmUuc3VjY2Vzc2Z1bChwYXRpZW50Tm90Rm91bmQocHJhY3RpY2VJZCwgaWQpKQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
