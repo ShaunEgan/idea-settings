@@ -71,6 +71,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1474889452067">
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="17" column="15" />
+        <mark key="^" line="17" column="15" />
+        <mark key="." line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474881368811">
         <mark key="[" line="99" column="42" />
         <mark key="]" line="85" column="0" />
@@ -108,7 +114,7 @@
         <mark key="]" line="10" column="53" />
         <mark key="." line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1474883416019">
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/staging.template" timestamp="1474889246690">
         <mark key="[" line="1082" column="28" />
         <mark key="]" line="1444" column="0" />
         <mark key="." line="1444" column="0" />
@@ -226,11 +232,11 @@
       <jump line="4" column="34" filename="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiTWV0ZW9ySW5zdGFuY2UxYTIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>parsePosition</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -239,34 +245,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiTWV0ZW9ySW5zdGFuY2UxYTIiCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlJlZiI6ICJBV1M6OlJlZ2lvbiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0KXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgMSwK</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yICh0b3VSYXRlUGVyaW9kIDwtICh4bWwgXCAidG91cmF0ZXBlcmlvZHMiKSkgeWllbGQgVG91UmF0ZVBlcmlvZCh0b3VSYXRlUGVyaW9kKQo=</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgMSwK</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgMSwK</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgMXMK</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
