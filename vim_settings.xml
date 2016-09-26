@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PatientRepository.scala" timestamp="1474823011085">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="63" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/svc-practice/app/models/Patient.scala" timestamp="1474820373626">
         <mark key="[" line="18" column="1" />
         <mark key="^" line="4" column="66" />
@@ -10,74 +16,24 @@
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/HealthController.scala" timestamp="1474820441061">
         <mark key="[" line="5" column="43" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474876743607">
+        <mark key="[" line="81" column="66" />
+        <mark key="]" line="81" column="65" />
+        <mark key="." line="81" column="65" />
+        <mark key="^" line="81" column="65" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474547211925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1474807967164">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474629206359">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PatientRepository.scala" timestamp="1474823011085">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="63" column="1" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474635256484">
-        <mark key="[" line="31" column="17" />
-        <mark key="]" line="31" column="16" />
-        <mark key="." line="31" column="16" />
-        <mark key="^" line="31" column="16" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474635147905">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PracticeRepository.scala" timestamp="1474823320777">
-        <mark key="[" line="25" column="21" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="53" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1474537352157" />
-      <file name="$USER_HOME$/dev/svc-practice/conf/routes" timestamp="1474821705246">
-        <mark key="[" line="7" column="94" />
-        <mark key="]" line="7" column="94" />
-        <mark key="." line="7" column="94" />
-        <mark key="^" line="14" column="86" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" timestamp="1474819511717">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="10" column="13" />
-        <mark key="." line="10" column="13" />
-      </file>
-      <file name="$USER_HOME$/repositories/research/scala-research/src/readXml.sc" timestamp="1474532580520">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="8" column="22" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474635454397">
-        <mark key="[" line="378" column="4" />
-        <mark key="]" line="378" column="4" />
-        <mark key="^" line="10" column="53" />
-        <mark key="." line="378" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1474822099349">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
+      </file>
+      <file name="/a.dummy" timestamp="1474807967164">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PatientController.scala" timestamp="1474822289716">
         <mark key="[" line="152" column="0" />
@@ -94,19 +50,62 @@
       <file name="$USER_HOME$/repositories/research/scala-research/src/Collections/ArraysAndLists.sc" timestamp="1474439903556">
         <mark key="[" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1474617118986">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474874173678">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" timestamp="1474621417663">
         <mark key="[" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474629206359">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+        <mark key="^" line="4" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1474635425677">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="40" />
         <mark key="." line="15" column="40" />
         <mark key="^" line="21" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/tables/PatientTable.scala" timestamp="1474819511717">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="10" column="13" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/readXml.sc" timestamp="1474532580520">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PracticeRepository.scala" timestamp="1474823320777">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-practice/conf/routes" timestamp="1474821705246">
+        <mark key="[" line="7" column="94" />
+        <mark key="]" line="7" column="94" />
+        <mark key="." line="7" column="94" />
+        <mark key="^" line="14" column="86" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474875184952">
+        <mark key="[" line="10" column="61" />
+        <mark key="]" line="10" column="61" />
+        <mark key="." line="10" column="61" />
+        <mark key="^" line="10" column="60" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1474617118986">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -213,10 +212,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>The practice the patient belongs to</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>The practice the patient belongs to</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -225,34 +224,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
+        <text encoding="base64">ICAgICAgdmFsIHNpbmdsZVBhdHRlcm4gPSAucgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHBhdGllbnRSZXBvc2l0b3J5LmRlbGV0ZShwcmFjdGljZUlkLCBpZCkgbWFwIHsgXyA9PgogICAgLy8gICAgICBPayhKc29uLm9iaigKICAgIC8vICAgICAgICAic3RhdHVzIiAtPiAib2siLAogICAgLy8gICAgICAgICJtZXNzYWdlIiAtPiBzIkRlbGV0ZWQgcGF0aWVudCB3aXRoIGlkICRpZCIKICAgIC8vICAgICAgKSkKICAgIC8vICAgIH0K</text>
+        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHByYWN0aWNlUmVwb3NpdG9yeS5kZWxldGUoaWQpLm1hcCB7IF8gPT4gT2soSnNvbi5vYmooCiAgICAvLyAgICAgICJzdGF0dXMiIC0+ICJPayIsCiAgICAvLyAgICAgICJtZXNzYWdlIiAtPiBzIkRlbGV0ZWQgcGF0aWVudCB3aXRoIGlkOiAkaWQiCiAgICAvLyAgICApKSB9Cgo=</text>
+        <text encoding="base64">ICBpbXBvcnQgcGxheS5hcGkubGlicy5jb25jdXJyZW50LkV4ZWN1dGlvbi5JbXBsaWNpdHMuZGVmYXVsdENvbnRleHQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyIgLT4gIk5vdCBmb3VuZCIsCiAgICAgICAgICAgICJtZXNzYWdlIiAtPiBzIlVuYWJsZSB0byBsb2NhdGUgcHJhY3RpY2Ugd2l0aCBpZDogJGlkIikpCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHBhdGllbnRSZXBvc2l0b3J5LmRlbGV0ZShwcmFjdGljZUlkLCBpZCkgbWFwIHsgXyA9PgogICAgLy8gICAgICBPayhKc29uLm9iaigKICAgIC8vICAgICAgICAic3RhdHVzIiAtPiAib2siLAogICAgLy8gICAgICAgICJtZXNzYWdlIiAtPiBzIkRlbGV0ZWQgcGF0aWVudCB3aXRoIGlkICRpZCIKICAgIC8vICAgICAgKSkKICAgIC8vICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vICAgIHByYWN0aWNlUmVwb3NpdG9yeS5kZWxldGUoaWQpLm1hcCB7IF8gPT4gT2soSnNvbi5vYmooCiAgICAvLyAgICAgICJzdGF0dXMiIC0+ICJPayIsCiAgICAvLyAgICAgICJtZXNzYWdlIiAtPiBzIkRlbGV0ZWQgcGF0aWVudCB3aXRoIGlkOiAkaWQiCiAgICAvLyAgICApKSB9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInN0YXR1cyIgLT4gIk5vdCBmb3VuZCIsCiAgICAgICAgICAgICJtZXNzYWdlIiAtPiBzIlVuYWJsZSB0byBsb2NhdGUgcHJhY3RpY2Ugd2l0aCBpZDogJGlkIikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmFjdGljZSBtYXRjaCB0dXJlLnN1Y2Nlc3NmdWwoQmFkUmVxdWVzdCgiSW52YWxpZCBKU09OIHJlcXVlc3QiKSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICBjYXNlIFNvbWUoeCkgPT4KICAgICAgICB9CiAgICAgICAgY2FzZSBOb25lID0+IEZ1</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
