@@ -45,6 +45,11 @@
       <file name="$USER_HOME$/repositories/research/scala-research/src/Collections/ArraysAndLists.sc" timestamp="1474439903556">
         <mark key="[" line="14" column="10" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1474895241441">
+        <mark key="[" line="1" column="146" />
+        <mark key="]" line="1" column="146" />
+        <mark key="." line="1" column="146" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1474881491016">
         <mark key="[" line="4" column="12" />
         <mark key="]" line="2" column="11" />
@@ -119,6 +124,11 @@
         <mark key="]" line="1444" column="0" />
         <mark key="." line="1444" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1474895165849">
+        <mark key="[" line="0" column="927" />
+        <mark key="]" line="0" column="927" />
+        <mark key="." line="0" column="927" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474881445521">
         <mark key="[" line="10" column="61" />
         <mark key="]" line="20" column="10" />
@@ -128,6 +138,7 @@
       <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/production/cloudformation/crowdCaster.template" timestamp="1474894935047" />
     </filemarks>
     <jumps>
       <jump line="70" column="5" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -233,10 +244,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>production</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -244,35 +255,37 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text>{
+                  &quot;Ref&quot;: &quot;AWS::Region&quot;
+                }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlJlZiI6ICJBV1M6OlJlZ2lvbiIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
