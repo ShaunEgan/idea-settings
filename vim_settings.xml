@@ -9,10 +9,6 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="63" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/models/Patient.scala" timestamp="1474820373626">
-        <mark key="[" line="18" column="1" />
-        <mark key="^" line="4" column="66" />
-      </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/HealthController.scala" timestamp="1474820441061">
         <mark key="[" line="5" column="43" />
       </file>
@@ -28,6 +24,12 @@
       </file>
       <file name="/a.dummy" timestamp="1474807967164">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/XPathOptional.scala" timestamp="1474959940149">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+        <mark key="^" line="3" column="6" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PatientController.scala" timestamp="1474822289716">
         <mark key="[" line="152" column="0" />
@@ -82,17 +84,17 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474881368811">
-        <mark key="[" line="99" column="42" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474960301836">
+        <mark key="[" line="53" column="6" />
+        <mark key="]" line="53" column="6" />
+        <mark key="." line="53" column="6" />
+        <mark key="^" line="103" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474874173678">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="25" column="17" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474958581432">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.xml" timestamp="1474621417663">
         <mark key="[" line="0" column="6" />
@@ -129,11 +131,16 @@
         <mark key="]" line="0" column="927" />
         <mark key="." line="0" column="927" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474881445521">
-        <mark key="[" line="10" column="61" />
-        <mark key="]" line="20" column="10" />
-        <mark key="." line="20" column="10" />
-        <mark key="^" line="20" column="10" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/OptionalField.scala" timestamp="1474960260817">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474961199827">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/research/scala-research/src/xml/note.xml" timestamp="1474459542955">
         <mark key="[" line="0" column="0" />
@@ -243,11 +250,11 @@
       <jump line="4" column="34" filename="$USER_HOME$/repositories/research/scala-research/src/xml/readXml.sc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>production</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text>intAsOption</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -255,37 +262,35 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                  &quot;Ref&quot;: &quot;AWS::Region&quot;
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9CiAgICAgICAgICAgIF0K</text>
+        <text encoding="base64">aW1wb3J0IG1vZGVscy5UYXJpZmYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZGVmIGludEFzT3B0aW9uKHM6IFN0cmluZyk6IE9wdGlvbltJbnRdID0gewogICAgICB2YWwgSW50UGF0dGVybiA9ICIoXFxkKykiLnIKCiAgICAgIHMgbWF0Y2ggewogICAgICAgIGNhc2UgSW50UGF0dGVybih4KSA9PiBTb21lKHgudG9JbnQpCiAgICAgICAgY2FzZSBfID0+IE5vbmUKICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">b2JqZWN0IE9wdGlvbmFsRmllbGQgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
