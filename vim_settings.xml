@@ -104,7 +104,11 @@
         <mark key="." line="7" column="94" />
         <mark key="^" line="14" column="86" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475052429571" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475059752300">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Profile.scala" timestamp="1474965637487">
         <mark key="[" line="44" column="7" />
         <mark key="]" line="44" column="7" />
@@ -153,6 +157,11 @@
         <mark key="]" line="17" column="11" />
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475059606181">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1474980030018">
         <mark key="]" line="15" column="87" />
@@ -340,8 +349,8 @@
       <jump line="22" column="16" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -352,40 +361,35 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgoKCgoKCgoKCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIE1ldGVyIHsKCn0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoKCgoKCgoKCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoKCgoKCgo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIEN1cnJlbmN5IHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIFRheCB7Cgp9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIExpbmVJdGVtIHsKCn0K</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIEN1cnJlbmN5IHsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIENhbGVuZGFyIHsKCn0K</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIFRheCB7Cgp9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-  * Created by shaunegan on 2016/09/28.
-  */
-class TouRatePeriod {
-
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzA5LzI4LgogICovCmNsYXNzIExpbmVJdGVtIHsKCn0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
