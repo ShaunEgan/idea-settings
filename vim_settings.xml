@@ -54,8 +54,11 @@
         <mark key="]" line="1" column="146" />
         <mark key="." line="1" column="146" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaOptional.scala" timestamp="1474969547251">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaOptional.scala" timestamp="1475046471710">
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="45" column="29" />
+        <mark key="^" line="45" column="29" />
+        <mark key="." line="45" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountSamplesController.scala" timestamp="1475043869675">
         <mark key="[" line="32" column="17" />
@@ -98,11 +101,11 @@
         <mark key="^" line="17" column="15" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1474980223754">
-        <mark key="[" line="4" column="38" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475046395733">
+        <mark key="[" line="77" column="41" />
         <mark key="]" line="4" column="38" />
         <mark key="." line="4" column="38" />
-        <mark key="^" line="83" column="22" />
+        <mark key="^" line="85" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountSamplesRepository.scala" timestamp="1475040473065">
         <mark key="[" line="20" column="20" />
@@ -176,10 +179,10 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1474980096731">
-        <mark key="[" line="33" column="36" />
-        <mark key="]" line="33" column="16" />
-        <mark key="." line="33" column="16" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475046431720">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
         <mark key="^" line="33" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" timestamp="1475040451662">
@@ -299,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.DateWrites</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>.DateWrites</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
