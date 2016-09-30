@@ -3,10 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/FeedMongoRepository.scala" timestamp="1475227741674" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474547211925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Meta.scala" timestamp="1475229952851">
+        <mark key="[" line="55" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/LineItem.scala" timestamp="1475053780787">
         <mark key="[" line="8" column="60" />
@@ -15,6 +19,11 @@
       </file>
       <file name="/a.dummy" timestamp="1475223052821">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1475230286689">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultWrites.scala" timestamp="1475149680848">
         <mark key="[" line="6" column="0" />
@@ -28,6 +37,9 @@
         <mark key="[" line="1" column="146" />
         <mark key="]" line="1" column="146" />
         <mark key="." line="1" column="146" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
+        <mark key="[" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TouRatePeriod.scala" timestamp="1475053648961">
         <mark key="[" line="6" column="57" />
@@ -78,18 +90,16 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1475145116547">
-        <mark key="'" line="33" column="87" />
-        <mark key="[" line="33" column="89" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1475227654248" />
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1474822099349">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1475220886941" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
+        <mark key="[" line="36" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/view-handler.js" timestamp="1475222596428">
         <mark key="[" line="97" column="17" />
       </file>
@@ -121,8 +131,16 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1475222578995">
-        <mark key="[" line="157" column="49" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Feed.scala" timestamp="1475229871217">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="8" column="59" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1475230691398">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475059606181">
         <mark key="[" line="6" column="0" />
@@ -274,11 +292,11 @@
       <jump line="33" column="87" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>background: rgba(0,0,0,0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>background: rgba(0,0,0,0)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -287,34 +305,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b2JqZWN0IFRheFZhcmlhdGlvbnMgewogIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwogIGNvbnNvbGUubG9nKHR5cGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgY2FsZW5kYXIuZ2V0VGltZQoKLy8gICAgRGF0ZS5mcm9tKG5vdy53aXRoRGF5T2ZNb250aCgxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGNhbGVuZGFyID0gQ2FsZW5kYXIuZ2V0SW5zdGFuY2UoKQovLwovLyAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuREFZX09GX01PTlRILCAxKQovLyAgICBjYWxlbmRhci5zZXQoQ2FsZW5kYXIuSE9VUiwgMCkKLy8gICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTlVURSwgMCkKLy8gICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwgMCkKLy8gICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1JTExJU0VDT05ELCAwKQovLwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBub3cgPSBuZXcgTG9jYWxEYXRlCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGMuZ2V0VGltZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGMuc2V0KENhbGVuZGFyLkRBWV9PRl9NT05USCwgMSkK</text>
+        <text encoding="base64">ICAgICAgICBmZWVkUmVwb3NpdG9yeSBmaW5kQnlJZCB2YWx1ZSBtYXAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgZGVmIHJlYWRzKHM6IFN0cmluZykgPSAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IGZlZWQgPT4KICAgICAgICAgIGZvciAobWVkaWEgPC0gZmVlZCkgeWllbGQgbWVkaWFSZXBvc2l0b3J5IGZpbmQKCiAgICAgICAgfQogICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">b2JqZWN0IFRheFZhcmlhdGlvbnMgewogIAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
