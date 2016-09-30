@@ -13,10 +13,16 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1475223052821">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultWrites.scala" timestamp="1475149680848">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/index.js" timestamp="1475223485323">
+        <mark key="[" line="40" column="30" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1474895241441">
         <mark key="[" line="1" column="146" />
@@ -84,10 +90,16 @@
         <mark key="." line="66" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1475220886941" />
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/view-handler.js" timestamp="1475222596428">
+        <mark key="[" line="97" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Calendar.scala" timestamp="1475129673902">
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1475223362675">
+        <mark key="[" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Currency.scala" timestamp="1475053851228">
         <mark key="[" line="7" column="63" />
@@ -109,10 +121,19 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1475222578995">
+        <mark key="[" line="157" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475059606181">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_normalize.scss" timestamp="1475222933929">
+        <mark key="[" line="27" column="2" />
+        <mark key="]" line="27" column="2" />
+        <mark key="^" line="27" column="25" />
+        <mark key="." line="27" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1475138800467">
         <mark key="[" line="23" column="0" />
@@ -254,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Eldo</text>
+        <text>background: rgba(0,0,0,0)</text>
       </register>
       <register name="-" type="4">
-        <text>Eldo</text>
+        <text>background: rgba(0,0,0,0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
