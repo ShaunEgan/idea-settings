@@ -109,6 +109,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/README.md" timestamp="1475216677931">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Profile.scala" timestamp="1474965637487">
         <mark key="[" line="44" column="7" />
         <mark key="]" line="44" column="7" />
@@ -349,10 +355,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2FzZSA=</text>
+        <text>Eldo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FzZSA=</text>
+        <text>Eldo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
