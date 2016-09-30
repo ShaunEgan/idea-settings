@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/svc-practice/app/repositories/PatientRepository.scala" timestamp="1474823011085">
-        <mark key="[" line="59" column="21" />
-        <mark key="]" line="59" column="21" />
-        <mark key="." line="59" column="21" />
-        <mark key="^" line="63" column="1" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474547211925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -24,36 +18,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/MeterProfileRepository.scala" timestamp="1474976479801">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="11" column="46" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/XPathOptional.scala" timestamp="1474959940149">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="3" column="6" />
-        <mark key="." line="3" column="6" />
-        <mark key="^" line="3" column="6" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/Date.scala" timestamp="1474979599633">
-        <mark key="[" line="7" column="6" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
-        <mark key="^" line="11" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PatientController.scala" timestamp="1474822289716">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="0" />
-        <mark key="." line="152" column="0" />
-        <mark key="^" line="159" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" timestamp="1474627825391">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="30" column="65" />
-        <mark key="^" line="30" column="65" />
-        <mark key="." line="30" column="65" />
-      </file>
+      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1475220886941" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultWrites.scala" timestamp="1475149680848">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="10" column="0" />
@@ -64,30 +29,6 @@
         <mark key="]" line="1" column="146" />
         <mark key="." line="1" column="146" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaOptional.scala" timestamp="1475046471710">
-        <mark key="[" line="37" column="18" />
-        <mark key="]" line="45" column="29" />
-        <mark key="^" line="45" column="29" />
-        <mark key="." line="45" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountSamplesController.scala" timestamp="1475052642932">
-        <mark key="[" line="11" column="11" />
-        <mark key="]" line="11" column="11" />
-        <mark key="^" line="32" column="16" />
-        <mark key="." line="11" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.xml" timestamp="1474881491016">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/HttpRequest.scala" timestamp="1474629206359">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-        <mark key="^" line="4" column="5" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TouRatePeriod.scala" timestamp="1475053648961">
         <mark key="[" line="6" column="57" />
         <mark key="]" line="6" column="0" />
@@ -97,12 +38,6 @@
         <mark key="[" line="6" column="93" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-practice/conf/routes" timestamp="1474821705246">
-        <mark key="[" line="7" column="94" />
-        <mark key="]" line="7" column="94" />
-        <mark key="." line="7" column="94" />
-        <mark key="^" line="14" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475059752300">
         <mark key="[" line="6" column="0" />
@@ -115,12 +50,6 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Profile.scala" timestamp="1474965637487">
-        <mark key="[" line="44" column="7" />
-        <mark key="]" line="44" column="7" />
-        <mark key="." line="44" column="7" />
-        <mark key="^" line="44" column="12" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Currency.scala" timestamp="1475053851228">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="0" />
@@ -130,12 +59,6 @@
         <mark key="[" line="5" column="85" />
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1474890160359">
-        <mark key="[" line="17" column="9" />
-        <mark key="]" line="17" column="15" />
-        <mark key="^" line="17" column="15" />
-        <mark key="." line="17" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tax.scala" timestamp="1475150386696">
         <mark key="[" line="28" column="0" />
@@ -148,22 +71,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountSamplesRepository.scala" timestamp="1475052454306">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="^" line="4" column="27" />
-        <mark key="." line="15" column="6" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/MeterProfile.scala" timestamp="1474976777310">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/AccountSamples.scala" timestamp="1475052334046">
-        <mark key="[" line="17" column="11" />
-        <mark key="]" line="17" column="11" />
-        <mark key="^" line="17" column="17" />
-        <mark key="." line="17" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475059606181">
         <mark key="[" line="6" column="0" />
@@ -197,12 +108,6 @@
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/research/scala-research/src/readXml.sc" timestamp="1474532580520">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="8" column="22" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultReads.scala" timestamp="1475143364044">
         <mark key="[" line="5" column="7" />
         <mark key="]" line="5" column="9" />
@@ -223,12 +128,6 @@
         <mark key="[" line="0" column="927" />
         <mark key="]" line="0" column="927" />
         <mark key="." line="0" column="927" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/OptionalField.scala" timestamp="1474960260817">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="2" column="7" />
-        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475150469448">
         <mark key="[" line="39" column="14" />
