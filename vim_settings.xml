@@ -20,10 +20,12 @@
       <file name="/a.dummy" timestamp="1475223052821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1475230286689">
-        <mark key="[" line="44" column="53" />
-        <mark key="]" line="40" column="21" />
-        <mark key="." line="40" column="21" />
+      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1475234680063">
+        <mark key="'" line="73" column="93" />
+        <mark key="[" line="101" column="9" />
+        <mark key="]" line="101" column="9" />
+        <mark key="." line="101" column="9" />
+        <mark key="^" line="44" column="86" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultWrites.scala" timestamp="1475149680848">
         <mark key="[" line="6" column="0" />
@@ -103,11 +105,6 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/view-handler.js" timestamp="1475222596428">
         <mark key="[" line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Calendar.scala" timestamp="1475129673902">
-        <mark key="[" line="6" column="93" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1475223362675">
         <mark key="[" line="10" column="24" />
       </file>
@@ -120,11 +117,6 @@
         <mark key="[" line="5" column="85" />
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475140924364">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/MediaItem.scala" timestamp="1475233850765">
         <mark key="[" line="27" column="44" />
@@ -193,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="0" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="176" column="57" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="6" column="28" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="7" column="25" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -293,13 +284,14 @@
       <jump line="3" column="15" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" />
       <jump line="22" column="16" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" />
       <jump line="33" column="87" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" />
+      <jump line="88" column="93" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -307,35 +299,35 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LwogIHByaXZhdGUgZGVmIGZldGNoTWVkaWEobWVkaWFJZDogU3RyaW5nKTogRnV0dXJlW09wdGlvbltNZWRpYV1dID0gewogICAgbWVkaWFSZXBvc2l0b3J5LmZpbmRNZWRpYUl0ZW0obWVkaWFJZCkuZmxhdE1hcCB7CiAgICAgIGNhc2UgU29tZShtZWRpYUl0ZW0pID0+IG1lZGlhSXRlbS5tZWRpYVR5cGUgbWF0Y2ggewogICAgICAgIGNhc2UgImNsaXAiID0+IEZ1dHVyZSB7IFNvbWUoQ2FzdChtZWRpYUl0ZW0pKSB9CiAgICAgICAgY2FzZSAic2hvdyIgPT4gbWVkaWFSZXBvc2l0b3J5LnNob3dNZWRpYShtZWRpYUl0ZW0pLm1hcChjb252ZXJ0VG9DYXN0cykubWFwIHsgeCA9PgoKICAgICAgICAgIFBsYXlsaXN0KHgsIFNob3dNZXRhKG1lZGlhSXRlbSkpCiAgICAgICAgfS5tYXAoU29tZShfKSkKICAgICAgfQoKICAgICAgY2FzZSBOb25lID0+IEZ1dHVyZS5zdWNjZXNzZnVsKE5vbmUpCiAgICB9CiAgfQoKICBwcml2YXRlIGRlZiBjb252ZXJ0VG9DYXN0cyhsaXN0OiBMaXN0W01lZGlhSXRlbV0pOiBMaXN0W0Nhc3RdID0gbGlzdC5tYXAoQ2FzdChfKSkKICAKICBwcml2YXRlIGRlZiBwcm90ZWN0ZWRNZWRpYU1hdGNoZXNGZWVkQXV0aG9yKGl0ZW06IE1lZGlhSXRlbSk6IEJvb2xlYW4gPSBpZiAoIWl0ZW0ucHJvdGVjdGVk</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwogIGNvbnNvbGUubG9nKHR5cGUpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwogIGNvbnNvbGUubG9nKHR5cGUpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaGVyZScpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5qb2RhLnRpbWUuRGF0ZVRpbWUK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBmZWVkUmVwb3NpdG9yeSBmaW5kQnlJZCB2YWx1ZSBtYXAgCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IGZlZWQgPT4KICAgICAgICAgIGZvciAobWVkaWEgPC0gZmVlZCkgeWllbGQgbWVkaWFSZXBvc2l0b3J5IGZpbmQKCiAgICAgICAgfQogICAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">b2JqZWN0IFRheFZhcmlhdGlvbnMgewogIAp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
