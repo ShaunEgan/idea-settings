@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/FeedMongoRepository.scala" timestamp="1475227741674" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.xml" timestamp="1474547211925">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -58,16 +57,42 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/svc-practice/conf/routes" timestamp="1475415133965" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tax.scala" timestamp="1475150386696">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-user/app/traits/Database.scala" timestamp="1475414045417">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/conf/application.conf" timestamp="1475414227931">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="66" />
+        <mark key="." line="5" column="66" />
+        <mark key="^" line="5" column="66" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/conf/evolutions/default/1.sql" timestamp="1475414232744">
+        <mark key="[" line="8" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/implicits/Dates.scala" timestamp="1474979091350">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/build.sbt" timestamp="1475412108922">
+        <mark key="[" line="9" column="67" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/models/user.scala" timestamp="1475412521044">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1475147224861">
         <mark key="[" line="27" column="0" />
@@ -97,13 +122,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/repositories/MediaMongoRepository.scala" timestamp="1475227654248" />
-      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1474822099349">
+      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1475415317932">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/socket-manager.js" timestamp="1475220886941" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
         <mark key="[" line="36" column="12" />
       </file>
@@ -118,10 +141,20 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-user/README" timestamp="1475411463961">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1475139930385">
         <mark key="[" line="5" column="85" />
         <mark key="]" line="5" column="58" />
         <mark key="." line="5" column="58" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1475413623222">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/MediaItem.scala" timestamp="1475238738640">
         <mark key="[" line="27" column="22" />
@@ -129,10 +162,22 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/svc-user/conf/routes" timestamp="1475416464642">
+        <mark key="[" line="6" column="72" />
+        <mark key="]" line="6" column="70" />
+        <mark key="^" line="6" column="70" />
+        <mark key="." line="6" column="70" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/MeterProfile.scala" timestamp="1474976777310">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/tables/UserTable.scala" timestamp="1475413082492">
+        <mark key="[" line="18" column="3" />
+        <mark key="]" line="18" column="1" />
+        <mark key="." line="18" column="1" />
+        <mark key="^" line="18" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Feed.scala" timestamp="1475238664456">
         <mark key="i" line="19" column="40" />
@@ -140,6 +185,11 @@
         <mark key="]" line="8" column="69" />
         <mark key="^" line="8" column="69" />
         <mark key="." line="8" column="69" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/Module.scala" timestamp="1475411527868">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" timestamp="1475230691398">
         <mark key="[" line="32" column="0" />
@@ -161,6 +211,11 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/controllers/HealthController.scala" timestamp="1475411869749">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1475140884185">
         <mark key="[" line="28" column="20" />
@@ -192,13 +247,20 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/ApiConversions.scala" timestamp="1475149735377">
         <mark key="[" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-user/app/repositories/UserRepository.scala" timestamp="1475414878462">
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="37" column="61" />
+        <mark key="." line="37" column="61" />
+        <mark key="^" line="37" column="61" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1475416421979">
+        <mark key="[" line="75" column="19" />
+        <mark key="]" line="73" column="19" />
+        <mark key="." line="73" column="19" />
+        <mark key="^" line="73" column="19" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="57" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="6" column="28" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="7" column="25" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="63" column="84" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="75" column="32" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="153" column="16" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="156" column="18" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="158" column="6" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
@@ -294,13 +356,18 @@
       <jump line="22" column="16" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" />
       <jump line="33" column="87" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" />
       <jump line="88" column="93" filename="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/dev/svc-user/README" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/svc-user/README" />
+      <jump line="48" column="2" filename="$USER_HOME$/dev/svc-user/README" />
+      <jump line="41" column="88" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gQFRPRE8gdGhpcyBzaG91bGQgYmUgSUQgbm90IG5hbWUKLy8gICAgICBpZihpdGVtLmF1dGhvciA9PSBmZWVkLmF1dGhvck5hbWUpIHRydWXCpwo=</text>
+      <register name="&quot;" type="4">
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>item.author</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -309,34 +376,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gQFRPRE8gdGhpcyBzaG91bGQgYmUgSUQgbm90IG5hbWUKLy8gICAgICBpZihpdGVtLmF1dGhvciA9PSBmZWVkLmF1dGhvck5hbWUpIHRydWXCpwo=</text>
+        <text encoding="base64">ICAgICAgICBvawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzAyLgogICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzAyLgogICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCBvYmplY3QgRmVlZEZvcm1hdCBleHRlbmRzIEZvcm1hdFtGZWVkXSB7Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzAyLgogICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHJhaXQgVXNlclRhYmxlIGV4dGVuZHMgRGF0YQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci8qKgogICogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8xMC8wMi4KICAqLwpjbGFzcyBVc2VyVGFibGUgewoKfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgfQo=</text>
+        <text encoding="base64">Y2xhc3MgdXNlciB7Cgp9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICApCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzAyLgogICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZGVmIHdyaXRlcyhmZWVkOiBGZWVkKTogSnNWYWx1ZSA9IHsKLy8gICAgICBKc29uLm9iaigKLy8gICAgICAgICJpZCIgLT4gZmVlZC5pZCwKLy8gICAgICAgICJ0aXRsZSIgLT4gZmVlZC50aXRsZSwKLy8gICAgICAgICJhdXRob3JOYW1lIiAtPiBmZWVkLmF1dGhvck5hbWUsCi8vICAgICAgICAibWVkaWEiIC0+IGZlZWQubWVkaWEK</text>
+        <text encoding="base64">ICBqZGJjLAogIGNhY2hlLAogIHdzLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -423,6 +490,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>shift meta pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
