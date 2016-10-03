@@ -19,11 +19,8 @@
       <file name="/a.dummy" timestamp="1475223052821">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/services/EmbedService.scala" timestamp="1475238988994">
-        <mark key="'" line="73" column="93" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/repositories/crowdCaster/crowdCaster/docker-compose.yml" timestamp="1475490530659">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultWrites.scala" timestamp="1475149680848">
         <mark key="[" line="6" column="0" />
@@ -115,17 +112,12 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1475145116547">
-        <mark key="'" line="33" column="87" />
-        <mark key="[" line="33" column="89" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1475417825005">
         <mark key="[" line="66" column="22" />
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/crowdCaster/package.json" timestamp="1475490837497" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
         <mark key="[" line="36" column="12" />
       </file>
@@ -140,13 +132,6 @@
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-user/README" timestamp="1475411463961">
-        <mark key="'" line="0" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/routes" timestamp="1475139930385">
         <mark key="[" line="5" column="85" />
@@ -173,6 +158,7 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/crowdCaster/_setup/_docker-compose.yml.template" timestamp="1475490659355" />
       <file name="$USER_HOME$/dev/svc-user/app/tables/UserTable.scala" timestamp="1475417974919">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="1" />
