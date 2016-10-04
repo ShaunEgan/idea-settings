@@ -104,7 +104,7 @@
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475150469448">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475576763874">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -120,7 +120,6 @@
         <mark key="]" line="66" column="22" />
         <mark key="." line="66" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/crowdCaster/package.json" timestamp="1475490837497" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
         <mark key="[" line="36" column="12" />
       </file>
@@ -130,7 +129,6 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1475223362675">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/audioprocessor/env/dev.env" timestamp="1475486673075" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Currency.scala" timestamp="1475053851228">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="0" />
@@ -161,7 +159,6 @@
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/crowdCaster/_setup/_docker-compose.yml.template" timestamp="1475492131511" />
       <file name="$USER_HOME$/dev/svc-user/app/tables/UserTable.scala" timestamp="1475417974919">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="1" />
