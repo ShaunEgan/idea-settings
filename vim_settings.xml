@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TouRatePeriod.scala" timestamp="1475053648961">
-        <mark key="[" line="6" column="57" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TouRatePeriod.scala" timestamp="1475578712695">
+        <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
@@ -93,8 +93,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1475147224861">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1475579037626">
+        <mark key="[" line="16" column="33" />
         <mark key="]" line="26" column="4" />
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="4" />
@@ -104,7 +104,7 @@
         <mark key="]" line="10" column="13" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475576763874">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475577305737">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -114,6 +114,12 @@
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1475577987542">
+        <mark key="[" line="31" column="84" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1475417825005">
         <mark key="[" line="66" column="22" />
@@ -141,6 +147,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475578682186">
+        <mark key="[" line="32" column="58" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/MediaItem.scala" timestamp="1475238738640">
         <mark key="[" line="27" column="22" />
@@ -180,6 +191,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1475579136029">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="67" />
+        <mark key="." line="15" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_normalize.scss" timestamp="1475222933929">
         <mark key="[" line="27" column="2" />
         <mark key="]" line="27" column="2" />
@@ -196,10 +212,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1475140884185">
-        <mark key="[" line="28" column="20" />
-        <mark key="]" line="28" column="20" />
-        <mark key="." line="28" column="20" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1475579222333">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="6" />
+        <mark key="." line="41" column="6" />
         <mark key="^" line="20" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/DefaultReads.scala" timestamp="1475143364044">
@@ -208,6 +224,7 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TimeOfUseRatePeriod.scala" timestamp="1475578773702" />
       <file name="$USER_HOME$/dev/svc-practice/app/repositories/PracticeRepository.scala" timestamp="1474823320777">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="10" column="53" />
@@ -342,11 +359,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getById</text>
       </register>
       <register name="-" type="4">
-        <text>Multi-AZ deployment of crowdCaster</text>
+        <text>getById</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -355,102 +372,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGZyb20gPSBBcGlDb252ZXJzaW9ucy5kYXRlRnJvbVN0cmluZyhzdGFydC5nZXRPckVsc2UoIiIpKS5nZXRPckVsc2Uoc3RhcnRPZk1vbnRoKQovLyAgICB2YWwgdG8gPSBBcGlDb252ZXJzaW9ucy5kYXRlRnJvbVN0cmluZyhlbmQuZ2V0T3JFbHNlKCIiKSkuZ2V0T3JFbHNlKG5ldyBEYXRlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZnJvbQoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ImNyb3dkQ2FzdGVyVnBjIjogewogICAgICAiVHlwZSI6ICJBV1M6OkVDMjo6VlBDIiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIkNpZHJCbG9jayI6ICIxMC4wLjAuMC8xNiIsCiAgICAgICAgIkVuYWJsZURuc1N1cHBvcnQiOiAidHJ1ZSIsCiAgICAgICAgIkVuYWJsZURuc0hvc3RuYW1lcyI6ICJ0cnVlIiwKICAgICAgICAiSW5zdGFuY2VUZW5hbmN5IjogImRlZmF1bHQiLAogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiY3Jvd2RDYXN0ZXItdnBjIgogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgfSwKICAgICJjcm93ZENhc3RlckludGVybmV0R2F0ZXdheSI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpFQzI6OkludGVybmV0R2F0ZXdheSIsCiAgICAgICJQcm9wZXJ0aWVzIjogewogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiR2F0ZXdheSIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0KICAgIH0sCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ImNyb3dkQ2FzdGVySW50ZXJuZXRHYXRld2F5QXR0YWNobWVudCI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpFQzI6OlZQQ0dhdGV3YXlBdHRhY2htZW50IiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIlZwY0lkIjogewogICAgICAgICAgIlJlZiI6ICJjcm93ZENhc3RlclZwYyIKICAgICAgICB9LAogICAgICAgICJJbnRlcm5ldEdhdGV3YXlJZCI6IHsKICAgICAgICAgICJSZWYiOiAiY3Jvd2RDYXN0ZXJJbnRlcm5ldEdhdGV3YXkiCiAgICAgICAgfQogICAgICB9CiAgICB9LAo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;Parameters&quot;: {
-    &quot;KeyName&quot;: {
-      &quot;Type&quot;: &quot;AWS::EC2::KeyPair::KeyName&quot;,
-      &quot;Default&quot;: &quot;crowdCaster&quot;,
-      &quot;Description&quot;: &quot;The name of an existing EC2 keypair to use within this stack.&quot;
-    },
-    &quot;DockerCredentialsFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/ecs.config&quot;,
-      &quot;Description&quot;: &quot;The ecs.config file containing Docker credentials for access to private images, stored in S3&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/ecs\\.config&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/ecs.config (directory is optional)&quot;
-    },
-    &quot;SSLCertificateFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/crowdCaster/crowdcaster.crt&quot;,
-      &quot;Description&quot;: &quot;The certificate file for the domain&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/\\S+\\.crt&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/certificate.crt (directory is optional)&quot;
-    },
-    &quot;SSLKeyFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/crowdCaster/crowdcaster.key&quot;,
-      &quot;Description&quot;: &quot;The key file for the domain&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/\\S+\\.key&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/certificate.crt (directory is optional)&quot;
-    },
-    &quot;BackupBucket&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;crowdcaster-production-backup&quot;,
-      &quot;Description&quot;: &quot;The backup directory in S3 for crowdCaster&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format 'bucket-name'&quot;
-    }
-  },</text>
+        <text encoding="base64">ImNyb3dkQ2FzdGVyVnBjIjogewogICAgICAiVHlwZSI6ICJBV1M6OkVDMjo6VlBDIiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIkNpZHJCbG9jayI6ICIxMC4wLjAuMC8xNiIsCiAgICAgICAgIkVuYWJsZURuc1N1cHBvcnQiOiAidHJ1ZSIsCiAgICAgICAgIkVuYWJsZURuc0hvc3RuYW1lcyI6ICJ0cnVlIiwKICAgICAgICAiSW5zdGFuY2VUZW5hbmN5IjogImRlZmF1bHQiLAogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiY3Jvd2RDYXN0ZXItdnBjIgogICAgICAgICAgfQogICAgICAgIF0KICAgICAgfQogICAgfSwKICAgICJjcm93ZENhc3RlckludGVybmV0R2F0ZXdheSI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpFQzI6OkludGVybmV0R2F0ZXdheSIsCiAgICAgICJQcm9wZXJ0aWVzIjogewogICAgICAgICJUYWdzIjogWwogICAgICAgICAgewogICAgICAgICAgICAiS2V5IjogIk5hbWUiLAogICAgICAgICAgICAiVmFsdWUiOiAiR2F0ZXdheSIKICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0KICAgIH0sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBQYXJhbWV0ZXJzIjogewo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">ImNyb3dkQ2FzdGVySW50ZXJuZXRHYXRld2F5QXR0YWNobWVudCI6IHsKICAgICAgIlR5cGUiOiAiQVdTOjpFQzI6OlZQQ0dhdGV3YXlBdHRhY2htZW50IiwKICAgICAgIlByb3BlcnRpZXMiOiB7CiAgICAgICAgIlZwY0lkIjogewogICAgICAgICAgIlJlZiI6ICJjcm93ZENhc3RlclZwYyIKICAgICAgICB9LAogICAgICAgICJJbnRlcm5ldEdhdGV3YXlJZCI6IHsKICAgICAgICAgICJSZWYiOiAiY3Jvd2RDYXN0ZXJJbnRlcm5ldEdhdGV3YXkiCiAgICAgICAgfQogICAgICB9CiAgICB9LAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;Parameters&quot;: {
-    &quot;KeyName&quot;: {
-      &quot;Type&quot;: &quot;AWS::EC2::KeyPair::KeyName&quot;,
-      &quot;Default&quot;: &quot;crowdCaster&quot;,
-      &quot;Description&quot;: &quot;The name of an existing EC2 keypair to use within this stack.&quot;
-    },
-    &quot;DockerCredentialsFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/ecs.config&quot;,
-      &quot;Description&quot;: &quot;The ecs.config file containing Docker credentials for access to private images, stored in S3&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/ecs\\.config&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/ecs.config (directory is optional)&quot;
-    },
-    &quot;SSLCertificateFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/crowdCaster/crowdcaster.crt&quot;,
-      &quot;Description&quot;: &quot;The certificate file for the domain&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/\\S+\\.crt&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/certificate.crt (directory is optional)&quot;
-    },
-    &quot;SSLKeyFile&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;nona-creative/crowdCaster/crowdcaster.key&quot;,
-      &quot;Description&quot;: &quot;The key file for the domain&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+(\\/\\S*)*\\/\\S+\\.key&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format bucket/directory/certificate.crt (directory is optional)&quot;
-    },
-    &quot;BackupBucket&quot;: {
-      &quot;Type&quot;: &quot;String&quot;,
-      &quot;Default&quot;: &quot;crowdcaster-production-backup&quot;,
-      &quot;Description&quot;: &quot;The backup directory in S3 for crowdCaster&quot;,
-      &quot;AllowedPattern&quot;: &quot;[a-zA-Z\\-\\.]+&quot;,
-      &quot;ConstraintDescription&quot;: &quot;Must be in the format 'bucket-name'&quot;
-    }
-  },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
