@@ -42,11 +42,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475656641572">
-        <mark key="[" line="19" column="1" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="72" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475657395174">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="86" column="46" />
+        <mark key="." line="86" column="46" />
+        <mark key="^" line="86" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/README.md" timestamp="1475216677931">
         <mark key="[" line="5" column="4" />
@@ -138,7 +138,7 @@
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475586209086">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475657611301">
         <mark key="[" line="241" column="4" />
         <mark key="]" line="241" column="4" />
         <mark key="." line="241" column="4" />
@@ -347,10 +347,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>...</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
