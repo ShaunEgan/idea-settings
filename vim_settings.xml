@@ -178,6 +178,7 @@
         <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475582265621" />
+      <file name="$USER_HOME$/dev/svc-glaucoma/app/traits/ConfigString.scala" timestamp="1475658366655" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1475579136029">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="67" />
