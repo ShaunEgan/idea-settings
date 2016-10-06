@@ -10,7 +10,7 @@
       <file name="/a.dummy" timestamp="1475493115664">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaResponseAdapter.scala" timestamp="1475680152513">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaResponseAdapter.scala" timestamp="1475750520187">
         <mark key="[" line="29" column="78" />
         <mark key="]" line="17" column="65" />
         <mark key="." line="17" column="65" />
@@ -103,7 +103,7 @@
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475746572864">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475750285525">
         <mark key="]" line="30" column="38" />
         <mark key="^" line="54" column="7" />
         <mark key="." line="30" column="38" />
@@ -133,7 +133,7 @@
         <mark key="]" line="15" column="67" />
         <mark key="." line="15" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475734476587">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475750447091">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
