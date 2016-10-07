@@ -102,11 +102,11 @@
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475833619100">
-        <mark key="[" line="311" column="0" />
-        <mark key="]" line="311" column="0" />
-        <mark key="^" line="332" column="22" />
-        <mark key="." line="311" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475838116118">
+        <mark key="[" line="215" column="0" />
+        <mark key="]" line="322" column="0" />
+        <mark key="^" line="343" column="22" />
+        <mark key="." line="322" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/MediaItem.scala" timestamp="1475238738640">
         <mark key="[" line="27" column="22" />
