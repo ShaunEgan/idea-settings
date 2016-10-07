@@ -102,7 +102,7 @@
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475838942773">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475840010498">
         <mark key="[" line="215" column="0" />
         <mark key="]" line="322" column="0" />
         <mark key="^" line="343" column="22" />
@@ -133,11 +133,11 @@
         <mark key="]" line="15" column="67" />
         <mark key="." line="15" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475750447091">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475840407517">
+        <mark key="[" line="51" column="65" />
+        <mark key="]" line="51" column="65" />
+        <mark key="." line="51" column="65" />
+        <mark key="^" line="51" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_normalize.scss" timestamp="1475222933929">
         <mark key="[" line="27" column="2" />
@@ -280,11 +280,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZGF0ZVdyaXRlcyA9IERlZmF1bHRXcml0ZXMuRGF0ZVdyaXRlcwoK</text>
+      <register name="&quot;" type="4">
+        <text>Date</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
