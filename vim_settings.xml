@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1475843520689">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1476100914923">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="127" column="25" />
         <mark key="." line="127" column="25" />
@@ -101,12 +101,6 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Currency.scala" timestamp="1475582442390" />
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1475843428422">
-        <mark key="[" line="255" column="2" />
-        <mark key="]" line="255" column="2" />
-        <mark key="." line="255" column="2" />
-        <mark key="^" line="255" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/MediaItem.scala" timestamp="1475238738640">
         <mark key="[" line="27" column="22" />
