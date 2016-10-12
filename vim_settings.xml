@@ -66,12 +66,6 @@
       <file name="$USER_HOME$/dev/svc-user/conf/evolutions/default/1.sql" timestamp="1475414232744">
         <mark key="[" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1475582248094">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="26" column="4" />
-        <mark key="." line="26" column="4" />
-        <mark key="^" line="26" column="4" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapter.scala" timestamp="1475675400553">
         <mark key="[" line="5" column="26" />
       </file>
@@ -127,7 +121,7 @@
       </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/app/traits/ConfigString.scala" timestamp="1475675063815" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaRequestAdapter/actors/RequestManager.scala" timestamp="1476265142928" />
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1475579136029">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1476273516829">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="67" />
         <mark key="." line="15" column="67" />
