@@ -6,7 +6,6 @@
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Meta.scala" timestamp="1475229952851">
         <mark key="[" line="55" column="65" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/LineItem.scala" timestamp="1475582512833" />
       <file name="/a.dummy" timestamp="1475493115664">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +33,7 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaRequestAdapter/ScadaRequestAdapter.scala" timestamp="1476264699887" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1476100914923">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="127" column="25" />
@@ -51,7 +51,6 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tax.scala" timestamp="1475582539699" />
       <file name="$USER_HOME$/dev/svc-user/app/traits/Database.scala" timestamp="1475414045417">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="6" column="4" />
@@ -76,17 +75,21 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapter.scala" timestamp="1475675400553">
         <mark key="[" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1475830793822">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476262197518">
         <mark key="[" line="25" column="14" />
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Sample.scala" timestamp="1475582282310" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1475737497240">
         <mark key="[" line="33" column="82" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaRequestAdapter/actors/ActorLogger.scala" timestamp="1476263483934">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="2" />
+        <mark key="." line="12" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
         <mark key="[" line="36" column="12" />
@@ -94,11 +97,10 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/view-handler.js" timestamp="1475222596428">
         <mark key="[" line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Calendar.scala" timestamp="1475582461012" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/Module.scala" timestamp="1476263168257" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_player.scss" timestamp="1475223362675">
         <mark key="[" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Currency.scala" timestamp="1475582442390" />
       <file name="/Dummy.txt" timestamp="1475413623222">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,20 +111,22 @@
         <mark key="^" line="27" column="29" />
         <mark key="." line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/Caching.scala" timestamp="1476262072899" />
       <file name="$USER_HOME$/dev/svc-user/conf/routes" timestamp="1475416464642">
         <mark key="[" line="6" column="72" />
         <mark key="]" line="6" column="70" />
         <mark key="^" line="6" column="70" />
         <mark key="." line="6" column="70" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaRequestAdapter/actors/TokenActor.scala" timestamp="1476265293405" />
       <file name="$USER_HOME$/dev/svc-user/app/tables/UserTable.scala" timestamp="1475417974919">
         <mark key="[" line="18" column="3" />
         <mark key="]" line="18" column="1" />
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Meter.scala" timestamp="1475582265621" />
       <file name="$USER_HOME$/dev/svc-glaucoma/app/traits/ConfigString.scala" timestamp="1475675063815" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/ScadaRequestAdapter/actors/RequestManager.scala" timestamp="1476265142928" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1475579136029">
         <mark key="[" line="15" column="32" />
         <mark key="]" line="15" column="67" />
@@ -152,7 +156,6 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/TimeOfUseRatePeriod.scala" timestamp="1475582563597" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/ApiConversions.scala" timestamp="1475149735377">
         <mark key="[" line="8" column="0" />
       </file>
@@ -162,6 +165,7 @@
         <mark key="." line="79" column="61" />
         <mark key="^" line="79" column="61" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1476262548482" />
       <file name="/fragment.java" timestamp="1475675986694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,10 +280,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KiAgICAgICAgICAgICAgICAg</text>
+        <text>sourceSender</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KiAgICAgICAgICAgICAgICAg</text>
+        <text>sourceSender</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
