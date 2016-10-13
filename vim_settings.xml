@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/repositories/crowdCaster-embed-service/app/models/Meta.scala" timestamp="1475229952851">
         <mark key="[" line="55" column="65" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1476359861717">
+        <mark key="[" line="36" column="71" />
+        <mark key="]" line="36" column="12" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="12" />
+      </file>
       <file name="/a.dummy" timestamp="1476271076714">
         <mark key="[" line="0" column="0" />
       </file>
@@ -112,6 +118,13 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="27" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476359194493">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="." line="18" column="36" />
+        <mark key="^" line="13" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476358285498" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/TariffController.scala" timestamp="1476346215065">
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="11" />
@@ -138,7 +151,7 @@
         <mark key="]" line="25" column="15" />
         <mark key="." line="25" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/ApiConversions.scala" timestamp="1475149735377">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/ApiConversions.scala" timestamp="1476359816302">
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/repositories/UserRepository.scala" timestamp="1475417847002">
@@ -169,8 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="153" column="16" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="156" column="18" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="158" column="6" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
       <jump line="108" column="11" filename="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/destination/mutation.json" />
       <jump line="56" column="48" filename="$USER_HOME$/repositories/yazimedia/spec/unit/services/process-pipeline-spec.js" />
@@ -269,13 +280,15 @@
       <jump line="48" column="2" filename="$USER_HOME$/dev/svc-user/README" />
       <jump line="41" column="88" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
+      <jump line="13" column="35" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" />
+      <jump line="11" column="2" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>info</text>
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text>info</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -284,34 +297,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqIEBwYXJhbSBjZXJ0aWZpZWRCeSBUaGUgY2VydGlmaWNhdGlvbiBlbnRkMWl0eQogICogQHBhcmFtIGNlcnRpZmllZE9uIFRoZSBjZXJ0aWZpY2F0aW9uIGRhdGUK</text>
+        <text encoding="base64">ICAgIHhtbCBtYXRjaCB7CiAgICAgIGNhc2UgTm9kZVNlcShfKSA9PiBTb21lKF8pCiAgICAgIGNhc2UgXyA9PiBOb25lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqIEBwYXJhbSBjZXJ0aWZpZWRCeSBUaGUgY2VydGlmaWNhdGlvbiBlbnRkZGl0eQogICogQHBhcmFtIGNlcnRpZmllZE9uIFRoZSBjZXJ0aWZpY2F0aW9uIGRhdGUK</text>
+        <text encoding="base64">ICAgIEZ1dHVyZSB7CiAgICAgIFNvbWUoXykKICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgKiA8L2NvZGU+CiAgKiA8L3ByZT4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">CmRkIAogIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZGF0ZVdyaXRlcyA9IERlZmF1bHRXcml0ZXMuRGF0ZVdyaXRlcwoK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGltcG9ydCBsaWJyYXJ5LlNjYWRhUmVxdWVzdEFkYXB0ZXIuU2NhZGFSZXF1ZXN0QWRhcHRlcgogIAogIHZhbCBhZGFwdGVyID0gbmV3IFNjYWRhUmVxdWVzdEFkYXB0ZXIoKQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICh4bWwgXCAiY2VydGlmaWVkYnkiKS50ZXh0IGFzUG9zaXRpdmVJbnRPckVsc2UgTm9uZSwKICAgIE9wdGlvbihjZXJ0aWZpZWRPbkRhdGVGb3JtYXQucGFyc2UoKHhtbCBcICJjZXJ0aWZpZWRvbiIpLnRleHQsIG5ldyBQYXJzZVBvc2l0aW9uKDApKSksCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzEzLgogICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzEzLgogICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIEBwYXJhbSBjZXJ0aWZpZWRCeSBUaGUgY2VydGlmaWNhdGlvbiBlbnRkMWl0eQogICogQHBhcmFtIGNlcnRpZmllZE9uIFRoZSBjZXJ0aWZpY2F0aW9uIGRhdGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBkYXRlIGZvcm1hdHMgb2YgdGhpcyBwYXJ0aWN1bGFyIHJlc3BvbnNlIGZyb20gc2NhZGEK</text>
+        <text encoding="base64">ICAqIEBwYXJhbSBjZXJ0aWZpZWRCeSBUaGUgY2VydGlmaWNhdGlvbiBlbnRkZGl0eQogICogQHBhcmFtIGNlcnRpZmllZE9uIFRoZSBjZXJ0aWZpY2F0aW9uIGRhdGUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgY2VydGlmaWVkT25EYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MuU1NTIiwgTG9jYWxlLlVTKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgKiA8L2NvZGU+CiAgKiA8L3ByZT4=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
