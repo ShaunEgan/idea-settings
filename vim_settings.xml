@@ -47,7 +47,7 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1476100914923">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1476445951176">
         <mark key="[" line="85" column="0" />
         <mark key="]" line="127" column="25" />
         <mark key="." line="127" column="25" />
@@ -93,11 +93,11 @@
         <mark key="^" line="13" column="48" />
       </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/app/library/screening/models/ScreeningEnum.scala" timestamp="1476381507221" />
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1476346269924">
-        <mark key="[" line="31" column="11" />
-        <mark key="]" line="31" column="11" />
-        <mark key="^" line="31" column="14" />
-        <mark key="." line="31" column="15" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1476446700613">
+        <mark key="[" line="34" column="4" />
+        <mark key="]" line="34" column="4" />
+        <mark key="." line="34" column="4" />
+        <mark key="^" line="35" column="79" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapter.scala" timestamp="1475675400553">
         <mark key="[" line="5" column="26" />
@@ -107,7 +107,7 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1476346193599">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1476446389342">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
         <mark key="^" line="39" column="16" />
@@ -118,7 +118,7 @@
         <mark key="]" line="12" column="2" />
         <mark key="." line="12" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1476444342889">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1476445102705">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -188,11 +188,11 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/.gitlab-ci.yml" timestamp="1476377830872">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1476346253901">
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="11" />
-        <mark key="." line="43" column="15" />
-        <mark key="^" line="27" column="15" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1476446900642">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="62" />
+        <mark key="." line="47" column="62" />
+        <mark key="^" line="47" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475841998966">
         <mark key="[" line="51" column="58" />
@@ -352,11 +352,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7IFNvbWUoPHhtbD48L3htbD4pIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -365,34 +365,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7IFNvbWUoPHhtbD48L3htbD4pIH0K</text>
+        <text encoding="base64">ICAgIAogICAgc29tZXRoaW5nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNhc2UgY2xhc3MgQmN2YVNjcmVlbmluZyhvZDogSW50LCBvczogSW50KQoKLyoqCiAgKiBJT1AKICAqCiAgKiBAcGFyYW0gbGVmdCBsZWZ0IGlvcAogICogQHBhcmFtIHJpZ2h0IHJpZ2h0IGlvcAogICovCmNhc2UgY2xhc3MgSU9QU2NyZWVuaW5nKGxlZnQ6IEludCwgcmlnaHQ6IEludCkgewogIGRlZiBpc0RpZmY6IEJvb2xlYW4gPSBtYXRoLmFicyhsZWZ0IC0gcmlnaHQpID4gMgogIGRlZiBtYXg6IEludCA9IG1hdGgubWF4KGxlZnQsIHJpZ2h0KQp9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNvbWV0aGluZyBtYQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWF0Y2ggewogICAgICAgIGNhc2UgU3VjY2VzcyhhY2NvdW50KSA9PiBhY2NvdW50CiAgICAgICAgY2FzZSBGYWlsdXJlW09wdGlvbltBY2NvdW50XV0gPT4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgYmN2YSA9IEJjdmFTY3JlZW5pbmcoYmN2YU9kLCBiY3ZhT3MpCg==</text>
+        <text encoding="base64">ICAgIEZ1dHVyZSB7IFNvbWUoPHhtbD48L3htbD4pIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="5" type="4">
+        <text encoding="base64">CmNhc2UgY2xhc3MgQmN2YVNjcmVlbmluZyhvZDogSW50LCBvczogSW50KQoKLyoqCiAgKiBJT1AKICAqCiAgKiBAcGFyYW0gbGVmdCBsZWZ0IGlvcAogICogQHBhcmFtIHJpZ2h0IHJpZ2h0IGlvcAogICovCmNhc2UgY2xhc3MgSU9QU2NyZWVuaW5nKGxlZnQ6IEludCwgcmlnaHQ6IEludCkgewogIGRlZiBpc0RpZmY6IEJvb2xlYW4gPSBtYXRoLmFicyhsZWZ0IC0gcmlnaHQpID4gMgogIGRlZiBtYXg6IEludCA9IG1hdGgubWF4KGxlZnQsIHJpZ2h0KQp9</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZmFtaWx5SGlzdG9yeTogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICB0cmF1bWFIaXN0b3J5OiBCb29sZWFuLAogICAgICAgICAgICAgICAgICAgIGJjdmFPZDogSW50LAogICAgICAgICAgICAgICAgICAgIGJjdmFPczogSW50LAogICAgICAgICAgICAgICAgICAgIG15b3BpYTogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICBwc3VlZG9FeGZvbGlhdGlvbjogQm9vbGVhbiwK</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YWwgYmN2YSA9IEJjdmFTY3JlZW5pbmcoYmN2YU9kLCBiY3ZhT3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgU2NyZWVuaW5nIHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzEzLgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
