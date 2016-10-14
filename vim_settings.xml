@@ -35,11 +35,14 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/embed-front-end/index.js" timestamp="1475223485323">
         <mark key="[" line="40" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" timestamp="1476382076330">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="14" />
-        <mark key="." line="4" column="14" />
-        <mark key="^" line="4" column="14" />
+      <file name="/Dummy.scala" timestamp="1476383283196">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" timestamp="1476383784364">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
@@ -79,7 +82,7 @@
         <mark key="^" line="45" column="13" />
         <mark key="." line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/svc-glaucoma/app/library/screening/models/Screening.scala" timestamp="1476382089127" />
+      <file name="$USER_HOME$/dev/svc-glaucoma/app/library/screening/models/Screening.scala" timestamp="1476384036309" />
       <file name="$USER_HOME$/dev/svc-user/conf/evolutions/default/1.sql" timestamp="1475414232744">
         <mark key="[" line="8" column="34" />
       </file>
@@ -213,9 +216,6 @@
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/implicits/ApiConversions.scala" timestamp="1476359816302">
-        <mark key="[" line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-user/app/repositories/UserRepository.scala" timestamp="1475417847002">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="79" column="61" />
@@ -345,11 +345,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgU2NyZWVuaW5nIHsKCn0K</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -357,101 +357,35 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgU2NyZWVuaW5nIHsKCn0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmNhc2UgY2xhc3MgQmN2YVNjcmVlbmluZyhvZDogSW50LCBvczogSW50KQoKLyoqCiAgKiBJT1AKICAqCiAgKiBAcGFyYW0gbGVmdCBsZWZ0IGlvcAogICogQHBhcmFtIHJpZ2h0IHJpZ2h0IGlvcAogICovCmNhc2UgY2xhc3MgSU9QU2NyZWVuaW5nKGxlZnQ6IEludCwgcmlnaHQ6IEludCkgewogIGRlZiBpc0RpZmY6IEJvb2xlYW4gPSBtYXRoLmFicyhsZWZ0IC0gcmlnaHQpID4gMgogIGRlZiBtYXg6IEludCA9IG1hdGgubWF4KGxlZnQsIHJpZ2h0KQp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzEzLgogICovCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">IHNpbXBsZSBmaWx0ZXIgdGhhdCBhZGRzIGEgaGVhZGVyIHRvIGV2ZXJ5IHJlc3BvbnNlLgo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>This is your new Play application
-=================================
-
-This file will be packaged with your application when using `activator dist`.
-
-There are several demonstration files available in this template.
-
-Controllers
-===========
-
-- HomeController.scala:
-
-  Shows how to handle simple HTTP requests.
-
-- AsyncController.scala:
-
-  Shows how to do asynchronous programming when handling a request.
-
-- CountController.scala:
-
-  Shows how to inject a component into a controller and use the component when
-  handling requests.
-
-Components
-==========
-
-- Module.scala:
-
-  Shows how to use Guice to bind all the components needed by your application.
-
-- Counter.scala:
-
-  An example of a component that contains state, in this case a simple counter.
-
-- ApplicationTimer.scala:
-
-  An example of a component that starts when the application starts and stops
-  when the application stops.
-
-Filters
-=======
-
-- Filters.scala:
-
-  Creates the list of HTTP filters used by your application.
-
-- ExampleFilter.scala
-
-  A</text>
-      </register>
-      <register name="5" type="4">
-        <text>package controllers
-
-/**
-  * Created by shaunegan on 2016/10/13.
-  */
-
-}</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgSGVhbHRoQ29udHJvbGxlciB7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">RVQgICAgIC9hc3NldHMvKmZpbGUgICAgICAgICAgICAgICBjb250cm9sbGVycy5Bc3NldHMudmVyc2lvbmVkKHBhdGg9Ii9wdWJsaWMiLCBmaWxlOiBBc3NldCkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YWwgYmN2YSA9IEJjdmFTY3JlZW5pbmcoYmN2YU9kLCBiY3ZhT3MpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text># Routes
-# This file defines all application routes (Higher priority routes first)
-# ~~~~
-
-# An example controller showing a sample home page
-GET     /                           controllers.HomeController.index
-# An example controller showing how to use dependency injection
-GET     /count                      controllers.CountController.count
-# An example controller showing how to write asynchronous code
-GET     /message                    controllers.AsyncController.message
-
-# Map static resources from the /public folder to the /assets URL path
-G</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ZmFtaWx5SGlzdG9yeTogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICB0cmF1bWFIaXN0b3J5OiBCb29sZWFuLAogICAgICAgICAgICAgICAgICAgIGJjdmFPZDogSW50LAogICAgICAgICAgICAgICAgICAgIGJjdmFPczogSW50LAogICAgICAgICAgICAgICAgICAgIG15b3BpYTogQm9vbGVhbiwKICAgICAgICAgICAgICAgICAgICBwc3VlZG9FeGZvbGlhdGlvbjogQm9vbGVhbiwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgU2NyZWVuaW5nIHsKCn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzEzLgogICovCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IHNpbXBsZSBmaWx0ZXIgdGhhdCBhZGRzIGEgaGVhZGVyIHRvIGV2ZXJ5IHJlc3BvbnNlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
