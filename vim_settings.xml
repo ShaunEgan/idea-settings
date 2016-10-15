@@ -38,11 +38,11 @@
       <file name="/Dummy.scala" timestamp="1476383283196">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" timestamp="1476383784364">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" timestamp="1476539069842">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="27" column="21" />
+        <mark key="]" line="27" column="21" />
+        <mark key="." line="27" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
@@ -130,6 +130,7 @@
         <mark key="^" line="17" column="94" />
         <mark key="." line="17" column="95" />
       </file>
+      <file name="$USER_HOME$/dev/svc-glaucoma/build.sbt" timestamp="1476539029207" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
         <mark key="[" line="36" column="12" />
       </file>
@@ -137,10 +138,11 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-playlist/view-handler.js" timestamp="1475222596428">
         <mark key="[" line="97" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/build.sbt" timestamp="1476379887617">
-        <mark key="[" line="4" column="63" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/build.sbt" timestamp="1476539047482">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/Module.scala" timestamp="1476430086380">
         <mark key="[" line="21" column="64" />
@@ -234,11 +236,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" timestamp="1476378065511">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1475675986694">
         <mark key="[" line="0" column="0" />
       </file>
@@ -250,7 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/scrubber.js" />
       <jump line="44" column="21" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" />
       <jump line="111" column="36" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" />
       <jump line="46" column="15" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/waveform.js" />
@@ -350,10 +346,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/HealthController.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
+      <jump line="3" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -365,34 +362,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgc29tZXRoaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNvbWV0aGluZyBtYQo=</text>
+        <text encoding="base64">KGxlZnQ6IEJvb2xlYW4sIHJpZ2h0OiBCb29sZWFuKQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">bWF0Y2ggewogICAgICAgIGNhc2UgU3VjY2VzcyhhY2NvdW50KSA9PiBhY2NvdW50CiAgICAgICAgY2FzZSBGYWlsdXJlW09wdGlvbltBY2NvdW50XV0gPT4=</text>
+        <text encoding="base64">CmNhc2UgY2xhc3MgQmxvb2RQcmVzc3VyZShzeXN0b2xpYzogSW50LCBkaWFzdG9saWM6IEludCkKCmNhc2UgY2xhc3MgVmlzdWFsQWN1aXR5KGxlZnQ6IEZsb2F0LCByaWdodDogRmxvYXQpCgpjYXNlIGNsYXNzIFJldGlub3BhdGh5R3JhZGUobGVmdDogSW50LCByaWdodDogSW50KQoKY2FzZSBjbGFzcyBNYWN1bG9wYXRoeUdyYWRlKGxlZnQ6IEludCwgcmlnaHQ6IEludCkKCmNhc2UgY2xhc3MgTGFzZXJUcmVhdG1lbnQobGVmdDogSW50LCByaWdodDogSW50KQoKY2FzZSBjbGFzcyBJbnRyYXZpdHJlYWxJbmplY3Rpb24obGVmdDogSW50LCByaWdodDogSW50KQoKY2FzZSBjbGFzcyBQYXJzUGxhbmFWaXRyZWN0b215</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEZ1dHVyZSB7IFNvbWUoPHhtbD48L3htbD4pIH0K</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmNhc2UgY2xhc3MgQmN2YVNjcmVlbmluZyhvZDogSW50LCBvczogSW50KQoKLyoqCiAgKiBJT1AKICAqCiAgKiBAcGFyYW0gbGVmdCBsZWZ0IGlvcAogICogQHBhcmFtIHJpZ2h0IHJpZ2h0IGlvcAogICovCmNhc2UgY2xhc3MgSU9QU2NyZWVuaW5nKGxlZnQ6IEludCwgcmlnaHQ6IEludCkgewogIGRlZiBpc0RpZmY6IEJvb2xlYW4gPSBtYXRoLmFicyhsZWZ0IC0gcmlnaHQpID4gMgogIGRlZiBtYXg6IEludCA9IG1hdGgubWF4KGxlZnQsIHJpZ2h0KQp9</text>
-      </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB2YWwgYmxvb2RQcmVzc3VyZSA9IEJsb29kUHJlc3N1cmUoc3lzdG9saWNCbG9vZFByZXNzdXJlLCBkaWFzdG9saWNCbG9vZFByZXNzdXJlKQogIHZhbCB2aXN1YWxBY3VpdHkgPSBWaXN1YWxBY3VpdHkobGVmdFZpc3VhbEFjdWl0eSwgcmlnaHRWaXN1YWxBY3VpdHkpCiAgdmFsIHJldGlub3BhdGh5R3JhZGUgPSBSZXRpbm9wYXRoeUdyYWRlKGxlZnRSZXRpbm9wYXRoeUdyYWRlLCByaWdodFJldGlub3BhdGh5R3JhZGUpCiAgdmFsIG1hY3Vsb3BhdGh5R3JhZGUgPSBNYWN1bG9wYXRoeUdyYWRlKGxlZnRNYWN1bG9wYXRoeUdyYWRlLCByaWdodE1hY3Vsb3BhdGh5R3JhZGUpCiAgdmFsIGxhc2VyVHJlYXRtZW50ID0gTGFzZXJUcmVhdG1lbnQobGVmdExhc2VyVHJlYXRtZW50LCByaWdodExhc2VyVHJlYXRtZW50KSwKICB2YWwgaW50cmF2aXRyZWFsSW5qZWN0aW9uID0gSW50cmF2aXRyZWFsSW5qZWN0aW9uKGxlZnRJbnRyYXZpdHJlYWxJbmplY3Rpb24sIHJpZ2h0SW50cmF2aXRyZWFsSW5qZWN0aW9uKQogIHZhbCBwYXJzUGxhbmFWaXRyZWN0b215ID0gUGFyc1BsYW5hVml0cmVjdG9teShsZWZ0UGFyc1BsYW5hVml0cmVjdG9teSwgcmlnaHRQYXJzUGxhbmFWaXRyZWN0b215KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgYmN2YSA9IEJjdmFTY3JlZW5pbmcoYmN2YU9kLCBiY3ZhT3MpCg==</text>
+        <text encoding="base64">ICAgIAogICAgc29tZXRoaW5nCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNvbWV0aGluZyBtYQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">bWF0Y2ggewogICAgICAgIGNhc2UgU3VjY2VzcyhhY2NvdW50KSA9PiBhY2NvdW50CiAgICAgICAgY2FzZSBGYWlsdXJlW09wdGlvbltBY2NvdW50XV0gPT4=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
