@@ -83,7 +83,7 @@
         <mark key="^" line="39" column="16" />
         <mark key="." line="39" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476632573085">
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476684022771">
         <mark key="e" line="38" column="15" />
         <mark key="[" line="46" column="38" />
         <mark key="]" line="46" column="38" />
@@ -199,11 +199,11 @@
       <file name="$USER_HOME$/dev/svc-user/conf/evolutions/default/1.sql" timestamp="1475414232744">
         <mark key="[" line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/MeasurementUnits.scala" timestamp="1476629727671">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="8" column="41" />
-        <mark key="^" line="6" column="48" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/MeasurementUnits.scala" timestamp="1476683996639">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/VisualAcuityTable.scala" timestamp="1476630135589">
         <mark key="[" line="13" column="53" />
@@ -286,7 +286,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1476632587779">
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1476684063917">
         <mark key="[" line="17" column="61" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="0" />
@@ -435,10 +435,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
