@@ -96,10 +96,21 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Measurement.scala" timestamp="1476610952697">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Biometrics.scala" timestamp="1476811670942">
+        <mark key="[" line="31" column="66" />
+        <mark key="]" line="31" column="64" />
+        <mark key="^" line="31" column="64" />
+        <mark key="." line="31" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1476790509355">
         <mark key="[" line="39" column="11" />
@@ -113,12 +124,12 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476810169303">
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476811687356">
         <mark key="e" line="34" column="15" />
-        <mark key="[" line="107" column="34" />
-        <mark key="]" line="103" column="21" />
-        <mark key="." line="106" column="34" />
-        <mark key="^" line="103" column="21" />
+        <mark key="[" line="44" column="42" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="79" column="9" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralTreatment.scala" timestamp="1476549165091">
         <mark key="[" line="2" column="15" />
@@ -378,8 +389,10 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1476810132958">
-        <mark key="[" line="17" column="61" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1476811628986">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_normalize.scss" timestamp="1475222933929">
         <mark key="[" line="27" column="2" />
@@ -420,13 +433,6 @@
         <mark key="]" line="5" column="9" />
         <mark key="." line="5" column="9" />
         <mark key="^" line="5" column="9" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/LaserTable.scala" timestamp="1476630366552">
-        <mark key="'" line="13" column="35" />
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/repositories/UserRepository.scala" timestamp="1475417847002">
         <mark key="[" line="14" column="0" />
@@ -549,11 +555,11 @@
       <jump line="34" column="50" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJsb29kR2x1Y29zZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -562,34 +568,44 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJsb29kR2x1Y29zZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBibG9vZEdsdWNvc2UgPSBjb2x1bW5bQmxvb2RHbHVjb3NlXSgiYmxvb2RfZ2x1Y29zZSIpCiAgICBkZWYgZ2x5Y2F0ZWRIZW1vZ2xvYmluID0gY29sdW1uW0dseWNhdGVkSGVtb2dsb2Jpbl0oImdseWNhdGVkX2hlbW9nbG9iaW4iKQoK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>bloodGlucose,
+          hba1cLeft,
+          hba1cRight,
+          bloodPressureSystolic,
+          bloodPressureDiastolic,
+          visualAcuityLeft,
+          visualAcuityRight,
+          retinopathyLeft,
+          retinopathyRight,
+          maculopathyLeft,
+          maculopathyRight,</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzE4LgogICovCg==</text>
+      </register>
       <register name="8" type="4">
-        <text encoding="base64">CgogICAgaW1wbGljaXQgdmFsIHJldGluYWxWaXN1YWxpc2F0aW9uTWV0aG9kRW51bU1hcHBlciA9CiAgICAgIE1hcHBlZENvbHVtblR5cGUuYmFzZVtSZXRpbmFsVmlzdWFsaXNhdGlvbk1ldGhvZEVudW0sIFN0cmluZ10oXy50b1N0cmluZywgUmV0aW5hbFZpc3VhbGlzYXRpb25NZXRob2RFbnVtLndpdGhOYW1lKQoKICAgIGltcGxpY2l0IHZhbCBkaWFiZXRlc01lbGxpdHVzRW51bU1hcHBlciA9CiAgICAgIE1hcHBlZENvbHVtblR5cGUuYmFzZVtEaWFiZXRlc01lbGxpdHVzRW51bSwgU3RyaW5nXShfLnRvU3RyaW5nLCBEaWFiZXRlc01lbGxpdHVzRW51bS53aXRoTmFtZSkKCiAgICBpbXBsaWNpdCB2YWwgdHJlbmRFbnVtTWFwcGVyID0KICAgICAgTWFwcGVkQ29sdW1uVHlwZS5iYXNlW1RyZW5kRW51bSwgU3RyaW5nXShfLnRvU3RyaW5nLCBUcmVuZEVudW0ud2l0aE5hbWUpCgogICAgaW1wbGljaXQgdmFsIGJsb29kR2x1Y29zZU1hcHBlciA9CiAgICAgIE1hcHBlZENvbHVtblR5cGUuYmFzZVtCbG9vZEdsdWNvc2UsIERvdWJsZV0oXy5nbHVjb3NlLnZhbHVlLCBkID0+IEJsb29kR2x1Y29zZShNaWxsaU1vbGVzUGVyTGl0cmUoZCkpKQoKICAgIGltcGxpY2l0IHZhbCBnbHljYXRlZEhlbW9nbG9iaW5NYXBwZXIgPQogICAgICBNYXBwZWRDb2x1bW5UeXBlLmJhc2VbR2x5Y2F0ZWRIZW1vZ2xvYmluLCBEb3VibGVdKF8uaGJhMWMudmFsdWUsIGQgPT4gR2x5Y2F0ZWRIZW1vZ2xvYmluKE1pbGxpTW9sZXNQZXJMaXRyZShkKSkp</text>
+        <text encoding="base64">IHdpdGggSW50cmF2aXRyZWFsSW5qZWN0aW9uVGFibGUgd2l0aCBMYXNlclRhYmxlIHdpdGggTWFjdWxvcGF0aHlUYWJsZQogIHdpdGggUGFyc1BsYW5hVml0cmVjdG9teVRhYmxlIHdpdGggUmV0aW5vcGF0aHlUYWJsZSB3aXRoIFZpc3VhbEFjdWl0eVRhYmxl</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzE4LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
