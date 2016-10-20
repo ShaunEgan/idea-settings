@@ -8,10 +8,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometrics.scala" timestamp="1476901630256">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometrics.scala" timestamp="1476903218003">
+        <mark key="[" line="43" column="37" />
+        <mark key="]" line="43" column="37" />
+        <mark key="." line="43" column="37" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1476812201768">
         <mark key="[" line="5" column="23" />
@@ -136,7 +136,7 @@
         <mark key="." line="4" column="6" />
         <mark key="^" line="4" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476902950664">
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1476903025802">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="11" column="28" />
         <mark key="]" line="30" column="0" />
@@ -405,8 +405,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1476901026128">
-        <mark key="[" line="36" column="4" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1476903164683">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/MaculopathyGradeEnum.scala" timestamp="1476542543429">
         <mark key="[" line="7" column="22" />
@@ -594,11 +596,24 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>: Option[(
+    Option[Int],
+      MilliMolesPerLitre,
+      RetinalVisualisationMethodEnum,
+      MilliMolesPerLitre,
+      MilliMetersOfMercury,
+      MilliMetersOfMercury,
+      BestCorrectVisualAcuity,
+      BestCorrectVisualAcuity,
+      RetinopathyGradeEnum,
+      RetinopathyGradeEnum,
+      MaculopathyGradeEnum,
+      MaculopathyGradeEnum
+    )]</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -606,14 +621,35 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>: Option[(
+    Option[Int],
+      MilliMolesPerLitre,
+      RetinalVisualisationMethodEnum,
+      MilliMolesPerLitre,
+      MilliMetersOfMercury,
+      MilliMetersOfMercury,
+      BestCorrectVisualAcuity,
+      BestCorrectVisualAcuity,
+      RetinopathyGradeEnum,
+      RetinopathyGradeEnum,
+      MaculopathyGradeEnum,
+      MaculopathyGradeEnum
+    )]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Option[(
+    Option[Int],
+      Option[LaserTreatmentEnum],
+      Option[LaserTreatmentEnum],
+      Option[IntravitrealInjectionEnum],
+      Option[IntravitrealInjectionEnum],
+      Option[Boolean],
+      Option[Boolean]
+    )]</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -633,14 +669,8 @@
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>//
-////          laserLeft.?,
-////          laserRight.?,
-////          intravitrealInjectionLeft.?,
-////          intravitrealInjectionRight.?,
-////          parsPlanaVitrectomyLeft.?,
-////          parsPlanaVitrectomyRight.?</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
