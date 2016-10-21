@@ -77,11 +77,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477037465739">
-        <mark key="[" line="23" column="59" />
-        <mark key="]" line="23" column="59" />
-        <mark key="." line="23" column="59" />
-        <mark key="^" line="23" column="58" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477039470164">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.conf" timestamp="1476427231115">
         <mark key="[" line="47" column="18" />
@@ -255,10 +255,10 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477028407917">
-        <mark key="[" line="51" column="58" />
-        <mark key="]" line="54" column="53" />
-        <mark key="." line="54" column="53" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/RetinopathyGradeEnum.scala" timestamp="1476542440498">
@@ -295,6 +295,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
         <mark key="^" line="67" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477039836180">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="23" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -607,8 +613,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>expected</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBfIG11c3RFcXVhbCAiYXNkIgo=</text>
       </register>
       <register name="-" type="4">
         <text>expected</text>
@@ -620,47 +626,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfIG11c3RFcXVhbCAiYXNkIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJyZXR1cm4gdHJ1ZSIgaW4gewogICAgICB0cnVlIG11c3RCZSB0cnVlCiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgZXhwZWN0ZWQgPSBTdWNjZXNzKDx4bWw+PC94bWw+KQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9jay5fCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjAiLAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuMCIgJSAidGVzdCIsCg==</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgZXhwZWN0ZWQgPSBTdWNjZXNzKDx4bWw+PC94bWw+KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzIxLgogICovCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
-      <register name="9" type="4">
-        <text>: Option[(
-    Option[Int],
-      MilliMolesPerLitre,
-      RetinalVisualisationMethodEnum,
-      MilliMolesPerLitre,
-      MilliMetersOfMercury,
-      MilliMetersOfMercury,
-      BestCorrectVisualAcuity,
-      BestCorrectVisualAcuity,
-      RetinopathyGradeEnum,
-      RetinopathyGradeEnum,
-      MaculopathyGradeEnum,
-      MaculopathyGradeEnum
-    )]</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
