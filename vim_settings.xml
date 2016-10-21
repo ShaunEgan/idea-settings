@@ -77,11 +77,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477031341558">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477032376873">
         <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="10" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.conf" timestamp="1476427231115">
         <mark key="[" line="47" column="18" />
@@ -279,7 +279,7 @@
         <mark key="." line="2" column="61" />
         <mark key="^" line="2" column="61" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477031317641">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477032369008">
         <mark key="[" line="12" column="55" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
