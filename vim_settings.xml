@@ -77,6 +77,12 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="5" column="66" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477028505345">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.conf" timestamp="1476427231115">
         <mark key="[" line="47" column="18" />
         <mark key="]" line="47" column="18" />
@@ -249,7 +255,7 @@
         <mark key="." line="51" column="30" />
         <mark key="^" line="51" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1475841998966">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477028407917">
         <mark key="[" line="51" column="58" />
         <mark key="]" line="54" column="53" />
         <mark key="." line="54" column="53" />
@@ -596,21 +602,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>: Option[(
-    Option[Int],
-      MilliMolesPerLitre,
-      RetinalVisualisationMethodEnum,
-      MilliMolesPerLitre,
-      MilliMetersOfMercury,
-      MilliMetersOfMercury,
-      BestCorrectVisualAcuity,
-      BestCorrectVisualAcuity,
-      RetinopathyGradeEnum,
-      RetinopathyGradeEnum,
-      MaculopathyGradeEnum,
-      MaculopathyGradeEnum
-    )]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzIxLgogICovCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -621,7 +614,13 @@
       <register name="0" type="4">
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzIxLgogICovCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>: Option[(
     Option[Int],
       MilliMolesPerLitre,
@@ -637,10 +636,7 @@
       MaculopathyGradeEnum
     )]</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>Option[(
     Option[Int],
       Option[LaserTreatmentEnum],
@@ -650,9 +646,6 @@
       Option[Boolean],
       Option[Boolean]
     )]</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
