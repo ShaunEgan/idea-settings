@@ -77,11 +77,11 @@
         <mark key="." line="5" column="66" />
         <mark key="^" line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477032376873">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477037465739">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="." line="23" column="59" />
+        <mark key="^" line="23" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.conf" timestamp="1476427231115">
         <mark key="[" line="47" column="18" />
@@ -608,10 +608,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scalatest.mockito.MockitoSugarz</text>
+        <text>expected</text>
       </register>
       <register name="-" type="4">
-        <text>scalatest.mockito.MockitoSugarz</text>
+        <text>expected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -620,15 +620,33 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjAiLAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuMCIgJSAidGVzdCIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHJlc3VsdCA9IAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJyZXR1cm4gdHJ1ZSIgaW4gewogICAgICB0cnVlIG11c3RCZSB0cnVlCiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zY2FsYXRlc3QubW9jay5fCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAib3JnLnNjYWxhY3RpYyIgJSUgInNjYWxhY3RpYyIgJSAiMy4wLjAiLAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuMCIgJSAidGVzdCIsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzIxLgogICovCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>: Option[(
     Option[Int],
       MilliMolesPerLitre,
@@ -643,32 +661,6 @@
       MaculopathyGradeEnum,
       MaculopathyGradeEnum
     )]</text>
-      </register>
-      <register name="4" type="4">
-        <text>Option[(
-    Option[Int],
-      Option[LaserTreatmentEnum],
-      Option[LaserTreatmentEnum],
-      Option[IntravitrealInjectionEnum],
-      Option[IntravitrealInjectionEnum],
-      Option[Boolean],
-      Option[Boolean]
-    )]</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
