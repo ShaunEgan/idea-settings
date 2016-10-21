@@ -106,12 +106,11 @@
         <mark key="^" line="4" column="74" />
         <mark key="." line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1476878741942">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1477040602676">
         <mark key="'" line="35" column="50" />
-        <mark key="[" line="35" column="27" />
-        <mark key="]" line="35" column="27" />
-        <mark key="." line="35" column="27" />
-        <mark key="^" line="35" column="17" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
@@ -249,10 +248,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1476878244725">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="51" column="30" />
-        <mark key="." line="51" column="30" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1477040725727">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
         <mark key="^" line="51" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
@@ -296,11 +295,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="67" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477039836180">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477040925879">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
         <mark key="^" line="43" column="23" />
-        <mark key="." line="44" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -382,11 +381,11 @@
         <mark key="." line="41" column="29" />
         <mark key="^" line="32" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1476961135645">
-        <mark key="[" line="29" column="38" />
-        <mark key="]" line="28" column="35" />
-        <mark key="^" line="17" column="72" />
-        <mark key="." line="28" column="35" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1477040979503">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="70" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Bilateral/Measurements/Retinopathy.scala" timestamp="1476548916335">
         <mark key="[" line="5" column="0" />
@@ -613,11 +612,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfIG11c3RFcXVhbCAiYXNkIgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>expected</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRcPg==</text>
@@ -626,31 +625,31 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfIG11c3RFcXVhbCAiYXNkIgo=</text>
+        <text encoding="base64">aW1wb3J0IHBsYXkuYXBpLmxpYnMuY29uY3VycmVudC5FeGVjdXRpb24uSW1wbGljaXRzLmRlZmF1bHRDb250ZXh0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAqIEBwYXJhbSBjb250ZXh0IFRoZSBleGVjdXRpb24gY29udGV4dCBmb3IgRnV0dXJlcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgZXhwZWN0ZWQgPSBTdWNjZXNzKDx4bWw+PC94bWw+KQo=</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuRXhlY3V0aW9uQ29udGV4dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBfIG11c3RFcXVhbCAiYXNkIgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgZXhwZWN0ZWQgPSBTdWNjZXNzKDx4bWw+PC94bWw+KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgZXhwZWN0ZWQgPSBTdWNjZXNzKDx4bWw+PC94bWw+KQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
