@@ -120,12 +120,6 @@
         <mark key="^" line="4" column="74" />
         <mark key="." line="4" column="74" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" timestamp="1477040602676">
-        <mark key="'" line="35" column="50" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Biometrics.scala" timestamp="1476901132129">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="60" column="31" />
@@ -151,17 +145,11 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477226882804">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="52" />
-        <mark key="." line="26" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477238289327">
-        <mark key="[" line="25" column="52" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="50" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="2" />
+        <mark key="^" line="46" column="2" />
       </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/build.sbt" timestamp="1476902882780" />
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-embed-service/index.js" timestamp="1475231224790">
@@ -417,6 +405,7 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
+      <file name="$USER_HOME$/dev/svc-practice/app/controllers/PracticeController.scala" timestamp="1477239660017" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Bilateral/Measurements/Retinopathy.scala" timestamp="1476548916335">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="52" />
