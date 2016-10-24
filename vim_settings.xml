@@ -13,8 +13,8 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477051950056">
-        <mark key="[" line="52" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477296036260">
+        <mark key="[" line="61" column="107" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="52" column="40" />
@@ -48,6 +48,11 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.test.conf" timestamp="1477297572306">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -298,10 +303,10 @@
         <mark key="^" line="9" column="4" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477052727614">
-        <mark key="[" line="128" column="20" />
-        <mark key="]" line="128" column="20" />
-        <mark key="." line="128" column="20" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477296074859">
+        <mark key="[" line="118" column="77" />
+        <mark key="]" line="118" column="77" />
+        <mark key="." line="118" column="77" />
         <mark key="^" line="128" column="21" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477248406617">
@@ -352,10 +357,10 @@
         <mark key="]" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477053391527">
-        <mark key="[" line="14" column="50" />
-        <mark key="]" line="17" column="1" />
-        <mark key="." line="17" column="1" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477297830757">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/Module.scala" timestamp="1477230354900">
         <mark key="[" line="6" column="0" />
@@ -481,11 +486,11 @@
       <jump line="127" column="50" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometric.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>conf</text>
       </register>
       <register name="-" type="4">
-        <text>optAsIntravitrealInjectionEnum</text>
+        <text>conf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
@@ -494,37 +499,37 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGxheSB7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBkZWYgb3B0QXNMYXNlclRyZWF0bWVudEVudW0oKTogT3B0aW9uW0xhc2VyVHJlYXRtZW50RW51bV0gPSBzIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKG5hbWUpID0+IFNvbWUoTGFzZXJUcmVhdG1lbnRFbnVtLndpdGhOYW1lKG5hbWUpKQogICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgfQoKICAgIGRlZiBvcHRBc0ludHJhdml0cmVhbEluamVjdGlvbkVudW0oKTogT3B0aW9uW0ludHJhdml0cmVhbEluamVjdGlvbkVudW1dID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKEludHJhdml0cmVhbEluamVjdGlvbkVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAic2NyZWVuaW5nSWQiIC0+IHRyZWF0bWVudC5zY3JlZW5pbmdJZCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgInRyZWF0bWVudCIgLT4gdHJlYXRtZW50Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBkZWYgb3B0QXNMYXNlclRyZWF0bWVudEVudW0oKTogT3B0aW9uW0xhc2VyVHJlYXRtZW50RW51bV0gPSBzIG1hdGNoIHsKICAgICAgY2FzZSBTb21lKG5hbWUpID0+IFNvbWUoTGFzZXJUcmVhdG1lbnRFbnVtLndpdGhOYW1lKG5hbWUpKQogICAgICBjYXNlIE5vbmUgPT4gTm9uZQogICAgfQoKICAgIGRlZiBvcHRBc0ludHJhdml0cmVhbEluamVjdGlvbkVudW0oKTogT3B0aW9uW0ludHJhdml0cmVhbEluamVjdGlvbkVudW1dID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKEludHJhdml0cmVhbEluamVjdGlvbkVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiaWQiIC0+IHRyZWF0bWVudC5pZCwK</text>
+        <text encoding="base64">ICAgICAgICAic2NyZWVuaW5nSWQiIC0+IHRyZWF0bWVudC5zY3JlZW5pbmdJZCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMYXNlclRyZWF0bWVudEVudW0ud2l0aE5hbWUobGFzZXJSaWdodCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgInRyZWF0bWVudCIgLT4gdHJlYXRtZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9CiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAiaWQiIC0+IHRyZWF0bWVudC5pZCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExhc2VyVHJlYXRtZW50RW51bS53aXRoTmFtZShsYXNlckxlZnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICBMYXNlclRyZWF0bWVudEVudW0ud2l0aE5hbWUobGFzZXJSaWdodCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9CiAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -560,7 +565,6 @@
         <entry encoding="base64">XDxKc1ZhbHVlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>hl</entry>
         <entry>sethl</entry>
         <entry>122</entry>
         <entry>s/\\n/\n/g</entry>
@@ -580,6 +584,7 @@
         <entry>17</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
