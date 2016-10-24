@@ -13,10 +13,10 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477296036260">
-        <mark key="[" line="61" column="107" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477305832674">
+        <mark key="[" line="55" column="18" />
+        <mark key="]" line="55" column="18" />
+        <mark key="." line="55" column="18" />
         <mark key="^" line="52" column="40" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477137233959">
@@ -162,10 +162,15 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" timestamp="1477302961272">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1477305156327">
+        <mark key="[" line="74" column="102" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" timestamp="1477306393114">
+        <mark key="'" line="3" column="26" />
+        <mark key="[" line="69" column="59" />
+        <mark key="]" line="69" column="59" />
+        <mark key="." line="69" column="59" />
+        <mark key="^" line="69" column="58" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
@@ -261,10 +266,10 @@
         <mark key="]" line="6" column="42" />
         <mark key="." line="6" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477303001053">
-        <mark key="[" line="118" column="77" />
-        <mark key="]" line="118" column="77" />
-        <mark key="." line="118" column="77" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477305795887">
+        <mark key="[" line="114" column="17" />
+        <mark key="]" line="114" column="17" />
+        <mark key="." line="114" column="17" />
         <mark key="^" line="128" column="21" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477248406617">
@@ -328,7 +333,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="34" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/color-tools.js" />
       <jump line="29" column="19" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/color-tools.js" />
       <jump line="30" column="12" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/Scrubber/color-tools.js" />
       <jump line="19" column="12" filename="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/destination/pause.json" />
@@ -428,13 +432,14 @@
       <jump line="14" column="31" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" />
       <jump line="122" column="31" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometric.scala" />
       <jump line="127" column="50" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometric.scala" />
+      <jump line="3" column="26" filename="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzI0LgogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RnV0dXJlKDx4bWw+PHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+PC94bWw+KQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Some(&quot;test string&quot;)</text>
+        <text encoding="base64">RnV0dXJlKDx4bWw+PHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+PC94bWw+KQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
