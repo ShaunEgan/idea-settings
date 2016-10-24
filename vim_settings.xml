@@ -70,6 +70,9 @@
       <file name="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/request-types.js" timestamp="1475230419133">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477290986254">
+        <mark key="[" line="55" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477246671389">
         <mark key="[" line="38" column="89" />
         <mark key="]" line="38" column="88" />
@@ -219,8 +222,8 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentTable.scala" timestamp="1477243186808">
-        <mark key="[" line="32" column="17" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentTable.scala" timestamp="1477290528689">
+        <mark key="[" line="33" column="6" />
         <mark key="]" line="31" column="9" />
         <mark key="^" line="31" column="9" />
         <mark key="." line="31" column="9" />
