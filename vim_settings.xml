@@ -60,11 +60,11 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477312253862">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="55" column="13" />
-        <mark key="." line="55" column="13" />
-        <mark key="^" line="55" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477379842031">
+        <mark key="[" line="55" column="30" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477290986254">
         <mark key="[" line="55" column="4" />
@@ -75,8 +75,7 @@
         <mark key="^" line="38" column="88" />
         <mark key="." line="38" column="88" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1477310434623">
-        <mark key="[" line="85" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Account.scala" timestamp="1477380074899">
         <mark key="]" line="127" column="25" />
         <mark key="." line="127" column="25" />
         <mark key="^" line="127" column="32" />
@@ -441,11 +440,11 @@
       <jump line="3" column="26" filename="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>result</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>Status.Ok</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
@@ -454,34 +453,34 @@
         <text encoding="base64">T2soSnNvbi5vYmooInN0YXR1cyIgLT4gInN1Y2Nlc3MiKSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICByZXN1bHQgbWFwIHsgciA9PgovLyAgICAgICAgci5oZWFkZXIuc3RhdHVzIG11c3RCZSBPawovLyAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gYXBwcm9hY2ggMgovLyAgICAgIHZhbCByZXNwb25zZSA9IGF3YWl0KGFjY291bnRDb250cm9sbGVyLmZpbmRCeUlkKDEsIE5vbmUsIE5vbmUpLmFwcGx5KEZha2VSZXF1ZXN0KCkpKQovLyAgICAgIHJlc3BvbnNlLmhlYWRlci5zdGF0dXMgbXVzdEJlIE9rCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgcGxheS5hcGkuaHR0cC5TdGF0dXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+Cg==</text>
+        <text encoding="base64">Ly8gICAgICByZXN1bHQgbWFwIHsgciA9PgovLyAgICAgICAgci5oZWFkZXIuc3RhdHVzIG11c3RCZSBPawovLyAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgIC4KICAgICAgICAgICAgICAgICAgICAgLg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzI0LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgPHJlc3VsdD5TVUNDRVNTPC9yZXN1bHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzI0LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgIC4KICAgICAgICAgICAgICAgICAgICAgLg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
