@@ -37,11 +37,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/TariffControllerSpec.scala" timestamp="1477381742544">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="64" column="5" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/TariffControllerSpec.scala" timestamp="1477383918099">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477051138908">
         <mark key="[" line="16" column="0" />
@@ -66,11 +66,11 @@
         <mark key="." line="20" column="35" />
         <mark key="^" line="30" column="76" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477381575012">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="25" column="1" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="31" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477290986254">
         <mark key="[" line="55" column="4" />
@@ -447,11 +447,11 @@
       <jump line="3" column="26" filename="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>: Future[Result]</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>: Future[Result]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
