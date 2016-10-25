@@ -5,6 +5,9 @@
   <action id="EditorLineEndWithSelection">
     <keyboard-shortcut first-keystroke="shift end" />
   </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="alt end" />
+  </action>
   <action id="PreviousProjectWindow" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -20,5 +23,8 @@
   </action>
   <action id="Tool_External Tools_git cola">
     <keyboard-shortcut first-keystroke="shift meta back_quote" />
+  </action>
+  <action id="UnsplitAll">
+    <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
 </keymap>
