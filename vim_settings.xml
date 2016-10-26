@@ -19,6 +19,24 @@
         <mark key="." line="55" column="18" />
         <mark key="^" line="52" column="40" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477137233959">
+        <mark key="[" line="6" column="42" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentsTable.scala" timestamp="1477136004347">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricsTable.scala" timestamp="1477137315507">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/TariffControllerSpec.scala" timestamp="1477383918099">
         <mark key="[" line="60" column="16" />
         <mark key="]" line="60" column="16" />
@@ -39,6 +57,18 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.scala" timestamp="1477418495009">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477228549658">
+        <mark key="[" line="36" column="34" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="30" column="76" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
         <mark key="[" line="51" column="16" />
         <mark key="]" line="51" column="16" />
@@ -48,10 +78,27 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477290986254">
         <mark key="[" line="55" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477246671389">
+        <mark key="[" line="38" column="89" />
+        <mark key="]" line="38" column="88" />
+        <mark key="^" line="38" column="88" />
+        <mark key="." line="38" column="88" />
+      </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/test/models/IOPScreeningTest.scala" timestamp="1476380972875">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" timestamp="1477461066272">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477039470164">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="21" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
@@ -68,6 +115,18 @@
         <mark key="]" line="5" column="36" />
         <mark key="." line="5" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/MeasurementUnits.scala" timestamp="1477460475623">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralMeasurement.scala" timestamp="1476549183869">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -83,6 +142,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Biometrics.scala" timestamp="1476901132129">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricTable.scala" timestamp="1477460035383">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="^" line="35" column="76" />
+        <mark key="." line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/logback-test.xml" timestamp="1477300413175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -93,19 +164,48 @@
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1477310553708">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="11" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/GlycatedHemoglobin.scala" timestamp="1477461098268">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1477040979503">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="70" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1477397224590">
         <mark key="[" line="75" column="68" />
         <mark key="]" line="75" column="68" />
         <mark key="." line="75" column="68" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/EldoScadaRepositorySpec.scala" timestamp="1477396588740">
-        <mark key="'" line="3" column="26" />
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Database.scala" timestamp="1477418138860" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477460887534">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="105" column="89" />
+        <mark key="^" line="106" column="103" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="2" />
+        <mark key="^" line="46" column="2" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreatmentsRepository.scala" timestamp="1477136137639">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/VisualAcuity.scala" timestamp="1477137257338">
         <mark key="[" line="6" column="45" />
         <mark key="]" line="6" column="45" />
@@ -116,22 +216,52 @@
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="47" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Bilateral.scala" timestamp="1477141970342">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="28" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodPressure.scala" timestamp="1477461081160">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/build.sbt" timestamp="1477418046065">
         <mark key="[" line="10" column="46" />
         <mark key="]" line="9" column="2" />
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentTable.scala" timestamp="1477459562253">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatment.scala" timestamp="1477459020615" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/library/ScadaResponseAdapterSpec.scala" timestamp="1477397762227">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/BiometricController.scala" timestamp="1477231899326">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreamentsRepositories.scala" timestamp="1477135169700">
         <mark key="[" line="5" column="6" />
@@ -175,10 +305,16 @@
         <mark key="." line="114" column="17" />
         <mark key="^" line="132" column="21" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477248406617">
-        <mark key="[" line="112" column="50" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1477460327221">
+        <mark key="[" line="31" column="42" />
+        <mark key="]" line="31" column="42" />
+        <mark key="^" line="8" column="21" />
+        <mark key="." line="31" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477459149639">
+        <mark key="[" line="103" column="1" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-practice/build.sbt" timestamp="1477419156840" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
@@ -191,21 +327,41 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/tables/ScreeningTable.scala" timestamp="1477418977305">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="20" />
-        <mark key="." line="21" column="20" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1477040725727">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="51" column="30" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="54" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometric.scala" timestamp="1477459001145" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/model-map/app/library/tables/ScreeningTable.scala" timestamp="1477460538910">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="." line="25" column="20" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/models/Screening.scala" timestamp="1477418312658">
-        <mark key="[" line="4" column="50" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/research/model-map/app/library/models/Screening.scala" timestamp="1477460533316">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="4" column="35" />
+        <mark key="." line="4" column="35" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/IntravitrealInjection.scala" timestamp="1477135911541">
         <mark key="[" line="6" column="54" />
@@ -224,6 +380,12 @@
       </file>
       <file name="/fragment.java" timestamp="1477419292862">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="108" column="19" />
+        <mark key="." line="108" column="19" />
+        <mark key="^" line="108" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -330,46 +492,48 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>MilliMolesPerLitre</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>MilliMolesPerLitre</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">dmFsIGhvc3QgPSAiaHR0cDovL2xvY2FsaG9zdCIKICAgIHZhbCBtb2NrQWRhcHRlciA9IG1vY2tbWG1sSHR0cFJlcXVlc3Rlcl0KICAgIHZhbCBlbGRvU2NhZGFSZXBvc2l0b3J5ID0gbmV3IEVsZG9TY2FkYVJlcG9zaXRvcnkoaG9zdCwgbW9ja0FkYXB0ZXIpCgogICAgdmFsIHN1Y2Nlc3NSZXNwb25zZSA9IEZ1dHVyZSg8eG1sPjxyZXN1bHQ+U1VDQ0VTUzwvcmVzdWx0PjwveG1sPikKICAgIHZhbCBlcnJvclJlc3BvbnNlID0gRnV0dXJlKDx4bWw+PHJlc3VsdD5FcnJvcjogZXJyb3IgcmVzcG9uc2U8L3Jlc3VsdD48L3htbD4p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzI1LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyZWF0bWVudDogVHJlYXRtZW50Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAgKiBEYXRhYmFzZSBhY2Nlc3MgdHJhaXQuCiAgKi8K</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuTWVhc3VyZW1lbnRzLlRyZW5kRW51bS5UcmVuZEVudW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgU2NyZWVuaW5nIHsKCn0K</text>
+        <text encoding="base64">ICAgICAgaWQuPywKICAgICAgc2NyZWVuaW5nSWQuPywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEwLzI1LgogICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW1wbGljaXQgdmFsIGRhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCBISDptbTpzcy5TU1MiLCBMb2NhbGUuVVMpCg==</text>
+      <register name="5" type="4">
+        <text>def id = column[Int](&quot;id&quot;, O.PrimaryKey, O.AutoInc)
+    def screeningId = column[Int](&quot;screening_id&quot;)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgIGlkLj8sCiAgICAgIHNjcmVlbmluZ0lkLA==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">dmFsIGhvc3QgPSAiaHR0cDovL2xvY2FsaG9zdCIKICAgIHZhbCBtb2NrQWRhcHRlciA9IG1vY2tbWG1sSHR0cFJlcXVlc3Rlcl0KICAgIHZhbCBlbGRvU2NhZGFSZXBvc2l0b3J5ID0gbmV3IEVsZG9TY2FkYVJlcG9zaXRvcnkoaG9zdCwgbW9ja0FkYXB0ZXIpCgogICAgdmFsIHN1Y2Nlc3NSZXNwb25zZSA9IEZ1dHVyZSg8eG1sPjxyZXN1bHQ+U1VDQ0VTUzwvcmVzdWx0PjwveG1sPikKICAgIHZhbCBlcnJvclJlc3BvbnNlID0gRnV0dXJlKDx4bWw+PHJlc3VsdD5FcnJvcjogZXJyb3IgcmVzcG9uc2U8L3Jlc3VsdD48L3htbD4p</text>
+        <text>def id = column[Int](&quot;id&quot;, O.PrimaryKey, O.AutoInc)
+    def screeningId = column[Int](&quot;screening_id&quot;)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
