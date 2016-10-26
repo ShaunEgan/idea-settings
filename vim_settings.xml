@@ -182,10 +182,8 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1477397224590">
-        <mark key="[" line="75" column="68" />
-        <mark key="]" line="75" column="68" />
-        <mark key="." line="75" column="68" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1477468740874">
+        <mark key="[" line="74" column="41" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Database.scala" timestamp="1477418138860" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477460887534">
