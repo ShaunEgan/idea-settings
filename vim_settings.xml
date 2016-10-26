@@ -346,22 +346,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/tables/ScreeningTable.scala" timestamp="1477460538910">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="20" />
-        <mark key="." line="25" column="20" />
-        <mark key="^" line="25" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/models/Screening.scala" timestamp="1477460533316">
-        <mark key="[" line="4" column="35" />
-        <mark key="]" line="4" column="35" />
-        <mark key="." line="4" column="35" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/repositories/research/model-map/app/library/models/Screening.scala" timestamp="1477465317638">
+        <mark key="[" line="2" column="49" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/IntravitrealInjection.scala" timestamp="1477135911541">
         <mark key="[" line="6" column="54" />
@@ -492,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MilliMolesPerLitre</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>MilliMolesPerLitre</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
@@ -503,37 +497,39 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHRyZWF0bWVudDogVHJlYXRtZW50Cg==</text>
+      <register name="1" type="4">
+        <text>{
+        (MilliMetersOfMercury(bp.systolic.asInstanceOf[Int]), MilliMetersOfMercury(bp.diastolic.asInstanceOf[Int]))
+      }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuTWVhc3VyZW1lbnRzLlRyZW5kRW51bS5UcmVuZEVudW0K</text>
+        <text encoding="base64">ICAgIGltcGxpY2l0IHZhbCBtaWxsaW1ldGVyc09mTWVyY3VyeU1hcHBlciA9CiAgICAgIE1hcHBlZENvbHVtblR5cGUuYmFzZVtNaWxsaU1ldGVyc09mTWVyY3VyeSwgSW50XShfLnZhbHVlLCBNaWxsaU1ldGVyc09mTWVyY3VyeSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWQuPywKICAgICAgc2NyZWVuaW5nSWQuPywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly9jYXNlIGNsYXNzIE1pbGxpTWV0ZXJzT2ZNZXJjdXJ5KHZhbHVlOiBJbnQpIGV4dGVuZHMgQW55VmFsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>def id = column[Int](&quot;id&quot;, O.PrimaryKey, O.AutoInc)
-    def screeningId = column[Int](&quot;screening_id&quot;)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgIGlkLj8sCiAgICAgIHNjcmVlbmluZ0lkLA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>def id = column[Int](&quot;id&quot;, O.PrimaryKey, O.AutoInc)
-    def screeningId = column[Int](&quot;screening_id&quot;)</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
+        <text>{
+  
+}</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
