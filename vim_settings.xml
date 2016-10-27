@@ -54,9 +54,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.scala" timestamp="1477418495009">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="29" />
@@ -75,14 +72,17 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.scala" timestamp="1477290986254">
-        <mark key="[" line="55" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477557710011">
         <mark key="[" line="29" column="18" />
         <mark key="]" line="34" column="0" />
         <mark key="^" line="33" column="1" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/README.md" timestamp="1477568806615">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="161" column="4" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/test/models/IOPScreeningTest.scala" timestamp="1476380972875">
         <mark key="[" line="9" column="41" />
@@ -182,12 +182,10 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" timestamp="1477468740874">
-        <mark key="[" line="74" column="41" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Database.scala" timestamp="1477418138860" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477553964030">
         <mark key="'" line="21" column="43" />
         <mark key="[" line="69" column="0" />
@@ -210,6 +208,7 @@
         <mark key="'" line="6" column="11" />
         <mark key="[" line="7" column="44" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1477568064725" />
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1477483290436">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
@@ -251,6 +250,7 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatment.scala" timestamp="1477459020615" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="0" />
@@ -289,6 +289,14 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/Tariff.scala" timestamp="1477381658081" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1477568523050">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="29" column="8" />
+        <mark key="^" line="31" column="6" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.md" timestamp="1477568238561" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477555541847">
         <mark key="[" line="11" column="26" />
         <mark key="]" line="11" column="26" />
@@ -312,6 +320,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-practice/build.sbt" timestamp="1477419156840" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -334,14 +343,12 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Biometric.scala" timestamp="1477459001145" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/tables/ScreeningTable.scala" timestamp="1477546720037">
-        <mark key="[" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
@@ -373,9 +380,6 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1477419292862">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
@@ -487,11 +491,11 @@
       <jump line="5" column="11" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/VisualAcuity.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Reads</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKc1ZhbHVlXD4=</text>
@@ -499,35 +503,99 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+            {
+                &quot;tariffLineItemId&quot;: 1000000813,
+                &quot;description&quot;: &quot;Monthly Basic Charge&quot;,
+                &quot;chargeType&quot;: 0,
+                &quot;compareId&quot;: 3300,
+                &quot;color&quot;: 127,
+                &quot;touId&quot;: 180002
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">b2JqZWN0IENvbnZlcnNpb25zIHsKCiAgaW1wbGljaXQgY2xhc3MgRW51bU9wdGlvbihzOiBPcHRpb25bU3RyaW5nXSkgewoKICAgIGRlZiBvcHRBc0VudW0oZW51bTogRW51bWVyYXRpb24pID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKGVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9CgogIH0KCn0=</text>
+        <text>,
+                    {
+                        &quot;touId&quot;: 180001,
+                        &quot;description&quot;: &quot;Toyota Shifts; high season; Weekend&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180002,
+                        &quot;description&quot;: &quot;Toyota Shifts; high season; Prod. Night&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180003,
+                        &quot;description&quot;: &quot;Toyota Shifts; high season; Between Shift&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180004,
+                        &quot;description&quot;: &quot;Toyota Shifts; high season; Prod. Day&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180005,
+                        &quot;description&quot;: &quot;Toyota Shifts; low season; Lunch&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180006,
+                        &quot;description&quot;: &quot;Toyota Shifts; low season; Weekend&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180007,
+                        &quot;description&quot;: &quot;Toyota Shifts; low season; Prod. Night&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180008,
+                        &quot;description&quot;: &quot;Toyota Shifts; low season; Between Shift&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180009,
+                        &quot;description&quot;: &quot;Toyota Shifts; low season; Prod. Day&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180010,
+                        &quot;description&quot;: &quot;Toyota Shifts; Lunch&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180011,
+                        &quot;description&quot;: &quot;Toyota Shifts; Weekend&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180012,
+                        &quot;description&quot;: &quot;Toyota Shifts; Prod. Night&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180013,
+                        &quot;description&quot;: &quot;Toyota Shifts; Between Shift&quot;
+                    },
+                    {
+                        &quot;touId&quot;: 180014,
+                        &quot;description&quot;: &quot;Toyota Shifts; Prod. Day&quot;
+                    }</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">I0dFVCAgICAgICAgICAgL3NjcmVlbmluZy86aWQvdHJlYXRtZW50ICAgICAgICBjb250cm9sbGVycy5UcmVhdG1lbnRDb250cm9sbGVyLmZpbmRCeVNjcmVlbmluZ0lkKGlkOiBJbnQpCiNQT1NUICAgICAgICAgIC9zY3JlZW5pbmcvOmlkL3RyZWF0bWVudCAgICAgICAgY29udHJvbGxlcnMuVHJlYXRtZW50Q29udHJvbGxlci5hZGQoaWQ6IEludCkKIwojR0VUICAgICAgICAgICAvc2NyZWVuaW5nLzppZC9iaW9tZXRyaWMgICAgICAgIGNvbnRyb2xsZXJzLkJpb21ldHJpY0NvbnRyb2xsZXIuZmluZEJ5U2NyZWVuaW5nSWQoaWQ6IEludCkKIwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">b2JqZWN0IENvbnZlcnNpb25zIHsKCiAgaW1wbGljaXQgY2xhc3MgRW51bU9wdGlvbihzOiBPcHRpb25bU3RyaW5nXSkgewoKICAgIGRlZiBvcHRBc0VudW0oZW51bTogRW51bWVyYXRpb24pID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKGVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9CgogIH0KCn0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBiaW9tZXRyaWNzOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSB0cmVhdG1lbnRzOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">I0dFVCAgICAgICAgICAgL3NjcmVlbmluZy86aWQvdHJlYXRtZW50ICAgICAgICBjb250cm9sbGVycy5UcmVhdG1lbnRDb250cm9sbGVyLmZpbmRCeVNjcmVlbmluZ0lkKGlkOiBJbnQpCiNQT1NUICAgICAgICAgIC9zY3JlZW5pbmcvOmlkL3RyZWF0bWVudCAgICAgICAgY29udHJvbGxlcnMuVHJlYXRtZW50Q29udHJvbGxlci5hZGQoaWQ6IEludCkKIwojR0VUICAgICAgICAgICAvc2NyZWVuaW5nLzppZC9iaW9tZXRyaWMgICAgICAgIGNvbnRyb2xsZXJzLkJpb21ldHJpY0NvbnRyb2xsZXIuZmluZEJ5U2NyZWVuaW5nSWQoaWQ6IEludCkKIwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RFJPUCBUQUJMRSBiaW9tZXRyaWNzOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREI7Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSB0cmVhdG1lbnRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGJpb21ldHJpY3MgKAogIAopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIFRBQkxFIHRyZWF0bWVudHMgKAogIAopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>

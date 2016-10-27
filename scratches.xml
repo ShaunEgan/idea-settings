@@ -1,6 +1,7 @@
 <application>
   <component name="ScratchFileService">
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.md" value="Markdown" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" value="TEXT" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml" value="XML" />
@@ -11,5 +12,7 @@
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.scala" value="Scala" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" value="JSON" />
     <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" value="JSON" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" value="JSON" />
   </component>
 </application>
