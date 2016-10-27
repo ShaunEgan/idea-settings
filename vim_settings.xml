@@ -245,11 +245,6 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentTable.scala" timestamp="1477459562253">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
         <mark key="]" line="45" column="37" />
@@ -278,20 +273,10 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/research/model-map/app/library/Traits/Database.scala" timestamp="1477418142074">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1476859027169">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/research/model-map/build.sbt" timestamp="1477419456720">
-        <mark key="[" line="12" column="58" />
-        <mark key="]" line="12" column="58" />
-        <mark key="." line="12" column="58" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" timestamp="1477558044059">
         <mark key="'" line="2" column="0" />
@@ -322,10 +307,10 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477558753983">
-        <mark key="[" line="103" column="1" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477565092662">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
         <mark key="[" line="14" column="0" />
@@ -520,29 +505,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">I0dFVCAgICAgICAgICAgL3NjcmVlbmluZy86aWQvdHJlYXRtZW50ICAgICAgICBjb250cm9sbGVycy5UcmVhdG1lbnRDb250cm9sbGVyLmZpbmRCeVNjcmVlbmluZ0lkKGlkOiBJbnQpCiNQT1NUICAgICAgICAgIC9zY3JlZW5pbmcvOmlkL3RyZWF0bWVudCAgICAgICAgY29udHJvbGxlcnMuVHJlYXRtZW50Q29udHJvbGxlci5hZGQoaWQ6IEludCkKIwojR0VUICAgICAgICAgICAvc2NyZWVuaW5nLzppZC9iaW9tZXRyaWMgICAgICAgIGNvbnRyb2xsZXJzLkJpb21ldHJpY0NvbnRyb2xsZXIuZmluZEJ5U2NyZWVuaW5nSWQoaWQ6IEludCkKIwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">b2JqZWN0IENvbnZlcnNpb25zIHsKCiAgaW1wbGljaXQgY2xhc3MgRW51bU9wdGlvbihzOiBPcHRpb25bU3RyaW5nXSkgewoKICAgIGRlZiBvcHRBc0VudW0oZW51bTogRW51bWVyYXRpb24pID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKGVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9CgogIH0KCn0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSBiaW9tZXRyaWNzOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">RFJPUCBUQUJMRSB0cmVhdG1lbnRzOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">I0dFVCAgICAgICAgICAgL3NjcmVlbmluZy86aWQvdHJlYXRtZW50ICAgICAgICBjb250cm9sbGVycy5UcmVhdG1lbnRDb250cm9sbGVyLmZpbmRCeVNjcmVlbmluZ0lkKGlkOiBJbnQpCiNQT1NUICAgICAgICAgIC9zY3JlZW5pbmcvOmlkL3RyZWF0bWVudCAgICAgICAgY29udHJvbGxlcnMuVHJlYXRtZW50Q29udHJvbGxlci5hZGQoaWQ6IEludCkKIwojR0VUICAgICAgICAgICAvc2NyZWVuaW5nLzppZC9iaW9tZXRyaWMgICAgICAgIGNvbnRyb2xsZXJzLkJpb21ldHJpY0NvbnRyb2xsZXIuZmluZEJ5U2NyZWVuaW5nSWQoaWQ6IEludCkKIwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RFJPUCBUQUJMRSBiaW9tZXRyaWNzOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREI7Cg==</text>
+        <text encoding="base64">RFJPUCBUQUJMRSB0cmVhdG1lbnRzOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFIGJpb21ldHJpY3MgKAogIAopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIFRBQkxFIHRyZWF0bWVudHMgKAogIAopCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBQUklNQVJZIEtFWSAoaWQpLAogIEZPUkVJR04gS0VZIChzY3JlZW5pbmdfaWQpIFJFRkVSRU5DRVMgc2NyZWVuaW5ncyAoaWQpCiAgICBPTiBERUxFVEUgQ0FTQ0FERQo=</text>
+        <text encoding="base64">ICBFTkdJTkUgPSBJbm5vREI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpZCAgICAgICAgICAgICAgICAgICAgICAgICAgIElOVCBVTlNJR05FRCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwgQVVUT19JTkNSRU1FTlQsCiAgc2NyZWVuaW5nX2lkICAgICAgICAgICAgICAgICBJTlQgVU5TSUdORUQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5PVCBOVUxMLAo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFIGJpb21ldHJpY3MgKAogIAopCiAgRU5HSU5FID0gSW5ub0RCOwoKQ1JFQVRFIFRBQkxFIHRyZWF0bWVudHMgKAogIAopCg==</text>
       </register>
       <register name=":" type="4">
         <text>46</text>
