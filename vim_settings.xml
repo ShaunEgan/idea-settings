@@ -318,7 +318,6 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/Caching.scala" timestamp="1477645355773" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -405,6 +404,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1479112280661">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
