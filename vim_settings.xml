@@ -54,9 +54,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1477569845645">
-        <mark key="'" line="2101" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="29" />
@@ -181,6 +178,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1479124378582">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="16" />
+        <mark key="." line="47" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -520,10 +522,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">aHR0cDovL2JsYWNrZm94LmdvMmNsb3VkLm9yZy9hZmZfYz9vZmZlcl9pZD0yODA3OSZhZmZfaWQ9OTY2NSZhZmZfc3ViPXt0cmFuc2FjdGlvbl9pZH0mYWZmaWxpYXRlX2lkPXthZmZpbGlhdGVfaWR9JmFmZmlsaWF0ZV9zb3VyY2U9e3NvdXJjZX0mYWZmaWxpYXRlX3N1Yl8yPXthZmZfc3ViMn0mYWZmaWxpYXRlX3N1Yl8zPXthZmZfc3ViM30mYWZmaWxpYXRlX3N1Yl80PXthZmZfc3ViNH0mYWZmaWxpYXRlX3N1Yl81PXthZmZfc3ViNX0mb2ZmZXJfbmFtZT17b2ZmZXJfbmFtZX0mb2ZmZXJfdXJsX2lkPXtvZmZlcl91cmxfaWR9JmZpbGVfaWQ9e29mZmVyX2ZpbGVfaWR9JmZpbGVfbmFtZT17ZmlsZV9uYW1lfSZhZHZlcnRpc2VyX2lkPXthZHZlcnRpc2VyX2lkfSZjb3VudHJ5X2NvZGU9e2NvdW50cnlfY29kZX0mcmVnaW9uX2NvZGU9e3JlZ2lvbl9jb2RlfSZjdXN0b21fdmFyaWFibGVzPXtwYXJhbXN9JmRhdGU9e2RhdGV9JnRpbWU9e3RpbWV9JmlwPXtpcH0mb2ZmZXJfcmVmZXJlbmNlX2lkPXtvZmZlcl9yZWZ9JmFmZmlsaWF0ZV9yZWZlcmVuY2VfaWQ9e2FmZmlsaWF0ZV9yZWZ9JmFkdmVydGlzZXJfcmVmZXJlbmNlX2lkPXthZHZlcnRpc2VyX3JlZn0mZGV2aWNlX2lkPXtkZXZpY2VfaWR9JmRldmljZV9pZF9tZDU9e2RldmljZV9pZF9tZDV9JmRldmljZV9pZF9zaGExPXtkZXZpY2VfaWRfc2hhMX0mYW5kcm9pZF9pZD17YW5kcm9pZF9pZH0mYW5kcm9pZF9pZF9tZDU9e2FuZHJvaWRfaWRfbWQ1fSZhbmRyb2lkX2lkX3NoYTE9e2FuZHJvaWRfaWRfc2hhMX0mb2Rpbj17b2Rpbn0mbW9iaWxlX2NhcnJpZXI9e21vYmlsZV9jYXJyaWVyfSZpb3NfaWZhPXtpb3NfaWZhfSZpb3NfaWZhX21kNT17aW9zX2lmYV9tZDV9Jmlvc19pZmFfc2hhMT17aW9zX2lmYV9zaGExfSZpb3NfaWZ2PXtpb3NfaWZ2fSZ1c2VyX2lkPXt1c2VyX2lkfSZ1bmlkPXt1bmlkfQ==</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cDovL2JsYWNrZm94LmdvMmNsb3VkLm9yZy9hZmZfYz9vZmZlcl9pZD0yODA3OSZhZmZfaWQ9OTY2NSZhZmZfc3ViPXt0cmFuc2FjdGlvbl9pZH0mYWZmaWxpYXRlX2lkPXthZmZpbGlhdGVfaWR9JmFmZmlsaWF0ZV9zb3VyY2U9e3NvdXJjZX0mYWZmaWxpYXRlX3N1Yl8yPXthZmZfc3ViMn0mYWZmaWxpYXRlX3N1Yl8zPXthZmZfc3ViM30mYWZmaWxpYXRlX3N1Yl80PXthZmZfc3ViNH0mYWZmaWxpYXRlX3N1Yl81PXthZmZfc3ViNX0mb2ZmZXJfbmFtZT17b2ZmZXJfbmFtZX0mb2ZmZXJfdXJsX2lkPXtvZmZlcl91cmxfaWR9JmZpbGVfaWQ9e29mZmVyX2ZpbGVfaWR9JmZpbGVfbmFtZT17ZmlsZV9uYW1lfSZhZHZlcnRpc2VyX2lkPXthZHZlcnRpc2VyX2lkfSZjb3VudHJ5X2NvZGU9e2NvdW50cnlfY29kZX0mcmVnaW9uX2NvZGU9e3JlZ2lvbl9jb2RlfSZjdXN0b21fdmFyaWFibGVzPXtwYXJhbXN9JmRhdGU9e2RhdGV9JnRpbWU9e3RpbWV9JmlwPXtpcH0mb2ZmZXJfcmVmZXJlbmNlX2lkPXtvZmZlcl9yZWZ9JmFmZmlsaWF0ZV9yZWZlcmVuY2VfaWQ9e2FmZmlsaWF0ZV9yZWZ9JmFkdmVydGlzZXJfcmVmZXJlbmNlX2lkPXthZHZlcnRpc2VyX3JlZn0mZGV2aWNlX2lkPXtkZXZpY2VfaWR9JmRldmljZV9pZF9tZDU9e2RldmljZV9pZF9tZDV9JmRldmljZV9pZF9zaGExPXtkZXZpY2VfaWRfc2hhMX0mYW5kcm9pZF9pZD17YW5kcm9pZF9pZH0mYW5kcm9pZF9pZF9tZDU9e2FuZHJvaWRfaWRfbWQ1fSZhbmRyb2lkX2lkX3NoYTE9e2FuZHJvaWRfaWRfc2hhMX0mb2Rpbj17b2Rpbn0mbW9iaWxlX2NhcnJpZXI9e21vYmlsZV9jYXJyaWVyfSZpb3NfaWZhPXtpb3NfaWZhfSZpb3NfaWZhX21kNT17aW9zX2lmYV9tZDV9Jmlvc19pZmFfc2hhMT17aW9zX2lmYV9zaGExfSZpb3NfaWZ2PXtpb3NfaWZ2fSZ1c2VyX2lkPXt1c2VyX2lkfSZ1bmlkPXt1bmlkfQ==</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>39</text>
