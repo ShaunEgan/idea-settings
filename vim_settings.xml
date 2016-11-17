@@ -34,6 +34,12 @@
       <file name="/a.dummy" timestamp="1479362741230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.java" timestamp="1479376232263">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricsTable.scala" timestamp="1477137315507">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="6" column="22" />
@@ -45,6 +51,12 @@
         <mark key="]" line="60" column="16" />
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Allocation.scala" timestamp="1479376129744">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="^" line="2" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -220,12 +232,6 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477640990298">
-        <mark key="'" line="21" column="43" />
-        <mark key="[" line="23" column="4" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
         <mark key="]" line="46" column="2" />
@@ -250,6 +256,12 @@
       </file>
       <file name="$USER_HOME$/repositories/research/picme/cart_data.php" timestamp="1479361974693" />
       <file name="$USER_HOME$/repositories/research/picme/add_to_cart.php" timestamp="1479361929906" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1477483290436">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
@@ -292,6 +304,11 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
         <mark key="[" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479376291884">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="10" column="0" />
@@ -303,12 +320,6 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/library/ScadaResponseAdapterSpec.scala" timestamp="1477397762227">
-        <mark key="'" line="63" column="6" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreamentsRepositories.scala" timestamp="1477135169700">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="26" />
@@ -319,16 +330,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" timestamp="1477558044059">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationService.scala" timestamp="1479376229071">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
@@ -530,11 +540,11 @@
       <jump line="53" column="11" filename="$USER_HOME$/repositories/research/picme/register.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Test</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Test</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -543,95 +553,31 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBhbGxvY2F0ZVNhbXBsZXMoZG91YmxlW10gZ2VuZXJhdGlvbiwgSGFzaE1hcDxPYmplY3QsIFY+IHVzYWdlLCBIYXNoTWFwPFR1cGxlMjxUMSwgVDI+LCBWPiB0YXJpZmZzKSB7CiAgICAgICAgcmV0dXJuIG51bGw7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWZmX3N1Yj17dHJhbnNhY3Rpb25faWR9CnNvdXJjZT17c291cmNlfQphZmZfc3ViMj17YWZmaWxpYXRlX2lkfQphZmZfc3ViMz17YWZmX3N1YjN9CmFmZl9zdWI0PXthZmZfc3ViNH0KYWZmX3N1YjU9e2FmZl9zdWI1fQpvZmZlcl9pZD17b2ZmZXJfaWR9Cm9mZmVyX25hbWU9e29mZmVyX25hbWV9Cm9mZmVyX3VybF9pZD17b2ZmZXJfdXJsX2lkfQpmaWxlX2lkPXtvZmZlcl9maWxlX2lkfQpmaWxlX25hbWU9e2ZpbGVfbmFtZX0KYWR2ZXJ0aXNlcl9pZD17YWR2ZXJ0aXNlcl9pZH0KY291bnRyeV9jb2RlPXtjb3VudHJ5X2NvZGV9CnJlZ2lvbl9jb2RlPXtyZWdpb25fY29kZX0KY3VzdG9tX3ZhcmlhYmxlcz17cGFyYW1zfQpkYXRlPXtkYXRlfQp0aW1lPXt0aW1lfQppcD17aXB9Cm9mZmVyX3JlZj17b2ZmZXJfcmVmfQphZmZpbGlhdGVfcmVmPXthZmZpbGlhdGVfcmVmfQphZHZlcnRpc2VyX3JlZj17YWR2ZXJ0aXNlcl9yZWZ9CmRldmljZV9pZD17ZGV2aWNlX2lkfQpkZXZpY2VfaWRfbWQ1PXtkZXZpY2VfaWRfbWQ1fQpkZXZpY2VfaWRfc2hhMT17ZGV2aWNlX2lkX3NoYTF9CmFuZHJvaWRfaWQ9e2FuZHJvaWRfaWR9PQphbmRyb2lkX2lkX21kNT17YW5kcm9pZF9pZF9tZDV9CmFuZHJvaWRfaWRfc2hhMT17YW5kcm9pZF9pZF9zaGExfQpvZGluPXtvZGlufQptb2JpbGVfY2Fycmllcj17bW9iaWxlX2NhcnJpZXJ9Cmlvc19pZmE9e2lvc19pZmF9Cmlvc19pZmFfbWQ1PXtpb3NfaWZhX21kNX0KaW9zX2lmYV9zaGExPXtpb3NfaWZhX3NoYTF9Cmlvc19pZnY9e2lvc19pZnZ9CnVzZXJfaWQ9e3VzZXJfaWR9Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMTEvMTcuCiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dW5pZD17dW5pfQo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>,
-            {
-                &quot;tariffLineItemId&quot;: 1000000813,
-                &quot;description&quot;: &quot;Monthly Basic Charge&quot;,
-                &quot;chargeType&quot;: 0,
-                &quot;compareId&quot;: 3300,
-                &quot;color&quot;: 127,
-                &quot;touId&quot;: 180002
-            }</text>
-      </register>
-      <register name="6" type="4">
-        <text>,
-                    {
-                        &quot;touId&quot;: 180001,
-                        &quot;description&quot;: &quot;Toyota Shifts; high season; Weekend&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180002,
-                        &quot;description&quot;: &quot;Toyota Shifts; high season; Prod. Night&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180003,
-                        &quot;description&quot;: &quot;Toyota Shifts; high season; Between Shift&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180004,
-                        &quot;description&quot;: &quot;Toyota Shifts; high season; Prod. Day&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180005,
-                        &quot;description&quot;: &quot;Toyota Shifts; low season; Lunch&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180006,
-                        &quot;description&quot;: &quot;Toyota Shifts; low season; Weekend&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180007,
-                        &quot;description&quot;: &quot;Toyota Shifts; low season; Prod. Night&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180008,
-                        &quot;description&quot;: &quot;Toyota Shifts; low season; Between Shift&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180009,
-                        &quot;description&quot;: &quot;Toyota Shifts; low season; Prod. Day&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180010,
-                        &quot;description&quot;: &quot;Toyota Shifts; Lunch&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180011,
-                        &quot;description&quot;: &quot;Toyota Shifts; Weekend&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180012,
-                        &quot;description&quot;: &quot;Toyota Shifts; Prod. Night&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180013,
-                        &quot;description&quot;: &quot;Toyota Shifts; Between Shift&quot;
-                    },
-                    {
-                        &quot;touId&quot;: 180014,
-                        &quot;description&quot;: &quot;Toyota Shifts; Prod. Day&quot;
-                    }</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">b2JqZWN0IENvbnZlcnNpb25zIHsKCiAgaW1wbGljaXQgY2xhc3MgRW51bU9wdGlvbihzOiBPcHRpb25bU3RyaW5nXSkgewoKICAgIGRlZiBvcHRBc0VudW0oZW51bTogRW51bWVyYXRpb24pID0gcyBtYXRjaCB7CiAgICAgIGNhc2UgU29tZShuYW1lKSA9PiBTb21lKGVudW0ud2l0aE5hbWUobmFtZSkpCiAgICAgIGNhc2UgTm9uZSA9PiBOb25lCiAgICB9CgogIH0KCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ZCAgY2FzZSBjbGFzcyBBbGxvY2F0aW9uKHVuaXRzOiBEb3VibGUpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgogIC8qKgogICAgKiBBbGxvY2F0ZSBwb3dlciB1c2FnZSBhY3Jvc3MgYSBtb250aCdzIHNhbXBsZXMuCiAgICAqLwogIGRlZiBhbGxvY2F0ZU1vbnRoKGdlbmVyYXRpb246IEhhc2hNYXBbQXJyYXldLCB1c2FnZTogSGFzaE1hcFtBcnJheV0sIHRhcmlmZnM6IEhhc2hNYXBbQXJyYXldKQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogIDIvCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
