@@ -131,6 +131,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/research/picme/register.php" timestamp="1479362574564">
+        <mark key="'" line="53" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="22" column="29" />
@@ -241,6 +244,8 @@
         <mark key="'" line="12" column="11" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/research/picme/cart_data.php" timestamp="1479361974693" />
+      <file name="$USER_HOME$/repositories/research/picme/add_to_cart.php" timestamp="1479361929906" />
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1477483290436">
         <mark key="[" line="11" column="40" />
         <mark key="]" line="11" column="40" />
@@ -419,10 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="24" filename="$USER_HOME$/repositories/yazimedia/src/services/process-pipeline.js" />
-      <jump line="6" column="19" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/playlist/index.js" />
-      <jump line="7" column="29" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/playlist/index.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" />
       <jump line="22" column="1" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/view-handler.js" />
       <jump line="1" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/view-handler.js" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/view-handler.js" />
@@ -519,6 +520,10 @@
       <jump line="5" column="11" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/VisualAcuity.scala" />
       <jump line="12109" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
       <jump line="2101" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
+      <jump line="103" column="188" filename="$USER_HOME$/repositories/research/picme/register.php" />
+      <jump line="19" column="134" filename="$USER_HOME$/repositories/research/picme/register.php" />
+      <jump line="30" column="33" filename="$USER_HOME$/repositories/research/picme/register.php" />
+      <jump line="53" column="11" filename="$USER_HOME$/repositories/research/picme/register.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -528,7 +533,7 @@
         <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>39</text>
+        <text>password</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
@@ -632,9 +637,9 @@
       </register>
     </registers>
     <search>
-      <last-search>39</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern>39</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-replace />
       <last-substitute>/\n//g</last-substitute>
       <last-dir>1</last-dir>
@@ -642,7 +647,6 @@
     </search>
     <history>
       <history-search>
-        <entry>colour</entry>
         <entry>ref_id</entry>
         <entry>s</entry>
         <entry>%s</entry>
@@ -662,6 +666,7 @@
         <entry encoding="base64">XDxnZXRcPg==</entry>
         <entry encoding="base64">XDxKc1ZhbHVlXD4=</entry>
         <entry>39</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry>+s/\\n/\r/g</entry>
