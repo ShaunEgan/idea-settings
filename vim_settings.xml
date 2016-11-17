@@ -243,6 +243,11 @@
         <mark key="]" line="0" column="577" />
         <mark key="." line="0" column="577" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/HashMapSampleRepositoryTest.scala" timestamp="1479372694223">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="29" />
+        <mark key="." line="8" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/research/picme/cart_data.php" timestamp="1479361974693" />
       <file name="$USER_HOME$/repositories/research/picme/add_to_cart.php" timestamp="1479361929906" />
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1477483290436">
@@ -526,10 +531,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text>Test</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text>Test</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
