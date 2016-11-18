@@ -475,11 +475,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479456311405">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479460474705">
         <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="21" />
-        <mark key="^" line="5" column="31" />
-        <mark key="." line="5" column="21" />
+        <mark key="]" line="18" column="1" />
+        <mark key="^" line="18" column="1" />
+        <mark key="." line="18" column="1" />
       </file>
       <file name="/fragment.java" timestamp="1479379230534">
         <mark key="[" line="0" column="0" />
