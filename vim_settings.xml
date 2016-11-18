@@ -251,6 +251,11 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479470815098">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" timestamp="1477640990298">
         <mark key="'" line="21" column="43" />
         <mark key="[" line="23" column="4" />
@@ -594,8 +599,8 @@
       <jump line="20" column="85" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Array</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE4LgogICovCmNsYXNzIEFjY291bnQgewoKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>Array</text>
@@ -607,23 +612,26 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0VmFsdWVPcmRlcmVkVXNhZ2VJbmRleGVzKHVzYWdlOiBIYXNoTWFwW0ludCwgRG91YmxlXSwgdGFyaWZmczogSGFzaE1hcFtJbnQsIChEb3VibGUsIERvdWJsZSldKTogQXJyYXlbSW50XSA9Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE4LgogICovCmNsYXNzIEFjY291bnQgewoKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgZ2V0VmFsdWVPcmRlcmVkVXNhZ2VJbmRleGVzKHVzYWdlOiBIYXNoTWFwW0ludCwgRG91YmxlXSwgdGFyaWZmczogSGFzaE1hcFtJbnQsIChEb3VibGUsIERvdWJsZSldKTogQXJyYXlbSW50XSA9Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>: Array[Int] = {
 
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;calculatePowerPool&quot; should &quot;get the expected result&quot; in {
     val generation = Array(1.7, 0.9, 3.3, 0.1)
 
@@ -634,17 +642,14 @@
     }
   }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9uU2VydmljZSA9IG5ldyBBbGxvY2F0aW9uU2VydmljZUltcGwoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgY2FsY3VsYXRlUG93ZXJQb29sKGdlbmVyYXRpb246IEFycmF5W0RvdWJsZV0pID0gZ2VuZXJhdGlvbi5zdW0K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
+        <text encoding="base64">ICBkZWYgY2FsY3VsYXRlUG93ZXJQb29sKGdlbmVyYXRpb246IEFycmF5W0RvdWJsZV0pID0gZ2VuZXJhdGlvbi5zdW0K</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
