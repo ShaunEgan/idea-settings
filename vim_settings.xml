@@ -236,7 +236,7 @@
         <mark key="]" line="34" column="16" />
         <mark key="." line="34" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479379578953">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479467435701">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="^" line="2" column="13" />
@@ -279,11 +279,11 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/tools/AllocationUtilsSpec.scala" timestamp="1479379551130">
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="10" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/tools/AllocationUtilsSpec.scala" timestamp="1479467453465">
+        <mark key="[" line="25" column="5" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
@@ -475,11 +475,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479460474705">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="18" column="1" />
-        <mark key="^" line="18" column="1" />
-        <mark key="." line="18" column="1" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479467580922">
+        <mark key="[" line="16" column="23" />
+        <mark key="]" line="15" column="107" />
+        <mark key="^" line="15" column="107" />
+        <mark key="." line="15" column="107" />
       </file>
       <file name="/fragment.java" timestamp="1479379230534">
         <mark key="[" line="0" column="0" />
@@ -595,10 +595,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Consumption</text>
+        <text>Array</text>
       </register>
       <register name="-" type="4">
-        <text>Consumption</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -607,15 +607,23 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0VmFsdWVPcmRlcmVkVXNhZ2VJbmRleGVzKHVzYWdlOiBIYXNoTWFwW0ludCwgRG91YmxlXSwgdGFyaWZmczogSGFzaE1hcFtJbnQsIChEb3VibGUsIERvdWJsZSldKTogQXJyYXlbSW50XSA9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>: Array[Int] = {
+
+  }</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>&quot;calculatePowerPool&quot; should &quot;get the expected result&quot; in {
     val generation = Array(1.7, 0.9, 3.3, 0.1)
 
@@ -626,28 +634,17 @@
     }
   }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9uU2VydmljZSA9IG5ldyBBbGxvY2F0aW9uU2VydmljZUltcGwoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBkZWYgY2FsY3VsYXRlUG93ZXJQb29sKGdlbmVyYXRpb246IEFycmF5W0RvdWJsZV0pID0gZ2VuZXJhdGlvbi5zdW0K</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>Allocate power usage across a time slot.
-    *
-    * @param generation An array of power generated during the time slot
-    * @param usage A hash map of the usage by accounts, with the account ID as the key
-    * @param tariffs A hashmap of tuples, with the account ID as the key, and a tuple of the per unit charge and
-    * the minimum SLA requirement</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
