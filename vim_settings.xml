@@ -307,10 +307,10 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479728398856">
-        <mark key="[" line="0" column="103" />
-        <mark key="]" line="0" column="103" />
-        <mark key="." line="0" column="103" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479732142767">
+        <mark key="[" line="7" column="103" />
+        <mark key="]" line="7" column="103" />
+        <mark key="." line="7" column="103" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Laser.scala" timestamp="1477640953725">
         <mark key="[" line="12" column="16" />
@@ -599,10 +599,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Required</text>
+        <text encoding="base64">LCBidXQg</text>
       </register>
       <register name="-" type="4">
-        <text>Required</text>
+        <text encoding="base64">LCBidXQg</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
