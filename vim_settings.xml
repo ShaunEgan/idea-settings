@@ -78,7 +78,7 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/tools/UtilsSpec.scala" timestamp="1479810012517">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/tools/UtilsSpec.scala" timestamp="1479813233496">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -236,10 +236,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/Utils.scala" timestamp="1479809997592">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/Utils.scala" timestamp="1479813305997">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
         <mark key="[" line="34" column="16" />
@@ -346,6 +346,12 @@
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
         <mark key="[" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479814076939">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="7" />
+        <mark key="^" line="21" column="27" />
+        <mark key="." line="21" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
@@ -592,10 +598,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LnNvcnRXaXRoKF8uY29zdCA+IF8uY29zdCk=</text>
+        <text>order by price per unit</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LnNvcnRXaXRoKF8uY29zdCA+IF8uY29zdCk=</text>
+        <text>order by price per unit</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -603,35 +609,35 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">KG9yZGVyRm46IEFycmF5W0FjY291bnRbVF1dID0+IEFycmF5W0FjY291bnRbVF1dKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gIHByaXZhdGUgZGVmIG9yZGVyZWRCeUNvc3QoYWNjb3VudHM6IEFycmF5W0FjY291bnRdKSA9IGFjY291bnRzLnNvcnRXaXRoKF8uY29zdCA+IF8uY29zdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">W1QgPDogQmlnRGVjaW1hbF0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAiZ2VuZXJhdGVBY2NvdW50RGF0YSIgc2hvdWxkICJjb252ZXJ0IHVzYWdlIGFuZCB0YXJpZmZzIGludG8gYW4gYXJyYXkgb2YgYWNjb3VudHMgaW4gdGhlIGNvcnJlY3Qgb3JkZXIiIGluIHsKICAgIHZhbCB1c2FnZSA9IEhhc2hNYXBbSW50LCBCaWdEZWNpbWFsXSgoMSwgMi41KSwgKDIsIDkuOCksICgzLCAzLjApLCAoNCwgMTIuMCkpCgogICAgdmFsIHRhcmlmZnMgPSBIYXNoTWFwW0ludCwgKEJpZ0RlY2ltYWwsIEJpZ0RlY2ltYWwpXSgKICAgICAgKDEsICgwLjEsIDAuMSkpLAogICAgICAoMiwgKDAuMiwgMC4xKSksCiAgICAgICgzLCAoMC43LCAwLjIpKSwKICAgICAgKDQsICgwLjUsIDAuMCkpCiAgICApCgogICAgdmFsIGV4cGVjdGVkID0gQXJyYXkoCiAgICAgIEFjY291bnQoMywgMy4wLCAwLjcsIDAuMiksCiAgICAgIEFjY291bnQoNCwgMTIuMCwgMC41LCAwLjApLAogICAgICBBY2NvdW50KDIsIDkuOCwgMC4yLCAwLjEpLAogICAgICBBY2NvdW50KDEsIDIuNSwgMC4xLCAwLjEpCiAgICApCgogICAgYXNzZXJ0UmVzdWx0KGV4cGVjdGVkKSB7CiAgICAgIFV0aWxzLmdlbmVyYXRlQWNjb3VudERhdGEodXNhZ2UsIHRhcmlmZnMpKF8uc29ydFdpdGgoXy5jb3N0ID4gXy5jb3N0KSkKICAgIH0KIA==</text>
+        <text encoding="base64">KG9yZGVyRm46IEFycmF5W0FjY291bnRdID0+IEFycmF5W0FjY291bnRdKQ==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAiY2FsY3VsYXRlUG93ZXJQb29sIiBzaG91bGQgInN1bSB0aGUgdmFsdWVzIiBpbiB7CiAgICB2YWwgZ2VuZXJhdGlvbiA9IEFycmF5W0JpZ0RlY2ltYWxdKDEuNywgMC45LCAzLjMsIDAuMSkKCiAgICBhc3NlcnRSZXN1bHQoNi4wKSB7CiAgICAgIFV0aWxzLmNhbGN1bGF0ZVBvd2VyUG9vbChnZW5lcmF0aW9uKQogICAgfQogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgY2FsY3VsYXRlUG93ZXJQb29sKGdlbmVyYXRpb246IEFycmF5W0JpZ0RlY2ltYWxdKSA9IGdlbmVyYXRpb24uc3VtCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">KG9yZGVyRm46IEFycmF5W0FjY291bnRbVF1dID0+IEFycmF5W0FjY291bnRbVF1dKQ==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAiY2FsY3VsYXRlUG93ZXJQb29sIiBzaG91bGQgInN1bSB0aGUgdmFsdWVzIiBpbiB7CiAgICB2YWwgZ2VuZXJhdGlvbiA9IEFycmF5W0JpZ0RlY2ltYWxdKDEuNywgMC45LCAzLjMsIDAuMSkKCiAgICBhc3NlcnRSZXN1bHQoNi4wKSB7CiAgICAgIFV0aWxzLmNhbGN1bGF0ZVBvd2VyUG9vbChnZW5lcmF0aW9uKQogICAgfQogIH0=</text>
+        <text encoding="base64">W1QgPDogQmlnRGVjaW1hbF0=</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
