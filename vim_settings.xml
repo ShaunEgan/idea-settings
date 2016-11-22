@@ -342,11 +342,11 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
         <mark key="[" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479799747189">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479807866435">
+        <mark key="[" line="59" column="40" />
+        <mark key="]" line="59" column="39" />
+        <mark key="." line="59" column="39" />
+        <mark key="^" line="59" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
@@ -592,11 +592,11 @@
       <jump line="49" column="36" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKHMiVXNhZ2U6ICR1c2FnZSwgTWluOiAkbWluLCBBdmFpbGFibGU6ICRhdmFpbGFibGVQb3dlciIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
-        <text>Double</text>
+        <text>BigDecimal</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -605,21 +605,33 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKHMiVXNhZ2U6ICR1c2FnZSwgTWluOiAkbWluLCBBdmFpbGFibGU6ICRhdmFpbGFibGVQb3dlciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRlZEFjY291bnRzLm1hcChhID0+IGEuaWQgLT4gQWxsb2NhdGlvbihhLmFsbG9jYXRpb24pKS50b01hcAo=</text>
+        <text encoding="base64">ICAgIC8vIHdlIGhhdmUgc29tZXdoZXJlIGJldHdlZW4gdGhlIFNMQSByZXF1aXJlbWVudCBhbmQgdGhlIGFjdHVhbCBwb3dlciB1c2VkLCBhbGxvY2F0ZSBhcyBtdWNoIGFzIHBvc3NpYmxlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIG1pbgogICAgfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC8qCiAgICBDYWxjdWxhdGUgdGhlIGFtb3VudCBvZiBwb3dlciBhdmFpbGFibGUgdG8gYmUgdXNlZCBmb3IgdGhpcyBhbGxvY2F0aW9uLCB3aXRob3V0IAogICAgICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBwcmludGxuKHMiVXNhZ2U6ICR1c2FnZSwgTWluOiAkbWluLCBBdmFpbGFibGU6ICRhdmFpbGFibGVQb3dlciIpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGFsbG9jYXRlZEFjY291bnRzLm1hcChhID0+IGEuaWQgLT4gQWxsb2NhdGlvbihhLmFsbG9jYXRpb24pKS50b01hcAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>//  @tailrec private def allocate(accounts: Array[Account], pool: Double, required: Double): Array[Account] = {
 //    // this will all have to be replaced with a loop since we cant easily tail-call-optimize it
 //    if (pool == 0.0 || accounts.isEmpty) accounts
@@ -630,18 +642,6 @@
 //      Array(current.copy(allocation = allocation)) ++ allocate(accounts.tail, pool - allocation, required - current.minAllocation)
 //    }
 //  }</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgovLyAgcHJpdmF0ZSBkZWYgYWxsb2NhdGUoYWNjb3VudHM6IEFycmF5W0FjY291bnRdLCBwb29sOiBEb3VibGUsIHJlcXVpcmVkOiBEb3VibGUpOiBBcnJheVtBY2NvdW50XSA9IHsKLy8KLy8gIH0=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYgKGF2YWlsYWJsZVBvd2VyID4gY3VycmVudC51c2FnZSkgewogICAgICAgIGN1cnJlbnQudXNhZ2UKICAgICAgfSBlbHNlIGlmIChhdmFpbGFibGVQb3dlciA+IHJlcXVpcmVkKSB7CiAgICAgICAgYXZhaWxhYmxlUG93ZXIKICAgICAgfSBlbHNlIHsKICAgICAgICByZXF1aXJlZAogICAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGF2YWlsYWJsZVBvd2VyID0gcG9vbCAtIChyZXF1aXJlZCAtIGN1cnJlbnQubWluQWxsb2NhdGlvbikK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
