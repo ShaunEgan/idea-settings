@@ -259,11 +259,11 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479810103843">
-        <mark key="[" line="11" column="84" />
-        <mark key="]" line="11" column="84" />
-        <mark key="." line="11" column="84" />
-        <mark key="^" line="11" column="52" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479885640110">
+        <mark key="[" line="11" column="97" />
+        <mark key="]" line="11" column="82" />
+        <mark key="." line="11" column="82" />
+        <mark key="^" line="11" column="82" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
@@ -596,8 +596,8 @@
       <jump line="49" column="36" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bmV3IEFsbG9jYXRpb25TZXJ2aWNlW0JpZ0RlY2ltYWxdKHNvbWUgcGFyYSkK</text>
+      <register name="&quot;" type="4">
+        <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
         <text>BigDecimal</text>
