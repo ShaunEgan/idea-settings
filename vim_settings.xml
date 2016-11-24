@@ -43,8 +43,8 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479983523119">
-        <mark key="[" line="25" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479984509917">
+        <mark key="[" line="21" column="83" />
         <mark key="]" line="2" column="25" />
         <mark key="^" line="2" column="49" />
         <mark key="." line="2" column="25" />
@@ -240,6 +240,11 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountSpec.scala" timestamp="1479984477834">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BilateralEyeMeasurements/BilateralEyeMeasurement.scala" timestamp="1476546857027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -278,10 +283,10 @@
         <mark key="." line="6" column="7" />
         <mark key="^" line="9" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AllocatorImplSpec.scala" timestamp="1479983216244">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AllocatorImplSpec.scala" timestamp="1479984840805">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477395513183">
         <mark key="[" line="18" column="105" />
@@ -636,10 +641,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5UaW1lU2xvdEFsbG9jYXRvckltcGwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.traits.TimeSlotAllocator</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -648,18 +653,30 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5UaW1lU2xvdEFsbG9jYXRvckltcGwK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5BY2NvdW50Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIHRlc3QgU0xBCiAgICBpbnRlcmNlcHRbSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uXSB7CiAgICAgIHZhbCBhY2MgPSBBY2NvdW50W0ludCwgQmlnRGVjaW1hbF0oMSwgMSwgMSwgMSwgMCkKICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5UaW1lU2xvdEFsbG9jYXRvckltcGwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5BY2NvdW50Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>trait Allocator[A, T] {
 
   /**
@@ -674,20 +691,8 @@
 
 }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8KICAgIGltcG9ydCBPcmRlcmluZy5JbXBsaWNpdHMuXwoK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
