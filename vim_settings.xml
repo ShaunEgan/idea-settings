@@ -43,11 +43,11 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479987348063">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="2" column="25" />
-        <mark key="^" line="2" column="49" />
-        <mark key="." line="2" column="25" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479988666978">
+        <mark key="[" line="59" column="11" />
+        <mark key="]" line="47" column="33" />
+        <mark key="^" line="47" column="33" />
+        <mark key="." line="47" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479978720080">
         <mark key="[" line="2" column="0" />
@@ -640,11 +640,11 @@
       <jump line="11" column="3" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -695,7 +695,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>39</text>
+        <text>121</text>
       </register>
     </registers>
     <search>
@@ -731,9 +731,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>+s/\\n/\r/g</entry>
-        <entry>%s/\\n/\r\gc</entry>
-        <entry>%s/\\n/\r&quot;/gc</entry>
         <entry>%s/\\n/&quot;\r&quot;/gc</entry>
         <entry>%s/\\n/&quot;\r&quot;+/g</entry>
         <entry>%s/\\n\&quot;+\r&quot;/g</entry>
@@ -751,6 +748,9 @@
         <entry>76</entry>
         <entry>46</entry>
         <entry>39</entry>
+        <entry>58</entry>
+        <entry>104</entry>
+        <entry>121</entry>
       </history-cmd>
       <history-expr />
       <history-input />
