@@ -43,6 +43,12 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479983523119">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="2" column="25" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479978720080">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -208,15 +214,20 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479981406550">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479982671469">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1476859027169">
         <mark key="[" line="0" column="4" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/Allocator.scala" timestamp="1479982851531">
+        <mark key="]" line="2" column="41" />
+        <mark key="^" line="2" column="41" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
@@ -266,6 +277,11 @@
         <mark key="]" line="6" column="7" />
         <mark key="." line="6" column="7" />
         <mark key="^" line="9" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AllocatorImplSpec.scala" timestamp="1479983216244">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477395513183">
         <mark key="[" line="18" column="105" />
@@ -379,10 +395,18 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1479983529820">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="16" />
         <mark key="." line="34" column="16" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1477040979503">
         <mark key="[" line="15" column="70" />
@@ -393,13 +417,7 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479978539982">
-        <mark key="'" line="10" column="3" />
-        <mark key="[" line="8" column="32" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479982663519" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreatmentsRepository.scala" timestamp="1477136137639">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="4" column="22" />
@@ -412,10 +430,10 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479981373834">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479982896366">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
@@ -504,7 +522,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1479889002329">
+      <file name="/fragment.java" timestamp="1479982744117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
@@ -618,10 +636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5UaW1lU2xvdEFsbG9jYXRvckltcGwK</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>.traits.TimeSlotAllocator</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -630,12 +648,18 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5UaW1lU2xvdEFsbG9jYXRvckltcGwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5BY2NvdW50Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
+      </register>
+      <register name="4" type="4">
         <text>trait Allocator[A, T] {
 
   /**
@@ -650,26 +674,20 @@
 
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8KICAgIGltcG9ydCBPcmRlcmluZy5JbXBsaWNpdHMuXwoK</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtCg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtZXJpYy5sdGVxCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8KICAgIGltcG9ydCBPcmRlcmluZy5JbXBsaWNpdHMuXwoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8xMS8yMy4KICAqLwo=</text>
+        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtCg==</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
