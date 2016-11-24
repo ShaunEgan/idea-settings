@@ -43,12 +43,10 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/math/Numeric.scala" timestamp="1479818915447" />
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479905582215">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="^" line="31" column="8" />
-        <mark key="." line="31" column="8" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479966609604">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="38" />
+        <mark key="." line="15" column="41" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477640318983">
         <mark key="[" line="98" column="20" />
@@ -71,10 +69,10 @@
         <mark key="." line="86" column="29" />
         <mark key="^" line="86" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/models/AccountTest.scala" timestamp="1479889827330">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/models/AccountTest.scala" timestamp="1479966096576">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" timestamp="1477555096318">
         <mark key="[" line="8" column="1" />
@@ -165,7 +163,7 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1479906496126">
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1479966757131">
         <mark key="[" line="12" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479792840520">
@@ -204,8 +202,11 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479911040911">
-        <mark key="[" line="46" column="31" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479966417809">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="46" column="60" />
+        <mark key="^" line="46" column="60" />
+        <mark key="." line="46" column="60" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1476859027169">
         <mark key="[" line="0" column="4" />
@@ -240,7 +241,6 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/collection/TraversableOnce.scala" timestamp="1479818854207" />
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
         <mark key="]" line="54" column="55" />
@@ -314,7 +314,6 @@
         <mark key="^" line="161" column="4" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.11.7-sources.jar!/scala/runtime/RichInt.scala" timestamp="1479887929096" />
       <file name="$USER_HOME$/dev/svc-glaucoma/test/models/IOPScreeningTest.scala" timestamp="1476380972875">
         <mark key="[" line="9" column="41" />
         <mark key="]" line="10" column="39" />
@@ -390,12 +389,12 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479903438254">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479966123667">
         <mark key="'" line="10" column="3" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="16" column="1" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="29" />
+        <mark key="." line="11" column="29" />
+        <mark key="^" line="11" column="29" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreatmentsRepository.scala" timestamp="1477136137639">
         <mark key="[" line="10" column="16" />
@@ -409,11 +408,11 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479905797463">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="^" line="15" column="5" />
-        <mark key="." line="16" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479966337087">
+        <mark key="[" line="16" column="97" />
+        <mark key="]" line="16" column="97" />
+        <mark key="^" line="16" column="52" />
+        <mark key="." line="16" column="97" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
@@ -616,10 +615,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>allocateTimeSlot</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>allocateTimeSlot</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
