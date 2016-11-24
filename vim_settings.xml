@@ -129,6 +129,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1479970326267">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="4" column="41" />
+        <mark key="." line="4" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1477310553708">
         <mark key="[" line="39" column="11" />
         <mark key="]" line="39" column="11" />
@@ -163,8 +168,8 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1479966757131">
-        <mark key="[" line="12" column="77" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1479970840866">
+        <mark key="[" line="12" column="80" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479792840520">
         <mark key="[" line="7" column="103" />
@@ -615,10 +620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Int</text>
+        <text>sendMail</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>sendMail</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
