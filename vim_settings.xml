@@ -208,11 +208,10 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479978650781">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="36" />
-        <mark key="^" line="46" column="60" />
-        <mark key="." line="31" column="36" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479981406550">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1476859027169">
         <mark key="[" line="0" column="4" />
@@ -413,11 +412,10 @@
         <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479978801704">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="14" column="52" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1479981373834">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
@@ -620,7 +618,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -632,34 +630,46 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi50cmFpdHMuQWxsb2NhdG9yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
+      <register name="2" type="4">
+        <text>trait Allocator[A, T] {
+
+  /**
+    * Allocate power usage across a time slot.
+    *
+    * @param generation An array of power generated during the time slot
+    * @param usage A hash map of the usage by accounts, with the account ID as the key
+    * @param tariffs A hashmap of tuples, with the account ID as the key, and a tuple of the per unit charge and
+    * the minimum SLA requirement
+    */
+  def allocate(generation: Array[T], usage: HashMap[A, T], tariffs: HashMap[A, (T, T)]): HashMap[A, T]
+
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8KICAgIGltcG9ydCBPcmRlcmluZy5JbXBsaWNpdHMuXwoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtZXJpYy5sdGVxCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqCiogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8xMS8yMy4KICAqLwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuQWxsb2NhdGlvbi5tb2RlbHMuQWxsb2NhdGlvbgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8KICAgIGltcG9ydCBPcmRlcmluZy5JbXBsaWNpdHMuXwoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2YWwgcmVzdWx0ID0gbnVtZXJpYy5sdGVxCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIHJlcXVpcmUoMC5hc0luc3RhbmNlT2ZbVF0gPD0gc2xhICYmIHNsYSA8PSAxLmFzSW5zdGFuY2VPZltUXSwgIlNMQSBtdXN0IGJlIGJldHdlZW4gMCBhbmQgMSIpCi8vICByZXF1aXJlKDAgPD0gc2xhICYmIHNsYSA8PSAxLCAiU0xBIG11c3QgYmUgYmV0d2VlbiAwIGFuZCAxIikK</text>
+        <text encoding="base64">LyoqCiogQ3JlYXRlZCBieSBzaGF1bmVnYW4gb24gMjAxNi8xMS8yMy4KICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>39</text>
