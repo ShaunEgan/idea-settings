@@ -43,11 +43,11 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1479989972641">
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="119" column="83" />
-        <mark key="^" line="119" column="83" />
-        <mark key="." line="119" column="83" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1480060550719">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="121" column="83" />
+        <mark key="^" line="121" column="83" />
+        <mark key="." line="121" column="83" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479978720080">
         <mark key="[" line="2" column="0" />
