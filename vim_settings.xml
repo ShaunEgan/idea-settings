@@ -274,10 +274,8 @@
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480064412694">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480067494413">
+        <mark key="[" line="11" column="96" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
