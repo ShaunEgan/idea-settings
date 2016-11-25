@@ -175,9 +175,6 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1479972916808">
-        <mark key="[" line="12" column="80" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479792840520">
         <mark key="[" line="7" column="103" />
         <mark key="]" line="7" column="103" />
@@ -234,6 +231,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1480074775042">
+        <mark key="[" line="7" column="51" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -268,8 +268,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/BatchAllocator.scala" timestamp="1480071699953">
-        <mark key="[" line="17" column="2" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/BatchAllocator.scala" timestamp="1480075431853">
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
@@ -394,6 +393,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocatorTypeAliases.scala" timestamp="1480075418168">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1478174036875">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -500,12 +504,7 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/BatchAllocatorImplSpec.scala" timestamp="1480070399065">
-        <mark key="[" line="26" column="8" />
-        <mark key="]" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-        <mark key="^" line="26" column="7" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/BatchAllocatorImplSpec.scala" timestamp="1480075088883" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -674,11 +673,11 @@
       <jump line="11" column="3" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>1.7, 0.9, 3.3, 0.1</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -687,34 +686,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHRlc3QK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIHRlc3QK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0eXBlIFRpbWVTbG90VHlwZSA9ICgsIEhhc2hNYXBbQSwgVF0sIEhhc2hNYXBbQSwgKFQsIFQpXSkK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIFRhcmlmZkhhc2hNYXAgPSBIYXNoTWFwW0EsIChULCBUKV0KICB0eXBlIFVzYWdlSGFzaE1hcCA9IEhhc2hNYXBbQSwgVF0KICB0eXBlIEdlbmVyYXRpb25BcnJheSA9IEFycmF5W1RdCg==</text>
+        <text encoding="base64">ICB0eXBlIFRpbWVTbG90VHlwZSA9ICgsIEhhc2hNYXBbQSwgVF0sIEhhc2hNYXBbQSwgKFQsIFQpXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IHR5cGUgTXlUeXBlID0gSW50Cg==</text>
+        <text encoding="base64">ICB0eXBlIFRhcmlmZkhhc2hNYXAgPSBIYXNoTWFwW0EsIChULCBUKV0KICB0eXBlIFVzYWdlSGFzaE1hcCA9IEhhc2hNYXBbQSwgVF0KICB0eXBlIEdlbmVyYXRpb25BcnJheSA9IEFycmF5W1RdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
+        <text encoding="base64">IHR5cGUgTXlUeXBlID0gSW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
