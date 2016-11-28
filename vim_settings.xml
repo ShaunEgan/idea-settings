@@ -453,7 +453,6 @@
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" timestamp="1479982663519" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreatmentsRepository.scala" timestamp="1477136137639">
         <mark key="[" line="10" column="16" />
         <mark key="]" line="4" column="22" />
@@ -504,7 +503,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/BatchAllocatorImplSpec.scala" timestamp="1480075088883" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -539,6 +537,13 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1480312182703">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="12" column="13" />
+        <mark key="^" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -571,7 +576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="40" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/view-handler.js" />
       <jump line="38" column="47" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" />
       <jump line="3" column="2" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_playlist.scss" />
@@ -671,6 +675,7 @@
       <jump line="20" column="85" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
       <jump line="49" column="36" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
       <jump line="11" column="3" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" />
+      <jump line="12" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
