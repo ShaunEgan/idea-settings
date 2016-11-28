@@ -537,12 +537,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1480312182703">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1480312769628">
         <mark key="'" line="12" column="13" />
-        <mark key="[" line="15" column="19" />
-        <mark key="]" line="12" column="13" />
-        <mark key="^" line="12" column="13" />
-        <mark key="." line="12" column="13" />
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
@@ -679,7 +678,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRvCiAgICAgICAgI3NvbWUgCiAgICAgICAgIyBvdGhlciAKICAgICAgICAjc3R1ZmYgCg==</text>
       </register>
       <register name="-" type="4">
         <text>1.7, 0.9, 3.3, 0.1</text>
@@ -691,34 +690,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAjIGRvCiAgICAgICAgI3NvbWUgCiAgICAgICAgIyBvdGhlciAKICAgICAgICAjc3R1ZmYgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIHRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAjIGNvdWxkCiAgICAgICAgIyBkbwogICAgICAgICNzb21tZQogICAgICAgICNjb21wbGV4CiAgICAgICAgI2FsaW9zZGpvYWtuZG9hbnNkb2luYXNkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2NvdWxkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
+        <text encoding="base64">ICAgIGRlZiBkb05vdGhpbmcoc2VsZik6CiAgICAgICAgcmV0dXJuCiAgICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI1LgogICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0eXBlIFRpbWVTbG90VHlwZSA9ICgsIEhhc2hNYXBbQSwgVF0sIEhhc2hNYXBbQSwgKFQsIFQpXSkK</text>
+        <text encoding="base64">Ly8gICAgcmV0dXJuIHRlc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlIFRhcmlmZkhhc2hNYXAgPSBIYXNoTWFwW0EsIChULCBUKV0KICB0eXBlIFVzYWdlSGFzaE1hcCA9IEhhc2hNYXBbQSwgVF0KICB0eXBlIEdlbmVyYXRpb25BcnJheSA9IEFycmF5W1RdCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IHR5cGUgTXlUeXBlID0gSW50Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzE3LgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
