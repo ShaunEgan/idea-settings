@@ -301,8 +301,10 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480332540742">
-        <mark key="[" line="23" column="3" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480335659263">
+        <mark key="[" line="46" column="47" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
@@ -382,7 +384,7 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480070409678">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480335764565">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -443,7 +445,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1480331370482">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1480334197864">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="10" column="13" />
         <mark key="^" line="10" column="17" />
@@ -704,11 +706,11 @@
       <jump line="12" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new LocalDateTime(period, new LocalTime(0, 0))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGFjY3VtdWxhdG9yICsrIEFycmF5KGNhbGN1bGF0ZUludGVydmFscyhzdGFydC5wbHVzTWludXRlcyhtaW51dGVzSW50ZXJ2YWwpLCBlbmQsICkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>new LocalDateTime(period, new LocalTime(0, 0))</text>
+        <text>minutes</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -717,34 +719,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">Ly8gICAgICAgIGFjY3VtdWxhdG9yICsrIEFycmF5KGNhbGN1bGF0ZUludGVydmFscyhzdGFydC5wbHVzTWludXRlcyhtaW51dGVzSW50ZXJ2YWwpLCBlbmQsICkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciB0aW1lID0gbmV3IExvY2FsVGltZSgwLCAwKQogICAgCiAgICB0aW1lLgovLyAgICB3aGlsZSh0aW1lIDw9IG5ldyBMb2NhbFRpbWUoMjQsIDApKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKG5ldyBMb2NhbERhdGVUaW1lKHBlcmlvZCwgbmV3IExvY2FsVGltZSgwLCAwKSkpCg==</text>
+        <text encoding="base64">ICAgIFNlcS5lbXB0eVtMb2NhbERhdGVUaW1lXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNlcS5lbXB0eVtMb2NhbERhdGVUaW1lXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW5lcmF0aW9uID0gZGF0YS5nZW5lcmF0aW9uCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHNsb3QgPSBuZXcgTG9jYWxEYXRlVGltZShwZXJpb2QsIG5ldyBMb2NhbERhdGVUaW1lKDAsIDApKQovLyAgICBhbGxvY2F0ZVNsb3Qoc2xvdCkKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI4LgogICovCg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI4LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgYWxsb2NhdGUoYmF0Y2g6IFRpbWVTbG90TWFwKQo=</text>
+        <text encoding="base64">ICAgIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKG5ldyBMb2NhbERhdGVUaW1lKHBlcmlvZCwgbmV3IExvY2FsVGltZSgwLCAwKSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI4LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>121</text>
