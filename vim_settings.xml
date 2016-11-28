@@ -108,6 +108,11 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -273,6 +278,11 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1480324199641">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480071858275">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="29" column="3" />
@@ -362,10 +372,10 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1479456071792">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1480323385294">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480070409678">
         <mark key="[" line="6" column="0" />
@@ -564,7 +574,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1480069644648">
+      <file name="/fragment.java" timestamp="1480323988104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
@@ -677,11 +687,11 @@
       <jump line="12" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRvCiAgICAgICAgI3NvbWUgCiAgICAgICAgIyBvdGhlciAKICAgICAgICAjc3R1ZmYgCg==</text>
+      <register name="&quot;" type="4">
+        <text>library.SampleRepository.</text>
       </register>
       <register name="-" type="4">
-        <text>1.7, 0.9, 3.3, 0.1</text>
+        <text>library.SampleRepository.</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
