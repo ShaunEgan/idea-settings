@@ -301,10 +301,11 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480335659263">
-        <mark key="[" line="46" column="47" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480337142376">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="47" />
+        <mark key="." line="24" column="47" />
+        <mark key="^" line="24" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
@@ -350,6 +351,13 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480337149166">
+        <mark key="'" line="4" column="56" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="56" />
+        <mark key="." line="4" column="56" />
+        <mark key="^" line="4" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -566,12 +574,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1480312769628">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
@@ -593,7 +595,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1480330545974">
+      <file name="/fragment.java" timestamp="1480335818511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
@@ -604,7 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/view-handler.js" />
       <jump line="38" column="47" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-player/index.js" />
       <jump line="3" column="2" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/styles/_playlist.scss" />
       <jump line="57" column="58" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" />
@@ -704,13 +705,14 @@
       <jump line="49" column="36" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" />
       <jump line="11" column="3" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/models/Account.scala" />
       <jump line="12" column="13" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFjY3VtdWxhdG9yICsrIEFycmF5KGNhbGN1bGF0ZUludGVydmFscyhzdGFydC5wbHVzTWludXRlcyhtaW51dGVzSW50ZXJ2YWwpLCBlbmQsICkpCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0Lkdsb2JhbAo=</text>
       </register>
       <register name="-" type="4">
-        <text>minutes</text>
+        <text>Implicits.</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -719,37 +721,37 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGFjY3VtdWxhdG9yICsrIEFycmF5KGNhbGN1bGF0ZUludGVydmFscyhzdGFydC5wbHVzTWludXRlcyhtaW51dGVzSW50ZXJ2YWwpLCBlbmQsICkpCg==</text>
+        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0Lkdsb2JhbAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0aW1lID0gbmV3IExvY2FsVGltZSgwLCAwKQogICAgCiAgICB0aW1lLgovLyAgICB3aGlsZSh0aW1lIDw9IG5ldyBMb2NhbFRpbWUoMjQsIDApKQo=</text>
+        <text encoding="base64">ICBwcmludGxuKHgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNlcS5lbXB0eVtMb2NhbERhdGVUaW1lXQo=</text>
+        <text encoding="base64">ICBwcmludGxuKHgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNlcS5lbXB0eVtMb2NhbERhdGVUaW1lXQo=</text>
+        <text encoding="base64">ICBwcmludGxuKCdoYXNkZmFzZGYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNsb3QgPSBuZXcgTG9jYWxEYXRlVGltZShwZXJpb2QsIG5ldyBMb2NhbERhdGVUaW1lKDAsIDApKQovLyAgICBhbGxvY2F0ZVNsb3Qoc2xvdCkKCg==</text>
+        <text encoding="base64">ICAgIHZhbCBlbmRPZk1vbnRoID0gc3RhcnRPZk1vbnRoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">CiAgcHJpbnRsbih4KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBsaQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKG5ldyBMb2NhbERhdGVUaW1lKHBlcmlvZCwgbmV3IExvY2FsVGltZSgwLCAwKSkpCg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>121</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -785,10 +787,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\\n/&quot;\r&quot;/gc</entry>
-        <entry>%s/\\n/&quot;\r&quot;+/g</entry>
-        <entry>%s/\\n\&quot;+\r&quot;/g</entry>
-        <entry>%s/\\n/&quot;+\r&quot;/g</entry>
         <entry>%s/}/},/g</entry>
         <entry>100</entry>
         <entry>156</entry>
@@ -805,6 +803,10 @@
         <entry>58</entry>
         <entry>104</entry>
         <entry>121</entry>
+        <entry>t.</entry>
+        <entry>50</entry>
+        <entry>20</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
