@@ -92,6 +92,12 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/SampleRepository/CsvSampleRepositoryTest.scala" timestamp="1480405794730">
+        <mark key="[" line="16" column="36" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1478174336623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -285,10 +291,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1480324199641">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1480405565344">
+        <mark key="[" line="34" column="123" />
+        <mark key="]" line="34" column="123" />
+        <mark key="." line="34" column="123" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480330346096">
         <mark key="[" line="21" column="0" />
@@ -301,11 +307,11 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480401420083">
-        <mark key="[" line="33" column="70" />
-        <mark key="]" line="36" column="11" />
-        <mark key="." line="36" column="11" />
-        <mark key="^" line="36" column="11" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480408864093">
+        <mark key="[" line="33" column="87" />
+        <mark key="]" line="33" column="87" />
+        <mark key="." line="33" column="87" />
+        <mark key="^" line="33" column="109" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
@@ -352,11 +358,10 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480401677251">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="14" column="13" />
-        <mark key="^" line="14" column="13" />
-        <mark key="." line="14" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480408803147">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -708,10 +713,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -720,34 +725,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbG90cyA9IAo=</text>
+        <text encoding="base64">Ly8gIGFsbG9jYXRpb25zIGZvcmVhY2ggKF8uXzIgbWFwIHByaW50bG4pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">wqcvLyAgICBhbGxvY2F0ZVNsb3QoTG9jYWxEYXRlVGltZS5vZihwZXJpb2QsIExvY2FsVGltZS5vZigwLCAwKSkpCg==</text>
+        <text encoding="base64">Ly8gICAgRnV0dXJlLnNlcXVlbmNlKGFsbG9jYXRpb25zKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgYmEgPSBuZXcgQmF0Y2hBbGxvY2F0b3JJbXBsW0xvY2FsRGF0ZVRpbWUsIEFjY291bnRJZCwgQmlnRGVjaW1hbF0odHNhKQo=</text>
+        <text encoding="base64">Ly8gIHggbWFwIHsgYWxsb2NhdGlvbnMgPT4KLy8gICAgYWxsb2NhdGlvbnMgZm9yZWFjaCBwcmludGxuCi8vICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJhdGNoQWxsb2NhdG9yOiBCYXRjaEFsbG9jYXRvcltMb2NhbERhdGVUaW1lLCBBY2NvdW50SWQsIEJpZ0RlY2ltYWxdLAo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbXBvcnQgc2NhbGEuY29uY3VycmVudC5FeGVjdXRpb25Db250ZXh0Lkdsb2JhbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcmludGxuKHgpCg==</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb25zLmZvcmVhY2gobSA9PiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcmludGxuKHgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludGxuKCdoYXNkZmFzZGYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
@@ -837,6 +842,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
