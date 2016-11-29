@@ -307,11 +307,11 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480408864093">
-        <mark key="[" line="33" column="87" />
-        <mark key="]" line="33" column="87" />
-        <mark key="." line="33" column="87" />
-        <mark key="^" line="33" column="109" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480414191707">
+        <mark key="[" line="22" column="59" />
+        <mark key="]" line="22" column="59" />
+        <mark key="." line="22" column="59" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
@@ -358,10 +358,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480408803147">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480415410993">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="60" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
         <mark key="[" line="22" column="29" />
@@ -712,11 +713,11 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -725,34 +726,34 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIGFsbG9jYXRpb25zIGZvcmVhY2ggKF8uXzIgbWFwIHByaW50bG4pCg==</text>
+        <text encoding="base64">ICAgIC8vIHJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgRnV0dXJlLnNlcXVlbmNlKGFsbG9jYXRpb25zKQo=</text>
+        <text encoding="base64">ICAgIC8vIGxvZ2ljCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vICB2YWwgYWxsb2NhdGlvbnMgPSBhbGxvY2F0aW9uU2VydmljZS5hbGxvY2F0ZShMb2NhbERhdGUub2YoMjAxNiwgMTEsIDEpLCAzMCkK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gIHggbWFwIHsgYWxsb2NhdGlvbnMgPT4KLy8gICAgYWxsb2NhdGlvbnMgZm9yZWFjaCBwcmludGxuCi8vICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CgoKCiAgLy8gdGVzdHMKLy8gIGFsbG9jYXRpb25zIG1hcCB7IF8uZm9yZWFjaCB7IGEgPT4KLy8gICAgcHJpbnRsbihhLl8xICsgIiA9PiAiICsgYS5fMikKLy8gIH19</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gIGFsbG9jYXRpb25zIGZvcmVhY2ggKF8uXzIgbWFwIHByaW50bG4pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsbG9jYXRpb25zLmZvcmVhY2gobSA9PiB7Cg==</text>
+        <text encoding="base64">Ly8gICAgRnV0dXJlLnNlcXVlbmNlKGFsbG9jYXRpb25zKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHggbWFwIHsgYWxsb2NhdGlvbnMgPT4KLy8gICAgYWxsb2NhdGlvbnMgZm9yZWFjaCBwcmludGxuCi8vICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1</text>
