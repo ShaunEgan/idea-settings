@@ -319,11 +319,11 @@
         <mark key="]" line="54" column="55" />
         <mark key="." line="54" column="55" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480416419162">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="34" column="12" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1480498803254">
+        <mark key="[" line="88" column="26" />
+        <mark key="]" line="96" column="24" />
+        <mark key="." line="96" column="24" />
+        <mark key="^" line="96" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
@@ -607,9 +607,6 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/TariffRepository.scala" timestamp="1480490962871">
-        <mark key="[" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" timestamp="1477231181034">
         <mark key="[" line="5" column="83" />
         <mark key="]" line="5" column="83" />
@@ -732,10 +729,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shoulde</text>
+        <text>points</text>
       </register>
       <register name="-" type="4">
-        <text>shoulde</text>
+        <text>points</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -774,7 +771,7 @@
         <text encoding="base64">Ly8gIGFsbG9jYXRpb25zIGZvcmVhY2ggKF8uXzIgbWFwIHByaW50bG4pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1</text>
+        <text>93</text>
       </register>
     </registers>
     <search>
@@ -810,10 +807,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/}/},/g</entry>
-        <entry>100</entry>
-        <entry>156</entry>
-        <entry>18</entry>
         <entry>141</entry>
         <entry>s%/\n//g</entry>
         <entry>17</entry>
@@ -830,6 +823,10 @@
         <entry>50</entry>
         <entry>20</entry>
         <entry>1</entry>
+        <entry>40</entry>
+        <entry>83</entry>
+        <entry>106</entry>
+        <entry>93</entry>
       </history-cmd>
       <history-expr />
       <history-input />
