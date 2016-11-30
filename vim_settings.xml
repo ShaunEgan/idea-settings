@@ -104,6 +104,9 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/TariffRepositorySpec.scala" timestamp="1480486776845">
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1478174336623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -364,7 +367,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480415410993">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480486784577">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -606,8 +609,11 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1480335818511">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1480486745374">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="18" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
@@ -719,11 +725,11 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
