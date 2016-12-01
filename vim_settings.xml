@@ -43,11 +43,11 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1480508766247">
-        <mark key="[" line="47" column="88" />
-        <mark key="]" line="124" column="61" />
-        <mark key="^" line="124" column="61" />
-        <mark key="." line="124" column="61" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1480572762089">
+        <mark key="[" line="127" column="97" />
+        <mark key="]" line="127" column="97" />
+        <mark key="^" line="127" column="59" />
+        <mark key="." line="127" column="114" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocatorImplSpec.scala" timestamp="1479978720080">
         <mark key="[" line="2" column="0" />
@@ -62,6 +62,9 @@
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1478174258270">
         <mark key="[" line="72" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1480572613794">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
         <mark key="[" line="51" column="16" />
@@ -126,7 +129,6 @@
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumptionRepository.scala" timestamp="1480325373988" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -461,11 +463,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1480508638853">
-        <mark key="[" line="23" column="79" />
-        <mark key="]" line="11" column="27" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="11" column="27" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1480572679885">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
         <mark key="[" line="34" column="16" />
@@ -725,11 +727,11 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>SlaMap</text>
       </register>
       <register name="-" type="4">
-        <text>SlaRepository</text>
+        <text>SlaMap</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -737,35 +739,35 @@
       <register name="0" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgdHlwZSBTbGFNYXAgPSBNYXBbQSwgVF0KICB0eXBlIFRhcmlmZk1hcCA9IE1hcFtBLCBUXQogIHR5cGUgVXNhZ2VNYXAgPSBNYXBbQSwgVF0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LyoqCiAgICAqIE1hcHMgdGhlIHVzYWdlIHNlcXVlbmNlIHRvIGEgTWFwIG9mIEFjY291bnRJZCAtPiB1c2FnZQogICAgKgogICAgKiBAcGFyYW0gdXNhZ2UgU2VxdWVuY2UgZnJvbSB0aGUgdXNhZ2UgcmVwb3NpdG9yeQogICAgKiBAcmV0dXJuCiAgICAqLwogIHByaXZhdGUgZGVmIHVzYWdlU2VxVG9NYXAodXNhZ2U6IFNlcVtBY2NvdW50U2FtcGxlW0JpZ0RlY2ltYWxdXSkgPSB7CiAgICB1c2FnZS5tYXAoeyBzYW1wbGUgPT4gc2FtcGxlLmFjY291bnRJZCAtPiBzYW1wbGUuc2FtcGxlIH0pLnRvTWFwCiAgfQoKICAvKioKICAgICogTWFwcyB0aGUgdGFyaWZmIHNlcXVlbmNlIHRvIGEgTWFwIG9mIEFjY291bnRJZCAtPiAoY29zdCwgc2xhKQogICAgKgogICAgKiBAcGFyYW0gdGFyaWZmcyBTZXF1ZW5jZSBmcm9tIHRoZSB0YXJpZmYgcmVwb3NpdG9yeQogICAgKiBAcmV0dXJuCiAgICAqLwogIHByaXZhdGUgZGVmIHRhcmlmZlNlcVRvTWFwKHRhcmlmZnM6IFNlcVtBY2NvdW50U2FtcGxlW0JpZ0RlY2ltYWxdXSkgPSB7CiAgICAvLyBubyBTTEEgYXQgdGhlIG1vbWVudCwgc2hvdWxkIGNvbWUgZnJvbSBhIGNvbnRyYWN0IHNlcnZpY2UKICAgIHRhcmlmZnMubWFwKHsgc2FtcGxlID0+IHNhbXBsZS5hY2NvdW50SWQgLT4gc2FtcGxlLnNhbXBsZSB9KS50b01hcAogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHJlcG9zaXRvcmllcy5TbGFSZXBvc2l0b3J5Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzMwLgogICovCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICogQHBhcmFtCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHBlcmlvZCBXaGVuIHRvIGFsbG9jYXRlIGZvcgogICAgKiBAcGFyYW0gaW50ZXJ2YWwgTWludXRlcyB0byBzcGxpdCB0aGUgcGVyaW9kIGJ5CiAgICAqIEByZXR1cm4=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI5LgogICovCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJlcG9zaXRvcmllcwo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzExLzI5LgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
