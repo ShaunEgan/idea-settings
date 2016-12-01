@@ -412,7 +412,7 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1480587370933">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1480594152504">
         <mark key="[" line="40" column="23" />
         <mark key="]" line="40" column="7" />
         <mark key="^" line="40" column="7" />
@@ -595,11 +595,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480593256780">
-        <mark key="[" line="18" column="66" />
-        <mark key="]" line="18" column="66" />
-        <mark key="^" line="18" column="65" />
-        <mark key="." line="18" column="66" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480594171870">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="^" line="32" column="21" />
+        <mark key="." line="32" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
@@ -751,10 +751,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>generators</text>
+        <text>BigDecimal</text>
       </register>
       <register name="-" type="4">
-        <text>generators</text>
+        <text>BigDecimal</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
