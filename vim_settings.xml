@@ -139,6 +139,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/config.js" timestamp="1480672216881">
+        <mark key="[" line="23" column="24" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Measurement.scala" timestamp="1476610952697">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="2" column="0" />
@@ -178,6 +181,11 @@
         <mark key="]" line="10" column="13" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/Digest.js" timestamp="1480672205768">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
@@ -362,8 +370,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480670827548">
-        <mark key="[" line="29" column="33" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480672193156">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -509,8 +520,8 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480669957247">
-        <mark key="[" line="90" column="43" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480672143803">
+        <mark key="[" line="60" column="2" />
         <mark key="]" line="90" column="43" />
         <mark key="." line="90" column="43" />
         <mark key="^" line="85" column="42" />
@@ -755,10 +766,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>trendingClips</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>trendingClips</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
