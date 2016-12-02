@@ -139,7 +139,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/config.js" timestamp="1480672216881">
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/config.js" timestamp="1480674667320">
         <mark key="[" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Measurement.scala" timestamp="1476610952697">
@@ -520,11 +520,11 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480672143803">
-        <mark key="[" line="60" column="2" />
-        <mark key="]" line="90" column="43" />
-        <mark key="." line="90" column="43" />
-        <mark key="^" line="85" column="42" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480674814863">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="43" column="2" />
+        <mark key="." line="43" column="2" />
+        <mark key="^" line="43" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
@@ -543,6 +543,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1480674796728">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
         <mark key="[" line="2" column="14" />
@@ -765,8 +768,8 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBjb25zdCBkZXNjcmlwdGlvbkxpbWl0ID0gMTAwMDsKICAgIGNvbnN0IGRlc2NyaXB0aW9uTGltaXRPdmVycnVuID0gMTAwMDsK</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -777,32 +780,32 @@
       <register name="0" type="4">
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgY29uc3QgdXNlciA9IHsKICAgICAgbmFtZTogJ0pvZScsCiAgICAgIGVtYWlsOiAnam9lQGdtYWlsLmNvbScKICAgIH07CgogICAgY29uc3Qgbm90aWZpY2F0aW9ucyA9IFt7CiAgICAgIGZyb21Vc2VyTmFtZTogJ0phbmUnLAogICAgICB0eXBlOiAnZm9sbG93ZWQnLAogICAgICBtZWRpYUlkOiAnYWFvdXNka2puZndpdWInLAogICAgICBtZWRpYVRpdGxlOiAnVHJlbmR5IGNsaXAnLAogICAgICBjcmVhdGVkQXQ6ICdzb21lIHRpbWUnCiAgICB9XTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBjb25zdCBkZXNjcmlwdGlvbkxpbWl0ID0gMTAwMDsKICAgIGNvbnN0IGRlc2NyaXB0aW9uTGltaXRPdmVycnVuID0gMTAwMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CgogICAgY29uc3QgdXNlciA9IHsKICAgICAgbmFtZTogJ0pvZScsCiAgICAgIGVtYWlsOiAnam9lQGdtYWlsLmNvbScKICAgIH07CgogICAgY29uc3Qgbm90aWZpY2F0aW9ucyA9IFt7CiAgICAgIGZyb21Vc2VyTmFtZTogJ0phbmUnLAogICAgICB0eXBlOiAnZm9sbG93ZWQnLAogICAgICBtZWRpYUlkOiAnYWFvdXNka2puZndpdWInLAogICAgICBtZWRpYVRpdGxlOiAnVHJlbmR5IGNsaXAnLAogICAgICBjcmVhdGVkQXQ6ICdzb21lIHRpbWUnCiAgICB9XTs=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBjb25zdCB0cmVuZGluZ0NsaXBzID0gW3sKICAgICAgX2lkOiAnQUpiZEpLQkFEU0pJQVNCRCcsCiAgICAgIHRpdGxlOiAnVHJlbmR5IGNsaXAnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgY2xpcCcsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTsKCiAgICBjb25zdCB0cmVuZGluZ1Nob3dzID0gW3sKICAgICAgX2lkOiAnTEFLU2RuSEFCU0RLQUpTRCcsCiAgICAgIHRpdGxlOiAnVHJlbmR5IHNob3cnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgc2hvdycsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTsKCiAgICBjb25zdCB0cmVuZGluZ1BvZGNhc3RzID0gW3sKICAgICAgX2lkOiAnYXNkbGpuYWxrZHNmYicsCiAgICAgIHRpdGxlOiAnVHJlbmR5IHBvZGNhc3QnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgcG9kY2FzdCcsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEFzc2lnbm1lbnQoZ2VuZXJhdG9yOiBBLCBhc3NpZ25tZW50OiBUKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEFzc2lnbm1lbnQoZ2VuZXJhdG9yOiBBLCBhc3NpZ25tZW50OiBUKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
