@@ -280,6 +280,12 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1480074775042">
         <mark key="[" line="7" column="51" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.json" timestamp="1480675574680">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="52" column="740" />
+        <mark key="." line="52" column="740" />
+        <mark key="^" line="0" column="62" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -363,6 +369,12 @@
         <mark key="]" line="55" column="18" />
         <mark key="." line="55" column="18" />
         <mark key="^" line="52" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1480676279155">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="65" />
+        <mark key="^" line="25" column="65" />
+        <mark key="." line="25" column="65" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.java" timestamp="1479376232263">
         <mark key="[" line="10" column="4" />
@@ -768,11 +780,11 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBjb25zdCBkZXNjcmlwdGlvbkxpbWl0ID0gMTAwMDsKICAgIGNvbnN0IGRlc2NyaXB0aW9uTGltaXRPdmVycnVuID0gMTAwMDsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
