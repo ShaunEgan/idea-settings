@@ -511,6 +511,12 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480669957247">
+        <mark key="[" line="90" column="43" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="43" />
+        <mark key="^" line="85" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="11" />
@@ -751,46 +757,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>BigDecimal</text>
+        <text>trendingClips</text>
       </register>
       <register name="-" type="4">
-        <text>BigDecimal</text>
+        <text>trendingClips</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IA==</text>
+        <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgogICAgY29uc3QgdXNlciA9IHsKICAgICAgbmFtZTogJ0pvZScsCiAgICAgIGVtYWlsOiAnam9lQGdtYWlsLmNvbScKICAgIH07CgogICAgY29uc3Qgbm90aWZpY2F0aW9ucyA9IFt7CiAgICAgIGZyb21Vc2VyTmFtZTogJ0phbmUnLAogICAgICB0eXBlOiAnZm9sbG93ZWQnLAogICAgICBtZWRpYUlkOiAnYWFvdXNka2puZndpdWInLAogICAgICBtZWRpYVRpdGxlOiAnVHJlbmR5IGNsaXAnLAogICAgICBjcmVhdGVkQXQ6ICdzb21lIHRpbWUnCiAgICB9XTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlIGNsYXNzIEFzc2lnbm1lbnQoZ2VuZXJhdG9yOiBBLCBhc3NpZ25tZW50OiBUKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBjb25zdCB0cmVuZGluZ0NsaXBzID0gW3sKICAgICAgX2lkOiAnQUpiZEpLQkFEU0pJQVNCRCcsCiAgICAgIHRpdGxlOiAnVHJlbmR5IGNsaXAnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgY2xpcCcsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTsKCiAgICBjb25zdCB0cmVuZGluZ1Nob3dzID0gW3sKICAgICAgX2lkOiAnTEFLU2RuSEFCU0RLQUpTRCcsCiAgICAgIHRpdGxlOiAnVHJlbmR5IHNob3cnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgc2hvdycsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTsKCiAgICBjb25zdCB0cmVuZGluZ1BvZGNhc3RzID0gW3sKICAgICAgX2lkOiAnYXNkbGpuYWxrZHNmYicsCiAgICAgIHRpdGxlOiAnVHJlbmR5IHBvZGNhc3QnLAogICAgICBkZXNjcmlwdGlvbjogJ1RoaXMgaXMgYSB0cmVuZHkgcG9kY2FzdCcsCiAgICAgIGNyZWF0b3JOYW1lOiAnSm9obiBEb2UnLAogICAgICBpbWFnZVVybDogJ2h0dHA6Ly9sb2NhbGhvc3QnCiAgICB9XTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgdHlwZSBTbGFNYXAgPSBNYXBbQSwgVF0KICB0eXBlIFRhcmlmZk1hcCA9IE1hcFtBLCBUXQogIHR5cGUgVXNhZ2VNYXAgPSBNYXBbQSwgVF0=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlIGNsYXNzIEFzc2lnbm1lbnQoZ2VuZXJhdG9yOiBBLCBhc3NpZ25tZW50OiBUKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzAxLgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
