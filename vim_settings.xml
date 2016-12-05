@@ -634,9 +634,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480925361873">
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480940613844">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="." line="41" column="33" />
+        <mark key="^" line="41" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
@@ -787,11 +789,11 @@
       <jump line="4" column="56" filename="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Seq[Consumer[A,</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Seq[Consumer[A,</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
