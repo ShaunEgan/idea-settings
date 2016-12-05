@@ -94,7 +94,6 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/digest-service-spec.js" timestamp="1480683331774" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" timestamp="1477555096318">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="2" />
@@ -140,7 +139,6 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumptionRepository.scala" timestamp="1480325373988" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -636,7 +634,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480658532795">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1480918489885">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="36" column="21" />
         <mark key="^" line="36" column="21" />
