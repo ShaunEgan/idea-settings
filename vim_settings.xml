@@ -442,11 +442,11 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481010035992">
-        <mark key="[" line="39" column="11" />
-        <mark key="]" line="39" column="11" />
-        <mark key="^" line="28" column="13" />
-        <mark key="." line="39" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481017259646">
+        <mark key="[" line="25" column="78" />
+        <mark key="]" line="25" column="78" />
+        <mark key="." line="25" column="78" />
+        <mark key="^" line="11" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
         <mark key="[" line="55" column="23" />
@@ -617,6 +617,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1481017582227">
+        <mark key="[" line="0" column="114" />
+        <mark key="]" line="0" column="114" />
+        <mark key="." line="0" column="114" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477395642718">
         <mark key="[" line="16" column="105" />
         <mark key="]" line="114" column="17" />
@@ -634,12 +639,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1481014543262">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1481017842473">
         <mark key="'" line="85" column="100" />
-        <mark key="[" line="86" column="35" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="85" column="125" />
+        <mark key="[" line="122" column="32" />
+        <mark key="]" line="122" column="47" />
+        <mark key="." line="122" column="47" />
+        <mark key="^" line="122" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
@@ -790,11 +795,11 @@
       <jump line="83" column="100" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>Array</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -803,34 +808,34 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAoNCwgQmlnRGVjaW1hbCgwLjEpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">MyAtPiBTZXEoCiAgICAgICAgKDMsIEJpZ0RlY2ltYWwoMy4wKSkKICAgICAgKSwKICAgICAgNCAtPiBTZXEoCiAgICAgICAgKDMsIEJpZ0RlY2ltYWwoMC4zKSksCiAgICAgICAgKDEsIEJpZ0RlY2ltYWwoMS40NykpCiAgICAgICksCiAgICAgIDIgLT4gU2VxKAogICAgICAgICgxLCBCaWdEZWNpbWFsKDAuMjMpKSwKICAgICAgICAoMiwgQmlnRGVjaW1hbCgwLjc1KSkKICAgICAgKSw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIE1hcFtBLCBBcnJheVsoQSwgVCldXSgpCg==</text>
+        <text encoding="base64">ICAgICAgMiAtPiAwLjk4LAogICAgICAzIC0+IDMuMCwKICAgICAgNCAtPiAxLjc3Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2lnbm1lbnRzOiBBcnJheVsoQSwgVCldCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">LAogICAgICAyIC0+IDAuOSwKICAgICAgMyAtPiAzLjMsCiAgICAgIDQgLT4gMC4x</text>
       </register>
-      <register name="6" type="4">
-        <text>(numeric: Numeric[T])</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gd2UgbmVlZCB0byBkbyBzb21lIHdvcmsK</text>
+        <text encoding="base64">ICAgIE1hcFtBLCBBcnJheVsoQSwgVCldXSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
