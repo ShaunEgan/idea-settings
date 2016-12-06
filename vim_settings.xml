@@ -442,11 +442,11 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1480658340771">
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="7" />
-        <mark key="^" line="40" column="7" />
-        <mark key="." line="40" column="7" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481010035992">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="28" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
         <mark key="[" line="55" column="23" />
@@ -634,10 +634,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1481002626940">
-        <mark key="[" line="47" column="34" />
-        <mark key="]" line="47" column="33" />
-        <mark key="." line="47" column="33" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1481010241176">
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="7" column="22" />
+        <mark key="." line="7" column="22" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
@@ -789,10 +790,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(numeric: Numeric[T])</text>
+        <text>Array</text>
       </register>
       <register name="-" type="4">
-        <text>(numeric: Numeric[T])</text>
+        <text>Array</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -800,32 +801,32 @@
       <register name="0" type="4">
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
-      <register name="1" type="4">
-        <text>(numeric: Numeric[T])</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzc2lnbm1lbnRzOiBBcnJheVsoQSwgVCldCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(numeric: Numeric[T])</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gd2UgbmVlZCB0byBkbyBzb21lIHdvcmsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIG5vIG1vcmUgZ2VuZXJhdG9ycwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHJlYWNoZWQgdG90YWwgYXNzaWdubWVudAogICAgZWxzZSBpZiAocG93ZXJBc3NpZ25tZW50Q29tcGxldGUpIAogICAgICAoZ2VuZXJhdG9ycywgYXNzaWdubWVudHMpCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCBudW1lcmljLl8K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCByZXF1aXJlZCkpCgogICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLy8gd2UgbmVlZCB0byBkbyBzb21lIHdvcmsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIG5vIG1vcmUgZ2VuZXJhdG9ycwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHJlYWNoZWQgdG90YWwgYXNzaWdubWVudAogICAgZWxzZSBpZiAocG93ZXJBc3NpZ25tZW50Q29tcGxldGUpIAogICAgICAoZ2VuZXJhdG9ycywgYXNzaWdubWVudHMpCg==</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">LCByZXF1aXJlZCkpCgogICAgICA=</text>
