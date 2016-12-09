@@ -1,25 +1,17 @@
 <templateSet group="scala">
   <template name="pvl" value="private val logger = Logger(getClass.getName)" description="Adds the Play Framework Logger" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="li" value="logger.info(&quot;$log$&quot;)" description="Template for logger.info" toReformat="false" toShortenFQNames="true">
     <variable name="log" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="ld" value="logger.debug(&quot;$log$&quot;)" description="Template for logger.debug" toReformat="false" toShortenFQNames="true">
     <variable name="log" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
   <template name="le" value="logger.error(&quot;$log$&quot;)" description="Template for logger.error" toReformat="false" toShortenFQNames="true">
     <variable name="log" expression="" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="SCALA_CODE" value="true" />
-    </context>
+    <context />
   </template>
 </templateSet>
