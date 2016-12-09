@@ -442,13 +442,6 @@
         <mark key="." line="55" column="18" />
         <mark key="^" line="52" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/Electronics.scala" timestamp="1481099039201">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="10" column="13" />
-        <mark key="]" line="15" column="69" />
-        <mark key="." line="15" column="69" />
-        <mark key="^" line="38" column="39" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Main.scala" timestamp="1481280469827">
         <mark key="[" line="1" column="2" />
         <mark key="]" line="0" column="12" />
@@ -654,8 +647,8 @@
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Simulator.scala" timestamp="1481283560929">
         <mark key="[" line="0" column="30" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
@@ -664,6 +657,9 @@
         <mark key="^" line="28" column="48" />
       </file>
       <file name="/JavaScript Console" timestamp="1480674796728">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/library/House.java" timestamp="1481288210603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
@@ -752,13 +748,6 @@
         <mark key="]" line="34" column="16" />
         <mark key="." line="34" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1481088903139">
-        <mark key="'" line="86" column="100" />
-        <mark key="[" line="100" column="58" />
-        <mark key="]" line="100" column="34" />
-        <mark key="." line="100" column="34" />
-        <mark key="^" line="100" column="34" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
@@ -802,6 +791,9 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/house.scala" timestamp="1481287913210">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
