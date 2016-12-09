@@ -556,6 +556,9 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481284921568">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -597,8 +600,8 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481271860390">
-        <mark key="[" line="7" column="51" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481284954030">
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
@@ -916,8 +919,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/powerx/simulator/src/main/models/Electronics.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuMCIgJSAidGVzdCIKKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -929,25 +932,25 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzA5LgogICovCg==</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAogICJvcmcuc2NhbGF0ZXN0IiAlJSAic2NhbGF0ZXN0IiAlICIzLjAuMCIgJSAidGVzdCIKKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzA5LgogICovCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIOKAqOKAqAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIOKAqOKAqAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIOKAqOKAqAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -956,7 +959,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICDigKgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
