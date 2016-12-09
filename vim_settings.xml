@@ -649,8 +649,8 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Simulator.scala" timestamp="1481275267333">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Simulator.scala" timestamp="1481283560929">
+        <mark key="[" line="0" column="30" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
@@ -916,8 +916,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/repositories/powerx/simulator/src/main/models/Electronics.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzA5LgogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
