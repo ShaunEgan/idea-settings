@@ -685,8 +685,8 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481528940724">
-        <mark key="[" line="10" column="17" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481623613680">
+        <mark key="[" line="17" column="37" />
         <mark key="]" line="10" column="11" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
@@ -708,6 +708,12 @@
         <mark key="]" line="15" column="70" />
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/traits/OutputWriter.scala" timestamp="1481624240537">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseTest.scala" timestamp="1481099421859">
         <mark key="[" line="4" column="6" />
@@ -760,6 +766,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481625274918">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
         <mark key="[" line="8" column="28" />
@@ -1028,46 +1040,35 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-  val wattage: BigDecimal = getWattage
-
-  def getWattage = 0
-
-  // get usage for 30 minutes in kWh
-  override def getUsage(time: LocalDateTime): BigDecimal = calculateKWH(wattage, 0.5)
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgTGlnaHQgZXh0ZW5kcyBFbGVjdHJvbmljcyB3aXRoIENvbnN1bWVyIHsKICAKfQo=</text>
+        <text encoding="base64">ICAgICAgdmFscyA8LSB2YWx1ZXMoaSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>val wattage: BigDecimal = getWattage
-
-  def getWattage = 0
-
-  // get usage for 30 minutes in kWh
-  override def getUsage(time: LocalDateTime): BigDecimal = calculateKWH(wattage, 0.5)</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgYWNjb3VudDogSW50IDwtIGFjY291bnRzKGkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YWJzdHJhY3QgY2wK</text>
+        <text encoding="base64">Ly8gICAgICByb3cgPC0gTGlzdChhY2NvdW50KSA6OjogdmFscwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgR2VuZXJhdG9ycyB7Cgp9Cg==</text>
+      <register name="6" type="4">
+        <text>???
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgd3JpdGUoaWRzOiBTZXFbSW50XSwgdGltZVNlcmllczogU2VxW1N0cmluZ10sIHZhbHVlczogU2VxW0JpZ0RlY2ltYWxdKTogVW5pdCA9ID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCmNsYXNzIENvbnN1bWVycyB7Cgp9Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
