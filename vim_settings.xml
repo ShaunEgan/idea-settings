@@ -767,10 +767,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481625274918">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481631046893">
+        <mark key="[" line="10" column="57" />
+        <mark key="]" line="10" column="58" />
+        <mark key="." line="10" column="58" />
         <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
