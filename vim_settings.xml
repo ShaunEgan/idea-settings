@@ -19,9 +19,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479377606702">
-        <mark key="[" line="5" column="27" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -33,9 +30,6 @@
         <mark key="]" line="8" column="6" />
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
-      </file>
-      <file name="/a.dummy" timestamp="1480491169445">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricsTable.scala" timestamp="1477137315507">
         <mark key="[" line="9" column="16" />
@@ -93,9 +87,6 @@
         <mark key="." line="98" column="27" />
         <mark key="^" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/lib/has-offers/tracking-url-generator.js" timestamp="1478174258270">
-        <mark key="[" line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/EnvironmentalConditions.scala" timestamp="1481100935744">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -105,9 +96,6 @@
         <mark key="[" line="0" column="114" />
         <mark key="]" line="0" column="114" />
         <mark key="." line="0" column="114" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1480572613794">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
         <mark key="[" line="51" column="16" />
@@ -193,9 +181,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/config.js" timestamp="1480674667320">
-        <mark key="[" line="23" column="24" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Measurement.scala" timestamp="1476610952697">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="2" column="0" />
@@ -247,6 +232,12 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/java/Test.java" timestamp="1481608560192">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -292,9 +283,6 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Laser.scala" timestamp="1477640953725">
-        <mark key="[" line="12" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Bilateral.scala" timestamp="1477141970342">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="0" />
@@ -329,6 +317,12 @@
         <mark key="." line="45" column="37" />
         <mark key="^" line="45" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/research/pytest/test.py" timestamp="1481609329407">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Consumer.scala" timestamp="1481091346755">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="4" column="4" />
@@ -354,12 +348,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481090974709">
-        <mark key="[" line="7" column="51" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/SimulatorCli/Simulator.scala" timestamp="1481527670341">
-        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
@@ -702,9 +690,6 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Mappings.scala" timestamp="1477553825071">
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseTest.scala" timestamp="1481099421859">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
@@ -745,7 +730,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481545320817">
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481607740101">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
@@ -755,15 +740,6 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1480674796728">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/library/House.java" timestamp="1481523495255">
-        <mark key="[" line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Units.scala" timestamp="1477640425056">
-        <mark key="[" line="2" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
         <mark key="[" line="8" column="28" />
@@ -815,6 +791,11 @@
         <mark key="]" line="3" column="2" />
         <mark key="^" line="3" column="2" />
         <mark key="." line="3" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/java/Main.java" timestamp="1481608396369">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1478174036875">
         <mark key="[" line="0" column="0" />
@@ -897,9 +878,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/house.scala" timestamp="1481287913210">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
@@ -1017,11 +995,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>scala.util.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1029,32 +1007,46 @@
       <register name="0" type="4">
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>public int getSomething() {
+        return something;
+    }
+
+    public void setSomething(int something) {
+        this.something = something;
+    }
+
+    public String getSomestring() {
+        return somestring;
+    }
+
+    public void setSomestring(String somestring) {
+        this.somestring = somestring;
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMTIvMTMuCiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VXNhZ2UodGltZTogTG9jYWxEYXRlVGltZSk6IEJpZ0RlY2ltYWwgPSA/Pz8K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IFNURUFNX0FQSV9USU1FT1VUID0gNTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBsZWRzID0gZm9yKGkgPC0gMSB0byBudW1MZWRzKSB5aWVsZCBMZWRMaWdodCgpCiAgICB2YWwgaGFsb2dlbnMgPSBmb3IoaSA8LSAxIHRvIG51bUhhbG9nZW5zKSB5aWVsZCBIYWxvZ2VuTGlnaHQoKQogICAgdmFsIGluY2FuZGVzY2VudHMgPSBmb3IoaSA8LSAxIHRvIG51bUluY2FuZGVzY2VudCkgeWllbGQgSW5jYW5kZXNjZW50TGlnaHQoKQoKICAgIGxlZHMgKysgaGFsb2dlbnMgKysgaW5jYW5kZXNjZW50cwogIH0K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMTIvMTMuCiAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBudW1Sb29tcyA9IHNjYWxhLnV0aWwuUmFuZG9tLm5leHRJbnQobWF4IC0gbWluKSArIG1pbgo=</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VXNhZ2UodGltZTogTG9jYWxEYXRlVGltZSk6IEJpZ0RlY2ltYWwgPSA/Pz8K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
