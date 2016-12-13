@@ -19,6 +19,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Consumers.scala" timestamp="1481621646550">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="22" />
+        <mark key="." line="29" column="22" />
+        <mark key="^" line="30" column="37" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -125,12 +131,7 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Electronics.scala" timestamp="1481617459573">
-        <mark key="[" line="37" column="79" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Electronics.scala" timestamp="1481621315362" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" timestamp="1477555096318">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="8" column="2" />
@@ -161,8 +162,8 @@
         <mark key="^" line="31" column="20" />
         <mark key="." line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1481617113606">
-        <mark key="[" line="13" column="77" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1481622338292">
+        <mark key="[" line="14" column="121" />
         <mark key="]" line="13" column="76" />
         <mark key="." line="13" column="76" />
         <mark key="^" line="13" column="76" />
@@ -356,6 +357,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481622269712">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -396,7 +403,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Consumer.scala" timestamp="1481531335314">
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Consumer.scala" timestamp="1481621624932">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -405,6 +412,11 @@
         <mark key="[" line="34" column="123" />
         <mark key="]" line="34" column="123" />
         <mark key="." line="34" column="123" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481621589138">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480330346096">
         <mark key="[" line="21" column="0" />
@@ -496,10 +508,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/PowerPlantFactory.scala" timestamp="1481533726420">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/PowerPlantFactory.scala" timestamp="1481622318987">
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="27" />
+        <mark key="." line="18" column="27" />
+        <mark key="^" line="18" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480679785072">
         <mark key="[" line="3" column="26" />
@@ -568,6 +581,11 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Electronics.scala" timestamp="1481621773139">
+        <mark key="[" line="23" column="1" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/SimulatorConf.scala" timestamp="1481526538289">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
@@ -611,7 +629,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Generator.scala" timestamp="1481531356603">
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Generator.scala" timestamp="1481621635611">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -731,10 +749,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481617731925">
-        <mark key="[" line="10" column="59" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481622299627">
+        <mark key="[" line="20" column="22" />
+        <mark key="]" line="20" column="56" />
+        <mark key="." line="20" column="56" />
+        <mark key="^" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
@@ -1015,42 +1034,40 @@
         <text />
       </register>
       <register name="2" type="4">
-        <text>public int getSomething() {
-        return something;
-    }
+        <text>{
+  val wattage: BigDecimal = getWattage
 
-    public void setSomething(int something) {
-        this.something = something;
-    }
+  def getWattage = 0
 
-    public String getSomestring() {
-        return somestring;
-    }
-
-    public void setSomestring(String somestring) {
-        this.somestring = somestring;
-    }</text>
+  // get usage for 30 minutes in kWh
+  override def getUsage(time: LocalDateTime): BigDecimal = calculateKWH(wattage, 0.5)
+}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMTIvMTMuCiAqLwo=</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgTGlnaHQgZXh0ZW5kcyBFbGVjdHJvbmljcyB3aXRoIENvbnN1bWVyIHsKICAKfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>val wattage: BigDecimal = getWattage
+
+  def getWattage = 0
+
+  // get usage for 30 minutes in kWh
+  override def getUsage(time: LocalDateTime): BigDecimal = calculateKWH(wattage, 0.5)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IFNURUFNX0FQSV9USU1FT1VUID0gNTsK</text>
+        <text encoding="base64">YWJzdHJhY3QgY2wK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTYvMTIvMTMuCiAqLwo=</text>
+        <text encoding="base64">Y2xhc3MgR2VuZXJhdG9ycyB7Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VXNhZ2UodGltZTogTG9jYWxEYXRlVGltZSk6IEJpZ0RlY2ltYWwgPSA/Pz8K</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCmNsYXNzIENvbnN1bWVycyB7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>93</text>
