@@ -216,11 +216,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1480680032163">
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="4" column="77" />
-        <mark key="^" line="4" column="55" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1481696163297">
+        <mark key="[" line="16" column="59" />
+        <mark key="]" line="16" column="59" />
+        <mark key="." line="16" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/library/House.scala" timestamp="1481531058065">
         <mark key="[" line="2" column="17" />
@@ -496,8 +495,8 @@
         <mark key="]" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1480683409098">
-        <mark key="[" line="49" column="15" />
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1481695823822">
+        <mark key="[" line="12" column="8" />
         <mark key="]" line="49" column="15" />
         <mark key="." line="49" column="15" />
         <mark key="^" line="49" column="34" />
@@ -1045,10 +1044,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9yIChpIDwtIDEgdG8gbnVtYmVyT2ZDb25zdW1lcnMpIHlpZWxkIGk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Zm9yIChpIDwtIDEgdG8gbnVtYmVyT2ZDb25zdW1lcnMpIHlpZWxkIGk=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1057,7 +1056,7 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZGVzY3JpcHRpb25MaW1pdExlbnMgPSBSLmxlbnNQcm9wKCdkZXNjcmlwdGlvbkxpbWl0Jyk7CiAgY29uc3Qgc2V0RGVzY3JpcHRpb25MaW1pdCA9IFIuc2V0KGRlc2NyaXB0aW9uTGltaXRMZW5zLCBjb25maWcuZGVzY3JpcHRpb25MaW1pdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1066,25 +1065,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFscyA8LSB2YWx1ZXMoaSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
