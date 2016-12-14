@@ -19,7 +19,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Consumers.scala" timestamp="1481621646550">
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Consumers.scala" timestamp="1481706830681">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="22" />
         <mark key="." line="29" column="22" />
@@ -137,7 +137,6 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Electronics.scala" timestamp="1481621315362" />
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/GenerationDataService.scala" timestamp="1481632225920">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -423,8 +422,8 @@
         <mark key="]" line="34" column="123" />
         <mark key="." line="34" column="123" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481621589138">
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481706873699">
+        <mark key="[" line="8" column="31" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -541,7 +540,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1480509443220">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481707121900">
         <mark key="[" line="38" column="44" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -612,8 +611,8 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481088140435">
-        <mark key="[" line="11" column="77" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481706688357">
+        <mark key="[" line="11" column="81" />
         <mark key="]" line="11" column="77" />
         <mark key="." line="11" column="78" />
         <mark key="^" line="25" column="79" />
@@ -713,6 +712,7 @@
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" timestamp="1481706800309" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -920,7 +920,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1481528802297">
+      <file name="/fragment.java" timestamp="1481706455106">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
