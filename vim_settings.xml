@@ -217,10 +217,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/DigestMailer/digest-mailer-service.js" timestamp="1480680032163">
-        <mark key="[" line="20" column="77" />
-        <mark key="]" line="20" column="77" />
-        <mark key="." line="20" column="77" />
-        <mark key="^" line="20" column="55" />
+        <mark key="[" line="4" column="77" />
+        <mark key="]" line="4" column="77" />
+        <mark key="." line="4" column="77" />
+        <mark key="^" line="4" column="55" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/library/House.scala" timestamp="1481531058065">
         <mark key="[" line="2" column="17" />
@@ -1087,7 +1087,7 @@
         <text encoding="base64">ICAgICAgdmFscyA8LSB2YWx1ZXMoaSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>93</text>
+        <text>9</text>
       </register>
     </registers>
     <search>
@@ -1123,7 +1123,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>141</entry>
         <entry>s%/\n//g</entry>
         <entry>17</entry>
         <entry>w</entry>
@@ -1143,6 +1142,7 @@
         <entry>83</entry>
         <entry>106</entry>
         <entry>93</entry>
+        <entry>9</entry>
       </history-cmd>
       <history-expr />
       <history-input />
