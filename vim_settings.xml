@@ -323,10 +323,11 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1480330444094">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481708999476">
+        <mark key="[" line="3" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="5" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
@@ -920,7 +921,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="/fragment.java" timestamp="1481706455106">
+      <file name="/fragment.java" timestamp="1481709023545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1042,11 +1043,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE0LgogICovCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1055,7 +1056,7 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICdObyBUcmltJywK</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE0LgogICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1064,22 +1065,22 @@
         <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICdObyBUcmltJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY29uc3QgZGVzY3JpcHRpb25MaW1pdExlbnMgPSBSLmxlbnNQcm9wKCdkZXNjcmlwdGlvbkxpbWl0Jyk7CiAgY29uc3Qgc2V0RGVzY3JpcHRpb25MaW1pdCA9IFIuc2V0KGRlc2NyaXB0aW9uTGltaXRMZW5zLCBjb25maWcuZGVzY3JpcHRpb25MaW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICdObyBUcmltJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZGVzY3JpcHRpb25MaW1pdExlbnMgPSBSLmxlbnNQcm9wKCdkZXNjcmlwdGlvbkxpbWl0Jyk7CiAgY29uc3Qgc2V0RGVzY3JpcHRpb25MaW1pdCA9IFIuc2V0KGRlc2NyaXB0aW9uTGltaXRMZW5zLCBjb25maWcuZGVzY3JpcHRpb25MaW1pdCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
