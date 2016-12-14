@@ -131,6 +131,12 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/digest-service-spec.js" timestamp="1481697660587">
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="26" />
+        <mark key="." line="101" column="26" />
+        <mark key="^" line="101" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Electronics.scala" timestamp="1481621315362" />
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/GenerationDataService.scala" timestamp="1481632225920">
         <mark key="[" line="7" column="0" />
@@ -495,10 +501,10 @@
         <mark key="]" line="7" column="103" />
         <mark key="." line="7" column="103" />
       </file>
-      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1481695823822">
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1481697693144">
         <mark key="[" line="12" column="8" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="15" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
         <mark key="^" line="49" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/SimulatorLib/library/House.scala" timestamp="1481527099150">
@@ -706,13 +712,6 @@
         <mark key="]" line="10" column="11" />
         <mark key="^" line="10" column="11" />
         <mark key="." line="10" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" timestamp="1481617685866">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="^" line="21" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
@@ -1056,34 +1055,34 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgY29uc3QgZGVzY3JpcHRpb25MaW1pdExlbnMgPSBSLmxlbnNQcm9wKCdkZXNjcmlwdGlvbkxpbWl0Jyk7CiAgY29uc3Qgc2V0RGVzY3JpcHRpb25MaW1pdCA9IFIuc2V0KGRlc2NyaXB0aW9uTGltaXRMZW5zLCBjb25maWcuZGVzY3JpcHRpb25MaW1pdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICdObyBUcmltJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVzY3JpcHRpb246ICdObyBUcmltJywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgY29uc3QgZGVzY3JpcHRpb25MaW1pdExlbnMgPSBSLmxlbnNQcm9wKCdkZXNjcmlwdGlvbkxpbWl0Jyk7CiAgY29uc3Qgc2V0RGVzY3JpcHRpb25MaW1pdCA9IFIuc2V0KGRlc2NyaXB0aW9uTGltaXRMZW5zLCBjb25maWcuZGVzY3JpcHRpb25MaW1pdCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
+        <text encoding="base64">ICB2YWwgaG91c2VzID0gSG91c2VGYWN0b3J5LmdldEhvdXNlcyhjb25mLmNvbnN1bWVycy5nZXRPckVsc2UoMSkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzEzLgogICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>9</text>
