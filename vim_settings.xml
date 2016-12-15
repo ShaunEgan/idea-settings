@@ -87,6 +87,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Output/JsonOutput.scala" timestamp="1481817091930">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImple.scala" timestamp="1480586160423">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="27" />
@@ -363,10 +368,10 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481814744203">
-        <mark key="[" line="33" column="39" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481819774920">
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
@@ -409,6 +414,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
+        <mark key="[" line="7" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
@@ -901,6 +909,9 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
+        <mark key="[" line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -1128,10 +1139,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">MjAxNi0xMi0yOVQxODozMC0+TWFwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJmb28iIC0+ICJiYXIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsIHJlc3VsdCA9IA==</text>
+        <text encoding="base64">bWFwIHsgY2FzZSAoZGF0ZSwgYXNzaWdubWVudHNGb3JEYXRlKSA9Pg==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1140,34 +1151,34 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">MjAxNi0xMi0yOVQxODozMC0+TWFwKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJmb28iIC0+ICJiYXIiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5tYXAoXy50b0xpc3QpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgRnV0dXJlIHsKLy8gICAgICBNYXAoTG9jYWxEYXRlVGltZS5ub3coKSAtPiBNYXAoQWNjb3VudElkKDEpIC0+IFNlcSgoQWNjb3VudElkKDIpLCBCaWdEZWNpbWFsKDUpKSkpKQovLyAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSAoCiAgICAgICAgImFzc2lnbm1lbnRzIiAtPiBhc3NpZ25tZW50cy5tYXAgewogICAgICAgICAgY2FzZSAoZGF0ZSwgYXNzaWdubWVudHNGb3JEYXRlKSA9PiBkYXRlRm9ybWF0LmZvcm1hdChkYXRlKSAtPiBhc3NpZ25tZW50c0ZvckRhdGUubWFwIHsKICAgICAgICAgICAgY2FzZSAoYWNjb3VudCwgYXNzaWdubWVudHMpID0+IGFjY291bnQuaWQKICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2lnbm1lbnRzLm1hcChGdXR1cmUuc2VxdWVuY2UpCiAgICAgIC5tYXAoXy50b01hcCkK</text>
+        <text encoding="base64">ICAgICAgICAgICgiZGF0ZSIgLT4gZGF0ZUZvcm1hdC5mb3JtYXQoZGF0ZSkpIH4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJhbGxvY2F0aW9ucyIgLT4gIm1lcCIpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LT4gYXNzaWdubWVudHNGb3JEYXRlLm1hcCB7IGNhc2UgKGFjY291bnQsIGFzc2lnbm1lbnRzKSA9PiAKICAgICAgICAgICAgCiAgICAgICAgICB9KQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gKGZvciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIChkYXRlLCBhc3NpZ25tZW50c0ZvckRhdGUpID0+IHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>25 53</text>
