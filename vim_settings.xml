@@ -353,11 +353,10 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481804431903">
-        <mark key="[" line="27" column="69" />
-        <mark key="]" line="27" column="69" />
-        <mark key="." line="27" column="69" />
-        <mark key="^" line="27" column="68" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481806916696">
+        <mark key="[" line="30" column="99" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
@@ -926,10 +925,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1476859027169">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1481805863639">
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="101" column="1" />
+        <mark key="." line="101" column="1" />
+        <mark key="^" line="121" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
         <mark key="[" line="34" column="16" />
@@ -1106,11 +1106,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(println(&quot;helllloooooooo&quot;))</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>(println(&quot;helllloooooooo&quot;))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1119,34 +1119,34 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGxvY2F0aW9ucy5tYXAocHJpbnRsbikK</text>
+        <text encoding="base64">ICAgIGFsbG9jYXRpb25zIG1hcCB7IGFsbG9jYXRpb24gPT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICBhbGxvY2F0aW9uLl8xIC0+IGdlbmVyYXRvckFzc2lnbmVyLmFzc2lnbihhbGxvY2F0aW9uLl8yLCBnZW5lcmF0aW9uUmVwb3NpdG9yeS5hY2NvdW50U2FtcGxlcyhhbGxvY2F0aW9uLl8xKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcmludGxuKCJIZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">ICAgICAgZm9yICgKICAgICAgICBnZW5lcmF0aW9uIDwtIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKGFsbG9jYXRpb24uXzEpOwogICAgICApIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICAKCg==</text>
+        <text encoding="base64">TWFwKAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCg==</text>
+        <text encoding="base64">ICAgMjAxNi0xMi0yOVQxODozMCAtPiBNYXAoKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCg==</text>
+        <text encoding="base64">ICBhd2FpdChhbGxvY2F0aW9ucykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCg==</text>
+        <text encoding="base64">ICBhbGxvY2F0aW9ucy5tYXAocHJpbnRsbikK</text>
       </register>
       <register name=":" type="4">
         <text>25 53</text>
