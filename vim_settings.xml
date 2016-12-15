@@ -267,11 +267,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1481807866623">
-        <mark key="[" line="7" column="79" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="4" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1481812967981">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479905558236">
         <mark key="[" line="10" column="13" />
@@ -364,8 +363,8 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481808689315">
-        <mark key="[" line="31" column="99" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481814744203">
+        <mark key="[" line="33" column="39" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
@@ -625,11 +624,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481809243775">
-        <mark key="[" line="26" column="52" />
-        <mark key="]" line="26" column="13" />
-        <mark key="." line="26" column="13" />
-        <mark key="^" line="26" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477557710011">
         <mark key="[" line="29" column="18" />
@@ -653,6 +651,11 @@
         <mark key="[" line="9" column="41" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Electronics.scala" timestamp="1481792257422">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/SimulatorConf.scala" timestamp="1481526538289">
         <mark key="[" line="4" column="52" />
@@ -1124,11 +1127,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">dmFsIHJlc3VsdCA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1137,34 +1140,34 @@
         <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RXJyb3I6KDE4LCAxOCkgdHlwZSBtaXNtYXRjaDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoCiAgICAgIChzbG90LCBhbGxvY2F0aW9uKSA8LSBhbGxvY2F0aW9uczsKICAgICAgZ2VuZXJhdGlvbiA8LSBnZW5lcmF0aW9uUmVwb3NpdG9yeS5hY2NvdW50U2FtcGxlcyhzbG90KQogICAgKSB5aWVsZCBzbG90IC0+IGdlbmVyYXRvckFzc2lnbmVyLmFzc2lnbihhbGxvY2F0aW9uLCBnZW5lcmF0aW9uKQo=</text>
+        <text encoding="base64">Ly8gICAgRnV0dXJlIHsKLy8gICAgICBNYXAoTG9jYWxEYXRlVGltZS5ub3coKSAtPiBNYXAoQWNjb3VudElkKDEpIC0+IFNlcSgoQWNjb3VudElkKDIpLCBCaWdEZWNpbWFsKDUpKSkpKQovLyAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGFzc2lnbm1lbnRzLm1hcChGdXR1cmUuc2VxdWVuY2UpCiAgICAgIC5tYXAoXy50b01hcCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0geWllbGQgc2xvdCAtPiBnZW5lcmF0aW9uQXNzaWduZXIuYXNzaWduKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGlvbiA8LSBnZW5lcmF0aW9uUmVwb3NpdG9yeS5hY2NvdW50U2FtcGxlcyhzbG90KQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0ID0gKGZvciB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBhc3NpZ25TbG90KHNsb3Q6IExvY2FsRGF0ZVRpbWUsICkgPSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGdlbmVyYXRpb24gPC0gZ2VuZXJhdGlvblJlcG9zaXRvcnkuYWNjb3VudFNhbXBsZXMoc2xvdCkubWFwKHRvQWNjb3VudEFzc29jaWF0aW9ucykKICAgICAgICB9IHlpZWxkIHsKICAgICAgICAgIHNsb3QgLT4gZ2VuZXJhdGlvbkFzc2lnbmVyLmFzc2lnbihhbGxvY2F0aW9ucywgTWFwKEFjY291bnRJZCgxKSAtPiBCaWdEZWNpbWFsKDUuMCkpKQogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>25 53</text>
