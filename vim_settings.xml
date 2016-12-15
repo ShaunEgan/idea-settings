@@ -368,8 +368,8 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481819774920">
-        <mark key="[" line="43" column="43" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481820742361">
+        <mark key="[" line="45" column="38" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
@@ -1157,28 +1157,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC5tYXAoXy50b0xpc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCJmb28iIC0+ICJiYXIiKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIC5tYXAoXy50b0xpc3QpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSAoCiAgICAgICAgImFzc2lnbm1lbnRzIiAtPiBhc3NpZ25tZW50cy5tYXAgewogICAgICAgICAgY2FzZSAoZGF0ZSwgYXNzaWdubWVudHNGb3JEYXRlKSA9PiBkYXRlRm9ybWF0LmZvcm1hdChkYXRlKSAtPiBhc3NpZ25tZW50c0ZvckRhdGUubWFwIHsKICAgICAgICAgICAgY2FzZSAoYWNjb3VudCwgYXNzaWdubWVudHMpID0+IGFjY291bnQuaWQKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICgiZGF0ZSIgLT4gZGF0ZUZvcm1hdC5mb3JtYXQoZGF0ZSkpIH4K</text>
+        <text encoding="base64">ICAgICAgdmFsIGpzb24gPSAoCiAgICAgICAgImFzc2lnbm1lbnRzIiAtPiBhc3NpZ25tZW50cy5tYXAgewogICAgICAgICAgY2FzZSAoZGF0ZSwgYXNzaWdubWVudHNGb3JEYXRlKSA9PiBkYXRlRm9ybWF0LmZvcm1hdChkYXRlKSAtPiBhc3NpZ25tZW50c0ZvckRhdGUubWFwIHsKICAgICAgICAgICAgY2FzZSAoYWNjb3VudCwgYXNzaWdubWVudHMpID0+IGFjY291bnQuaWQKICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICgiZGF0ZSIgLT4gZGF0ZUZvcm1hdC5mb3JtYXQoZGF0ZSkpIH4K</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgKCJhbGxvY2F0aW9ucyIgLT4gIm1lcCIpCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">LT4gYXNzaWdubWVudHNGb3JEYXRlLm1hcCB7IGNhc2UgKGFjY291bnQsIGFzc2lnbm1lbnRzKSA9PiAKICAgICAgICAgICAgCiAgICAgICAgICB9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIChkYXRlLCBhc3NpZ25tZW50c0ZvckRhdGUpID0+IHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIChkYXRlLCBhc3NpZ25tZW50c0ZvckRhdGUpID0+IHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>25 53</text>
