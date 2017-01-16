@@ -461,6 +461,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/yazimedia/.elasticbeanstalk/config.yml" timestamp="1484566540710">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="15" />
@@ -921,8 +926,11 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/circle.yml" timestamp="1484564060122">
-        <mark key="[" line="18" column="67" />
+      <file name="$USER_HOME$/repositories/yazimedia/circle.yml" timestamp="1484566278395">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SlaFactory.scala" timestamp="1481795115354">
         <mark key="[" line="5" column="4" />
@@ -1171,47 +1179,47 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyAgICAgIC0gZWIgaW5pdCAke0FXU19CRUFOU1RBTEtfQVBQTElDQVRJT059IC0tcmVnaW9uPSR7QVdTX1JFR0lPTn0KIyAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0ICR7QVdTX0JFQU5TVEFMS19FTlZ9IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${AWS_BEANSTALK_ENV} --label=${ELASTIC_BEANSTALK_LABEL}</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
       </register>
-      <register name="0" type="4">
-        <text>description: 'TrimmingMidWordBecauseUserThoughtCamelCaseWasAGoodIdea',</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCmNsYXNzIFRpbWVPZkRheVV0aWxzIHsKCn0K</text>
+        <text encoding="base64">IyAgICAgIC0gZWIgaW5pdCAke0FXU19CRUFOU1RBTEtfQVBQTElDQVRJT059IC0tcmVnaW9uPSR7QVdTX1JFR0lPTn0KIyAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0ICR7QVdTX0JFQU5TVEFMS19FTlZ9IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9maWxlOiBlYi1jbGkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0X3BsYXRmb3JtOiA2NGJpdCBBbWF6b24gTGludXggMjAxNS4wMyB2MS40LjMgcnVubmluZyBSdWJ5IDIuMiAoUHVtYSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCmNsYXNzIFRpbWVPZkRheVV0aWxzIHsKCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCByb2xsID0gUmFuZG9tLm5leHRJbnQoMTAwKS50b0RvdWJsZSAvIDEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aW1lT2ZEYXkgPSB0aW1lLnRvTG9jYWxUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IAogICAgdmFsIHByb2JhYmlsaXR5ID0gdGltZU9mRGF5IG1hdGNoIHsKICAgICAgY2FzZSBfIGlmIHRpbWVPZkRheSBpc0JlZm9yZSBUaW1lT2ZEYXkuZWFybHlNb3JuaW5nICA9PiAwLjEKICAgICAgY2FzZSBfIGlmIHRpbWVPZkRheSBpc0JlZm9yZSBUaW1lT2ZEYXkubW9ybmluZyAgPT4gMC45CiAgICAgIGNhc2UgXyBpZiB0aW1lT2ZEYXkgaXNCZWZvcmUgVGltZU9mRGF5LmRheSA9PiAwLjcKICAgICAgY2FzZSBfIGlmIHRpbWVPZkRheSBpc0JlZm9yZSBUaW1lT2ZEYXkuZXZlbmluZyA9PiAwLjkKICAgICAgY2FzZSBfID0+IDAuMwogICAgfQoKICAgIHZhbCByb2xsID0gUmFuZG9tLm5leHRJbnQoMTAwKS50b0RvdWJsZSAvIDEwMA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aW1lT2ZEYXkgPSB0aW1lLnRvTG9jYWxUaW1lCg==</text>
+        <text encoding="base64">ICAgIHZhbCByb2xsID0gUmFuZG9tLm5leHRJbnQoMTAwKS50b0RvdWJsZSAvIDEwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHZhbCB0aW1lT2ZEYXkgPSB0aW1lLnRvTG9jYWxUaW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
