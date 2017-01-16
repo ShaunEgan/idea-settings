@@ -578,6 +578,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="17" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/yazimedia/.ebextensions/cloudwatch.config" timestamp="1484563083411">
+        <mark key="[" line="25" column="58" />
+        <mark key="]" line="25" column="58" />
+        <mark key="." line="25" column="58" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralMeasurement.scala" timestamp="1476549183869">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
@@ -1164,10 +1169,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>280</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>280</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1206,7 +1211,7 @@
         <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
-        <text>25 53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1242,7 +1247,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>76</entry>
         <entry>46</entry>
@@ -1262,6 +1266,7 @@
         <entry>24,53</entry>
         <entry>24</entry>
         <entry>25 53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
