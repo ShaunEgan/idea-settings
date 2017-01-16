@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="scala" type="Native" />
+      <removed_mapping ext="scala" type="Scala" />
+      <mapping ext="config" type="YAML" />
     </extensionMap>
   </component>
 </application>
