@@ -921,6 +921,9 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/yazimedia/circle.yml" timestamp="1484564060122">
+        <mark key="[" line="18" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SlaFactory.scala" timestamp="1481795115354">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
