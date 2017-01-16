@@ -583,10 +583,11 @@
         <mark key="." line="22" column="31" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/.ebextensions/cloudwatch.config" timestamp="1484563083411">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="58" />
-        <mark key="." line="25" column="58" />
+      <file name="$USER_HOME$/repositories/yazimedia/.ebextensions/cloudwatch.config" timestamp="1484568005184">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralMeasurement.scala" timestamp="1476549183869">
         <mark key="[" line="2" column="15" />
