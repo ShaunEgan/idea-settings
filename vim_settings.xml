@@ -31,6 +31,9 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
+      <file name="/a.dummy" timestamp="1484737884410">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/GeyserFactory.scala" timestamp="1481795070148">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
@@ -358,10 +361,11 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1479124378582">
-        <mark key="[" line="47" column="16" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
+      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484738334375">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="48" column="21" />
+        <mark key="." line="48" column="21" />
+        <mark key="^" line="48" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -488,6 +492,9 @@
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484738325853">
+        <mark key="[" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/README.md" timestamp="1481794479816">
         <mark key="[" line="0" column="12" />
