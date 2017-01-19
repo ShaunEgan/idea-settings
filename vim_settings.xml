@@ -361,7 +361,7 @@
         <mark key="^" line="7" column="7" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484738334375">
+      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484805851306">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="48" column="21" />
         <mark key="." line="48" column="21" />
@@ -493,8 +493,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484738325853">
-        <mark key="[" line="8" column="38" />
+      <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484805870005">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/README.md" timestamp="1481794479816">
         <mark key="[" line="0" column="12" />
@@ -1188,7 +1190,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgIC0gZWIgaW5pdCAke0FXU19CRUFOU1RBTEtfQVBQTElDQVRJT059IC0tcmVnaW9uPSR7QVdTX1JFR0lPTn0KIyAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0ICR7QVdTX0JFQU5TVEFMS19FTlZ9IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>${AWS_BEANSTALK_ENV} --label=${ELASTIC_BEANSTALK_LABEL}</text>
@@ -1200,34 +1202,51 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgIC0gZWIgaW5pdCAke0FXU19CRUFOU1RBTEtfQVBQTElDQVRJT059IC0tcmVnaW9uPSR7QVdTX1JFR0lPTn0KIyAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0ICR7QVdTX0JFQU5TVEFMS19FTlZ9IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcm9maWxlOiBlYi1jbGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBkZWZhdWx0X3BsYXRmb3JtOiA2NGJpdCBBbWF6b24gTGludXggMjAxNS4wMyB2MS40LjMgcnVubmluZyBSdWJ5IDIuMiAoUHVtYSkK</text>
+      <register name="3" type="4">
+        <text>function generateHeapDumpAndStats(){
+  //1. Force garbage collection every time this function is called
+  try {
+    global.gc();
+  } catch (e) {
+    console.log(&quot;You must run program with 'node --expose-gc index.js' or 'npm start'&quot;);
+    process.exit();
+  }
+
+  //2. Output Heap stats
+  const heapUsed = process.memoryUsage().heapUsed;
+  console.log(&quot;Program is using &quot; + heapUsed + &quot; bytes of Heap.&quot;)
+
+  //3. Get Heap dump
+  process.kill(process.pid, 'SIGUSR2');
+}
+
+setInterval(generateHeapDumpAndStats, 5000);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCmNsYXNzIFRpbWVPZkRheVV0aWxzIHsKCn0K</text>
+        <text encoding="base64">IyAgICAgIC0gZWIgaW5pdCAke0FXU19CRUFOU1RBTEtfQVBQTElDQVRJT059IC0tcmVnaW9uPSR7QVdTX1JFR0lPTn0KIyAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0ICR7QVdTX0JFQU5TVEFMS19FTlZ9IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm9maWxlOiBlYi1jbGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWZhdWx0X3BsYXRmb3JtOiA2NGJpdCBBbWF6b24gTGludXggMjAxNS4wMyB2MS40LjMgcnVubmluZyBSdWJ5IDIuMiAoUHVtYSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE2LzEyLzE1LgogICovCmNsYXNzIFRpbWVPZkRheVV0aWxzIHsKCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCByb2xsID0gUmFuZG9tLm5leHRJbnQoMTAwKS50b0RvdWJsZSAvIDEwMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCB0aW1lT2ZEYXkgPSB0aW1lLnRvTG9jYWxUaW1lCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
