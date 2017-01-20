@@ -254,6 +254,11 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Lib/Elasticsearch/ParameterBuilderTest.php" timestamp="1484913365912">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
         <mark key="]" line="54" column="55" />
@@ -1195,8 +1200,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Promise not kept but I can\'t tell you why.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Promise not kept but I can\'t tell you why.</text>
@@ -1208,51 +1213,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9IGVsc2UgewogICAgcmVzb2x2ZSgxKQogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZWplY3QoJ1Byb21pc2Ugbm90IGtlcHQgYnV0IEkgY2FuXCd0IHRlbGwgeW91IHdoeS4nKQogICsgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT51c2VyUmVwb3NpdG9yeU1vY2sKLy8gICAgICAgICAgICAtPm1ldGhvZCgnZ2V0SW5kZXgnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybigkdGhpcy0+aW5kZXgpOwovLwovLyAgICAgICAgJHRoaXMtPnVzZXJSZXBvc2l0b3J5TW9jawovLyAgICAgICAgICAgIC0+bWV0aG9kKCdnZXRUeXBlJykKLy8gICAgICAgICAgICAtPndpbGxSZXR1cm4oJHRoaXMtPnR5cGUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICArICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
+        <text encoding="base64">ICB9IGVsc2UgewogICAgcmVzb2x2ZSgxKQogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZWplY3QoJ1Byb21pc2Ugbm90IGtlcHQgYnV0IEkgY2FuXCd0IHRlbGwgeW91IHdoeS4nKQogICsgICAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJoZWFwZHVtcCI6ICIwLjMuNyIK</text>
+        <text encoding="base64">ICArICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJoZWFwZHVtcCI6ICIwLjMuNyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJoZWFwZHVtcCI6ICIwLjMuNyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJoZWFwZHVtcCI6ICIwLjMuNyIK</text>
       </register>
-      <register name="9" type="4">
-        <text>function generateHeapDumpAndStats(){
-  //1. Force garbage collection every time this function is called
-  try {
-    global.gc();
-  } catch (e) {
-    console.log(&quot;You must run program with 'node --expose-gc index.js' or 'npm start'&quot;);
-    process.exit();
-  }
-
-  //2. Output Heap stats
-  const heapUsed = process.memoryUsage().heapUsed;
-  console.log(&quot;Program is using &quot; + heapUsed + &quot; bytes of Heap.&quot;)
-
-  //3. Get Heap dump
-  process.kill(process.pid, 'SIGUSR2');
-}
-
-setInterval(generateHeapDumpAndStats, 5000);</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
