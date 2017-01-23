@@ -118,6 +118,12 @@
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1485169498101">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/libraries/TimeOfDayUtils.scala" timestamp="1481828900772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -555,6 +561,9 @@
         <mark key="]" line="51" column="16" />
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485169325606">
+        <mark key="[" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
         <mark key="[" line="86" column="29" />
@@ -1201,11 +1210,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Sanlam Reality Trending Test Suite</text>
       </register>
       <register name="-" type="4">
-        <text>Promise not kept but I can\'t tell you why.</text>
+        <text>Sanlam Reality Trending Test Suite</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1244,7 +1253,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1280,7 +1289,6 @@
         <entry>password</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>76</entry>
         <entry>46</entry>
         <entry>39</entry>
@@ -1300,6 +1308,7 @@
         <entry>24</entry>
         <entry>25 53</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
