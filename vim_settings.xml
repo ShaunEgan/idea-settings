@@ -19,6 +19,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/src/SanlamReality/Trending/Services/Elasticsearch/TrendingService.php" timestamp="1485240576373" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -33,6 +34,11 @@
       </file>
       <file name="/a.dummy" timestamp="1485172811413">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/test.php" timestamp="1485241326956">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/GeyserFactory.scala" timestamp="1481795070148">
         <mark key="[" line="5" column="4" />
@@ -145,6 +151,11 @@
         <mark key="[" line="16" column="16" />
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1485241082892">
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="7" />
+        <mark key="." line="12" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
@@ -282,6 +293,13 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/test.php" timestamp="1485241555761">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
@@ -432,6 +450,7 @@
         <mark key="^" line="73" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Services/Elasticsearch/TrendingServiceTest.php" timestamp="1485170464911" />
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/src/SanlamReality/Trending/Factories/Elasticsearch/TrendingServiceFactory.php" timestamp="1485241140140" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
         <mark key="]" line="35" column="0" />
@@ -458,7 +477,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485172566583">
+      <file name="/Dummy.txt" timestamp="1485241015851">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
@@ -587,8 +606,8 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485173002392">
-        <mark key="[" line="7" column="1" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485239858241">
+        <mark key="[" line="5" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -715,6 +734,11 @@
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Search.php" timestamp="1485240472540">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479905558236">
         <mark key="[" line="10" column="13" />
@@ -959,6 +983,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1485240583110">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+        <mark key="^" line="6" column="40" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -968,6 +998,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485240970892">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
@@ -1147,7 +1182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/crowdcaster-emitter.js" />
       <jump line="132" column="0" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" />
       <jump line="141" column="6" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/main.js" />
       <jump line="37" column="34" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" />
@@ -1247,13 +1281,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/build.sbt" />
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/build.sbt" />
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
+      <jump line="3" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/test.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>asticsearch</text>
+        <text>$host</text>
       </register>
       <register name="-" type="4">
-        <text>asticsearch</text>
+        <text>$host</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1262,34 +1297,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHVibGljIGZ1bmN0aW9uIHRlc3RUZXN0KCkKLy8gICAgewovLyAgICAgICAgJHRoaXMtPmFzc2VydFRydWUodHJ1ZSk7Ci8vICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSAkaW5kZXgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICovCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogODo1NyBBTQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjMKICogVGltZTogMTo1NyBQTQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjMKICogVGltZTogMTo1NyBQTQogKi8KCm5hbWVzcGFjZSBBcG9saXRpY2FsXFNlYXJjaFxTZXJ2aWNlczsKCgppbnRlcmZhY2UgU2VhcmNoU2VydmljZQo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogODo1NSBBTQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjMKICogVGltZTogMToyOCBQTQogKi8K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogODo1MyBBTQogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjMKICogVGltZTogMToyMCBQTQogKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICR0aGlzLT51c2VyUmVwb3NpdG9yeU1vY2sKLy8gICAgICAgICAgICAtPm1ldGhvZCgnZ2V0SW5kZXgnKQovLyAgICAgICAgICAgIC0+d2lsbFJldHVybigkdGhpcy0+aW5kZXgpOwovLwovLyAgICAgICAgJHRoaXMtPnVzZXJSZXBvc2l0b3J5TW9jawovLyAgICAgICAgICAgIC0+bWV0aG9kKCdnZXRUeXBlJykKLy8gICAgICAgICAgICAtPndpbGxSZXR1cm4oJHRoaXMtPnR5cGUpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogODo0NyBBTQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
