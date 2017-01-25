@@ -306,7 +306,7 @@
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Lib/Elasticsearch/ParameterBuilderTest.php" timestamp="1484913365912">
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Lib/Elasticsearch/ParameterBuilderTest.php" timestamp="1485326519990">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
@@ -440,10 +440,11 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/ParameterBuilderTest.php" timestamp="1485326341107">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/ParameterBuilderTest.php" timestamp="1485326808331">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
@@ -662,7 +663,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485325432428">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485326400883">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="30" />
         <mark key="." line="22" column="30" />
@@ -896,6 +897,11 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/phpunit.xml" timestamp="1485326729317">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -1073,6 +1079,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/.gitignore" timestamp="1485326743720">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/LightFactory.scala" timestamp="1481795086501">
         <mark key="[" line="5" column="4" />
@@ -1411,10 +1420,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogODozOCBBTQogKi8KCg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29udGV4dCA=</text>
+        <text>Sanlam Reality Trending Test Suite</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1423,34 +1432,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogODozOCBBTQogKi8KCg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXFBhcmFtZXRlclF1ZXJ5YWJsZTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">dXNlIFNhbmxhbVJlYWxpdHlcVHJlbmRpbmdcTGliXEVsYXN0aWNzZWFyY2hcUGFyYW1ldGVyQnVpbGRlcjsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEV4Y2VwdGlvbnM7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxDb250ZXh0Owp1c2UgQXBvbGl0aWNhbFxTZWFyY2hcTGliXEVsYXN0aWNzZWFyY2hcSW5kZXhhYmxlRGF0ZVRpbWVGb3JtYXR0ZXI7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxTZWFyY2g7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxNb2RlbHNcUG9zdDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXEV4Y2VwdGlvbnNcTm90Rm91bmRFeGNlcHRpb247CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxFeGNlcHRpb25zXFByb3ZpZGVyRXhjZXB0aW9uOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgICJOb25hLUNyZWF0aXZlL25vbmEtZWxhc3RpY3NlYXJjaC10b29scyI6ICJkZXYtbWFzdGVyIgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJOb25hLUNyZWF0aXZlL25vbmEtZWxhc3RpY3NlYXJjaC10b29scyI6ICJkZXYtbWFzdGVyIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgLyoqIEB2YXIgVXNlclJlcG9zaXRvcnkgJHVzZXJSZXBvc2l0b3J5TW9jayAqLwogIHByaXZhdGUgJHVzZXJSZXBvc2l0b3J5TW9jazs=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAkdGhpcy0+dXNlclJlcG9zaXRvcnlNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCdTYW5sYW1cVHJlbmRpbmdcUmVwb3NpdG9yaWVzXEVsYXN0aWNzZWFyY2hcVXNlclJlcG9zaXRvcnknKQogICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgLT5nZXRNb2NrKCk7</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogODozOCBBTQogKi8KCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXFBhcmFtZXRlclF1ZXJ5YWJsZTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">dXNlIFNhbmxhbVJlYWxpdHlcVHJlbmRpbmdcTGliXEVsYXN0aWNzZWFyY2hcUGFyYW1ldGVyQnVpbGRlcjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxFbGFzdGljc2VhcmNoXFBhcmFtZXRlclF1ZXJ5YWJsZTsK</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEV4Y2VwdGlvbnM7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxDb250ZXh0Owp1c2UgQXBvbGl0aWNhbFxTZWFyY2hcTGliXEVsYXN0aWNzZWFyY2hcSW5kZXhhYmxlRGF0ZVRpbWVGb3JtYXR0ZXI7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxTZWFyY2g7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxNb2RlbHNcUG9zdDsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
