@@ -19,6 +19,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/src/SanlamReality/Trending/Repositories/Elasticsearch/ArticleRepository.php" timestamp="1485262264291" />
       <file name="$USER_HOME$/repositories/sanlam-elasticsearch/src/SanlamReality/Trending/Services/Elasticsearch/TrendingService.php" timestamp="1485240576373" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
@@ -34,11 +35,6 @@
       </file>
       <file name="/a.dummy" timestamp="1485172811413">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/test.php" timestamp="1485241326956">
-        <mark key="[" line="6" column="22" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/GeyserFactory.scala" timestamp="1481795070148">
         <mark key="[" line="5" column="4" />
@@ -229,6 +225,11 @@
         <mark key="]" line="56" column="33" />
         <mark key="^" line="56" column="33" />
         <mark key="." line="56" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1485260995452">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Consumer.scala" timestamp="1481091346755">
         <mark key="[" line="5" column="0" />
@@ -435,6 +436,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/IndexableDateTimeFormatter.php" timestamp="1485261960868">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1477040979503">
         <mark key="[" line="15" column="70" />
         <mark key="]" line="15" column="70" />
@@ -481,7 +487,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485259269032">
+      <file name="/Dummy.txt" timestamp="1485262058642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
@@ -575,6 +581,11 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/WattageClass.scala" timestamp="1481093180555">
         <mark key="[" line="7" column="6" />
         <mark key="]" line="7" column="6" />
@@ -614,6 +625,13 @@
         <mark key="]" line="51" column="16" />
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485262252911">
+        <mark key="'" line="44" column="2" />
+        <mark key="[" line="104" column="3" />
+        <mark key="]" line="101" column="32" />
+        <mark key="." line="101" column="32" />
+        <mark key="^" line="101" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485246636350">
         <mark key="[" line="3" column="0" />
@@ -667,6 +685,18 @@
         <mark key="]" line="35" column="48" />
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" timestamp="1485261333687">
+        <mark key="'" line="43" column="1" />
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/NotFoundException.php" timestamp="1485262344043">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
         <mark key="[" line="7" column="0" />
@@ -750,10 +780,16 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Search.php" timestamp="1485257825168">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="6" column="28" />
-        <mark key="." line="6" column="28" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/NotImplementedException.php" timestamp="1485262340473">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Search.php" timestamp="1485261586379">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479905558236">
@@ -843,6 +879,12 @@
         <mark key="]" line="19" column="17" />
         <mark key="." line="19" column="17" />
         <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/ParameterQueryable.php" timestamp="1485262369539">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts.scala" timestamp="1481795497052">
         <mark key="[" line="3" column="0" />
@@ -971,6 +1013,11 @@
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/ParameterBuilder.php" timestamp="1485262363562">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/ParsPlanaVitrectomy.scala" timestamp="1477636429947">
         <mark key="[" line="4" column="0" />
@@ -1204,8 +1251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="27" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/spec/unit/reactivity-manager-spec.js" />
-      <jump line="9" column="5" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/js/reactivity-manager.js" />
       <jump line="1" column="22" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/spec/support/unit.json" />
       <jump line="53" column="19" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/assets/spec/unit/reactivity-manager-spec.js" />
       <jump line="8" column="24" filename="$USER_HOME$/repositories/crowdcaster-embeddable-player/jasmine.js" />
@@ -1304,13 +1349,15 @@
       <jump line="9" column="15" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" />
       <jump line="4" column="27" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="46" column="56" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
+      <jump line="9" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
+      <jump line="43" column="1" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>array|\</text>
+        <text>SanlamReality\Trending</text>
       </register>
       <register name="-" type="4">
-        <text>array|\</text>
+        <text>SanlamReality\Trending</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1325,28 +1372,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEVsYXN0aWNzZWFyY2hcQ29tbW9uXEV4Y2VwdGlvbnNcSW52YWxpZEFyZ3VtZW50RXhjZXB0aW9uOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlICRsYXQ7CiAgCiAgcHJpdmF0ZSAkbG9nOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlICRib2R5Owo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSBJbnRlbGxpSiBJREVBLgogKiBVc2VyOiBzaGF1bmVnYW4KICogRGF0ZTogMjAxNy8wMS8yNAogKiBUaW1lOiAyOjAxIFBNCiAqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogMjozMiBQTQogKi8K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogMjoyOSBQTQogKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwcml2YXRlICRsYXQ7CiAgCiAgcHJpdmF0ZSAkbG9nOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogMTA6MTAgQU0KICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
