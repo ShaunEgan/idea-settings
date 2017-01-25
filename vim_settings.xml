@@ -19,6 +19,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Formatters/IndexableDateTimeFormatter.php" timestamp="1485328850348">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -94,13 +99,6 @@
         <mark key="]" line="16" column="71" />
         <mark key="." line="16" column="71" />
         <mark key="^" line="16" column="71" />
-      </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" timestamp="1485324634518">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="32" />
-        <mark key="." line="2" column="32" />
-        <mark key="^" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/models/AccountTest.scala" timestamp="1479966096576">
         <mark key="[" line="4" column="6" />
@@ -271,8 +269,10 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/composer.json" timestamp="1485324351007">
-        <mark key="[" line="10" column="17" />
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/composer.json" timestamp="1485328754983">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477565092662">
         <mark key="[" line="91" column="0" />
@@ -1428,11 +1428,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnNcQ29udGV4dDsK</text>
+      <register name="&quot;" type="4">
+        <text>\Formatters;</text>
       </register>
       <register name="-" type="4">
-        <text>\Nona\ElasticsearchTools\Context::</text>
+        <text>\Formatters;</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
