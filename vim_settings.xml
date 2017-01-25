@@ -311,6 +311,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
+        <mark key="[" line="2" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
         <mark key="]" line="54" column="55" />
@@ -440,11 +443,11 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/ParameterBuilderTest.php" timestamp="1485326808331">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="22" column="3" />
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/ParameterBuilderTest.php" timestamp="1485327996815">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
@@ -461,6 +464,9 @@
         <mark key="]" line="15" column="70" />
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ParameterQueryable.php" timestamp="1485327952007">
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/traits/OutputWriter.scala" timestamp="1481719084918">
         <mark key="[" line="4" column="70" />
@@ -1229,7 +1235,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
         <mark key="[" line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Context.php" timestamp="1485324664241">
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Context.php" timestamp="1485327768238">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
@@ -1303,6 +1309,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ParameterBuilder.php" timestamp="1485327937748">
+        <mark key="[" line="2" column="32" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" timestamp="1477231181034">
         <mark key="[" line="5" column="83" />
@@ -1420,10 +1429,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnNcQ29udGV4dDsK</text>
       </register>
       <register name="-" type="4">
-        <text>Sanlam Reality Trending Test Suite</text>
+        <text>\Nona\ElasticsearchTools\Context::</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1432,34 +1441,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnNcQ29udGV4dDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgLyoqIEB2YXIgVXNlclJlcG9zaXRvcnkgJHVzZXJSZXBvc2l0b3J5TW9jayAqLwogIHByaXZhdGUgJHVzZXJSZXBvc2l0b3J5TW9jazs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICR0aGlzLT5jb250ZXh0ID0gbmV3IFxOb25hXEVsYXN0aWNzZWFyY2hUb29sc1xDb250ZXh0KCR0aGlzLT5pbmRleCwgJHRoaXMtPnR5cGUpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXENvbnRleHQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAkdGhpcy0+dXNlclJlcG9zaXRvcnlNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCdTYW5sYW1cVHJlbmRpbmdcUmVwb3NpdG9yaWVzXEVsYXN0aWNzZWFyY2hcVXNlclJlcG9zaXRvcnknKQogICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgLT5nZXRNb2NrKCk7</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogODozOCBBTQogKi8KCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgLyoqIEB2YXIgVXNlclJlcG9zaXRvcnkgJHVzZXJSZXBvc2l0b3J5TW9jayAqLwogIHByaXZhdGUgJHVzZXJSZXBvc2l0b3J5TW9jazs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXFBhcmFtZXRlclF1ZXJ5YWJsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">dXNlIFNhbmxhbVJlYWxpdHlcVHJlbmRpbmdcTGliXEVsYXN0aWNzZWFyY2hcUGFyYW1ldGVyQnVpbGRlcjsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAkdGhpcy0+dXNlclJlcG9zaXRvcnlNb2NrID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCdTYW5sYW1cVHJlbmRpbmdcUmVwb3NpdG9yaWVzXEVsYXN0aWNzZWFyY2hcVXNlclJlcG9zaXRvcnknKQogICAgICAtPmRpc2FibGVPcmlnaW5hbENvbnN0cnVjdG9yKCkKICAgICAgLT5nZXRNb2NrKCk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEV4Y2VwdGlvbnM7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxDb250ZXh0Owp1c2UgQXBvbGl0aWNhbFxTZWFyY2hcTGliXEVsYXN0aWNzZWFyY2hcSW5kZXhhYmxlRGF0ZVRpbWVGb3JtYXR0ZXI7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxMaWJcRWxhc3RpY3NlYXJjaFxTZWFyY2g7CnVzZSBBcG9saXRpY2FsXFNlYXJjaFxNb2RlbHNcUG9zdDsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogODozOCBBTQogKi8KCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
