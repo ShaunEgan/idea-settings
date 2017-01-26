@@ -24,6 +24,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/Helpers/ProviderToolsTest.php" timestamp="1485416905826">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -184,7 +190,7 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Repositories/Elasticsearch/ArticleRepositoryTest.php" timestamp="1485335488676" />
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Repositories/Elasticsearch/ArticleRepositoryTest.php" timestamp="1485417141172" />
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionDataService.scala" timestamp="1481803738231">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="26" column="3" />
@@ -283,10 +289,10 @@
         <mark key="." line="19" column="26" />
         <mark key="^" line="19" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/composer.json" timestamp="1485328754983">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="7" />
-        <mark key="." line="16" column="7" />
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/composer.json" timestamp="1485416101709">
+        <mark key="[" line="10" column="14" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Measurements/Enumerations.scala" timestamp="1477565092662">
         <mark key="[" line="91" column="0" />
@@ -522,7 +528,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485334134108">
+      <file name="/Dummy.txt" timestamp="1485416521909">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
@@ -674,19 +680,19 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485337519834">
-        <mark key="'" line="21" column="2" />
-        <mark key="[" line="135" column="1" />
-        <mark key="]" line="50" column="17" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="17" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485417997604">
+        <mark key="'" line="17" column="2" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="31" column="39" />
+        <mark key="." line="31" column="39" />
+        <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485332666102">
         <mark key="[" line="16" column="31" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485326400883">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485416471354">
         <mark key="[" line="22" column="29" />
         <mark key="]" line="22" column="30" />
         <mark key="." line="22" column="30" />
@@ -856,7 +862,7 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485324446093">
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="32" />
         <mark key="." line="2" column="32" />
@@ -1031,6 +1037,12 @@
         <mark key="]" line="10" column="29" />
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ProviderTools.php" timestamp="1485417342230">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/README.md" timestamp="1477569485714">
         <mark key="[" line="162" column="1" />
@@ -1255,6 +1267,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
         <mark key="[" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Context.php" timestamp="1485327768238">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
       <file name="/Scala Console" timestamp="1481271383642">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="2" />
@@ -1444,10 +1461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>postContext</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>postContext</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1456,34 +1473,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogMTA6NDkgQU0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">LyoqCiAgICogQ3JlYXRlcyBhIHBhcmFtZXRlciBhcnJheSBmb3IgdXNlIHdpdGggdGhlIEVsYXN0aWNzZWFyY2ggQVBJLgogICAqCiAgICogQHBhcmFtICRjb250ZXh0IFBhcmFtZXRlclF1ZXJ5YWJsZSBBbiBBcnRpY2xlIG9yIEFydGljbGVSZWFkIGNvbnRleHQKICAgKiBAcGFyYW0gJGJvZHkgYXJyYXkgQm9keSBvZiB0aGUgZG9jdW1lbnQKICAgKiBAcGFyYW0gJGlkIHN0cmluZyBUaGUgSUQgdG8gdXNlCiAgICogQHJldHVybiBhcnJheSBUaGUgcGFyYW1ldGVyIGFycmF5IGZvciB1c2Ugd2l0aCBFbGFzdGljc2VhcmNoCiAgICovCiAgcHJpdmF0ZSBmdW5jdGlvbiBidWlsZFByb3ZpZGVyUXVlcnkoQ29udGV4dCAkY29udGV4dCwgYXJyYXkgJGJvZHkgPSBudWxsLCAkaWQgPSBudWxsKQogIHsKICAgIHJldHVybiBQYXJhbWV0ZXJCdWlsZGVyOjpidWlsZCgkY29udGV4dCwgJGlkLCAkYm9keSk7CiAgfQoKICAvKioKICAgKiBFeGVjdXRlcyBhIG1ldGhvZCBvbiB0aGUgcHJvdmlkZXIgYW5kIHJldHVybiB0aGUgcmVzdWx0LgogICAqCiAgICogQHBhcmFtIHN0cmluZyAkbWV0aG9kIFRoZSBtZXRob2QgdG8gZXhlY3V0ZQogICAqIEBwYXJhbSBzdHJpbmdbXSAkcGFyYW1ldGVycyBUaGUgcGFyYW1ldGVycyB0byBwYXNzIHRvIHRoZSBtZXRob2QKICAgKiBAcGFyYW0gc3RyaW5nICRtaXNzaW5nRG9jdW1lbnRNZXNzYWdlIFRoZSBleGNlcHRpb24gbWVzc2FnZSB0byB1c2Ugd2hlbiBhIE1pc3Npbmc0MDRFeGNlcHRpb24gaXMgdGhyb3duCiAgICogQHJldHVybiBzdHJpbmdbXQogICAqIEB0aHJvd3MgTm90Rm91bmRFeGNlcHRpb24KICAgKiBAdGhyb3dzIFByb3ZpZGVyRXhjZXB0aW9uCiAgICovCiAgcHJvdGVjdGVkIGZ1bmN0aW9uIGV4ZWN1dGVQcm92aWRlck1ldGhvZCgkbWV0aG9kLCAkcGFyYW1ldGVycywgJG1pc3NpbmdEb2N1bWVudE1lc3NhZ2UgPSAnJykKICB7CiAgICB0cnkgewogICAgICAvLyBhdHRlbXB0IHRvIGludm9rZSAkbWV0aG9kIG9uIHRoZSBwcm92aWRlcgogICAgICAkcmVzcG9uc2UgPSAkdGhpcy0+cHJvdmlkZXItPiRtZXRob2QoJHBhcmFtZXRlcnMpOwogICAgfSBjYXRjaCAoTWlzc2luZzQwNEV4Y2VwdGlvbiAkZXhjZXB0aW9uKSB7CiAgICAgIHRocm93IG5ldyBOb3RGb3VuZEV4Y2VwdGlvbigkbWlzc2luZ0RvY3VtZW50TWVzc2FnZSk7CiAgICB9IGNhdGNoIChFbGFzdGljc2VhcmNoRXhjZXB0aW9uICRleGNlcHRpb24pIHsKICAgICAgdGhyb3cgbmV3IFByb3ZpZGVyRXhjZXB0aW9uKCRleGNlcHRpb24tPmdldE1lc3NhZ2UoKSk7CiAgICB9CgogICAgcmV0dXJuICRyZXNwb25zZTsKICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjUKICogVGltZTogMTA6NDkgQU0KICovCgpuYW1lc3BhY2UgQXBvbGl0aWNhbFxTZWFyY2hcUmVwb3NpdG9yaWVzXEVsYXN0aWNzZWFyY2g7CgoK</text>
+        <text encoding="base64">Ly8gICAgJHBhcmFtZXRlcnMgPSAkdGhpcy0+YnVpbGRQcm92aWRlclF1ZXJ5KCR0aGlzLT5wb3N0Q29udGV4dCwgJHBhcmFtZXRlckJvZHksICRwb3N0LT5nZXRJZCgpKTsKLy8gICAgJHRoaXMtPmV4ZWN1dGVQcm92aWRlck1ldGhvZCgnaW5kZXgnLCAkcGFyYW1ldGVycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZmFsc2UsCiAgICAgICd2aWRlbycsCiAgICAgIGFycmF5KCdmb28nKSwKICAgICAgYXJyYXkoJ2JhcicpCg==</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnNcUHJvdmlkZXJUb29sczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjQKICogVGltZTogOTo1NSBBTQogKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvKiogQHZhciBQb3N0UmVwb3NpdG9yeSAkcG9zdFJlcG9zaXRvcnkgKi8KICBwcml2YXRlICRwb3N0UmVwb3NpdG9yeTsKICAKICAK</text>
+        <text encoding="base64">Ly8gICAgJHRoaXMtPmNsaWVudE1vY2sKLy8gICAgICAtPmV4cGVjdHMoJHRoaXMtPm9uY2UoKSkKLy8gICAgICAtPm1ldGhvZCgnaW5kZXgnKQovLyAgICAgIC0+d2lsbCgkdGhpcy0+dGhyb3dFeGNlcHRpb24obmV3IFJ1bnRpbWVFeGNlcHRpb24oJ1Rlc3QgZXhjZXB0aW9uJykpKTsKLy8KLy8gICAgJHRoaXMtPmFydGljbGVSZXBvc2l0b3J5LT5zaGFyZSgkdGhpcy0+YXJ0aWNsZSwgJHRoaXMtPnVzZXIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ewogIC8qKiBAdmFyIFBvc3RSZXBvc2l0b3J5ICRwb3N0UmVwb3NpdG9yeSAqLwogIHByaXZhdGUgJHBvc3RSZXBvc2l0b3J5OwogIAogIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm90ZWN0ZWQgZnVuY3Rpb24gc2V0VXAoKSAKICB7CiAgICAkdGhpcy0+cG9zdFJlcG9zaXRvcnkgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoJ0Fwb2xpdGljYWxcU2VhcmNoXFJlcG9zaXRvcmllc1xFbGFzdGljc2VhcmNoXFBvc3RSZXBvc2l0b3J5JykKICAgICAgLT5kaXNhYmxlT3JpZ2luYWxDb25zdHJ1Y3RvcigpCiAgICAgIC0+Z2V0TW9jaygpOwogIH0K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjYKICogVGltZTogOTo0MiBBTQogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gJGlkCiAgICogQHBhcmFtICR0aXRsZQogICAqIEBwYXJhbSAkYm9keQogICAqIEBwYXJhbSAkcGVvcGxlCiAgICogQHBhcmFtIG51bGwgJGdyb3Vwcwo=</text>
+        <text encoding="base64">dXNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnNcQ29udGV4dDsK</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
