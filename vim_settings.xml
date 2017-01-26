@@ -680,11 +680,11 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485417997604">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485418458007">
         <mark key="'" line="17" column="2" />
-        <mark key="[" line="29" column="11" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="4" />
+        <mark key="." line="60" column="4" />
         <mark key="^" line="31" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485332666102">
@@ -1461,10 +1461,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>postContext</text>
+        <text>// TODO: Implement get() method.</text>
       </register>
       <register name="-" type="4">
-        <text>postContext</text>
+        <text>// TODO: Implement get() method.</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
