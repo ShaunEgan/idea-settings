@@ -518,7 +518,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485432717515">
+      <file name="/Dummy.txt" timestamp="1485433690290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
@@ -670,17 +670,18 @@
         <mark key="." line="51" column="16" />
         <mark key="^" line="51" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485423402927">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" timestamp="1485434338413">
         <mark key="'" line="17" column="2" />
         <mark key="[" line="96" column="15" />
         <mark key="]" line="96" column="15" />
         <mark key="." line="96" column="15" />
         <mark key="^" line="96" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485432734863">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485433053537">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+        <mark key="^" line="41" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485419358223">
         <mark key="[" line="28" column="74" />
@@ -904,8 +905,8 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1481822255268">
         <mark key="[" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Search.php" timestamp="1485335755945">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Search.php" timestamp="1485433595901">
+        <mark key="[" line="13" column="29" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
@@ -1067,6 +1068,12 @@
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/GroupRepository.php" timestamp="1485434351285">
+        <mark key="[" line="105" column="7" />
+        <mark key="]" line="105" column="11" />
+        <mark key="." line="105" column="11" />
+        <mark key="^" line="105" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1480323385294">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="30" />
@@ -1143,6 +1150,11 @@
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485246617258">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1485433502098">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
         <mark key="]" line="4" column="0" />
@@ -1210,7 +1222,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485337505572">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485432933659">
         <mark key="'" line="9" column="50" />
         <mark key="[" line="114" column="1" />
       </file>
@@ -1455,11 +1467,11 @@
       <jump line="8" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>Post</text>
       </register>
       <register name="-" type="4">
-        <text>Article</text>
+        <text>Post</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1468,34 +1480,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjYKICogVGltZTogMjoyOCBQTQogKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjYKICogVGltZTogMjoxMiBQTQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjYKICogVGltZTogMjoyNCBQTQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvKioKICAgKiBTaG91bGQgY3JlYXRlIGFuIGFycmF5IG9mIHRoZSBjb3JyZWN0IGZvcm1hdC4KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gdGVzdEJ1aWxkQXJ0aWNsZVJlYWRCb2R5QXJyYXkoKQogIHsKICAgICRhcnRpY2xlUmVhZCA9IG5ldyBBcnRpY2xlUmVhZCgkdGhpcy0+YXJ0aWNsZSwgJHRoaXMtPnVzZXIpOwogICAgJGJvZHkgPSAkdGhpcy0+aW52b2tlTWV0aG9kKCR0aGlzLT5hcnRpY2xlUmVwb3NpdG9yeSwgJ2J1aWxkQXJ0aWNsZVJlYWRCb2R5QXJyYXknLCBhcnJheSgkYXJ0aWNsZVJlYWQpKTsKCiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3VzZXInLCAkYm9keSk7CiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2FydGljbGUnLCAkYm9keSk7CiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3JlYWRBdCcsICRib2R5KTsKICB9CgovLyAgLyoqCi8vICAgKiBTaG91bGQgY3JlYXRlIGFuIGFycmF5IG9mIHRoZSBjb3JyZWN0IGZvcm1hdC4KLy8gICAqLwovLyAgcHVibGljIGZ1bmN0aW9uIHRlc3RCdWlsZEFydGljbGVTaGFyZUJvZHlBcnJheSgpCi8vICB7Ci8vICAgICRhcnRpY2xlU2hhcmUgPSBuZXcgQXJ0aWNsZVNoYXJlKCR0aGlzLT5hcnRpY2xlLCAkdGhpcy0+dXNlcik7Ci8vICAgICRib2R5ID0gJHRoaXMtPmludm9rZU1ldGhvZCgkdGhpcy0+YXJ0aWNsZVJlcG9zaXRvcnksICdidWlsZEFydGljbGVTaGFyZUJvZHlBcnJheScsIGFycmF5KCRhcnRpY2xlU2hhcmUpKTsKLy8KLy8gICAgJHRoaXMtPmFzc2VydEFycmF5SGFzS2V5KCd1c2VyJywgJGJvZHkpOwovLyAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2FydGljbGUnLCAkYm9keSk7Ci8vICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnc2hhcmVkQXQnLCAkYm9keSk7Ci8vICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBzdG9yZS4K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDEvMjYKICogVGltZTogMjoxMiBQTQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvKioKICAgKiBTaG91bGQgY3JlYXRlIGFuIGFycmF5IG9mIHRoZSBjb3JyZWN0IGZvcm1hdC4KICAgKi8KICBwdWJsaWMgZnVuY3Rpb24gdGVzdEJ1aWxkQXJ0aWNsZVJlYWRCb2R5QXJyYXkoKQogIHsKICAgICRhcnRpY2xlUmVhZCA9IG5ldyBBcnRpY2xlUmVhZCgkdGhpcy0+YXJ0aWNsZSwgJHRoaXMtPnVzZXIpOwogICAgJGJvZHkgPSAkdGhpcy0+aW52b2tlTWV0aG9kKCR0aGlzLT5hcnRpY2xlUmVwb3NpdG9yeSwgJ2J1aWxkQXJ0aWNsZVJlYWRCb2R5QXJyYXknLCBhcnJheSgkYXJ0aWNsZVJlYWQpKTsKCiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3VzZXInLCAkYm9keSk7CiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2FydGljbGUnLCAkYm9keSk7CiAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ3JlYWRBdCcsICRib2R5KTsKICB9CgovLyAgLyoqCi8vICAgKiBTaG91bGQgY3JlYXRlIGFuIGFycmF5IG9mIHRoZSBjb3JyZWN0IGZvcm1hdC4KLy8gICAqLwovLyAgcHVibGljIGZ1bmN0aW9uIHRlc3RCdWlsZEFydGljbGVTaGFyZUJvZHlBcnJheSgpCi8vICB7Ci8vICAgICRhcnRpY2xlU2hhcmUgPSBuZXcgQXJ0aWNsZVNoYXJlKCR0aGlzLT5hcnRpY2xlLCAkdGhpcy0+dXNlcik7Ci8vICAgICRib2R5ID0gJHRoaXMtPmludm9rZU1ldGhvZCgkdGhpcy0+YXJ0aWNsZVJlcG9zaXRvcnksICdidWlsZEFydGljbGVTaGFyZUJvZHlBcnJheScsIGFycmF5KCRhcnRpY2xlU2hhcmUpKTsKLy8KLy8gICAgJHRoaXMtPmFzc2VydEFycmF5SGFzS2V5KCd1c2VyJywgJGJvZHkpOwovLyAgICAkdGhpcy0+YXNzZXJ0QXJyYXlIYXNLZXkoJ2FydGljbGUnLCAkYm9keSk7Ci8vICAgICR0aGlzLT5hc3NlcnRBcnJheUhhc0tleSgnc2hhcmVkQXQnLCAkYm9keSk7Ci8vICB9</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
