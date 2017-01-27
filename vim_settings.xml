@@ -199,6 +199,7 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Repositories/Elasticsearch/ArticleRepositoryTest.php" timestamp="1485422267047" />
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionDataService.scala" timestamp="1481803738231">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="26" column="3" />
@@ -459,6 +460,7 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/vendor/nona/elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485332462562" />
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485511998182">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="4" column="0" />
@@ -529,6 +531,7 @@
         <mark key="." line="73" column="3" />
         <mark key="^" line="73" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/sanlam-elasticsearch/tests/SanlamReality/Trending/Services/Elasticsearch/TrendingServiceTest.php" timestamp="1485333888487" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Repositories/GroupRepositoryTest.php" timestamp="1485511771334">
         <mark key="[" line="22" column="33" />
         <mark key="]" line="22" column="33" />
@@ -597,6 +600,7 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="/composer.json" timestamp="1485514141562" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
         <mark key="[" line="34" column="16" />
         <mark key="]" line="34" column="16" />
@@ -730,7 +734,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485504697685">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485514153919">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
@@ -1272,6 +1276,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/Dockerfile" timestamp="1485497476129" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485505359548">
         <mark key="'" line="10" column="50" />
         <mark key="[" line="14" column="10" />
@@ -1413,6 +1418,7 @@
         <mark key="." line="108" column="19" />
         <mark key="^" line="108" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/package.json" timestamp="1485497839042" />
     </filemarks>
     <jumps>
       <jump line="34" column="0" filename="$USER_HOME$/repositories/digestor/index.js" />
@@ -1518,10 +1524,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Elasticsearch\</text>
+        <text>repositories</text>
       </register>
       <register name="-" type="4">
-        <text>Elasticsearch\</text>
+        <text>repositories</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
