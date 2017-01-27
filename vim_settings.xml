@@ -1222,6 +1222,7 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/Dockerfile" timestamp="1485497476129" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485432933659">
         <mark key="'" line="9" column="50" />
         <mark key="[" line="114" column="1" />
@@ -1363,6 +1364,7 @@
         <mark key="." line="108" column="19" />
         <mark key="^" line="108" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/package.json" timestamp="1485497839042" />
     </filemarks>
     <jumps>
       <jump line="40" column="28" filename="$USER_HOME$/repositories/digestor/index.js" />
