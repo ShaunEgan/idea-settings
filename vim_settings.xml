@@ -175,9 +175,9 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1485506537452">
-        <mark key="'" line="15" column="15" />
-        <mark key="[" line="5" column="34" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1485519699942">
+        <mark key="'" line="17" column="15" />
+        <mark key="[" line="41" column="59" />
         <mark key="]" line="5" column="34" />
         <mark key="." line="5" column="34" />
       </file>
@@ -751,11 +751,11 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1485512186565">
-        <mark key="[" line="25" column="82" />
-        <mark key="]" line="25" column="82" />
-        <mark key="." line="25" column="82" />
-        <mark key="^" line="53" column="6" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1485519730927">
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="29" column="82" />
+        <mark key="." line="29" column="82" />
+        <mark key="^" line="65" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477039470164">
         <mark key="[" line="15" column="22" />
@@ -1185,10 +1185,10 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1485511863323">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1485519662937">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
