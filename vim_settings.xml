@@ -724,13 +724,14 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485503385220">
-        <mark key="]" line="42" column="26" />
-        <mark key="." line="42" column="26" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485520700958">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="42" column="25" />
+        <mark key="." line="42" column="25" />
         <mark key="^" line="42" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485419358223">
-        <mark key="[" line="28" column="74" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485519941004">
+        <mark key="[" line="52" column="41" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -751,11 +752,11 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1485519730927">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="29" column="82" />
-        <mark key="." line="29" column="82" />
-        <mark key="^" line="65" column="6" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1485521017470">
+        <mark key="[" line="112" column="17" />
+        <mark key="]" line="112" column="18" />
+        <mark key="." line="112" column="18" />
+        <mark key="^" line="112" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477039470164">
         <mark key="[" line="15" column="22" />
@@ -1185,10 +1186,11 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1485519662937">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1485520197808">
+        <mark key="[" line="73" column="5" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -1523,11 +1525,11 @@
       <jump line="14" column="16" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>repositories</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgMTIzNCwK</text>
       </register>
       <register name="-" type="4">
-        <text>repositories</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1536,41 +1538,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXFNlYXJjaDsK</text>
+        <text encoding="base64">ICAgICAgMTIzNCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKCiAgCg==</text>
+        <text encoding="base64">ICAgICAgJ0RpYXJpZXMgb2YgYSBUZXN0IENhc2UnLAogICAgICAnQ29udGVudCBvZiBhIFRlc3QgQ2FzZSB0aGF0IGlzIGxvbmcgYW5kIGZ1bi4nLAogICAgICBbJ1NoYXVuJywgJ1IK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAkdGhpcy0+dmFsaWRQb3N0UmVzcG9uc2UgPSBbCiAgICAgICdfaWQnID0+IHN0cnZhbCgkdGhpcy0+aWQpLAogICAgICAnX3NvdXJjZScgPT4gWwogICAgICAgICdjcmVhdGVkQXQnID0+IG5ldyBEYXRlVGltZSgnbm93JyksCiAgICAgICAgJ3RpdGxlJyA9PiAkdGhpcy0+dGl0bGUsCiAgICAgICAgJ2JvZHknID0+ICR0aGlzLT5ib2R5LAogICAgICAgICdwZW9wbGUnID0+ICR0aGlzLT5wZW9wbGUsCiAgICAgICAgJ2dyb3VwcycgPT4gJHRoaXMtPmdyb3VwcwogICAgICBdCiAgICBdOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0gaW50ICRpZAogICAqIEBwYXJhbSBTdHJpbmcgJHRpdGxlCiAgICogQHBhcmFtIFN0cmluZyAkc2hvcnREZXNjcmlwdGlvbgogICAqIEBwYXJhbSBTdHJpbmcgJGxvbmdEZXNjcmlwdGlvbgogICAqIEBwYXJhbSBcU3RyaW5nW10gJG1lbWJlcnMK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAkdGhpcy0+cG9zdCA9IG5ldyBQb3N0KAogICAgICAkdGhpcy0+aWQsCiAgICAgICR0aGlzLT50aXRsZSwKICAgICAgJHRoaXMtPmJvZHksCiAgICAgICR0aGlzLT5wZW9wbGUsCiAgICAgICR0aGlzLT5ncm91cHMKICAgICk7</text>
+      <register name="4" type="2">
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXFNlYXJjaDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKCiAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAkdGhpcy0+dmFsaWRQb3N0UmVzcG9uc2UgPSBbCiAgICAgICdfaWQnID0+IHN0cnZhbCgkdGhpcy0+aWQpLAogICAgICAnX3NvdXJjZScgPT4gWwogICAgICAgICdjcmVhdGVkQXQnID0+IG5ldyBEYXRlVGltZSgnbm93JyksCiAgICAgICAgJ3RpdGxlJyA9PiAkdGhpcy0+dGl0bGUsCiAgICAgICAgJ2JvZHknID0+ICR0aGlzLT5ib2R5LAogICAgICAgICdwZW9wbGUnID0+ICR0aGlzLT5wZW9wbGUsCiAgICAgICAgJ2dyb3VwcycgPT4gJHRoaXMtPmdyb3VwcwogICAgICBdCiAgICBdOw==</text>
       </register>
       <register name="7" type="4">
-        <text>private $post;
-
-  private $id = 1234;
-  private $title = 'Diaries of a test case';
-  private $body = 'Content of a test case';
-  private $people = ['Shaun', 'Roy'];
-  private $groups = ['Nona developers'];
-  private $validPostResponse;</text>
+        <text encoding="base64">ICAkdGhpcy0+cG9zdCA9IG5ldyBQb3N0KAogICAgICAkdGhpcy0+aWQsCiAgICAgICR0aGlzLT50aXRsZSwKICAgICAgJHRoaXMtPmJvZHksCiAgICAgICR0aGlzLT5wZW9wbGUsCiAgICAgICR0aGlzLT5ncm91cHMKICAgICk7</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>107</text>
