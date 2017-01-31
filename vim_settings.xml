@@ -732,11 +732,11 @@
         <mark key="^" line="14" column="39" />
         <mark key="." line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485844639486">
-        <mark key="[" line="106" column="12" />
-        <mark key="]" line="106" column="12" />
-        <mark key="." line="106" column="12" />
-        <mark key="^" line="104" column="18" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485845465657">
+        <mark key="[" line="41" column="78" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="96" column="18" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1485842905225">
         <mark key="[" line="154" column="13" />
@@ -748,7 +748,7 @@
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
-        <mark key="^" line="22" column="67" />
+        <mark key="^" line="14" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
         <mark key="[" line="86" column="29" />
@@ -997,12 +997,12 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1485844538072">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="58" column="12" />
-        <mark key="]" line="63" column="61" />
-        <mark key="." line="63" column="61" />
-        <mark key="^" line="63" column="50" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1485845495196">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="68" column="61" />
+        <mark key="." line="68" column="61" />
+        <mark key="^" line="68" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481829534010">
         <mark key="[" line="20" column="28" />
@@ -1304,12 +1304,12 @@
         <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/Dockerfile" timestamp="1485497476129" />
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485844594289">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1485845484338">
         <mark key="'" line="10" column="50" />
-        <mark key="[" line="104" column="28" />
-        <mark key="]" line="104" column="28" />
-        <mark key="^" line="104" column="20" />
-        <mark key="." line="104" column="28" />
+        <mark key="[" line="96" column="28" />
+        <mark key="]" line="96" column="28" />
+        <mark key="^" line="96" column="20" />
+        <mark key="." line="96" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
@@ -1557,7 +1557,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWlzX2FycmF5KCRtZW1iZXJzKSAmJiAhaXNfbnVsbCgkbWVtYmVycykpIHsKICAgICAgdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignJG1lbWJlcnMgc2hvdWxkIGJlIGFuIGFycmF5IG9mIG5hbWVzIGFzIHN0cmluZ3MnKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -1569,34 +1569,39 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWlzX2FycmF5KCRtZW1iZXJzKSAmJiAhaXNfbnVsbCgkbWVtYmVycykpIHsKICAgICAgdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignJG1lbWJlcnMgc2hvdWxkIGJlIGFuIGFycmF5IG9mIG5hbWVzIGFzIHN0cmluZ3MnKTsKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIH0gCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">LyoqCiAgICAgKiBTaG91bGQgaW5zdGFudGlhdGUgYSB2YWxpZCBvYmplY3Qgd2l0aCBFbGFzdGljc2VhcmNoIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgcmVwb3NpdG9yaWVzLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdENvbnN0cnVjdG9yKCkKICAgIHsKICAgICAgICAkc2VhcmNoU2VydmljZSA9IFNlYXJjaFNlcnZpY2VGYWN0b3J5OjpnZXRJbnN0YW5jZSgnMTI3LjAuMC4xOjkyMDAnLCAndGVzdC1pbmRleCcpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZignQXBvbGl0aWNhbFxTZWFyY2hcU2VydmljZXNcRWxhc3RpY3NlYXJjaFxTZWFyY2hTZXJ2aWNlJywgJHNlYXJjaFNlcnZpY2UpOwogICAgfQ==</text>
+        <text>else if (!is_string($title)) {
+      throw new InvalidArgumentException('$title should be a string');
+    } else if (!is_string($shortDescription)) {
+      throw new InvalidArgumentException('$shortDescription should be a string');
+    } else if (!is_string($longDescription)) {
+      throw new InvalidArgumentException('$longDescription should be an string');</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGVzIGEgUG9zdCBmcm9tIGFuIGFycmF5CiAgICoKICAgKiBAcGFyYW0gaW50ICRpZAogICAqIEBwYXJhbSBhcnJheSAkcmVzcG9uc2UKICAgKiBAcmV0dXJuIE1vZGVsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+      <register name="6" type="4">
+        <text encoding="base64">LyoqCiAgICAgKiBTaG91bGQgaW5zdGFudGlhdGUgYSB2YWxpZCBvYmplY3Qgd2l0aCBFbGFzdGljc2VhcmNoIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgcmVwb3NpdG9yaWVzLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdENvbnN0cnVjdG9yKCkKICAgIHsKICAgICAgICAkc2VhcmNoU2VydmljZSA9IFNlYXJjaFNlcnZpY2VGYWN0b3J5OjpnZXRJbnN0YW5jZSgnMTI3LjAuMC4xOjkyMDAnLCAndGVzdC1pbmRleCcpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZignQXBvbGl0aWNhbFxTZWFyY2hcU2VydmljZXNcRWxhc3RpY3NlYXJjaFxTZWFyY2hTZXJ2aWNlJywgJHNlYXJjaFNlcnZpY2UpOwogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBTZXJpYWxpemVzIGEgUG9zdAogICAqCiAgICogQHBhcmFtIE1vZGVsICRtb2RlbAogICAqIEByZXR1cm4gYXJyYXkK</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gTW9kZWwgJG1vZGVsCiAgICogQHJldHVybiBhcnJheQo=</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGVzIGEgUG9zdCBmcm9tIGFuIGFycmF5CiAgICoKICAgKiBAcGFyYW0gaW50ICRpZAogICAqIEBwYXJhbSBhcnJheSAkcmVzcG9uc2UKICAgKiBAcmV0dXJuIE1vZGVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBTcGVjaWZpZXMgdGhlIHNjaGVtYQogICAqCiAgICogQHJldHVybiBhcnJheQogICAqLwo=</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
