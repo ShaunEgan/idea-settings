@@ -629,11 +629,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485848202980">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="7" column="16" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485849379975">
+        <mark key="[" line="72" column="22" />
+        <mark key="]" line="72" column="22" />
+        <mark key="." line="72" column="22" />
+        <mark key="^" line="72" column="131" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
@@ -1556,11 +1556,11 @@
       <jump line="21" column="51" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWlzX2FycmF5KCRtZW1iZXJzKSAmJiAhaXNfbnVsbCgkbWVtYmVycykpIHsKICAgICAgdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignJG1lbWJlcnMgc2hvdWxkIGJlIGFuIGFycmF5IG9mIG5hbWVzIGFzIHN0cmluZ3MnKTsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>createGroup</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>createGroup</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1569,15 +1569,18 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWlzX2FycmF5KCRtZW1iZXJzKSAmJiAhaXNfbnVsbCgkbWVtYmVycykpIHsKICAgICAgdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignJG1lbWJlcnMgc2hvdWxkIGJlIGFuIGFycmF5IG9mIG5hbWVzIGFzIHN0cmluZ3MnKTsKICAgIH0K</text>
+        <text encoding="base64">Ly8gUG9zdHMKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIH0gZWxzZSBpZiAoIWlzX2FycmF5KCRtZW1iZXJzKSAmJiAhaXNfbnVsbCgkbWVtYmVycykpIHsKICAgICAgdGhyb3cgbmV3IEludmFsaWRBcmd1bWVudEV4Y2VwdGlvbignJG1lbWJlcnMgc2hvdWxkIGJlIGFuIGFycmF5IG9mIG5hbWVzIGFzIHN0cmluZ3MnKTsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>else if (!is_string($title)) {
       throw new InvalidArgumentException('$title should be a string');
     } else if (!is_string($shortDescription)) {
@@ -1585,23 +1588,20 @@
     } else if (!is_string($longDescription)) {
       throw new InvalidArgumentException('$longDescription should be an string');</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LyoqCiAgICAgKiBTaG91bGQgaW5zdGFudGlhdGUgYSB2YWxpZCBvYmplY3Qgd2l0aCBFbGFzdGljc2VhcmNoIGltcGxlbWVudGF0aW9ucyBvZiB0aGUgcmVwb3NpdG9yaWVzLgogICAgICovCiAgICBwdWJsaWMgZnVuY3Rpb24gdGVzdENvbnN0cnVjdG9yKCkKICAgIHsKICAgICAgICAkc2VhcmNoU2VydmljZSA9IFNlYXJjaFNlcnZpY2VGYWN0b3J5OjpnZXRJbnN0YW5jZSgnMTI3LjAuMC4xOjkyMDAnLCAndGVzdC1pbmRleCcpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0SW5zdGFuY2VPZignQXBvbGl0aWNhbFxTZWFyY2hcU2VydmljZXNcRWxhc3RpY3NlYXJjaFxTZWFyY2hTZXJ2aWNlJywgJHNlYXJjaFNlcnZpY2UpOwogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgKi8K</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGVzIGEgUG9zdCBmcm9tIGFuIGFycmF5CiAgICoKICAgKiBAcGFyYW0gaW50ICRpZAogICAqIEBwYXJhbSBhcnJheSAkcmVzcG9uc2UKICAgKiBAcmV0dXJuIE1vZGVsCg==</text>
+        <text encoding="base64">ICAgKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKi8K</text>
+        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGVzIGEgUG9zdCBmcm9tIGFuIGFycmF5CiAgICoKICAgKiBAcGFyYW0gaW50ICRpZAogICAqIEBwYXJhbSBhcnJheSAkcmVzcG9uc2UKICAgKiBAcmV0dXJuIE1vZGVsCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
