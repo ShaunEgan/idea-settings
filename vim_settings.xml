@@ -631,9 +631,9 @@
         <mark key="^" line="86" column="131" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1485949917372">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
