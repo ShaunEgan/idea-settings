@@ -630,10 +630,10 @@
         <mark key="." line="86" column="22" />
         <mark key="^" line="86" column="131" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1485945661118">
-        <mark key="[" line="41" column="52" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1485949917372">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="17" column="22" />
+        <mark key="." line="17" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
@@ -1553,11 +1553,11 @@
       <jump line="21" column="51" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="-" type="4">
-        <text>param1</text>
+        <text encoding="base64">c3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
