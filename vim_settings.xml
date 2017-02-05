@@ -874,10 +874,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/authenticate.js" timestamp="1486304181173">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/authenticate.js" timestamp="1486305836134">
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="31" />
+        <mark key="." line="54" column="31" />
+        <mark key="^" line="54" column="40" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/config.js" timestamp="1486302902263">
         <mark key="[" line="0" column="0" />
@@ -1583,10 +1584,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>class</text>
+        <text>Could not log user in. Please try again.</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>Could not log user in. Please try again.</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1601,28 +1602,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihhcHAsIGNvbmZpZykgewogICAgdGhpcy5hcHAgPSBhcHA7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHAK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihhcHAsIGNvbmZpZykgewogICAgdGhpcy5hcHAgPSBhcHA7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZwogIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cgpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwpjb25zdCBoYW5kbGViYXJzID0gcmVxdWlyZSgnZXhwcmVzcy1oYW5sZWJhcnMnKTsKY29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwpjb25zdCBsb2NhbFN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtbG9jYWwnKTsKY29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygncHVibGljJykpOwo=</text>
+        <text encoding="base64">ICBhcHAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cgpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwpjb25zdCBoYW5kbGViYXJzID0gcmVxdWlyZSgnZXhwcmVzcy1oYW5sZWJhcnMnKTsKY29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwpjb25zdCBsb2NhbFN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtbG9jYWwnKTsKY29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
