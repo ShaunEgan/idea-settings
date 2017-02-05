@@ -407,6 +407,12 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486299928860">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="1" column="44" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="26" column="25" />
@@ -921,6 +927,9 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
+      <file name="$USER_HOME$/dev/svc-auth/.gitignore" timestamp="1486300004895">
+        <mark key="[" line="0" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="32" />
@@ -972,6 +981,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authorize/index.js" timestamp="1486299979568">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
@@ -1451,7 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="56" filename="$USER_HOME$/repositories/digestor/spec/unit/config-spec.js" />
       <jump line="11" column="35" filename="$USER_HOME$/repositories/digestor/spec/unit/Users/users-service-spec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/repositories/digestor/spec/unit/Trending/trending-service-spec.js" />
       <jump line="9" column="20" filename="$USER_HOME$/repositories/digestor/spec/unit/Notifications/notifications-service-spec.js" />
@@ -1551,13 +1565,14 @@
       <jump line="14" column="16" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" />
       <jump line="54" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
       <jump line="21" column="51" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/svc-auth/src/authorize/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RyaW5nIA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1566,34 +1581,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gZ2V0Q3VycmVuY3koJ3phcicsICd1c2QnKTsKLy8gZ2V0Q3VycmVuY3koJ2V1cicsICd1c2QnKTsKLy8gZ2V0Q3VycmVuY3koJ2V1cicsICd6YXInKTsKLy8K</text>
+        <text encoding="base64">YXBwLmdldCgnLycsIGF1dGhvcml6ZS5hdXRob3JpemVDbGllbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgogICAgY29uc29sZS5sb2cocm91bmRPZmYoY3VycmVuY3kpKTsK</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSBuZXcgQXV0aG9yaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQXV0aG9yaXplIHsKICBhdXRob3JpemVDbGllbnQocmVxdWVzdCwgcmVzcG9uc2UpIHsKICAgIHJlc3BvbnNlLnNlbmQoJ1NlY3VyZSBwYWdlIHRoYXQgc2hvdWxkIGdlbmVyYXRlIHRva2VuLicpOwogIH0KfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Y29uc3QgYXV0aG9yaXplID0gQXV0aG9yaXplKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">KHJlcSwgcmVzKSA9PiB7CiAgcmVzLnNlbmQoJ0hlbGxvIHdvcmxkJyk7Cn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgCgo=</text>
+        <text encoding="base64">ZXhwb3J0IGF1dGhvcml6ZSA9IG5ldyBBdXRob3JpemUoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC9wcm9taXNlIjogIjIuNS4qIiwK</text>
+        <text encoding="base64">bGV0IGEgID0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
