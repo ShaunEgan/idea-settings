@@ -67,8 +67,11 @@
         <mark key="." line="60" column="16" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authentication/index.js" timestamp="1486369890371">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/authentication/index.js" timestamp="1486375444531">
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+        <mark key="^" line="5" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1481823465955">
         <mark key="[" line="62" column="8" />
@@ -408,11 +411,8 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486369987663">
-        <mark key="'" line="37" column="1" />
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486376038044">
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -970,6 +970,14 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authorization/index.js" timestamp="1486374298566">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authentication/routes.js" timestamp="1486375480744">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/models/Electronics.scala" timestamp="1481279778445">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1418,6 +1426,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authentication/strategy.js" timestamp="1486375100724">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1481815354136">
         <mark key="[" line="480" column="0" />
         <mark key="]" line="480" column="0" />
@@ -1600,11 +1613,11 @@
       <jump line="16" column="1" filename="$USER_HOME$/dev/svc-auth/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>strategy</text>
       </register>
       <register name="-" type="4">
-        <text>Sign in</text>
+        <text>strategy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -1613,34 +1626,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBzZXQgdXAgcm91dGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHA+PC9wPgo=</text>
+        <text encoding="base64">CiAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyByZXNwb25zZS5zZW5kRmlsZShfX2Rpcm5hbWUgKyAnL3ZpZXdzL2xvZ2luLmh0bWwnKQo=</text>
+        <text encoding="base64">ICAvLyBUaGVzZSB0byBiZSByZXBsYWNlZCBieSBjYWxsIHRvIHRoZSB1c2VyIHNlcnZpY2UK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gYXBwLnNldCgndmlld3MnLCAnL3ZpZXdzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJjb25uZWN0LWZsYXNoIjogIl4wLjEuMSIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyByZXNwb25zZS5zZW5kRmlsZShfX2Rpcm5hbWUgKyAnL3ZpZXdzL2xvZ2luLmh0bWwnKQo=</text>
+        <text encoding="base64">Y29uc3QgaGJzID0gOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">Y29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ianVtYm90cm9uIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
