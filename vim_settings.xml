@@ -398,10 +398,10 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486303202007">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486360376069">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -585,12 +585,15 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" timestamp="1486303883646">
+      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" timestamp="1486360187032">
         <mark key="'" line="3" column="6" />
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="23" />
-        <mark key="." line="6" column="23" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
         <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/static/login.html" timestamp="1486359848201">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/ParameterBuilder.php" timestamp="1485324516633">
         <mark key="[" line="4" column="21" />
@@ -874,11 +877,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/authenticate.js" timestamp="1486305836134">
-        <mark key="[" line="54" column="31" />
-        <mark key="]" line="54" column="31" />
-        <mark key="." line="54" column="31" />
-        <mark key="^" line="54" column="40" />
+      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/authenticate.js" timestamp="1486360428728">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+        <mark key="." line="46" column="30" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/config.js" timestamp="1486302902263">
         <mark key="[" line="0" column="0" />
@@ -1583,11 +1586,11 @@
       <jump line="3" column="6" filename="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Could not log user in. Please try again.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Could not log user in. Please try again.</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>password</text>
@@ -1602,28 +1605,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gc2V0IHVwIHN0YXRpYyBjb250ZW50CmFwcC51c2UoZXhwcmVzcy5zdGF0aWMoJ3N0YXRpYycpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygnc3RhdGljJykpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlYmFycyA9IHJlcXVpcmUoJ2V4cHJlc3MtaGFuZGxlYmFycycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihhcHAsIGNvbmZpZykgewogICAgdGhpcy5hcHAgPSBhcHA7CiAgICB0aGlzLmNvbmZpZyA9IGNvbmZpZwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdDb3VsZCBub3QgcmVnaXN0ZXInKTsKICAgICAgICAgIHJlcS5zZXNzaW9uLmVycm9yID0gJ1RoYXQgdXNlcm5hbWUgaXMgYWxyZWFkeSBpbiB1c2UsIHBsZWFzZSB0cnkgYSBkaWZmZXJlbnQgb25lJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcS5zZXNzaW9uLnN1Y2Nlc3MgPSAnWW91IGFyZSBzdWNjZXNzZnVsbHkgcmVnaXN0ZXJlZCAgJyArIHVzZXIudXNlcm5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdSZWdpc3RlcmVkICcgKyB1c2VyLnVzZXJuYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhcHAK</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcS5zZXNzaW9uLmVycm9yID0gJ0NvdWxkIG5vdCBsb2cgdXNlciBpbi4gUGxlYXNlIHRyeSBhZ2Fpbi4nOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgpjb25zdCBleHByZXNzID0gcmVxdWlyZSgnZXhwcmVzcycpOwpjb25zdCBoYW5kbGViYXJzID0gcmVxdWlyZSgnZXhwcmVzcy1oYW5sZWJhcnMnKTsKY29uc3QgcGFzc3BvcnQgPSByZXF1aXJlKCdwYXNzcG9ydCcpOwpjb25zdCBsb2NhbFN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtbG9jYWwnKTsKY29uc3QgY29uZmlnID0gcmVxdWlyZSgnY29uZmlnJyk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlcS5zZXNzaW9uLnN1Y2Nlc3MgPSAnWW91IGFyZSBzdWNjZXNzZnVsbHkgbG9nZ2VkIGluICcgKyB1c2VyLnVzZXJuYW1lOwo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
