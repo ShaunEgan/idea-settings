@@ -403,8 +403,10 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486378759392">
-        <mark key="[" line="4" column="49" />
+      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486399585685">
+        <mark key="[" line="25" column="21" />
+        <mark key="]" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -630,10 +632,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486396088429">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486399438874">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="3" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485857150188">
         <mark key="[" line="4" column="8" />
@@ -878,8 +881,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/config.js" timestamp="1486396114267">
-        <mark key="[" line="6" column="55" />
+      <file name="$USER_HOME$/dev/svc-auth/src/config.js" timestamp="1486399550933">
+        <mark key="[" line="8" column="50" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1477310553708">
         <mark key="[" line="39" column="11" />
@@ -1582,11 +1587,19 @@
       <jump line="16" column="1" filename="$USER_HOME$/dev/svc-auth/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgY3VybCA9IHJlcXVpcmUoJ2N1cmwnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>const options = {
+      hostname: config.gatewayUri,
+      port: config.gatewayManagementPort,
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Content-Length': Buffer.byteLength(postData)
+      }
+    };</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>http</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -1594,35 +1607,43 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY3VybCA9IHJlcXVpcmUoJ2N1cmwnKTsK</text>
+      <register name="1" type="4">
+        <text>const options = {
+      hostname: config.gatewayUri,
+      port: config.gatewayManagementPort,
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Content-Length': Buffer.byteLength(postData)
+      }
+    };</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGJyLz4KPGJyLz4K</text>
+        <text encoding="base64">ICBnYXRld2F5TWFuYWdlbWVudFBvcnQ6IGVudi5HQVRFV0FZX01BTkFHRU1FTlRfUE9SVCB8fCA4MDAxLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">bGV0IHJlcSA9IGh0dHAucmVxdWVzdChvcHRpb25zLCAocmVzKSA9PiB7CiAgICAgIHJlcy5zZXRFbmNvZGluZygndXRmOCcpOwogICAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoY2h1bmspIHsKICAgICAgICBjb25zb2xlLmxvZygiYm9keTogIiArIGNodW5rKTsKICAgICAgfSk7CiAgICB9KTsKCiAgICByZXEub24oJ2Vycm9yJywgKGUpID0+IHsKICAgICAgY29uc29sZS5sb2coYHByb2JsZW0gd2l0aCByZXF1ZXN0OiAke2UubWVzc2FnZX1gKTsKICAgIH0pOwoKICAgIHJlcS53cml0ZShwb3N0RGF0YSk7CiAgICByZXEuZW5kKCk7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gd3JpdGUgZGF0YSB0byByZXF1ZXN0IGJvZHkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+        <text encoding="base64">Y29uc3QgQnVmZmVyID0gcmVxdWlyZSgnYnVmJykK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAge3sjaWYgc3VjY2Vzc319CiAgICAgICAgPHAgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiPnt7c3VjY2Vzc319PC9wPgogICAge3svaWZ9fQoKICAgIHt7I2lmIG5vdGljZX19CiAgICAgICAgPHAgY2xhc3M9ImFsZXJ0IGFsZXJ0LWluZm8iPnt7bm90aWNlfX08L3A+CiAgICB7ey9pZn19</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjbGllbnRTZWNyZXQ6IGVudi5DTElFTlRfU0VDUkVUIHx8ICdWYW5ndWFyZEF0VGhlR2F0ZXNPZk1vcmRvcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7e2JvZHl9fX0K</text>
+        <text encoding="base64">ICBhdXRoZW50aWNhdGVkVXNlcklkOiBlbnYuQVVUSEVOVElDQVRFRF9VU0VSX0lEIHx8ICdoZWxpb3MtYXV0aCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHt7I2lmIG5vdGljZX19CiAgICAgICAgPHAgY2xhc3M9ImFsZXJ0IGFsZXJ0LWluZm8iPnt7bm90aWNlfX08L3A+CiAgICB7ey9pZn19Cgo=</text>
+        <text encoding="base64">Y29uc3QgY3VybCA9IHJlcXVpcmUoJ2N1cmwnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB7eyNpZiBzdWNjZXNzfX0KICAgICAgICA8cCBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyI+e3tzdWNjZXNzfX08L3A+CiAgICB7ey9pZn19Cgo=</text>
+        <text encoding="base64">PGJyLz4KPGJyLz4K</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
