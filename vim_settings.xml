@@ -165,8 +165,10 @@
         <mark key="." line="2" column="46" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/routes.js" timestamp="1486303599588">
-        <mark key="[" line="4" column="28" />
+      <file name="$USER_HOME$/dev/svc-auth/src/routes.js" timestamp="1486366393340">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1485238515968">
         <mark key="[" line="14" column="20" />
@@ -398,10 +400,11 @@
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486363524283">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486366776236">
+        <mark key="'" line="86" column="1" />
+        <mark key="[" line="70" column="21" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
@@ -585,12 +588,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" timestamp="1486364636807">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="19" />
-      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" timestamp="1486366439352" />
       <file name="$USER_HOME$/dev/svc-auth/src/static/login.html" timestamp="1486359848201">
         <mark key="[" line="0" column="0" />
       </file>
@@ -984,7 +982,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authorize/index.js" timestamp="1486363644413">
+      <file name="$USER_HOME$/dev/svc-auth/src/authorize/index.js" timestamp="1486366339972">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
@@ -1182,11 +1180,7 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="25" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authorize/authorize.js" timestamp="1486304050552">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authorize/authorize.js" timestamp="1486366363393" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1483,7 +1477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="8" column="25" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" />
       <jump line="6" column="25" filename="$USER_HOME$/repositories/digestor/spec/unit/DigestMailer/digest-mailer-service-spec.js" />
       <jump line="31" column="31" filename="$USER_HOME$/repositories/digestor/src/index.js" />
@@ -1583,13 +1576,14 @@
       <jump line="2" column="13" filename="$USER_HOME$/dev/svc-auth/src/authorize/public/index.html" />
       <jump line="3" column="6" filename="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" />
       <jump line="34" column="27" filename="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" />
+      <jump line="16" column="1" filename="$USER_HOME$/dev/svc-auth/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygndmlld3MnKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>console.log(error);</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -1598,34 +1592,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
+        <text encoding="base64">YXBwLnVzZShleHByZXNzLnN0YXRpYygndmlld3MnKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3BvbnNlLnNlbmQoJ1lvdSB0cmllZCB0byBsb2cgaW4sIG1vdGhlciBmdWNrZXInKQo=</text>
+        <text encoding="base64">ICByZXF1aXJlKCdhdXRob3JpemUnKShhcHApOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmb3VuZCB1c2VyJyk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">LCAoKSA9PiB7CiAgY29uc3QgaG9zdCA9IHNlcnZlci5hZGRyZXNzKCkuYWRkcmVzczsKICBjb25zdCBwb3J0ID0gc2VydmVyLmFkZHJlc3MoKS5wb3J0OwoKICBjb25zb2xlLmxvZygiTGlzdGVuaW5nIG9uIGh0dHA6Ly8lczolcyIsIGhvc3QsIHBvcnQpOwp9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkaWQgbm90IGZpbmQgdXNlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmYWlsaW5nJyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlLnNlbmQoJ1lvdSB0cmllZCB0byBsb2cgaW4sIG1vdGhlciBmdWNrZXInKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmb3VuZCB1c2VyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdkaWQgbm90IGZpbmQgdXNlcicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdmYWlsaW5nJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBhdXRoZW50aWNhdGUgPSBBdXRoZW50aWNhdGUoYXBwLCBjb25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
