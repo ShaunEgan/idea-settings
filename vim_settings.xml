@@ -632,11 +632,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486401948774">
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="27" column="12" />
-        <mark key="." line="27" column="12" />
-        <mark key="^" line="27" column="11" />
+      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486447698013">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485857150188">
         <mark key="[" line="4" column="8" />
@@ -1589,10 +1588,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;provision_key=a7d155f6e1e8428e9d402801e01be9f9&quot;</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;provision_key=a7d155f6e1e8428e9d402801e01be9f9&quot;</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -1601,24 +1600,30 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYWdlbnQ6IGFnZW50T3B0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgc3RyaWN0U1NMOiB0cnVlLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYWdlbnRDbGFzczogQWdlbnQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFnZW50T3B0aW9ucyA9IHsKICAgICAgaG9zdDogJ3d3dy5leGFtcGxlLmNvbScsCiAgICAgIHBvcnQ6ICc0NDMnLAogICAgICBwYXRoOiAnLycsCiAgICAgIHJlamVjdFVuYXV0aG9yaXplZDogZmFsc2UKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgYWdlbnQ6IGFnZW50T3B0aW9ucwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGFnZW50T3B0aW9ucyA9IHsKICAgICAgaG9zdDogJ3d3dy5leGFtcGxlLmNvbScsCiAgICAgIHBvcnQ6ICc0NDMnLAogICAgICBwYXRoOiAnLycsCiAgICAgIHJlamVjdFVuYXV0aG9yaXplZDogZmFsc2UKICAgIH07Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBjb25zb2xlLmxvZygiUmVxdWVzdDogIik7CiAgICBjb25zb2xlLmxvZyh1cmwpOwogICAgY29uc29sZS5sb2coZGF0YSk7CiAgICBjb25zb2xlLmxvZygnXG4nKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>const options = {
       hostname: config.gatewayUri,
       port: config.gatewayManagementPort,
@@ -1629,14 +1634,8 @@
       }
     };</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBnYXRld2F5TWFuYWdlbWVudFBvcnQ6IGVudi5HQVRFV0FZX01BTkFHRU1FTlRfUE9SVCB8fCA4MDAxLAo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">bGV0IHJlcSA9IGh0dHAucmVxdWVzdChvcHRpb25zLCAocmVzKSA9PiB7CiAgICAgIHJlcy5zZXRFbmNvZGluZygndXRmOCcpOwogICAgICByZXMub24oJ2RhdGEnLCBmdW5jdGlvbiAoY2h1bmspIHsKICAgICAgICBjb25zb2xlLmxvZygiYm9keTogIiArIGNodW5rKTsKICAgICAgfSk7CiAgICB9KTsKCiAgICByZXEub24oJ2Vycm9yJywgKGUpID0+IHsKICAgICAgY29uc29sZS5sb2coYHByb2JsZW0gd2l0aCByZXF1ZXN0OiAke2UubWVzc2FnZX1gKTsKICAgIH0pOwoKICAgIHJlcS53cml0ZShwb3N0RGF0YSk7CiAgICByZXEuZW5kKCk7</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gd3JpdGUgZGF0YSB0byByZXF1ZXN0IGJvZHkK</text>
+        <text encoding="base64">ICBnYXRld2F5TWFuYWdlbWVudFBvcnQ6IGVudi5HQVRFV0FZX01BTkFHRU1FTlRfUE9SVCB8fCA4MDAxLAo=</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
