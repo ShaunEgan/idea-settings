@@ -632,10 +632,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486447698013">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
+      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486449188459">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485857150188">
         <mark key="[" line="4" column="8" />
@@ -1587,11 +1588,11 @@
       <jump line="16" column="1" filename="$USER_HOME$/dev/svc-auth/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>localhost</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxub3RcPg==</text>
@@ -1600,42 +1601,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3RyaWN0U1NMOiB0cnVlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYWdlbnRDbGFzczogQWdlbnQsCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHByb3hpZWRSZXF1ZXN0ID0gcmVxdWVzdC5kZWZhdWx0cyh7CiAgICAgIHByb3h5OiAiaHR0cDovLzEyNy4wLjAuMTo4MDgwIgogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWdlbnQ6IGFnZW50T3B0aW9ucwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEucHJvdmlzaW9uX2tleSk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFnZW50T3B0aW9ucyA9IHsKICAgICAgaG9zdDogJ3d3dy5leGFtcGxlLmNvbScsCiAgICAgIHBvcnQ6ICc0NDMnLAogICAgICBwYXRoOiAnLycsCiAgICAgIHJlamVjdFVuYXV0aG9yaXplZDogZmFsc2UKICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgYWdlbnRDbGFzczogQWdlbnQsCiAgICAgIGFnZW50T3B0aW9uczogewogICAgICAgIHNvY2tzSG9zdDogJzEyNy4wLjAuMScsCiAgICAgICAgc29ja3NQb3J0OiA4MDgwCiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zb2xlLmxvZygiUmVxdWVzdDogIik7CiAgICBjb25zb2xlLmxvZyh1cmwpOwogICAgY29uc29sZS5sb2coZGF0YSk7CiAgICBjb25zb2xlLmxvZygnXG4nKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IEFnZW50ID0gcmVxdWlyZSgnc29ja3M1LWh0dHAtY2xpZW50L2xpYi9BZ2VudCcpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const options = {
-      hostname: config.gatewayUri,
-      port: config.gatewayManagementPort,
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/x-www-form-urlencoded',
-        'Content-Length': Buffer.byteLength(postData)
-      }
-    };</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgc3RyaWN0U1NMOiB0cnVlLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBnYXRld2F5TWFuYWdlbWVudFBvcnQ6IGVudi5HQVRFV0FZX01BTkFHRU1FTlRfUE9SVCB8fCA4MDAxLAo=</text>
+        <text encoding="base64">ICAgICAgYWdlbnRDbGFzczogQWdlbnQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>31</text>
