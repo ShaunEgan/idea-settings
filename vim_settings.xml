@@ -219,6 +219,9 @@
         <mark key="^" line="8" column="5" />
         <mark key="." line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/support/unit.json" timestamp="1486628781082">
+        <mark key="[" line="10" column="1" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionDataService.scala" timestamp="1481803738231">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="26" column="3" />
@@ -388,6 +391,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1486552561679">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/jasmine.js" timestamp="1486628801952">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477395513183">
         <mark key="[" line="18" column="105" />
         <mark key="]" line="55" column="18" />
@@ -455,10 +463,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/package.json" timestamp="1486552211109">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="20" />
-        <mark key="." line="18" column="20" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/package.json" timestamp="1486626447453">
+        <mark key="[" line="7" column="86" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
         <mark key="^" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477557710011">
@@ -799,6 +807,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1486628086696">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
         <mark key="[" line="86" column="29" />
         <mark key="]" line="86" column="29" />
@@ -884,11 +897,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/README.md" timestamp="1486624469674">
-        <mark key="[" line="27" column="79" />
-        <mark key="]" line="27" column="79" />
-        <mark key="." line="27" column="79" />
-        <mark key="^" line="27" column="77" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/README.md" timestamp="1486628524917">
+        <mark key="[" line="19" column="117" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="29" column="77" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
@@ -1009,8 +1022,8 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/.gitignore" timestamp="1486540864810">
-        <mark key="[" line="0" column="12" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/.gitignore" timestamp="1486627020666">
+        <mark key="[" line="2" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/library/Simulator/models/HouseTest.scala" timestamp="1481280709826">
         <mark key="[" line="10" column="11" />
@@ -1518,6 +1531,9 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
+        <mark key="[" line="7" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -1683,8 +1699,8 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>butterfly</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>butterfly</text>
@@ -1696,34 +1712,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">YGBgYmFzaAoKYGBgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">aWYgKHRlc3RNb2RlID09PSAnZnVsbCcpIHsKICBqYXNtaW5lLmxvYWRDb25maWdGaWxlKCdzcGVjL3N1cHBvcnQvZnVsbC5qc29uJyk7Cn0gZWxzZSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4obmFtZSA9PiB7CiAgICAgICAgLy8gZ2V0IGN1cnJlbnQgdGltZQogICAgICAgIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZSgpOwoKICAgICAgICAvLyBzYXZlIHRvIGxvZ3MKICAgICAgICByZXR1cm4gbG9nc1JlcG9zaXRvcnkuYWRkTG9nKGFjdGlvbiwgdXNlciwgZGF0ZSwgbmFtZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgdGVzdE1vZGUgPSBwcm9jZXNzLmVudi5URVNUX01PREUgfHwgJ3VuaXQnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGJyYW5kLm5hbWUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0ZXN0OgogICAgcG9zdDoKICAgICAtIGNwIC1yIHJlcG9ydHMvamFzbWluICRDSVJDTEVfVEVTVF9SRVBPUlRTCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YGBgYmFzaAoKYGBgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBnZXRTbHVnRnJvbVBhcmFtYXRlcnMoZ2V0UGFyYW1zRnJvbVJlcXVlc3Qoc29tZS1yZXF1ZXN0KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/\^//</text>
