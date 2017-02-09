@@ -194,12 +194,12 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/simple-psk/index.js" timestamp="1486543660995">
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/simple-psk/index.js" timestamp="1486633715118">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
-        <mark key="^" line="11" column="48" />
+        <mark key="[" line="11" column="47" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
@@ -1315,8 +1315,10 @@
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/.gitignore" timestamp="1485326743720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/simple-psk/index-spec.js" timestamp="1486630294762">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/simple-psk/index-spec.js" timestamp="1486634207647">
+        <mark key="[" line="41" column="5" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/LightFactory.scala" timestamp="1481795086501">
         <mark key="[" line="5" column="4" />
@@ -1459,6 +1461,9 @@
       <file name="/PHP Console" timestamp="1485774332687">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1486633855454">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/PHP Field Doc Comment.txt.ft" timestamp="1486450577919">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1503,10 +1508,6 @@
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/package.json" timestamp="1486470312453">
-        <mark key="'" line="47" column="5" />
-        <mark key="[" line="13" column="17" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authentication/strategy.js" timestamp="1486375100724">
         <mark key="[" line="2" column="16" />
@@ -1703,10 +1704,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>butterfly</text>
+        <text encoding="base64">J25vdEFWYWxpZFRva2VuJyA=</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1715,34 +1716,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyBhbiBpbmNvcnJlY3QgdG9rZW4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aWYgKHRlc3RNb2RlID09PSAnZnVsbCcpIHsKICBqYXNtaW5lLmxvYWRDb25maWdGaWxlKCdzcGVjL3N1cHBvcnQvZnVsbC5qc29uJyk7Cn0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyB3aGVuIHRoZXJlIGlzIG5vIHRva2VuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdE1vZGUgPSBwcm9jZXNzLmVudi5URVNUX01PREUgfHwgJ3VuaXQnOwo=</text>
+        <text encoding="base64">ICAgIAogICAgc3B5T24odGhpcywgJ25leHRNb2NrJykuYW5kLmNhbGxUaHJvdWdoKCk7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBjb25zdCByZWNlaXZlZCA9IHJlcXVlc3QuZ2V0KCdhY2Nlc3MtdG9rZW4nKTsKICBjb25zb2xlLmxvZyhyZWNlaXZlZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXN0OgogICAgcG9zdDoKICAgICAtIGNwIC1yIHJlcG9ydHMvamFzbWluICRDSVJDTEVfVEVTVF9SRVBPUlRTCg==</text>
+        <text encoding="base64">ICAgIC8vIHNweU9uKHRoaXMsICduZXh0TW9jaycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBgYmFzaAoKYGBgCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/\^//</text>
