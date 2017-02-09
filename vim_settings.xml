@@ -884,6 +884,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/README.md" timestamp="1486624469674">
+        <mark key="[" line="27" column="79" />
+        <mark key="]" line="27" column="79" />
+        <mark key="." line="27" column="79" />
+        <mark key="^" line="27" column="77" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1677,11 +1683,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>butterfly</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>butterfly</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1690,34 +1696,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBgYmFzaAoKYGBgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4obmFtZSA9PiB7CiAgICAgICAgLy8gZ2V0IGN1cnJlbnQgdGltZQogICAgICAgIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZSgpOwoKICAgICAgICAvLyBzYXZlIHRvIGxvZ3MKICAgICAgICByZXR1cm4gbG9nc1JlcG9zaXRvcnkuYWRkTG9nKGFjdGlvbiwgdXNlciwgZGF0ZSwgbmFtZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGJyYW5kLm5hbWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4obmFtZSA9PiB7CiAgICAgICAgLy8gZ2V0IGN1cnJlbnQgdGltZQogICAgICAgIGNvbnN0IGRhdGUgPSBuZXcgRGF0ZSgpOwoKICAgICAgICAvLyBzYXZlIHRvIGxvZ3MKICAgICAgICByZXR1cm4gbG9nc1JlcG9zaXRvcnkuYWRkTG9nKGFjdGlvbiwgdXNlciwgZGF0ZSwgbmFtZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGJyYW5kLm5hbWUpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBnZXRTbHVnRnJvbVBhcmFtYXRlcnMoZ2V0UGFyYW1zRnJvbVJlcXVlc3Qoc29tZS1yZXF1ZXN0KSk7Cg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgZGQgCg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBnZXRTbHVnRnJvbVBhcmFtYXRlcnMoZ2V0UGFyYW1zRnJvbVJlcXVlc3Qoc29tZS1yZXF1ZXN0KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/\^//</text>
