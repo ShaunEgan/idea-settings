@@ -850,7 +850,7 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/brand-repository.js" timestamp="1486706763982">
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/brand-repository.js" timestamp="1486707600796">
         <mark key="'" line="35" column="1" />
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="42" />
@@ -1159,6 +1159,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/simple-psk/brand-repository-spec.js" timestamp="1486707779841">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1481697693144">
         <mark key="[" line="12" column="8" />
@@ -1702,7 +1707,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGZpbmRPbmU6IAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">J25vdEFWYWxpZFRva2VuJyA=</text>
@@ -1714,31 +1719,31 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGZpbmRPbmU6IAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyBhbiBpbmNvcnJlY3QgdG9rZW4K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyB3aGVuIHRoZXJlIGlzIG5vIHRva2VuCg==</text>
+        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyBhbiBpbmNvcnJlY3QgdG9rZW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgc3B5T24odGhpcywgJ25leHRNb2NrJykuYW5kLmNhbGxUaHJvdWdoKCk7Cgo=</text>
+        <text encoding="base64">ICAvLyB0ZXN0IHRoYXQgaXQgcmVqZWN0cyB3aGVuIHRoZXJlIGlzIG5vIHRva2VuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCByZWNlaXZlZCA9IHJlcXVlc3QuZ2V0KCdhY2Nlc3MtdG9rZW4nKTsKICBjb25zb2xlLmxvZyhyZWNlaXZlZCk7Cg==</text>
+        <text encoding="base64">ICAgIAogICAgc3B5T24odGhpcywgJ25leHRNb2NrJykuYW5kLmNhbGxUaHJvdWdoKCk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIHNweU9uKHRoaXMsICduZXh0TW9jaycpCg==</text>
+        <text encoding="base64">ICBjb25zdCByZWNlaXZlZCA9IHJlcXVlc3QuZ2V0KCdhY2Nlc3MtdG9rZW4nKTsKICBjb25zb2xlLmxvZyhyZWNlaXZlZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNweU9uKHRoaXMsICduZXh0TW9jaycpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
