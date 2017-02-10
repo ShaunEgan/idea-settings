@@ -1363,10 +1363,10 @@
         <mark key="." line="43" column="4" />
         <mark key="^" line="43" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486710828288">
-        <mark key="[" line="11" column="14" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
+        <mark key="[" line="41" column="62" />
+        <mark key="]" line="41" column="62" />
+        <mark key="." line="41" column="62" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
@@ -1709,10 +1709,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1721,34 +1721,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IAogIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNvbnN0IGxvZ01vY2sgPSB7CiAgICB1c2VyOiAndXNlcicsCiAgICBuYW1lOiAnbmFtZScsCiAgICBwcm9wZXJ0aWVzOiB7CiAgICAgIGJyYW5kOiAnYnJhbmQnCiAgICB9LAogICAgZGF0ZTogbmV3IERhdGUoKQogIH07</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBqYXNtaW5lLmNyZWF0ZVNweSgndGVzdCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
+        <text encoding="base64">CmNvbnN0IGphc21pbmUgPSByZXF1aXJlKCdqYXNtaW5lJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAogIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvbnN0IGxvZ01vY2sgPSB7CiAgICB1c2VyOiAndXNlcicsCiAgICBuYW1lOiAnbmFtZScsCiAgICBwcm9wZXJ0aWVzOiB7CiAgICAgIGJyYW5kOiAnYnJhbmQnCiAgICB9LAogICAgZGF0ZTogbmV3IERhdGUoKQogIH07</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
+        <text encoding="base64">ICAgIGRvbmUoKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmRPbmU6IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhY3Rpb25zKTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/\^//</text>
