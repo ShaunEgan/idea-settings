@@ -233,6 +233,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bluehelix-web/app-admin/src/main/java/za/co/thumbtribe/bh/admin/controller/ChallengeController.java" timestamp="1486970364261" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Bilateral.scala" timestamp="1477141970342">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="0" />
@@ -491,6 +492,7 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="48" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/bluehelix-web/app-mobi/src/main/java/za/co/thumbtribe/bh/mobi/controller/ChallengeController.java" timestamp="1486970126218" />
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/WattageClass.scala" timestamp="1481531367816">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
@@ -1265,6 +1267,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1486450550077">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/bluehelix-web/app-mobi/src/main/java/za/co/thumbtribe/bh/mobi/interceptor/UserInterceptor.java" timestamp="1486970344528" />
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/SimulatorConf.scala" timestamp="1481526538289">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
@@ -1374,10 +1377,10 @@
         <mark key="]" line="41" column="62" />
         <mark key="." line="41" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/bluehelix-web/pom.xml" timestamp="1486968829484">
-        <mark key="[" line="107" column="27" />
-        <mark key="]" line="107" column="28" />
-        <mark key="." line="107" column="28" />
+      <file name="$USER_HOME$/workspace/bluehelix-web/pom.xml" timestamp="1486969803993">
+        <mark key="[" line="107" column="29" />
+        <mark key="]" line="107" column="30" />
+        <mark key="." line="107" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
