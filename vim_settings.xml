@@ -122,10 +122,11 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/app.js" timestamp="1486553043902">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/app.js" timestamp="1487066042215">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="9" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/shaun-test.php" timestamp="1485770175910">
         <mark key="[" line="30" column="33" />
@@ -233,7 +234,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bluehelix-web/app-admin/src/main/java/za/co/thumbtribe/bh/admin/controller/ChallengeController.java" timestamp="1486970364261" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Bilateral.scala" timestamp="1477141970342">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="0" />
@@ -492,14 +492,13 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/bluehelix-web/app-mobi/src/main/java/za/co/thumbtribe/bh/mobi/controller/ChallengeController.java" timestamp="1486970126218" />
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/WattageClass.scala" timestamp="1481531367816">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/trustmark-service.js" timestamp="1486623206567">
-        <mark key="[" line="11" column="8" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/trustmark-service.js" timestamp="1487065343614">
+        <mark key="[" line="6" column="28" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="10" column="73" />
         <mark key="." line="12" column="0" />
@@ -1056,11 +1055,12 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/trustmark-service-spec.js" timestamp="1486715134315">
-        <mark key="[" line="62" column="42" />
-        <mark key="]" line="62" column="42" />
-        <mark key="." line="62" column="42" />
-        <mark key="^" line="62" column="31" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/trustmark-service-spec.js" timestamp="1487066444689">
+        <mark key="i" line="68" column="69" />
+        <mark key="[" line="68" column="70" />
+        <mark key="]" line="68" column="42" />
+        <mark key="." line="68" column="42" />
+        <mark key="^" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreamentsRepositories.scala" timestamp="1477135169700">
         <mark key="[" line="5" column="6" />
@@ -1106,9 +1106,9 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" timestamp="1486639870508">
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" timestamp="1487066852375">
         <mark key="'" line="39" column="4" />
-        <mark key="[" line="13" column="31" />
+        <mark key="[" line="19" column="24" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
@@ -1180,10 +1180,11 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="49" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/logs-repository.js" timestamp="1486555434689">
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/logs-repository.js" timestamp="1487065259733">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480679785072">
         <mark key="[" line="3" column="26" />
@@ -1267,7 +1268,6 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1486450550077">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/bluehelix-web/app-mobi/src/main/java/za/co/thumbtribe/bh/mobi/interceptor/UserInterceptor.java" timestamp="1486970344528" />
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/SimulatorConf.scala" timestamp="1481526538289">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
@@ -1290,6 +1290,7 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="25" column="79" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/config.js" timestamp="1487066754259" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -1723,10 +1724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">ICAgICAvLyB0byBzdXBwb3J0IFVSTC1lbmNvZGVkIGJvZGllcw==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICAgICAvLyB0byBzdXBwb3J0IFVSTC1lbmNvZGVkIGJvZGllcw==</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
