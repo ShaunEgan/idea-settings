@@ -1320,10 +1320,10 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487164714726">
-        <mark key="]" line="5" column="18" />
-        <mark key="^" line="5" column="18" />
-        <mark key="." line="5" column="18" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487166132158">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1736,7 +1736,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IGEgPSAxOwoK</text>
+        <text encoding="base64">ICBoZWxsbzoKICAgIGhhbmRsZXI6IGhhbmRsZXIuaGVsbG8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAvLyB0byBzdXBwb3J0IFVSTC1lbmNvZGVkIGJvZGllcw==</text>
@@ -1748,34 +1748,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IGEgPSAxOwoK</text>
+        <text encoding="base64">ICBoZWxsbzoKICAgIGhhbmRsZXI6IGhhbmRsZXIuaGVsbG8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGEgPSAxOwoK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAKCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqYXNtaW5lLmNyZWF0ZVNweSgndGVzdCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNvbnN0IGphc21pbmUgPSByZXF1aXJlKCdqYXNtaW5lJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqYXNtaW5lLmNyZWF0ZVNweSgndGVzdCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IAogIAo=</text>
+        <text encoding="base64">CmNvbnN0IGphc21pbmUgPSByZXF1aXJlKCdqYXNtaW5lJyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNvbnN0IGxvZ01vY2sgPSB7CiAgICB1c2VyOiAndXNlcicsCiAgICBuYW1lOiAnbmFtZScsCiAgICBwcm9wZXJ0aWVzOiB7CiAgICAgIGJyYW5kOiAnYnJhbmQnCiAgICB9LAogICAgZGF0ZTogbmV3IERhdGUoKQogIH07</text>
+      <register name="9" type="2">
+        <text encoding="base64">IAogIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
