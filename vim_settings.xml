@@ -1105,6 +1105,9 @@
         <mark key="]" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/helios/example/test.js" timestamp="1487164603786">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -1317,8 +1320,7 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487158978111">
-        <mark key="[" line="4" column="20" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487164714726">
         <mark key="]" line="5" column="18" />
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="18" />
