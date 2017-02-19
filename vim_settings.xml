@@ -1323,10 +1323,8 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487506148988">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487507306776">
+        <mark key="[" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1739,7 +1737,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
       </register>
       <register name="-" type="4">
         <text>Postgres</text>
@@ -1751,15 +1749,18 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRnJvbVBvcnQ6IDU0MzIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>HeliosDbIamPolicy:
       Type: AWS::IAM:Policy
       DependsOn: HeliosDb
@@ -1776,23 +1777,20 @@
         Roles:
           - Ref: IamRoleLambdaExecution</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBEQlNlY3VyaXR5R3JvdXBzOiB7fQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAtIFJlZjogTXlEYlNlY3VyaXR5QnlDSURSSVBHcm91cAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAtIFJlZjogTXlEYlNlY3VyaXR5QnlFQzJTZWN1cml0eUdyb3VwCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB0ZXN0OgogICAgaGFuZGxlcjogZXhhbXBsZS50ZXN0Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBoZWxsbzoKICAgIGhhbmRsZXI6IGhhbmRsZXIuaGVsbG8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IGEgPSAxOwoK</text>
+        <text encoding="base64">ICBoZWxsbzoKICAgIGhhbmRsZXI6IGhhbmRsZXIuaGVsbG8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
