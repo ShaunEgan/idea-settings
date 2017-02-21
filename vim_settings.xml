@@ -179,6 +179,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/staff-exit-policy.md" timestamp="1487677473674">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1485238515968">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="25" column="13" />
@@ -194,13 +197,6 @@
         <mark key="[" line="16" column="16" />
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/simple-psk/index.js" timestamp="1486633715118">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
