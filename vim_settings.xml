@@ -396,8 +396,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/README.md" timestamp="1487670152582">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/README.md" timestamp="1487671439308">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="17" column="10" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477395513183">
         <mark key="[" line="18" column="105" />
