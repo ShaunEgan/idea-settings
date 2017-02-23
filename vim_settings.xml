@@ -163,7 +163,11 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487865368505" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487866584171">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -1745,7 +1749,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjEzLjAiCg==</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -1757,30 +1761,33 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjEzLjAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIG9wdGltaXplOgogICAgZGVidWc6IHRydWUKICAgIG1pbmlmeTogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
+        <text encoding="base64">Y3VzdG9tOgogIG9wdGltaXplOgogICAgZGVidWc6IHRydWUKICAgIG1pbmlmeTogZmFsc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRnJvbVBvcnQ6IDU0MzIK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>HeliosDbIamPolicy:
       Type: AWS::IAM:Policy
       DependsOn: HeliosDb
@@ -1796,9 +1803,6 @@
               Resource: 'arn:aws:rds:*:*:db:helios
         Roles:
           - Ref: IamRoleLambdaExecution</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEQlNlY3VyaXR5R3JvdXBzOiB7fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
