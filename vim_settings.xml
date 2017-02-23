@@ -717,7 +717,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/serverless.yml" timestamp="1487865880876">
+      <file name="$USER_HOME$/dev/helios/practices/serverless.yml" timestamp="1487867207790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1481829431892">
@@ -1333,9 +1333,10 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487865899617">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487867357688">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1748,8 +1749,8 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjEzLjAiCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CnBhY2thZ2U6CiAgZXhjbHVkZToKICAtIC5naXQvKioKICAtIC5pZGVhLyoq</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
@@ -1760,49 +1761,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjEzLjAiCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CnBhY2thZ2U6CiAgZXhjbHVkZToKICAtIC5naXQvKioKICAtIC5pZGVhLyoq</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIl4yLjEzLjAiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIG1peGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIG9wdGltaXplOgogICAgZGVidWc6IHRydWUKICAgIG1pbmlmeTogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
+        <text encoding="base64">Y3VzdG9tOgogIG9wdGltaXplOgogICAgZGVidWc6IHRydWUKICAgIG1pbmlmeTogZmFsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gSXBQcm90b2NvbDogdGNwCiAgICAgICAgICAgIEZyb21Qb3J0OiA1NDMyCiAgICAgICAgICAgIFRvUG9ydDogNTQzMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJvbVBvcnQ6IDU0MzIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU291cmNlU2UK</text>
       </register>
-      <register name="9" type="4">
-        <text>HeliosDbIamPolicy:
-      Type: AWS::IAM:Policy
-      DependsOn: HeliosDb
-      Properties:
-        PolicyName: lambda-heliosdb
-        PolicyDocument:
-          Version: '2012-10-17'
-          Statement:
-            - Effect: Allow
-              Action:
-                -
-                -
-              Resource: 'arn:aws:rds:*:*:db:helios
-        Roles:
-          - Ref: IamRoleLambdaExecution</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRnJvbVBvcnQ6IDU0MzIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
