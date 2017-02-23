@@ -163,6 +163,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487865368505" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
@@ -711,6 +712,9 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/practices/serverless.yml" timestamp="1487865880876">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1481829431892">
         <mark key="[" line="0" column="0" />
@@ -1325,8 +1329,7 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487509651304">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1487865899617">
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
