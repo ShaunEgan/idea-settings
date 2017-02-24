@@ -163,10 +163,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487866584171">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487919597991">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="16" />
+        <mark key="." line="3" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -1153,10 +1153,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/index.js" timestamp="1487917649012">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
+      <file name="$USER_HOME$/dev/helios/practices/index.js" timestamp="1487919516074">
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts.scala" timestamp="1481795497052">
         <mark key="[" line="3" column="0" />
@@ -1753,10 +1754,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tables</text>
+        <text>^</text>
       </register>
       <register name="-" type="4">
-        <text>tables</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
