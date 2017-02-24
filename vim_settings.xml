@@ -1153,10 +1153,10 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/index.js" timestamp="1487915280366">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/dev/helios/practices/index.js" timestamp="1487917649012">
+        <mark key="[" line="26" column="19" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts.scala" timestamp="1481795497052">
         <mark key="[" line="3" column="0" />
@@ -1752,11 +1752,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tables</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>tables</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
