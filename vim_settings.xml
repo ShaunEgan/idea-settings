@@ -193,6 +193,12 @@
         <mark key="^" line="25" column="13" />
         <mark key="." line="25" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/helios/common/methods.js" timestamp="1488043368832">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/libraries/TimeOfDayUtils.scala" timestamp="1481828900772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1091,13 +1097,6 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/trustmark-service-spec.js" timestamp="1487066444689">
-        <mark key="i" line="68" column="69" />
-        <mark key="[" line="68" column="70" />
-        <mark key="]" line="68" column="42" />
-        <mark key="." line="68" column="42" />
-        <mark key="^" line="68" column="42" />
-      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreamentsRepositories.scala" timestamp="1477135169700">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="26" />
@@ -1607,11 +1606,10 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488041068800">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488043314440">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1800,28 +1798,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gQFRPRE86IHNhbWUgZnVuYyByb3V0aW5nCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gQFRPRE86IHNlY3VyZSBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gQFRPRE86IGVudnMgZm9yIGRiCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCB0ZXN0ID0gJ0dFVCcgPT09IGh0dHAuTUVUSE9EUy5HRVQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtZXRob2RzKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGRiVXNlcjogcm9vdAogIGRiUGFzc3dvcmQ6IHNvbWUtcGFzc3dvcmQK</text>
+        <text encoding="base64">ICBjb25zdCBtZXRob2RzID0gaHR0cC5NRVRIT0RTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkYkNvbm5lY3Rpb25TdHJpbmc6ICdwb3N0Z3JlczovL3Jvb3Q6c29tZS1wYXNzd29yZEBsb2NhbGhvc3Q6NTQzMi9oZWxpb3MnCg==</text>
+        <text encoding="base64">Y29uc3QgaHR0cCA9IHJlcXVpcmUoJ2h0dHAnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERCX1VTRVI6ICR7ZW52OkRCX1VTRVIsIHNlbGY6Y3VzdG9tLmRiVXNlcn0KICAgIERCX1BBU1M6ICR7ZW52OkRCX1BBU1MsIHNlbGY6Y3VzdG9tLmRiUGFzc3dvcmR9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
