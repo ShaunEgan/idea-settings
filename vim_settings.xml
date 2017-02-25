@@ -1607,11 +1607,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488038726499">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="14" column="19" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488041068800">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="10" column="19" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1782,7 +1782,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>, self:custom.dbConnectionString</text>
@@ -1794,34 +1794,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQFRPRE86IHNhbWUgZnVuYyByb3V0aW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VzdG9tOgogIGRiVXNlcjogcm9vdAogIGRiUGFzc3dvcmQ6IHNvbWUtcGFzc3dvcmQK</text>
+        <text encoding="base64">Ly8gQFRPRE86IHNlY3VyZSBlbnZpcm9ubWVudGFsIHZhcmlhYmxlcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYkNvbm5lY3Rpb25TdHJpbmc6ICdwb3N0Z3JlczovL3Jvb3Q6c29tZS1wYXNzd29yZEBsb2NhbGhvc3Q6NTQzMi9oZWxpb3MnCg==</text>
+        <text encoding="base64">Ly8gQFRPRE86IGVudnMgZm9yIGRiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERCX1VTRVI6ICR7ZW52OkRCX1VTRVIsIHNlbGY6Y3VzdG9tLmRiVXNlcn0KICAgIERCX1BBU1M6ICR7ZW52OkRCX1BBU1MsIHNlbGY6Y3VzdG9tLmRiUGFzc3dvcmR9Cg==</text>
+        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkYlVzZXI6IGVudi5EQl9VU0VSIHx8ICd1c2VyJywKICBkYlBhc3M6IGVudi5EQl9QQVNTIHx8ICdwYXNzd29yZCcK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gQFRPRE86IHBnLXByb21pc2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y3VzdG9tOgogIGRiVXNlcjogcm9vdAogIGRiUGFzc3dvcmQ6IHNvbWUtcGFzc3dvcmQK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkYkNvbm5lY3Rpb25TdHJpbmc6ICdwb3N0Z3JlczovL3Jvb3Q6c29tZS1wYXNzd29yZEBsb2NhbGhvc3Q6NTQzMi9oZWxpb3MnCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KICB9KTsK</text>
+        <text encoding="base64">ICAgIERCX1VTRVI6ICR7ZW52OkRCX1VTRVIsIHNlbGY6Y3VzdG9tLmRiVXNlcn0KICAgIERCX1BBU1M6ICR7ZW52OkRCX1BBU1MsIHNlbGY6Y3VzdG9tLmRiUGFzc3dvcmR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
