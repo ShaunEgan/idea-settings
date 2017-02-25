@@ -295,10 +295,10 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/config.js" timestamp="1488028516779">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/dev/helios/common/config.js" timestamp="1488038891180">
+        <mark key="[" line="4" column="18" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1486450506637">
         <mark key="[" line="0" column="0" />
@@ -502,6 +502,9 @@
         <mark key="[" line="9" column="41" />
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/README.md" timestamp="1488039706347">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
         <mark key="[" line="55" column="23" />
@@ -923,8 +926,10 @@
         <mark key="." line="19" column="12" />
         <mark key="^" line="29" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/database.js" timestamp="1488028569976">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/helios/common/database.js" timestamp="1488039679624">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
@@ -1349,10 +1354,10 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488027692011">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488039103155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1602,10 +1607,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488030779775">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488038726499">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="14" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1776,10 +1782,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>connectionString</text>
+        <text>, self:custom.dbConnectionString</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1788,7 +1794,7 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBgcG9zdGdyZXM6Ly8ke2NvbmZpZy5kYlVzZXJ9OiR7Y29uZmlnLmRiUGFzc31AaGVsaW9zLmMxM2JtdnZlYmc1MS5ldS13ZXN0LTEucmRzLmFtYXpvbmF3cy5jb206NTQzMi9oZWxpb3NgOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1797,25 +1803,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VzdG9tOgogIGRiVXNlcjogcm9vdAogIGRiUGFzc3dvcmQ6IHNvbWUtcGFzc3dvcmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYkNvbm5lY3Rpb25TdHJpbmc6ICdwb3N0Z3JlczovL3Jvb3Q6c29tZS1wYXNzd29yZEBsb2NhbGhvc3Q6NTQzMi9oZWxpb3MnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgY29ubmVjdGlvblN0cmluZyA9CiAgOwo=</text>
+        <text encoding="base64">ICAgIERCX1VTRVI6ICR7ZW52OkRCX1VTRVIsIHNlbGY6Y3VzdG9tLmRiVXNlcn0KICAgIERCX1BBU1M6ICR7ZW52OkRCX1BBU1MsIHNlbGY6Y3VzdG9tLmRiUGFzc3dvcmR9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkYlVzZXI6IGVudi5EQl9VU0VSIHx8ICd1c2VyJywKICBkYlBhc3M6IGVudi5EQl9QQVNTIHx8ICdwYXNzd29yZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZW52ID0gcHJvY2Vzcy5lbnY7CmNvbnN0IGRiVXNlciA9IGVudi5EQl9VU0VSOwpjb25zdCBkYlBhc3MgPSBlbnYuREJfUEFTUzsK</text>
+        <text encoding="base64">Ly8gQFRPRE86IHBnLXByb21pc2UK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZm9vYmFyID0gcmVxdWlyZSgnLi90ZXN0LmpzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gY29tbW9uCg==</text>
+        <text encoding="base64">ICAgIH0KICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
