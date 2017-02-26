@@ -1516,11 +1516,11 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488114714424">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="43" />
-        <mark key="^" line="43" column="1" />
-        <mark key="." line="28" column="43" />
+      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488121612089">
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="31" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="48" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481795784200">
         <mark key="[" line="6" column="0" />
@@ -1609,11 +1609,10 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488120847240">
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="9" column="33" />
-        <mark key="." line="9" column="33" />
-        <mark key="^" line="9" column="37" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488121982793">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1783,8 +1782,8 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>result</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgfSwK</text>
       </register>
       <register name="-" type="4">
         <text>result</text>
@@ -1796,34 +1795,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICB9LAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ewogICAgdmFsaWRhdG9yKGJvZHksIGVycm9yID0+IHsKICAgICAgaWYgKGVycm9yKSAKICAgIH0p</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gQFRPRE8gbWV0aG9kIHJvdXRpbmcKLy8gQFRPRE8gUHJhY3RpY2VzIFNlcnZpY2UKCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAKfTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gQFRPRE8gUHJhY3RpY2VzIFNlcnZpY2UK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gQFRPRE8gbWV0aG9kIHJvdXRpbmcK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwogIGNvbnNvbGUubG9nKGV2ZW50KTsKCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXN1bHQpOwogIGNvbnNvbGUubG9nKGV2ZW50KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
