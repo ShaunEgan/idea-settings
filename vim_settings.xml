@@ -1361,11 +1361,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488128299074">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488129098077">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/.gitignore" timestamp="1485326743720">
         <mark key="[" line="0" column="0" />
@@ -1791,10 +1791,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>practices</text>
+        <text>Promise.resolve({ message: 'deleting' })</text>
       </register>
       <register name="-" type="4">
-        <text>practices</text>
+        <text>Promise.resolve({ message: 'deleting' })</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
