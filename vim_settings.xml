@@ -688,10 +688,9 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1478174407701">
-        <mark key="[" line="34" column="16" />
-        <mark key="]" line="34" column="16" />
-        <mark key="." line="34" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1488112239956">
+        <mark key="]" line="35" column="16" />
+        <mark key="." line="35" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/SlaDataService.scala" timestamp="1481803758032">
         <mark key="[" line="20" column="45" />
@@ -1507,11 +1506,11 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488049798219">
-        <mark key="[" line="31" column="67" />
-        <mark key="]" line="12" column="6" />
-        <mark key="^" line="12" column="35" />
-        <mark key="." line="12" column="6" />
+      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488112115851">
+        <mark key="[" line="44" column="17" />
+        <mark key="]" line="44" column="24" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="44" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481795784200">
         <mark key="[" line="6" column="0" />
@@ -1600,10 +1599,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488049641461">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="24" column="2" />
-        <mark key="." line="24" column="2" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488113381269">
+        <mark key="[" line="23" column="11" />
+        <mark key="]" line="23" column="10" />
+        <mark key="." line="23" column="10" />
+        <mark key="^" line="23" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1774,10 +1774,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgovLyBtb2R1bGUuZXhwb3J0cy5jcmVhdGUgPSAoZXZlbnQsIGNvbnRleHQpID0+IHsKLy8gICBkYi5hbnkoIlNFTEVDVCAxIiwgW10pCi8vICAgICAudGhlbihkYXRhID0+IGNvbnRleHQuc3VjY2VlZCh7Ci8vICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKLy8gICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBtZXNzYWdlOiBkYXRhIH0pCi8vICAgICB9KSkKLy8gICAgIC5jYXRjaChlcnJvciA9PiBjb250ZXh0LmZhaWwoZXJyb3IpKTsKLy8gfTsKLy8KLy8gbW9kdWxlLmV4cG9ydHMucmVhZCA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIGNvbnRleHQuc3VjY2VlZCh7Ci8vICAgICBzdGF0dXNDb2RlOiAyMDAsCi8vICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShldmVudCkKLy8gICB9KTsKLy8gfTs=</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>hasId</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
