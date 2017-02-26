@@ -1516,11 +1516,11 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488121612089">
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="31" />
-        <mark key="^" line="48" column="31" />
-        <mark key="." line="48" column="31" />
+      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488122643724">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481795784200">
         <mark key="[" line="6" column="0" />
@@ -1782,11 +1782,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>Json</text>
       </register>
       <register name="-" type="4">
-        <text>result</text>
+        <text>Json</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
