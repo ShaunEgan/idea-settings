@@ -1501,6 +1501,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488118331613">
+        <mark key="[" line="9" column="15" />
+        <mark key="]" line="9" column="15" />
+        <mark key="^" line="9" column="22" />
+        <mark key="." line="9" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/package.json" timestamp="1486369414938">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1773,11 +1779,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gbWV0aG9kIHJvdXRpbmcKLy8gQFRPRE8gUHJhY3RpY2VzIFNlcnZpY2UKCg==</text>
+      <register name="&quot;" type="4">
+        <text>validator</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>validator</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
