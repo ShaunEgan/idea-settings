@@ -19,6 +19,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/repositories/race-repository.js" timestamp="1488203070109">
+        <mark key="[" line="9" column="104" />
+        <mark key="]" line="9" column="100" />
+        <mark key="^" line="9" column="100" />
+        <mark key="." line="9" column="100" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Formatters/IndexableDateTimeFormatter.php" timestamp="1485328850348">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
@@ -320,12 +326,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice-repository.js" timestamp="1488179817177">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Aliases.scala" timestamp="1480064186911">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -458,6 +458,9 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/patients/repositories/patient-repository.js" timestamp="1488203377021">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/handler.js" timestamp="1487158939866">
         <mark key="[" line="2" column="0" />
@@ -851,6 +854,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/models/race.js" timestamp="1488203019514">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="2" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
         <mark key="[" line="86" column="29" />
         <mark key="]" line="86" column="29" />
@@ -1122,6 +1131,11 @@
         <mark key="]" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/helios/migrations/20170227132944-races.js" timestamp="1488202960482">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="7" column="5" />
@@ -1345,17 +1359,22 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/models/model.js" timestamp="1488201994802">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/ParsPlanaVitrectomy.scala" timestamp="1477636429947">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488176284914">
-        <mark key="[" line="53" column="14" />
-        <mark key="]" line="53" column="14" />
-        <mark key="^" line="53" column="14" />
-        <mark key="." line="53" column="14" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488201446899">
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="54" column="14" />
+        <mark key="^" line="54" column="14" />
+        <mark key="." line="54" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1416,6 +1435,11 @@
         <mark key="]" line="17" column="19" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="17" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/migrations/20170227133215-patients.js" timestamp="1488202353926">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1485844433753">
         <mark key="[" line="41" column="3" />
@@ -1500,6 +1524,9 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="11" />
@@ -1517,11 +1544,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488174055055">
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
+      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488201995956">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="10" column="22" />
-        <mark key="." line="12" column="20" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/package.json" timestamp="1486369414938">
         <mark key="[" line="13" column="0" />
@@ -1799,11 +1826,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>race</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>race</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1812,48 +1839,36 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cgo=</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text>const succeed =
 
 const succeedWithError =</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDA0LCAnUHJhY3RpY2Ugbm90IGZvdW5kJykpCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>context.succeed({
-      statusCode: 400,
-      body: JSON.stringify({
-        error: 'You need to specify an ID'
-      })
-    })</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlkID0gO2QxCgo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>{
-        context.succeed({
-          statusCode: 200,
-          body: JSON.stringify({
-            status: 'Ok'
-          })
-        })
-      }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDA0LCAnUHJhY3RpY2Ugbm90IGZvdW5kJykpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
