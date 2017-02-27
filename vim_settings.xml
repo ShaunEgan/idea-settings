@@ -163,10 +163,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1487919597991">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488179836586">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -318,6 +318,12 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479982671469">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/practices/practice-repository.js" timestamp="1488179817177">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Aliases.scala" timestamp="1480064186911">
@@ -1537,6 +1543,9 @@
       <file name="/PHP Console" timestamp="1485774332687">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/common/succeeds.js" timestamp="1488181264621">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1486709234023">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1616,11 +1625,10 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488179124876">
-        <mark key="[" line="120" column="3" />
-        <mark key="]" line="120" column="4" />
-        <mark key="." line="120" column="4" />
-        <mark key="^" line="120" column="55" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488181324234">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1790,11 +1798,11 @@
       <jump line="30" column="4" filename="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>destroy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>destroy</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1803,34 +1811,48 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IFByb21pc2UucmVzb2x2ZSh7IHN0YXR1czogJ29rJyB9KSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgdmFsaWRhdG9yKGJvZHksIGVycm9yID0+IHsKICAgICAgaWYgKGVycm9yKSByZWplY3QoeyBlcnJvcjogJ0ludmFsaWQgcHJhY3RpY2UgZGVmaW5pdGlvbicgfSk7CiAgICAgIGVsc2UgcmVzb2x2ZShib2R5KTsKICAgIH0pCiAgfSkudGhlbihib2R5ID0+</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRiLm9uZSgnSU5TRVJUIElOVE8gcHJhY3RpY2VzKG5hbWUpIHZhbHVlcygkMSkgcmV0dXJuaW5nIConLCBbcHJhY3RpY2UubmFtZV1yKQo=</text>
+      <register name="3" type="4">
+        <text>const succeed =
+
+const succeedWithError =</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRvcihib2R5LCBlcnJvciA9PiB7CiAgICAgIGlmIChlcnJvcikgcmVqZWN0KHsgZXJyb3I6ICdJbnZhbGlkIHByYWN0aWNlIGRlZmluaXRpb24nIH0pOwogICAgICBlbHNlIHJlc29sdmUoYm9keSk7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDA0LCAnUHJhY3RpY2Ugbm90IGZvdW5kJykpCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC50aGVuKHJlc3VsdHMgPT4gUHJvbWlzZS5yZXNvbHZlKHsgcHJhY3RpY2VzOiByZXN1bHRzIH0pKSwK</text>
+      <register name="5" type="4">
+        <text>context.succeed({
+      statusCode: 400,
+      body: JSON.stringify({
+        error: 'You need to specify an ID'
+      })
+    })</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKfTt7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gO2QxCgo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGRiLm9uZSgnU0VMRUNUICogRlJPTSBwcmFjdGljZXMgV0hFUkUgaWQgPSAkMTsnLCBbaWRdKQogICAgICAudGhlbihwcmFjdGljZSA9PiB7CiAgICAgICAgY29udGV4dC5zdWNjZWVkKHsKICAgICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgcHJhY3RpY2UKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSkKICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICBjb250ZXh0LnN1Y2NlZWQoewogICAgICAgICAgc3RhdHVzQ29kZTogNDA0LAogICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgICBlcnJvcjogJ1ByYWN0aWNlIG5vdCBmb3VuZCcKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSk=</text>
+        <text>{
+        context.succeed({
+          statusCode: 200,
+          body: JSON.stringify({
+            status: 'Ok'
+          })
+        })
+      }</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGQKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Ly8gY29uc3Qgcm91dGVyID0gcmVxdWlyZSgnLi4vY29tbW9uL2F3cy1yZXN0LXJvdXRlcicpLnJvdXRlcjsKLy8gY29uc3QgUHJhY3RpY2VTZXJ2aWNlID0gcmVxdWlyZSgnLi9wcmFjdGljZS1zZXJ2aWNlJykoZGIpOwoKLy8gbW9kdWxlLmV4cG9ydHMucHJhY3RpY2VzID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7Ci8vICAgcm91dGVyLnJvdXRlKFByYWN0aWNlU2VydmljZSwgZXZlbnQpCi8vICAgICAudGhlbihyZXN1bHQgPT4gewovLyAgICAgICBjb250ZXh0LnN1Y2NlZWQoewovLyAgICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKLy8gICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShyZXN1bHQpCi8vICAgICAgIH0pOwovLyAgICAgfSkKLy8gICAgIC5jYXRjaChlcnJvciA9PiB7Ci8vICAgICAgIGNvbnRleHQuc3VjY2VlZCh7Ci8vICAgICAgICAgc3RhdHVzQ29kZTogNDAwLAovLyAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGVycm9yKQovLyAgICAgICB9KTsKLy8gICAgIH0pCi8vIH07</text>
+        <text encoding="base64">CiAgICBjb25zdCBpZCA9IDs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
