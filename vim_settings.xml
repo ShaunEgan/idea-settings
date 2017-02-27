@@ -1345,11 +1345,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488128097266">
-        <mark key="[" line="19" column="18" />
-        <mark key="]" line="11" column="32" />
-        <mark key="." line="11" column="32" />
-        <mark key="^" line="11" column="50" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488176284914">
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="14" />
+        <mark key="^" line="53" column="14" />
+        <mark key="." line="53" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1361,7 +1361,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488129098077">
+      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488174362728">
         <mark key="[" line="13" column="2" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="3" />
@@ -1512,11 +1512,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488118331613">
-        <mark key="[" line="10" column="15" />
-        <mark key="]" line="10" column="15" />
+      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488174055055">
+        <mark key="[" line="12" column="20" />
+        <mark key="]" line="12" column="20" />
         <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="15" />
+        <mark key="." line="12" column="20" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/package.json" timestamp="1486369414938">
         <mark key="[" line="13" column="0" />
@@ -1524,7 +1524,7 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488122643724">
+      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488175712695">
         <mark key="[" line="13" column="38" />
         <mark key="]" line="13" column="41" />
         <mark key="^" line="13" column="41" />
@@ -1617,10 +1617,11 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488121982793">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488176467351">
+        <mark key="[" line="112" column="2" />
+        <mark key="]" line="91" column="27" />
+        <mark key="." line="91" column="27" />
+        <mark key="^" line="91" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -1791,10 +1792,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Promise.resolve({ message: 'deleting' })</text>
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>Promise.resolve({ message: 'deleting' })</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>\^</text>
@@ -1803,34 +1804,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAKfTt7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIERCX0NPTk5FQ1RJT05fU1RSSU5HOiAke2VudjpEQl9DT05ORUNUSU9OX1NUUklOR30K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGRiLm9uZSgnU0VMRUNUICogRlJPTSBwcmFjdGljZXMgV0hFUkUgaWQgPSAkMTsnLCBbaWRdKQogICAgICAudGhlbihwcmFjdGljZSA9PiB7CiAgICAgICAgY29udGV4dC5zdWNjZWVkKHsKICAgICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsKICAgICAgICAgICAgcHJhY3RpY2UKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSkKICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICBjb250ZXh0LnN1Y2NlZWQoewogICAgICAgICAgc3RhdHVzQ29kZTogNDA0LAogICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICAgICAgICBlcnJvcjogJ1ByYWN0aWNlIG5vdCBmb3VuZCcKICAgICAgICAgIH0pCiAgICAgICAgfSkKICAgICAgfSk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBoZWFkZXJzOiB7CiAgICAgICAgICAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ZGQKCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB9LAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gY29uc3Qgcm91dGVyID0gcmVxdWlyZSgnLi4vY29tbW9uL2F3cy1yZXN0LXJvdXRlcicpLnJvdXRlcjsKLy8gY29uc3QgUHJhY3RpY2VTZXJ2aWNlID0gcmVxdWlyZSgnLi9wcmFjdGljZS1zZXJ2aWNlJykoZGIpOwoKLy8gbW9kdWxlLmV4cG9ydHMucHJhY3RpY2VzID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7Ci8vICAgcm91dGVyLnJvdXRlKFByYWN0aWNlU2VydmljZSwgZXZlbnQpCi8vICAgICAudGhlbihyZXN1bHQgPT4gewovLyAgICAgICBjb250ZXh0LnN1Y2NlZWQoewovLyAgICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKLy8gICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShyZXN1bHQpCi8vICAgICAgIH0pOwovLyAgICAgfSkKLy8gICAgIC5jYXRjaChlcnJvciA9PiB7Ci8vICAgICAgIGNvbnRleHQuc3VjY2VlZCh7Ci8vICAgICAgICAgc3RhdHVzQ29kZTogNDAwLAovLyAgICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KGVycm9yKQovLyAgICAgICB9KTsKLy8gICAgIH0pCi8vIH07</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgdmFsaWRhdG9yKGJvZHksIGVycm9yID0+IHsKICAgICAgaWYgKGVycm9yKSAKICAgIH0p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBpZCA9IGdldElkKGV2ZW50KTsKICAKICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gbWV0aG9kIHJvdXRpbmcKLy8gQFRPRE8gUHJhY3RpY2VzIFNlcnZpY2UKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJhY3RpY2VzKTsKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKfTsK</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKHByYWN0aWNlID0+IHsKICAgICAgY29uc29sZS5sb2cocHJhY3RpY2UpOwogICAgICByZXR1cm4gcHJhY3RpY2U7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gQFRPRE8gUHJhY3RpY2VzIFNlcnZpY2UK</text>
+      <register name="9" type="4">
+        <text encoding="base64">dmFsaWRhdG9yKGJvZHksIGVycm9yID0+IHsKICAgIGlmIChlcnJvcikKICB9KQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
