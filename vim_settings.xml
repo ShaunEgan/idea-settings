@@ -558,11 +558,11 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488269338206">
-        <mark key="[" line="6" column="43" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488271624194">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="22" column="34" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485841105425">
         <mark key="[" line="10" column="22" />
@@ -1069,11 +1069,6 @@
       <file name="$USER_HOME$/dev/svc-auth/.gitignore" timestamp="1486300004895">
         <mark key="[" line="0" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/helios/lib/config.js" timestamp="1488025091457">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
-      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="32" />
@@ -1408,11 +1403,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488179133235">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-      </file>
       <file name="$USER_HOME$/dev/helios/patients/patient-repository.js" timestamp="1488213751425">
         <mark key="'" line="25" column="67" />
         <mark key="[" line="25" column="96" />
@@ -1491,10 +1481,11 @@
         <mark key="]" line="107" column="30" />
         <mark key="." line="107" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/router.js" timestamp="1488269393807">
-        <mark key="[" line="3" column="2" />
-        <mark key="]" line="3" column="2" />
-        <mark key="." line="3" column="2" />
+      <file name="$USER_HOME$/dev/helios/common/router.js" timestamp="1488271446613">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
@@ -1691,7 +1682,7 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488211960825">
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488270174599">
         <mark key="[" line="22" column="62" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
@@ -1871,11 +1862,11 @@
       <jump line="48" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>getting</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1883,35 +1874,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGVkIHJvdXRlJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGluZyByb3V0ZScpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">YXBwLmdldCgnLycsIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogIGNvbnNvbGUubG9nKCdoYW5kbGluZyByZXF1ZXN0IGluIGV4cHJlc3MnKTsKCiAgcmVzcG9uc2Uuc2VuZCh7IGZvbzogJ2JhcicgfSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZXN1bHQgPSBhZGFwdGVyLm5ld0V4cHJlc3NIYW5kbGVyKGFwcCkoZXZlbnQsIGNvbnRleHQpOwogIC8vCiAgLy8gY29uc29sZS5sb2coJ1Jlc3VsdDogJyk7CiAgLy8gY29uc29sZS5sb2cocmVzdWx0KTsKICAvLwogIC8vIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgc3VjY2VlZCA9IHJlcXVpcmUoJy4uL2NvbW1vbi9zdWNjZWVkcycpLnN1Y2NlZWQ7CgovLyBtb2R1bGUuZXhwb3J0cy5oYW5kbGVyID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7Ci8vICAgY29udGV4dC5zdWNjZWVkKHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdiYXInIH0pKQovLyB9Owo=</text>
+        <text encoding="base64">YXBwLmdldCgnLycsIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogIGNvbnNvbGUubG9nKCdoYW5kbGluZyByZXF1ZXN0IGluIGV4cHJlc3MnKTsKCiAgcmVzcG9uc2Uuc2VuZCh7IGZvbzogJ2JhcicgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCByZXN1bHQgPSBhZGFwdGVyLm5ld0V4cHJlc3NIYW5kbGVyKGFwcCkoZXZlbnQsIGNvbnRleHQpOwogIC8vCiAgLy8gY29uc29sZS5sb2coJ1Jlc3VsdDogJyk7CiAgLy8gY29uc29sZS5sb2cocmVzdWx0KTsKICAvLwogIC8vIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
