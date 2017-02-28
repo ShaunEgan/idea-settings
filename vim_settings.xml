@@ -558,10 +558,11 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488261639747">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488264794441">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="18" column="8" />
+        <mark key="." line="18" column="8" />
+        <mark key="^" line="18" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485841105425">
         <mark key="[" line="10" column="22" />
@@ -1718,10 +1719,10 @@
         <mark key="^" line="15" column="22" />
       </file>
       <file name="$USER_HOME$/dev/helios/node_modules/lambda-router-adapter/index.js" timestamp="1488262150064">
-        <mark key="[" line="42" column="21" />
-        <mark key="]" line="42" column="20" />
-        <mark key="^" line="42" column="20" />
-        <mark key="." line="42" column="20" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/IntravitrealInjection.scala" timestamp="1477555254013">
         <mark key="[" line="8" column="0" />
@@ -1868,32 +1869,32 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc3VjY2VlZCA9IHJlcXVpcmUoJy4uL2NvbW1vbi9zdWNjZWVkcycpLnN1Y2NlZWQ7CgovLyBtb2R1bGUuZXhwb3J0cy5oYW5kbGVyID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7Ci8vICAgY29udGV4dC5zdWNjZWVkKHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdiYXInIH0pKQovLyB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBhbSBoZXJlJyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgbWFwUm93VG9QYWludCA9IHJvdyA9PiB7CiAgCn07Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBhbSBoZXJlJyk7Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgbWFwUm93VG9QYWludCA9IHJvdyA9PiB7CiAgCn07Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBjcmVhdGVQcmFjdGljZToK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>/
     getPractice</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
-      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set number</text>
       </register>
     </registers>
     <search>
@@ -1929,8 +1930,6 @@
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
-        <entry>104</entry>
-        <entry>121</entry>
         <entry>t.</entry>
         <entry>50</entry>
         <entry>20</entry>
@@ -1949,6 +1948,8 @@
         <entry>s/\^//g</entry>
         <entry>s/\^//</entry>
         <entry>w</entry>
+        <entry>set rnu</entry>
+        <entry>set number</entry>
       </history-cmd>
       <history-expr />
       <history-input />
