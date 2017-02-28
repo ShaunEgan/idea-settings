@@ -178,10 +178,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488179836586">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488302262491">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -310,7 +310,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/config.js" timestamp="1488038891180">
+      <file name="$USER_HOME$/dev/helios/common/config.js" timestamp="1488300338391">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -407,6 +407,9 @@
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488302064802">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479482588901">
         <mark key="[" line="6" column="7" />
@@ -1418,11 +1421,11 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488284429657">
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488302411877">
+        <mark key="[" line="19" column="19" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1487,12 +1490,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" timestamp="1488267246260">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485844697112">
         <mark key="[" line="17" column="12" />
@@ -1903,10 +1900,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gcHJhY3RpY2VzLyoqCiAgICAtIHJhY2VzLyoqCiAgICAtIHBhdGllbnRzLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLWJhc2UvKioKICAgIC0gbm9kZV9tb2R1bGVzL2RiLW1pZ3JhdGUtc2hhcmVkLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLXBnLyoqCg==</text>
       </register>
       <register name="-" type="4">
-        <text>patients</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1915,15 +1912,21 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gcHJhY3RpY2VzLyoqCiAgICAtIHJhY2VzLyoqCiAgICAtIHBhdGllbnRzLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLWJhc2UvKioKICAgIC0gbm9kZV9tb2R1bGVzL2RiLW1pZ3JhdGUtc2hhcmVkLyoqCiAgICAtIG5vZGVfbW9kdWxlcy9kYi1taWdyYXRlLXBnLyoqCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>#  listPractices:
 #    handler: practices/handlers.list
 #    package:
@@ -1960,10 +1963,10 @@
 #    events:
 #      - http: delete practices/{id}</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwoKY29uc3QgZGIgPSByZXF1aXJlKCcuLi9jb21tb24vZGF0YWJhc2UnKS5kYjsKY29uc3QgcHJhY3RpY2VSZXBvc2l0b3J5ID0gcmVxdWlyZSgnLi9wcmFjdGljZS1yZXBvc2l0b3J5JykoZGIpOwpjb25zdCB2YWxpZGF0ZSA9IHJlcXVpcmUoJy4vcHJhY3RpY2UnKS52YWxpZGF0ZTsKCmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwpjb25zdCBzdWNjZWVkV2l0aEVycm9yID0gcmVxdWlyZSgnLi4vY29tbW9uL3N1Y2NlZWRzJykuc3VjY2VlZFdpdGhFcnJvcjsKCmNvbnN0IGdldElkID0gcmVxdWlyZSgnLi4vY29tbW9uL2lkLXRvb2xzJykuZ2V0SWQ7CmNvbnN0IGlkRXhpc3RzID0gcmVxdWlyZSgnLi4vY29tbW9uL2lkLXRvb2xzJykuaWRFeGlzdHM7Cgptb2R1bGUuZXhwb3J0cy5saXN0ID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7CiAgcmV0dXJuIHByYWN0aWNlUmVwb3NpdG9yeS5saXN0KCkKICAgIC50aGVuKHByYWN0aWNlcyA9PiBzdWNjZWVkKGNvbnRleHQsIHByYWN0aWNlcykpCiAgICAuY2F0Y2goZXJyb3IgPT4gY29udGV4dC5mYWlsKHsgZXJyb3I6IGVycm9yIH0pKTsKfTsKCm1vZHVsZS5leHBvcnRzLmNyZWF0ZSA9IChldmVudCwgY29udGV4dCkgPT4gewogIHZhbGlkYXRlKEpTT04ucGFyc2UoZXZlbnQuYm9keSkpCiAgICAudGhlbihwcmFjdGljZSA9PiBwcmFjdGljZVJlcG9zaXRvcnkuY3JlYXRlKHByYWN0aWNlKSkKICAgIC50aGVuKHByYWN0aWNlID0+IHN1Y2NlZWQoY29udGV4dCwgcHJhY3RpY2UpKQogICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNTAwLCBlcnJvcikpOwp9OwoKbW9kdWxlLmV4cG9ydHMuZ2V0ID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7CiAgaWYgKGlkRXhpc3RzKGV2ZW50KSkgewogICAgcHJhY3RpY2VSZXBvc2l0b3J5LmdldChnZXRJZChldmVudCkpCiAgICAgIC50aGVuKHByYWN0aWNlID0+IHN1Y2NlZWQoY29udGV4dCwgcHJhY3RpY2UpKQogICAgICAuY2F0Y2goZXJyb3IgPT4gc3VjY2VlZFdpdGhFcnJvcihjb250ZXh0LCA0MDQsICdQcmFjdGljZSBub3QgZm91bmQnKSk7CiAgfSBlbHNlIHsKICAgIHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDAwLCAnWW91IG5lZWQgdG8gc3BlY2lmeSBhbiBJRCcpCiAgfQp9OwoKbW9kdWxlLmV4cG9ydHMudXBkYXRlID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7CiAgaWYgKGlkRXhpc3RzKGV2ZW50KSkgewogICAgdmFsaWRhdGUoSlNPTi5wYXJzZShldmVudC5ib2R5KSkKICAgICAgLnRoZW4ocHJhY3RpY2UgPT4gewogICAgICAgIHJldHVybiBwcmFjdGljZVJlcG9zaXRvcnkudXBkYXRlKGdldElkKGV2ZW50KSwgcHJhY3RpY2UpCiAgICAgICAgICAudGhlbihwcmFjdGljZSA9PiBzdWNjZWVkKGNvbnRleHQsIHByYWN0aWNlKSkKICAgICAgICAgIC5jYXRjaChlcnJvciA9PiBzdWNjZWVkV2l0aEVycm9yKGNvbnRleHQsIDQwNCwgJ1ByYWN0aWNlIG5vdCBmb3VuZCcpKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDAwLCAnSW52YWxpZCBwcmFjdGljZSBkZWZpbml0aW9uJykpCiAgfSBlbHNlIHsKICAgIHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDAwLCAnWW91IG5lZWQgdG8gc3BlY2lmeSBhbiBJRCcpCiAgfQp9OwoKbW9kdWxlLmV4cG9ydHMuZGVsZXRlID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7CiAgaWYgKGlkRXhpc3RzKGV2ZW50KSkgewogICAgcHJhY3RpY2VSZXBvc2l0b3J5LmRlbGV0ZShnZXRJZChldmVudCkpCiAgICAgIC50aGVuKCgpID0+IHN1Y2NlZWQoY29udGV4dCwgeyBzdGF0dXM6ICdPaycgfSkpCiAgfSBlbHNlIHsKICAgIHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDAwLCAnWW91IG5lZWQgdG8gc3BlY2lmeSBhbiBJRCcpCiAgfQp9</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>#
 #  listRaces:
 #    handler: races/handlers.list
@@ -2001,10 +2004,10 @@
 #    events:
 #      - http: delete races/{id}</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>#  listPatients:
 #    handler: patients/handlers.list
 #    package:
@@ -2040,12 +2043,6 @@
 #        - patients/**
 #    events:
 #      - http: delete patients/{id}</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3BhdGllbnRzL3tpZH0nLCBwYXRpZW50c1NlcnZpY2UuZ2V0KTsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cgptb2R1bGUuZXhwb3J0cy5saXN0ID0gKGV2ZW50LCBjb250ZXh0KSA9PiB7CiAgcmV0dXJuIHBhdGllbnRSZXBvc2l0b3J5Lmxpc3QoKQogICAgLnRoZW4ocGF0aWVudHMgPT4gc3VjY2VlZChjb250ZXh0LCBwYXRpZW50cykpCiAgICAuY2F0Y2goZXJyb3IgPT4gY29udGV4dC5mYWlsKHsgZXJyb3I6IGVycm9yIH0pKTsKfTsKCm1vZHVsZS5leHBvcnRzLmNyZWF0ZSA9IChldmVudCwgY29udGV4dCkgPT4gewogIHZhbGlkYXRlKEpTT04ucGFyc2UoZXZlbnQuYm9keSkpCiAgICAudGhlbihwYXRpZW50ID0+IHBhdGllbnRSZXBvc2l0b3J5LmNyZWF0ZShwYXRpZW50KSkKICAgIC50aGVuKHBhdGllbnQgPT4gc3VjY2VlZChjb250ZXh0LCBwYXRpZW50KSkKICAgIC5jYXRjaChlcnJvciA9PiBzdWNjZWVkV2l0aEVycm9yKGNvbnRleHQsIDUwMCwgZXJyb3IpKTsKfTsKCm1vZHVsZS5leHBvcnRzLmdldCA9IChldmVudCwgY29udGV4dCkgPT4gewogIGlmIChpZEV4aXN0cyhldmVudCkpIHsKICAgIHBhdGllbnRSZXBvc2l0b3J5LmdldChnZXRJZChldmVudCkpCiAgICAgIC50aGVuKHBhdGllbnQgPT4gc3VjY2VlZChjb250ZXh0LCBwYXRpZW50KSkKICAgICAgLmNhdGNoKGVycm9yID0+IHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDA0LCAnUGF0aWVudCBub3QgZm91bmQnKSkKICB9IGVsc2UgewogICAgc3VjY2VlZFdpdGhFcnJvcihjb250ZXh0LCA0MDAsICdZb3UgbmVlZCB0byBzcGVjaWZ5IGFuIElEJykKICB9Cn07Cgptb2R1bGUuZXhwb3J0cy51cGRhdGUgPSAoZXZlbnQsIGNvbnRleHQpID0+IHsKICBpZiAoaWRFeGlzdHMoZXZlbnQpKSB7CiAgICB2YWxpZGF0ZShKU09OLnBhcnNlKGV2ZW50LmJvZHkpKQogICAgICAudGhlbihwYXRpZW50ID0+IHsKICAgICAgICByZXR1cm4gcGF0aWVudFJlcG9zaXRvcnkudXBkYXRlKGdldElkKGV2ZW50KSwgcGF0aWVudCkKICAgICAgICAgIC50aGVuKHBhdGllbnQgPT4gc3VjY2VlZChjb250ZXh0LCBwYXRpZW50KSkKICAgICAgICAgIC5jYXRjaChlcnJvciA9PiBzdWNjZWVkV2l0aEVycm9yKGNvbnRleHQsIDQwNCwgJ1BhdGllbnQgbm90IGZvdW5kJykpOwogICAgICB9KQogICAgICAuY2F0Y2goZXJyb3IgPT4gc3VjY2VlZFdpdGhFcnJvcihjb250ZXh0ID0+IDQwMCwgJ0ludmFsaWQgcGF0aWVudCBkZWZpbml0aW9uJykpOwogIH0gZWxzZSB7CiAgICBzdWNjZWVkV2l0aEVycm9yKGNvbnRleHQsIDQwMCwgJ1lvdSBuZWVkIHRvIHNwZWNpZnkgYW4gSUQnKQogIH0KfTsKCm1vZHVsZS5leHBvcnRzLmRlbGV0ZSA9IChldmVudCwgY29udGV4dCkgPT4gewogIGlmIChpZEV4aXN0cyhldmVudCkpIHsKICAgIHBhdGllbnRSZXBvc2l0b3J5LmRlbGV0ZShnZXRJZChldmVudCkpCiAgICAgIC50aGVuKCgpID0+IHN1Y2NlZWQoY29udGV4dCwgeyBzdGF0dXM6ICdPaycgfSkpCiAgfSBlbHNlIHsKICAgIHN1Y2NlZWRXaXRoRXJyb3IoY29udGV4dCwgNDAwLCAnWW91IG5lZWQgdG8gc3BlY2lmeSBhbiBJRCcpCiAgfQp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
