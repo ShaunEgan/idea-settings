@@ -1174,6 +1174,11 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="54" column="53" />
       </file>
+      <file name="$USER_HOME$/dev/aws-lambda-router/src/router.js" timestamp="1488272269369">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1863,7 +1868,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>getting</text>
@@ -1875,34 +1880,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGVkIHJvdXRlJyk7Cg==</text>
+        <text encoding="base64">bGV0IGEgPSAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGluZyByb3V0ZScpOwo=</text>
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGVkIHJvdXRlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGluZyByb3V0ZScpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwLmdldCgnLycsIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogIGNvbnNvbGUubG9nKCdoYW5kbGluZyByZXF1ZXN0IGluIGV4cHJlc3MnKTsKCiAgcmVzcG9uc2Uuc2VuZCh7IGZvbzogJ2JhcicgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZXN1bHQgPSBhZGFwdGVyLm5ld0V4cHJlc3NIYW5kbGVyKGFwcCkoZXZlbnQsIGNvbnRleHQpOwogIC8vCiAgLy8gY29uc29sZS5sb2coJ1Jlc3VsdDogJyk7CiAgLy8gY29uc29sZS5sb2cocmVzdWx0KTsKICAvLwogIC8vIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwLmdldCgnLycsIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogIGNvbnNvbGUubG9nKCdoYW5kbGluZyByZXF1ZXN0IGluIGV4cHJlc3MnKTsKCiAgcmVzcG9uc2Uuc2VuZCh7IGZvbzogJ2JhcicgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
