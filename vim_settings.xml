@@ -558,11 +558,10 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488271624194">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="22" column="34" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488273444865">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485841105425">
         <mark key="[" line="10" column="22" />
@@ -678,6 +677,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/node_modules/lambda-event-router/src/index.js" timestamp="1488273558333" />
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/scala.scala" timestamp="1481791964519">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="11" />
@@ -1069,6 +1069,11 @@
       <file name="$USER_HOME$/dev/svc-auth/.gitignore" timestamp="1486300004895">
         <mark key="[" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/dev/helios/lib/config.js" timestamp="1488025091457">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="32" />
@@ -1407,6 +1412,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/practices/practice-service.js" timestamp="1488179133235">
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/patient-repository.js" timestamp="1488213751425">
         <mark key="'" line="25" column="67" />
@@ -1868,7 +1878,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgcm91dGVyID0gcmVxdWlyZSgnLi4vY29tbW9uL3JvdXRlcicpLnJvdXRlcigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>getting</text>
@@ -1880,34 +1890,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgcm91dGVyID0gcmVxdWlyZSgnLi4vY29tbW9uL3JvdXRlcicpLnJvdXRlcigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGEgPSAxOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGVkIHJvdXRlJyk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGluZyByb3V0ZScpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IGEgPSAxOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewovLyAgIHN1Y2NlZWQoY29udGV4dCwgeyBmb286ICdnZXR0aW5nIGlkJyB9KTsKLy8gfTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGVkIHJvdXRlJyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2FkZGluZyByb3V0ZScpOwo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Y29uc3QgZXhwcmVzcyA9IHJlcXVpcmUoJ2V4cHJlc3MnKTsKY29uc3QgYWRhcHRlciA9IHJlcXVpcmUoJ2xhbWJkYS1yb3V0ZXItYWRhcHRlcicpOwpjb25zdCBhcHAgPSBleHByZXNzKCk7CmNvbnN0IHN1Y2NlZWQgPSByZXF1aXJlKCcuLi9jb21tb24vc3VjY2VlZHMnKS5zdWNjZWVkOwoKbW9kdWxlLmV4cG9ydHMuaGFuZGxlciA9IChldmVudCwgY29udGV4dCkgPT4gewogIGNvbnNvbGUubG9nKGV2ZW50KTsKCiAgc3VjY2VlZChjb250ZXh0LCB7Zm9vOiAnYmFyJ30pOwp9Ow==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLmdldCgnLycsIChyZXF1ZXN0LCByZXNwb25zZSkgPT4gewogIGNvbnNvbGUubG9nKCdoYW5kbGluZyByZXF1ZXN0IGluIGV4cHJlc3MnKTsKCiAgcmVzcG9uc2Uuc2VuZCh7IGZvbzogJ2JhcicgfSk7Cg==</text>
+        <text encoding="base64">fSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>3</text>
