@@ -558,6 +558,11 @@
         <mark key="^" line="10" column="73" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488261639747">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485841105425">
         <mark key="[" line="10" column="22" />
         <mark key="]" line="14" column="33" />
@@ -1381,8 +1386,8 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488206403472">
-        <mark key="[" line="98" column="31" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488260302527">
+        <mark key="[" line="134" column="35" />
         <mark key="]" line="92" column="8" />
         <mark key="^" line="71" column="11" />
         <mark key="." line="92" column="11" />
@@ -1712,6 +1717,12 @@
         <mark key="." line="15" column="37" />
         <mark key="^" line="15" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/helios/node_modules/lambda-router-adapter/index.js" timestamp="1488262150064">
+        <mark key="[" line="42" column="21" />
+        <mark key="]" line="42" column="20" />
+        <mark key="^" line="42" column="20" />
+        <mark key="." line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/IntravitrealInjection.scala" timestamp="1477555254013">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="54" />
@@ -1838,11 +1849,11 @@
       <jump line="16" column="67" filename="$USER_HOME$/dev/helios/patients/patient-repository.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>string</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>JSON.stringify({ foo: 'bar '})</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1857,29 +1868,29 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgbWFwUm93VG9QYWludCA9IHJvdyA9PiB7CiAgCn07Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnSSBhbSBoZXJlJyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgbWFwUm93VG9QYWludCA9IHJvdyA9PiB7CiAgCn07Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjcmVhdGVQcmFjdGljZToK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>/
     getPractice</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IHJlcXVpcmUoJ3JhbWRhJyk7Cgo=</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
