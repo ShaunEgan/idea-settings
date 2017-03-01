@@ -54,7 +54,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1486710906584">
+      <file name="/a.dummy" timestamp="1488385595775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/test.php" timestamp="1485241326956">
@@ -772,8 +772,8 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/common/base-service.js" timestamp="1488346960597">
-        <mark key="[" line="25" column="22" />
+      <file name="$USER_HOME$/dev/helios/services/common/base-service.js" timestamp="1488385219402">
+        <mark key="[" line="16" column="44" />
         <mark key="]" line="25" column="22" />
         <mark key="." line="25" column="22" />
         <mark key="^" line="57" column="6" />
@@ -1452,11 +1452,8 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488302411877">
-        <mark key="[" line="19" column="19" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="26" column="7" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488384889234">
+        <mark key="[" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
