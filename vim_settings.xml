@@ -354,13 +354,7 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
         <mark key="[" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/src/index.js" timestamp="1488361315993">
-        <mark key="'" line="4" column="30" />
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="41" />
-        <mark key="^" line="5" column="37" />
-      </file>
+      <file name="$USER_HOME$/dev/aws-lambda-router/src/index.js" timestamp="1488362875061" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -398,13 +392,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/races/handler.js" timestamp="1488205163979">
-        <mark key="'" line="4" column="35" />
-        <mark key="[" line="51" column="4" />
-        <mark key="]" line="51" column="4" />
-        <mark key="^" line="51" column="3" />
-        <mark key="." line="51" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1481825790986">
         <mark key="[" line="16" column="39" />
@@ -666,13 +653,6 @@
       <file name="/PHP Function Doc Comment.txt.ft" timestamp="1486450604007">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/patients/patients-service.js" timestamp="1488284500664">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="56" column="2" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481795140309">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="73" column="3" />
@@ -844,11 +824,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/spec/route-store-spec.js" timestamp="1488361049689">
-        <mark key="[" line="27" column="37" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="32" />
-        <mark key="^" line="27" column="31" />
+      <file name="$USER_HOME$/dev/aws-lambda-router/spec/route-store-spec.js" timestamp="1488362530068">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="25" column="32" />
+        <mark key="." line="25" column="32" />
+        <mark key="^" line="25" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/README.md" timestamp="1481794479816">
         <mark key="[" line="0" column="12" />
@@ -1158,6 +1138,9 @@
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/.gitignore" timestamp="1486627020666">
         <mark key="[" line="2" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/aws-lambda-router/test.js" timestamp="1488362752423">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/library/Simulator/models/HouseTest.scala" timestamp="1481280709826">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
@@ -1244,12 +1227,6 @@
       </file>
       <file name="$USER_HOME$/dev/helios/example/test.js" timestamp="1487164603786">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/package.json" timestamp="1488358462884">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="52" />
-        <mark key="." line="6" column="52" />
-        <mark key="^" line="6" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
@@ -1496,13 +1473,6 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/helios/patients/patient-repository.js" timestamp="1488284507083">
-        <mark key="'" line="29" column="23" />
-        <mark key="[" line="32" column="3" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/.gitignore" timestamp="1485326743720">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1694,7 +1664,7 @@
       <file name="$USER_HOME$/dev/helios/common/succeeds.js" timestamp="1488181264621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1486709234023">
+      <file name="/JavaScript Console" timestamp="1488362836414">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/PHP Field Doc Comment.txt.ft" timestamp="1486450577919">
@@ -1827,6 +1797,12 @@
         <mark key="^" line="35" column="20" />
         <mark key="." line="35" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/aws-lambda-router/src/test.js" timestamp="1488362664726">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="49" />
+        <mark key="^" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/IntravitrealInjection.scala" timestamp="1477555254013">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="7" column="54" />
@@ -1954,10 +1930,11 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>addRoute</text>
+        <text>,
+    &quot;run&quot;: &quot;node --harmony test.js&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>addRoute</text>
+        <text>resource</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1965,35 +1942,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,
+    &quot;run&quot;: &quot;node --harmony test.js&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRSb3V0ZSA9IChtZXRob2QsIHBhdGgsIGhhbmRsZXIpID0+IHsgcm91dGVzLmFkZChtZXRob2QsIHBhdGgsIGhhbmRsZXIpIH07Cg==</text>
+        <text encoding="base64">cm91dGVyLnJvdXRlKHtyZXNvdXJjZTogJyd9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ZWQgPSB7IG1ldGhvZDogJ0dFVCcsIHBhdGg6ICcvJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IDsK</text>
+        <text encoding="base64">dGhpcy5yb3V0ZVN0b3JlLmFkZChleHBlY3RlZC5tZXRob2QsIGV4cGVjdGVkLnBhdGgsIGV4cGVjdGVkLmhhbmRsZXIpOwp0aGlzLnJvdXRlU3RvcmUuYWRkKCdQT1NUJywgJy8nLCAoKSA9PiB7fSk7CnRoaXMucm91dGVTdG9yZS5hZGQoJ0dFVCcsICcvJywgKCkgPT4ge30pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZhbHNlUG9zaXRpdmUgPSB7IHBhdGg6ICcvJywgbWV0aG9kOiAnUE9TVCcsIGhhbmRsZXI6ICgpID0+IHt9IH07CiAgICBjb25zdCBmYWxzZVBvc2l0aXZlQWx0ZXJuYXRpdmUgPSB7IHBhdGg6ICcvYWJjJywgbWV0aG9kOiAnR0VUJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCBhZGRSb3V0ZSA9IChtZXRob2QsIHBhdGgsIGhhbmRsZXIpID0+IHsgcm91dGVzLmFkZChtZXRob2QsIHBhdGgsIGhhbmRsZXIpIH07Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgdGhpcy5tZXRob2QgPSAnR0VUJzsKICAgIHRoaXMucGF0aCA9ICcvJzsKICAgIHRoaXMuaGFuZGxlciA9ICgpID0+IHt9Ow==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMucm91dGVTdG9yZS5yb3V0ZXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICByb3V0ZXM6IHJvdXRlcwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZhbHNlUG9zaXRpdmUgPSB7IHBhdGg6ICcvJywgbWV0aG9kOiAnUE9TVCcsIGhhbmRsZXI6ICgpID0+IHt9IH07CiAgICBjb25zdCBmYWxzZVBvc2l0aXZlQWx0ZXJuYXRpdmUgPSB7IHBhdGg6ICcvYWJjJywgbWV0aG9kOiAnR0VUJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
