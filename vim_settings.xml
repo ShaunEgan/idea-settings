@@ -1452,8 +1452,8 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488384889234">
-        <mark key="[" line="9" column="19" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488387141640">
+        <mark key="[" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
