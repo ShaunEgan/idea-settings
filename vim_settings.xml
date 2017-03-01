@@ -1452,8 +1452,10 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488387141640">
-        <mark key="[" line="86" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488389876913">
+        <mark key="[" line="7" column="59" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1927,11 +1929,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,
-    &quot;run&quot;: &quot;node --harmony test.js&quot;</text>
+        <text>dbPassword</text>
       </register>
       <register name="-" type="4">
-        <text>resource</text>
+        <text>dbPassword</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1939,36 +1940,36 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-    &quot;run&quot;: &quot;node --harmony test.js&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">IyAgZGJDb25uZWN0aW9uU3RyaW5nOiBwb3N0Z3JlczovL3tzZWxmOnJlc291cmNlcy5PdXRwdXRzLkhlbGlvc0RiU3RyaW5nLlZhbHVlfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm91dGVyLnJvdXRlKHtyZXNvdXJjZTogJyd9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZXhwZWN0ZWQgPSB7IG1ldGhvZDogJ0dFVCcsIHBhdGg6ICcvJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
+        <text encoding="base64">cGx1Z2luczoKICAtIHNlcnZlcmxlc3MtdmFyaWFibGUtb2JqZWN0cwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">dGhpcy5yb3V0ZVN0b3JlLmFkZChleHBlY3RlZC5tZXRob2QsIGV4cGVjdGVkLnBhdGgsIGV4cGVjdGVkLmhhbmRsZXIpOwp0aGlzLnJvdXRlU3RvcmUuYWRkKCdQT1NUJywgJy8nLCAoKSA9PiB7fSk7CnRoaXMucm91dGVTdG9yZS5hZGQoJ0dFVCcsICcvJywgKCkgPT4ge30pOwo=</text>
+      <register name="4" type="4">
+        <text>,
+    &quot;run&quot;: &quot;node --harmony test.js&quot;</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm91dGVyLnJvdXRlKHtyZXNvdXJjZTogJyd9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRSb3V0ZSA9IChtZXRob2QsIHBhdGgsIGhhbmRsZXIpID0+IHsgcm91dGVzLmFkZChtZXRob2QsIHBhdGgsIGhhbmRsZXIpIH07Cg==</text>
+        <text encoding="base64">Y29uc3QgZXhwZWN0ZWQgPSB7IG1ldGhvZDogJ0dFVCcsIHBhdGg6ICcvJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dGhpcy5yb3V0ZVN0b3JlLmFkZChleHBlY3RlZC5tZXRob2QsIGV4cGVjdGVkLnBhdGgsIGV4cGVjdGVkLmhhbmRsZXIpOwp0aGlzLnJvdXRlU3RvcmUuYWRkKCdQT1NUJywgJy8nLCAoKSA9PiB7fSk7CnRoaXMucm91dGVTdG9yZS5hZGQoJ0dFVCcsICcvJywgKCkgPT4ge30pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZhbHNlUG9zaXRpdmUgPSB7IHBhdGg6ICcvJywgbWV0aG9kOiAnUE9TVCcsIGhhbmRsZXI6ICgpID0+IHt9IH07CiAgICBjb25zdCBmYWxzZVBvc2l0aXZlQWx0ZXJuYXRpdmUgPSB7IHBhdGg6ICcvYWJjJywgbWV0aG9kOiAnR0VUJywgaGFuZGxlcjogKCkgPT4ge30gfTsK</text>
+        <text encoding="base64">ICBjb25zdCBhZGRSb3V0ZSA9IChtZXRob2QsIHBhdGgsIGhhbmRsZXIpID0+IHsgcm91dGVzLmFkZChtZXRob2QsIHBhdGgsIGhhbmRsZXIpIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
