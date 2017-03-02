@@ -54,7 +54,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1488385595775">
+      <file name="/a.dummy" timestamp="1488477720611">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/test.php" timestamp="1485241326956">
@@ -202,6 +202,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-screening.js" timestamp="1488477467678">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/staff-exit-policy.md" timestamp="1487677473674">
         <mark key="[" line="0" column="0" />
       </file>
@@ -290,6 +293,12 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/handlers.js" timestamp="1488477671912">
+        <mark key="[" line="3" column="67" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
@@ -420,7 +429,7 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488475869435">
+      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488478462587">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
@@ -500,6 +509,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/practices/practice.js" timestamp="1488477463369" />
       <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486399585685">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="26" />
@@ -795,13 +805,6 @@
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/src/route-store.js" timestamp="1488360959395">
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="14" column="11" />
-        <mark key="o" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
@@ -1176,6 +1179,11 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-service.js" timestamp="1488477695797">
+        <mark key="[" line="4" column="48" />
+        <mark key="]" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/dev/helios/races/handlers.js" timestamp="1488284481896">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="3" column="31" />
@@ -1186,6 +1194,9 @@
         <mark key="]" line="4" column="46" />
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-screening-service.js" timestamp="1488477233748">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
@@ -1251,6 +1262,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488478657581">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
@@ -1390,7 +1404,7 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488476195413">
+      <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488477076902">
         <mark key="[" line="5" column="68" />
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
@@ -1477,10 +1491,10 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488440611972">
-        <mark key="[" line="6" column="78" />
-        <mark key="]" line="97" column="16" />
-        <mark key="." line="97" column="16" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488478689054">
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="109" column="16" />
+        <mark key="." line="109" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -1954,10 +1968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>context</text>
+        <text>-screening</text>
       </register>
       <register name="-" type="4">
-        <text>context</text>
+        <text>-screening</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
