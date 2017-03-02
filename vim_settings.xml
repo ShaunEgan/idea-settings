@@ -106,6 +106,9 @@
         <mark key="." line="98" column="27" />
         <mark key="^" line="98" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/helios/test.json" timestamp="1488476125701">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/EnvironmentalConditions.scala" timestamp="1481100935744">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -178,10 +181,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488439875153">
-        <mark key="[" line="3" column="58" />
-        <mark key="]" line="6" column="30" />
-        <mark key="." line="6" column="30" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488475943780">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -351,7 +354,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
         <mark key="[" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/src/index.js" timestamp="1488362875061" />
+      <file name="$USER_HOME$/dev/aws-lambda-router/src/index.js" timestamp="1488475733449">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="19" column="26" />
@@ -413,8 +420,10 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488434064319">
-        <mark key="[" line="8" column="1" />
+      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488475869435">
+        <mark key="[" line="4" column="32" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479482588901">
         <mark key="[" line="6" column="7" />
@@ -1227,6 +1236,11 @@
       <file name="$USER_HOME$/dev/helios/example/test.js" timestamp="1487164603786">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/aws-lambda-router/package.json" timestamp="1488475772902">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -1376,7 +1390,12 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488474950989" />
+      <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488476195413">
+        <mark key="[" line="5" column="68" />
+        <mark key="]" line="5" column="68" />
+        <mark key="." line="5" column="68" />
+        <mark key="^" line="5" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ProviderTools.php" timestamp="1485417342230">
         <mark key="[" line="37" column="25" />
         <mark key="]" line="37" column="25" />
@@ -1935,10 +1954,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>path</text>
+        <text>context</text>
       </register>
       <register name="-" type="4">
-        <text>path</text>
+        <text>context</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1947,25 +1966,25 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2xzIGRlcGxveQo=</text>
+        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vIEBUT0RPIGNvbXBsZXRlIHVuaXQgdGVzdHMKLy8gQFRPRE8gd3JpdGUgZW5kLXRvLWVuZCB0ZXN0cwovLyBAVE9ETyBvdmVycmlkYWJsZSB1bi1yb3V0YWJsZSByZXF1ZXN0IGNhc2U=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLWcgc2VydmVybGVzcwo=</text>
+        <text encoding="base64">c2xzIGRlcGxveQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPSQoc2xzIGluZm8gLS12ZXJib3NlIHwgZ3JlcCBIZWxpb3NEYkNvbm5lY3Rpb25TdHJpbmcgfCBhd2sgJ3twcmludCAkMn0nKSAuL25vZGVfbW9kdWxlcy8uYmluL2RiLW1pZ3JhdGUgdXAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">bnBtIGluc3RhbGwgLWcgc2VydmVybGVzcwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
+        <text encoding="base64">REFUQUJBU0VfVVJMPSQoc2xzIGluZm8gLS12ZXJib3NlIHwgZ3JlcCBIZWxpb3NEYkNvbm5lY3Rpb25TdHJpbmcgfCBhd2sgJ3twcmludCAkMn0nKSAuL25vZGVfbW9kdWxlcy8uYmluL2RiLW1pZ3JhdGUgdXAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1974,7 +1993,7 @@
         <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
