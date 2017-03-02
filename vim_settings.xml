@@ -106,9 +106,6 @@
         <mark key="." line="98" column="27" />
         <mark key="^" line="98" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/helios/test.json" timestamp="1488212343474">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/EnvironmentalConditions.scala" timestamp="1481100935744">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -747,12 +744,6 @@
         <mark key="^" line="4" column="72" />
         <mark key="." line="4" column="72" />
       </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/jasmine.js" timestamp="1488358812753">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/Search.php" timestamp="1485324533209">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -1324,6 +1315,12 @@
         <mark key="." line="31" column="31" />
         <mark key="^" line="31" column="31" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/node_modules/lambda-event-router/src/index.js" timestamp="1488475097872">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="36" />
+        <mark key="^" line="14" column="36" />
+        <mark key="." line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480679785072">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -1379,6 +1376,7 @@
         <mark key="^" line="10" column="29" />
         <mark key="." line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488474950989" />
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ProviderTools.php" timestamp="1485417342230">
         <mark key="[" line="37" column="25" />
         <mark key="]" line="37" column="25" />
@@ -1936,11 +1934,11 @@
       <jump line="4" column="30" filename="$USER_HOME$/dev/aws-lambda-router/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c2xzIGRlcGxveQo=</text>
+      <register name="&quot;" type="4">
+        <text>path</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
