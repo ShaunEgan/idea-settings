@@ -181,10 +181,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488347260724">
-        <mark key="[" line="1" column="19" />
-        <mark key="]" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488433270043">
+        <mark key="[" line="3" column="58" />
+        <mark key="]" line="6" column="30" />
+        <mark key="." line="6" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -416,8 +416,8 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488302064802">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/helios/services/package.json" timestamp="1488434064319">
+        <mark key="[" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479482588901">
         <mark key="[" line="6" column="7" />
@@ -549,10 +549,10 @@
         <mark key="]" line="10" column="39" />
         <mark key="." line="10" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/README.md" timestamp="1488394568591">
-        <mark key="[" line="9" column="0" />
+      <file name="$USER_HOME$/dev/helios/README.md" timestamp="1488433482388">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="9" column="0" />
-        <mark key="^" line="16" column="46" />
+        <mark key="^" line="7" column="24" />
         <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
@@ -1935,7 +1935,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2xzIGRlcGxveQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1947,34 +1947,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2xzIGRlcGxveQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bnBtIGluc3RhbGwgLWcgc2VydmVybGVzcwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
+        <text encoding="base64">REFUQUJBU0VfVVJMPSQoc2xzIGluZm8gLS12ZXJib3NlIHwgZ3JlcCBIZWxpb3NEYkNvbm5lY3Rpb25TdHJpbmcgfCBhd2sgJ3twcmludCAkMn0nKSAuL25vZGVfbW9kdWxlcy8uYmluL2RiLW1pZ3JhdGUgdXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFRFU1Q6ICR7c2VsZjpjdXN0b20uZGJQYXNzd29yZH0K</text>
+        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRFU1RfVVJMOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIEhlbGlvc0RiU3RyaW5nOgogICAgICBEZXNjcmlwdGlvbjogVGhlIEROUyBuYW1lIG9mIHRoZSBSRFMgaW5zdGFuY2UKICAgICAgVmFsdWU6CiAgICAgICAgCiAgICBIZWxpb3NEYlBvcnQ6CiAgICAgIERlc2NyaXB0aW9uOiBUaGUgcG9ydCBudW1iZXIgb2YgdGhlIFJEUyBpbnN0YW5jZQogICAgICBWYWx1ZTo=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYkFkZHJlc3M6ICR7c2VsZjpyZXNvdXJjZXMuT3V0cHV0cy5IZWxpb3NEYlN0cmluZy5WYWx1ZX0KICBkYlBvcnQ6ICR7c2VsZjpyZXNvdXJjZXMuT3V0cHV0cy5IZWxpb3NEYlBvcnQuVmFsdWV9Cg==</text>
+        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
