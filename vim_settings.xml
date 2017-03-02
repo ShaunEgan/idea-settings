@@ -471,6 +471,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/patients/patient.js" timestamp="1488440989126" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.java" timestamp="1479376232263">
         <mark key="[" line="10" column="4" />
         <mark key="]" line="10" column="0" />
@@ -1459,8 +1460,8 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488439860491">
-        <mark key="[" line="4" column="32" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488440611972">
+        <mark key="[" line="6" column="78" />
         <mark key="]" line="97" column="16" />
         <mark key="." line="97" column="16" />
       </file>
