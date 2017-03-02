@@ -181,7 +181,7 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488433270043">
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488439875153">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="6" column="30" />
         <mark key="." line="6" column="30" />
@@ -954,6 +954,7 @@
       <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1486450554690">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/common/config.js" timestamp="1488439753689" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/TariffRepositorySpec.scala" timestamp="1480491160726">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -1458,7 +1459,7 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488439181488">
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488439860491">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="97" column="16" />
         <mark key="." line="97" column="16" />
