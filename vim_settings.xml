@@ -181,10 +181,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488533202328">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="15" />
-        <mark key="." line="4" column="15" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488533757980">
+        <mark key="[" line="5" column="124" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -1967,8 +1967,8 @@
       <jump line="4" column="30" filename="$USER_HOME$/dev/aws-lambda-router/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJtaWdyYXRlLWRvd24iOiAiREFUQUJBU0VfVVJMPSQoc2VydmVybGVzcyBpbmZvIC0tdmVyYm9zZSB8IGdyZXAgSGVsaW9zRGJDb25uZWN0aW9uU3RyaW5nIHwgYXdrICd7cHJpbnQgJDJ9JykgZGItbWlncmF0ZSBkb3duIgo=</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -1980,31 +1980,31 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlLWRvd24iOiAiREFUQUJBU0VfVVJMPSQoc2VydmVybGVzcyBpbmZvIC0tdmVyYm9zZSB8IGdyZXAgSGVsaW9zRGJDb25uZWN0aW9uU3RyaW5nIHwgYXdrICd7cHJpbnQgJDJ9JykgZGItbWlncmF0ZSBkb3duIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Ci8vIEBUT0RPIGNvbXBsZXRlIHVuaXQgdGVzdHMKLy8gQFRPRE8gd3JpdGUgZW5kLXRvLWVuZCB0ZXN0cwovLyBAVE9ETyBvdmVycmlkYWJsZSB1bi1yb3V0YWJsZSByZXF1ZXN0IGNhc2U=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJhYmMiOiAiZWNobyAkKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2xzIGRlcGxveQo=</text>
+        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">Ci8vIEBUT0RPIGNvbXBsZXRlIHVuaXQgdGVzdHMKLy8gQFRPRE8gd3JpdGUgZW5kLXRvLWVuZCB0ZXN0cwovLyBAVE9ETyBvdmVycmlkYWJsZSB1bi1yb3V0YWJsZSByZXF1ZXN0IGNhc2U=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bnBtIGluc3RhbGwgLWcgc2VydmVybGVzcwo=</text>
+        <text encoding="base64">c2xzIGRlcGxveQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">REFUQUJBU0VfVVJMPSQoc2xzIGluZm8gLS12ZXJib3NlIHwgZ3JlcCBIZWxpb3NEYkNvbm5lY3Rpb25TdHJpbmcgfCBhd2sgJ3twcmludCAkMn0nKSAuL25vZGVfbW9kdWxlcy8uYmluL2RiLW1pZ3JhdGUgdXAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bnBtIGluc3RhbGwgLWcgc2VydmVybGVzcwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IERBVEFCQVNFX1VSTD0ncG9zdGdyZXM6Ly91c2VyOnBhc3NAaG9zdDo1NDMyL2hlbGlvcycK</text>
+        <text encoding="base64">REFUQUJBU0VfVVJMPSQoc2xzIGluZm8gLS12ZXJib3NlIHwgZ3JlcCBIZWxpb3NEYkNvbm5lY3Rpb25TdHJpbmcgfCBhd2sgJ3twcmludCAkMn0nKSAuL25vZGVfbW9kdWxlcy8uYmluL2RiLW1pZ3JhdGUgdXAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
