@@ -181,10 +181,10 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488475943780">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488533202328">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -1968,10 +1968,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-screening</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>-screening</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
