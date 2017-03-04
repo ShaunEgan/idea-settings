@@ -289,11 +289,10 @@
         <mark key="." line="9" column="2" />
         <mark key="^" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/helios/migrations/20170304143146-diabetic-retinopathy.js" timestamp="1488641179614">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="27" column="30" />
+      <file name="$USER_HOME$/dev/helios/migrations/20170304143146-diabetic-retinopathy.js" timestamp="1488646422352">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481826167769">
         <mark key="[" line="37" column="0" />
@@ -1269,8 +1268,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488478657581">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488646411393">
+        <mark key="[" line="21" column="54" />
+        <mark key="]" line="21" column="54" />
+        <mark key="^" line="21" column="54" />
+        <mark key="." line="21" column="54" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
@@ -1659,11 +1661,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" timestamp="1488641289677">
-        <mark key="[" line="34" column="49" />
-        <mark key="]" line="34" column="49" />
-        <mark key="^" line="34" column="73" />
-        <mark key="." line="34" column="49" />
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" timestamp="1488645801277">
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="20" column="10" />
+        <mark key="." line="37" column="23" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
         <mark key="[" line="0" column="0" />
@@ -1980,10 +1982,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>retinopathyTypes</text>
+        <text>right</text>
       </register>
       <register name="-" type="4">
-        <text>retinopathyTypes</text>
+        <text>right</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1992,34 +1994,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBAVE9ETzogdGhlIGZvbGxvd2luZyBzaG91bGQgcHJvYmFibHkgYmUgYSBkaWZmZXJlbnQgJ3RyZWF0bWVudHMnIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgICAgdHlwZTogJ2ludCcsCiAgICAgIG5vdE51bGw6IHRydWUsCiAgICAgIGZvcmVpZ25LZXk6IHsKICAgICAgICBuYW1lOiAnc2NyZWVuaW5nLWlkLWZrJywKICAgICAgICB0YWJsZTogJycKICAgICAgfQogICAgfSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlOmRvd24iOiAibnBtIHJ1bi1zY3JpcHQgbWlncmF0ZSAtLSBkb3duIiwK</text>
+        <text encoding="base64">ICAvLyBAVE9ETzogdGhlIGZvbGxvd2luZyBzaG91bGQgcHJvYmFibHkgYmUgYSBkaWZmZXJlbnQgJ3RyZWF0bWVudHMnIHNlcnZpY2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJjcmVhdGUtbWlncmF0aW9uIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgY3JlYXRlICIK</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlOmRvd24iOiAibnBtIHJ1bi1zY3JpcHQgbWlncmF0ZSAtLSBkb3duIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlLXVwIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgdXAiLAo=</text>
+        <text encoding="base64">ICAgICJjcmVhdGUtbWlncmF0aW9uIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgY3JlYXRlICIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlLXVwIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgdXAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlLWRvd24iOiAiREFUQUJBU0VfVVJMPSQoc2VydmVybGVzcyBpbmZvIC0tdmVyYm9zZSB8IGdyZXAgSGVsaW9zRGJDb25uZWN0aW9uU3RyaW5nIHwgYXdrICd7cHJpbnQgJDJ9JykgZGItbWlncmF0ZSBkb3duIgo=</text>
+        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhYmMiOiAiZWNobyAkKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIiwK</text>
+        <text encoding="base64">ICAgICJtaWdyYXRlLWRvd24iOiAiREFUQUJBU0VfVVJMPSQoc2VydmVybGVzcyBpbmZvIC0tdmVyYm9zZSB8IGdyZXAgSGVsaW9zRGJDb25uZWN0aW9uU3RyaW5nIHwgYXdrICd7cHJpbnQgJDJ9JykgZGItbWlncmF0ZSBkb3duIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
+        <text encoding="base64">ICAgICJhYmMiOiAiZWNobyAkKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIiwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8vIEBUT0RPIGNvbXBsZXRlIHVuaXQgdGVzdHMKLy8gQFRPRE8gd3JpdGUgZW5kLXRvLWVuZCB0ZXN0cwovLyBAVE9ETyBvdmVycmlkYWJsZSB1bi1yb3V0YWJsZSByZXF1ZXN0IGNhc2U=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
