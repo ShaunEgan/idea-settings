@@ -8,15 +8,51 @@
         <mark key="]" line="7" column="6" />
         <mark key="." line="7" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Consumer.scala" timestamp="1481279721422">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Consumers.scala" timestamp="1481828849484">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/repositories/race-repository.js" timestamp="1488203070109">
+        <mark key="[" line="9" column="104" />
+        <mark key="]" line="9" column="100" />
+        <mark key="^" line="9" column="100" />
+        <mark key="." line="9" column="100" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Formatters/IndexableDateTimeFormatter.php" timestamp="1485328850348">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/Helpers/ProviderToolsTest.php" timestamp="1485416905826">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="17" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/patients/handlers.js" timestamp="1488284643656">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="16" column="42" />
+        <mark key="." line="16" column="42" />
+        <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/TreatmentsTable.scala" timestamp="1477136004347">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="5" />
       </file>
       <file name="/a.dummy" timestamp="1488477720611">
         <mark key="[" line="0" column="0" />
@@ -30,6 +66,18 @@
         <mark key="[" line="5" column="4" />
         <mark key="]" line="5" column="4" />
         <mark key="." line="5" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/TestTest.php" timestamp="1485172713308">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/TariffControllerSpec.scala" timestamp="1477383918099">
+        <mark key="[" line="60" column="16" />
+        <mark key="]" line="60" column="16" />
+        <mark key="." line="60" column="16" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authentication/index.js" timestamp="1486377993696">
         <mark key="[" line="5" column="16" />
@@ -46,6 +94,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/WattageClass.scala" timestamp="1481279736281">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477640318983">
+        <mark key="[" line="98" column="20" />
+        <mark key="]" line="98" column="27" />
+        <mark key="." line="98" column="27" />
+        <mark key="^" line="98" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/helios/test.json" timestamp="1488476125701">
         <mark key="[" line="0" column="0" />
       </file>
@@ -53,6 +113,24 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AllocationService.scala" timestamp="1481807745386">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/TariffFactory.scala" timestamp="1481795020214">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="16" column="71" />
+        <mark key="." line="16" column="71" />
+        <mark key="^" line="16" column="71" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/interfaces/Repository.php" timestamp="1485502526124">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="47" />
+        <mark key="^" line="2" column="57" />
+        <mark key="." line="2" column="47" />
       </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit/test.js" timestamp="1488358670765">
         <mark key="[" line="0" column="0" />
@@ -62,15 +140,57 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/app.js" timestamp="1487066042215">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/shaun-test.php" timestamp="1485770175910">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="27" column="46" />
+        <mark key="." line="27" column="46" />
+        <mark key="^" line="27" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/views/layouts/main.handlebars" timestamp="1486379484328">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/GenerationDataService.scala" timestamp="1481803746710">
+        <mark key="[" line="20" column="64" />
+        <mark key="]" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+        <mark key="^" line="24" column="15" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodGlucose.scala" timestamp="1477555096318">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="8" column="2" />
+        <mark key="." line="8" column="2" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/SampleRepository/CsvSampleRepositoryTest.scala" timestamp="1481825798680">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="25" />
+        <mark key="." line="15" column="25" />
+        <mark key="^" line="15" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/Configuration.scala" timestamp="1481525567265">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="7" />
         <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Abstractions/Repository.php" timestamp="1485502409088">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+        <mark key="^" line="2" column="46" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/routes.js" timestamp="1486366393340">
         <mark key="[" line="4" column="0" />
@@ -86,6 +206,12 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1485238515968">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="25" column="13" />
+        <mark key="^" line="25" column="13" />
+        <mark key="." line="25" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/libraries/TimeOfDayUtils.scala" timestamp="1481828900772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -96,6 +222,29 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/Buildings.scala" timestamp="1481099170182">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="64" />
+        <mark key="^" line="17" column="63" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/tools/AllocationUtilsSpec.scala" timestamp="1479482610916">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/test-config.json" timestamp="1488358830253">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="19" />
@@ -104,10 +253,22 @@
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/support/unit.json" timestamp="1486628781082">
         <mark key="[" line="10" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionDataService.scala" timestamp="1481803738231">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="26" column="3" />
+        <mark key="." line="26" column="3" />
+        <mark key="^" line="26" column="3" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/index.js" timestamp="1486540241389">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Bilateral.scala" timestamp="1477141970342">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BloodPressure.scala" timestamp="1477555158964">
         <mark key="[" line="5" column="89" />
@@ -118,6 +279,12 @@
         <mark key="[" line="2" column="40" />
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/build.sbt" timestamp="1477418046065">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+        <mark key="^" line="9" column="2" />
       </file>
       <file name="$USER_HOME$/dev/helios/migrations/20170304143146-diabetic-retinopathy.js" timestamp="1488715650135">
         <mark key="[" line="19" column="4" />
@@ -139,6 +306,18 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
+        <mark key="[" line="52" column="12" />
+        <mark key="]" line="45" column="37" />
+        <mark key="." line="45" column="37" />
+        <mark key="^" line="45" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/pytest/test.py" timestamp="1481609329407">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/consumption.csv" timestamp="1481825740837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -154,6 +333,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Consumer.scala" timestamp="1481091346755">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/helios/common/config.js" timestamp="1488300338391">
         <mark key="[" line="4" column="18" />
         <mark key="]" line="6" column="0" />
@@ -161,6 +346,12 @@
       </file>
       <file name="/HTML File.txt.ft" timestamp="1486450506637">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1481809559379">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479982671469">
         <mark key="[" line="5" column="41" />
@@ -178,6 +369,12 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
         <mark key="[" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="44" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/composer.json" timestamp="1485416101709">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="18" column="7" />
@@ -188,10 +385,22 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountSpec.scala" timestamp="1479989535855">
+        <mark key="[" line="33" column="49" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/BilateralEyeMeasurements/BilateralEyeMeasurement.scala" timestamp="1476546857027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/TariffRepository.scala" timestamp="1477040725727">
+        <mark key="[" line="17" column="58" />
+        <mark key="]" line="17" column="58" />
+        <mark key="." line="17" column="58" />
+        <mark key="^" line="51" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Consumer.scala" timestamp="1481621624932">
         <mark key="[" line="0" column="0" />
@@ -207,6 +416,11 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/practices/practices-service.js" timestamp="1488720947831">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
         <mark key="[" line="2" column="33" />
@@ -226,6 +440,12 @@
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/tools/AllocationUtils.scala" timestamp="1479482588901">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="9" column="49" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/ElasticsearchRepository.php" timestamp="1485502356577">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -238,6 +458,24 @@
         <mark key="[" line="33" column="18" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/README.md" timestamp="1487672406646">
+        <mark key="[" line="63" column="7" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/AccountRepositorySpec.scala" timestamp="1477395513183">
+        <mark key="[" line="18" column="105" />
+        <mark key="]" line="55" column="18" />
+        <mark key="." line="55" column="18" />
+        <mark key="^" line="52" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Main.scala" timestamp="1481280469827">
+        <mark key="[" line="1" column="2" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="10" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479792840520">
         <mark key="[" line="7" column="103" />
@@ -260,6 +498,18 @@
         <mark key="^" line="24" column="9" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.java" timestamp="1479376232263">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/PowerPlantFactory.scala" timestamp="1481795093796">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="19" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/helios/handler.js" timestamp="1487158939866">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -270,20 +520,67 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/services/practices/practice.js" timestamp="1488720123669">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/src/index.js" timestamp="1486399585685">
         <mark key="[" line="25" column="21" />
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/patients/patients-service.js" timestamp="1488720933052">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="5" />
+        <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="26" column="25" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="65" column="5" />
       </file>
       <file name="$USER_HOME$/dev/helios/races/race.js" timestamp="1488284479865">
         <mark key="[" line="19" column="3" />
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/Models/Electronics.scala" timestamp="1481531377285">
+        <mark key="[" line="9" column="56" />
+        <mark key="]" line="9" column="53" />
+        <mark key="." line="9" column="53" />
+        <mark key="^" line="9" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/library/House.scala" timestamp="1481523570982">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/package.json" timestamp="1486626447453">
+        <mark key="[" line="7" column="86" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+        <mark key="^" line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions/default/1.sql" timestamp="1477557710011">
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="1" />
+        <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionGenerationService.scala" timestamp="1481632209934">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="6" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/dev/svc-glaucoma/test/models/IOPScreeningTest.scala" timestamp="1476380972875">
         <mark key="[" line="9" column="41" />
@@ -295,20 +592,50 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="." line="55" column="26" />
+        <mark key="^" line="48" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/WattageClass.scala" timestamp="1481531367816">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/trustmark-service.js" timestamp="1487065343614">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="10" column="73" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/router/router.js" timestamp="1488273444865">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Repository.php" timestamp="1485841105425">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="14" column="33" />
+        <mark key="." line="14" column="33" />
+        <mark key="^" line="14" column="40" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/.gitignore" timestamp="1481794256610">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/IndexableDateTimeFormatter.php" timestamp="1485324657595">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484807381636">
+        <mark key="[" line="48" column="22" />
+        <mark key="]" line="48" column="22" />
+        <mark key="." line="48" column="22" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -320,8 +647,20 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1480572679885">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/common/id-tools.js" timestamp="1488182717801">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/ParameterBuilderTest.php" timestamp="1485327996815">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
@@ -333,14 +672,62 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/helios/practices/practices-service.js" timestamp="1488284484756">
+        <mark key="[" line="56" column="2" />
+        <mark key="]" line="56" column="2" />
+        <mark key="^" line="56" column="2" />
+        <mark key="." line="56" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/ScadaServiceImpl.scala" timestamp="1477040979503">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="70" />
+        <mark key="^" line="15" column="72" />
+        <mark key="." line="15" column="70" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ParameterQueryable.php" timestamp="1485327952007">
         <mark key="[" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/traits/OutputWriter.scala" timestamp="1481719084918">
+        <mark key="[" line="4" column="70" />
+        <mark key="]" line="4" column="72" />
+        <mark key="." line="4" column="72" />
+        <mark key="^" line="4" column="72" />
       </file>
       <file name="/PHP Function Doc Comment.txt.ft" timestamp="1486450604007">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481795140309">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="73" column="3" />
+        <mark key="." line="73" column="3" />
+        <mark key="^" line="73" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Repositories/GroupRepositoryTest.php" timestamp="1485511771334">
+        <mark key="[" line="22" column="33" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/authentication/authentication.js" timestamp="1486394875154">
+        <mark key="[" line="22" column="26" />
+        <mark key="]" line="22" column="26" />
+        <mark key="." line="22" column="26" />
+        <mark key="^" line="22" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
+        <mark key="[" line="35" column="36" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="28" column="48" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/slas.csv" timestamp="1481825012313">
         <mark key="[" line="0" column="300" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/target/scala-2.11/src_managed/test/library/Simulator/models/HouseSpec.scala" timestamp="1481279674028">
         <mark key="[" line="4" column="0" />
@@ -353,6 +740,12 @@
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/scala.scala" timestamp="1481791964519">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="." line="2" column="11" />
+        <mark key="^" line="2" column="4" />
+      </file>
       <file name="/Dummy.txt" timestamp="1485767000838">
         <mark key="[" line="0" column="0" />
       </file>
@@ -360,6 +753,12 @@
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationService.scala" timestamp="1479905484076">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/static/login.html" timestamp="1486359848201">
         <mark key="[" line="0" column="0" />
@@ -376,6 +775,18 @@
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
         <mark key="." line="4" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" timestamp="1477641067469">
+        <mark key="[" line="40" column="28" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="28" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/SimulatorCli/library/SimulatorConf.scala" timestamp="1481527367415">
+        <mark key="[" line="4" column="63" />
+        <mark key="]" line="4" column="72" />
+        <mark key="^" line="4" column="72" />
+        <mark key="." line="4" column="72" />
       </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/jasmine.js" timestamp="1488358812753">
         <mark key="'" line="35" column="0" />
@@ -403,13 +814,43 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486449188459">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/services/common/base-service.js" timestamp="1488714442656">
         <mark key="^" line="57" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1485857150188">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="86" column="22" />
+        <mark key="." line="86" column="22" />
+        <mark key="^" line="86" column="131" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1486103389239">
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+      <file name="/fragment.java" timestamp="1488441422786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaRepository.scala" timestamp="1480508473567">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="6" column="99" />
+        <mark key="." line="6" column="99" />
+        <mark key="^" line="6" column="99" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoErrorResponse.scala" timestamp="1476794935708">
         <mark key="[" line="2" column="28" />
@@ -427,10 +868,28 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/README.md" timestamp="1481794479816">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="11" column="4" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="11" column="4" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricsTable.scala" timestamp="1477137315507">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="12" />
         <mark key="." line="10" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/WattageClass.scala" timestamp="1481093180555">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterBuilder.php" timestamp="1485324702301">
         <mark key="[" line="4" column="0" />
@@ -465,23 +924,125 @@
       <file name="/Dummy.scala" timestamp="1481823117628">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
+        <mark key="[" line="51" column="16" />
+        <mark key="]" line="51" column="16" />
+        <mark key="." line="51" column="16" />
+        <mark key="^" line="51" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1485845465657">
+        <mark key="[" line="41" column="78" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="96" column="18" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1487746128757">
+        <mark key="[" line="143" column="12" />
+        <mark key="]" line="143" column="21" />
+        <mark key="." line="143" column="21" />
+        <mark key="^" line="143" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485857319072">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1486628086696">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/patients/models/race.js" timestamp="1488203019514">
+        <mark key="[" line="6" column="2" />
+        <mark key="]" line="6" column="2" />
+        <mark key="^" line="6" column="23" />
+        <mark key="." line="6" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
+        <mark key="[" line="86" column="29" />
+        <mark key="]" line="86" column="29" />
+        <mark key="." line="86" column="29" />
+        <mark key="^" line="86" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/digest-service-spec.js" timestamp="1481697660587">
+        <mark key="[" line="101" column="27" />
+        <mark key="]" line="101" column="26" />
+        <mark key="." line="101" column="26" />
+        <mark key="^" line="101" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1485757541722">
+        <mark key="[" line="141" column="6" />
+        <mark key="]" line="141" column="11" />
+        <mark key="." line="141" column="11" />
+        <mark key="^" line="141" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplTest.scala" timestamp="1477039470164">
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="22" />
+        <mark key="." line="15" column="22" />
+        <mark key="^" line="15" column="21" />
+      </file>
       <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1486450554690">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/TariffRepositorySpec.scala" timestamp="1480491160726">
+        <mark key="[" line="31" column="8" />
+        <mark key="]" line="31" column="8" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="31" column="8" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1481822114849">
+        <mark key="[" line="6" column="71" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="67" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1481803261970">
+        <mark key="[" line="35" column="48" />
+        <mark key="]" line="35" column="48" />
+        <mark key="^" line="35" column="56" />
+        <mark key="." line="35" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/NotFoundException.php" timestamp="1485262344043">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/.ebextensions/cloudwatch.config" timestamp="1484634055518">
+        <mark key="[" line="18" column="9" />
+        <mark key="]" line="14" column="56" />
+        <mark key="." line="14" column="56" />
+        <mark key="^" line="14" column="56" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralMeasurement.scala" timestamp="1476549183869">
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/Contracts.scala" timestamp="1481791976231">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="11" />
+        <mark key="^" line="2" column="15" />
+        <mark key="." line="2" column="11" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/src/views/layouts/main.handlebars" timestamp="1486367338092">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/README.md" timestamp="1486641226774">
+        <mark key="[" line="19" column="117" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+        <mark key="^" line="29" column="77" />
       </file>
       <file name="$USER_HOME$/dev/helios/common/database.js" timestamp="1488039679624">
         <mark key="[" line="6" column="0" />
@@ -503,6 +1064,18 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/Biometrics.scala" timestamp="1476901132129">
+        <mark key="[" line="9" column="16" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BiometricTable.scala" timestamp="1477460035383">
+        <mark key="[" line="46" column="13" />
+        <mark key="]" line="46" column="13" />
+        <mark key="^" line="35" column="76" />
+        <mark key="." line="46" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/logback-test.xml" timestamp="1477300413175">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -513,10 +1086,28 @@
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="59" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/library/House.scala" timestamp="1481531058065">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authenticate/authenticate.js" timestamp="1486363362337">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/src/config.js" timestamp="1486401644297">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="8" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/controllers/AccountController.scala" timestamp="1477310553708">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="11" />
+        <mark key="^" line="39" column="16" />
+        <mark key="." line="39" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AssignmentService.scala" timestamp="1481807539221">
         <mark key="[" line="2" column="6" />
@@ -533,6 +1124,30 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/NotImplementedException.php" timestamp="1485262340473">
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Search.php" timestamp="1485261586379">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/AllocationServiceImplSpec.scala" timestamp="1479905558236">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="13" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/java/Test.java" timestamp="1481608560192">
+        <mark key="[" line="22" column="4" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/.gitignore" timestamp="1486300004895">
         <mark key="[" line="0" column="12" />
       </file>
@@ -540,6 +1155,18 @@
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="32" />
+        <mark key="." line="2" column="32" />
+        <mark key="^" line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="2" />
+        <mark key="." line="46" column="2" />
+        <mark key="^" line="46" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/HashMapSampleRepositoryTest.scala" timestamp="1479377626652">
         <mark key="[" line="8" column="29" />
@@ -551,6 +1178,12 @@
       </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/test.js" timestamp="1488362752423">
         <mark key="[" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/test/library/Simulator/models/HouseTest.scala" timestamp="1481280709826">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+        <mark key="^" line="10" column="10" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authorization/index.js" timestamp="1486374298566">
         <mark key="[" line="0" column="0" />
@@ -573,16 +1206,22 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-service.js" timestamp="1488714965788">
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-service.js" timestamp="1488720918517">
         <mark key="'" line="4" column="48" />
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="4" column="48" />
-        <mark key="." line="4" column="48" />
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/dev/helios/races/handlers.js" timestamp="1488284481896">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/GeneratorAssigner.scala" timestamp="1481821436607">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="4" column="46" />
+        <mark key="." line="4" column="46" />
+        <mark key="^" line="4" column="46" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-screening-service.js" timestamp="1488477233748">
         <mark key="[" line="0" column="0" />
@@ -616,6 +1255,18 @@
         <mark key="]" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="5" />
+        <mark key="." line="7" column="5" />
+        <mark key="^" line="7" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/RoomFactory.scala" timestamp="1481795103484">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="5" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/phpunit.xml" timestamp="1485326729317">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -629,30 +1280,71 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="54" column="53" />
+      </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/src/router.js" timestamp="1488272269369">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488718761113">
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488720521316">
         <mark key="'" line="28" column="18" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
         <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/patients/patient-repository.js" timestamp="1488718615533">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
+      <file name="$USER_HOME$/dev/helios/services/patients/patient-repository.js" timestamp="1488720533780">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481829534010">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="28" />
         <mark key="." line="20" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480330346096">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="29" column="3" />
+        <mark key="." line="29" column="3" />
+        <mark key="^" line="29" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseSpec.scala" timestamp="1481279612298">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/ParameterQueryable.php" timestamp="1485262369539">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/common/base/repository/base-repository.js" timestamp="1488720487974">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts.scala" timestamp="1481795497052">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="13" column="65" />
+        <mark key="^" line="13" column="65" />
+        <mark key="." line="13" column="65" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Generator.scala" timestamp="1481091428929">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="4" column="4" />
+        <mark key="." line="4" column="4" />
+        <mark key="^" line="4" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1486710511865">
         <mark key="[" line="0" column="174" />
@@ -669,16 +1361,58 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AllocatorImplSpec.scala" timestamp="1480069722506">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/simple-psk/brand-repository-spec.js" timestamp="1486709655363">
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="18" />
+        <mark key="." line="56" column="18" />
+        <mark key="^" line="55" column="18" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/digest-service.js" timestamp="1481697693144">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="49" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/logs-repository.js" timestamp="1487065259733">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="31" column="31" />
+        <mark key="." line="31" column="31" />
+        <mark key="^" line="31" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/helios/services/node_modules/lambda-event-router/src/index.js" timestamp="1488475097872">
         <mark key="[" line="14" column="6" />
         <mark key="]" line="14" column="36" />
         <mark key="^" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/index.js" timestamp="1480679785072">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="3" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.test.conf" timestamp="1477297572306">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaService.scala" timestamp="1476877324209">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="29" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/SimulatorConf.scala" timestamp="1481795833364">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="12" column="31" />
+        <mark key="." line="12" column="31" />
+        <mark key="^" line="12" column="31" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authenticate/package.json" timestamp="1486302483482">
         <mark key="[" line="1" column="11" />
@@ -689,6 +1423,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1485856083794">
+        <mark key="[" line="95" column="3" />
+        <mark key="]" line="81" column="27" />
+        <mark key="^" line="38" column="12" />
+        <mark key="." line="81" column="27" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/patient.js" timestamp="1488284653355">
         <mark key="[" line="23" column="3" />
@@ -707,16 +1447,46 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/PhpUnitTest.php" timestamp="1485238649839">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/helios/services/patients/handlers.js" timestamp="1488709005391">
         <mark key="[" line="3" column="54" />
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ProviderTools.php" timestamp="1485417342230">
+        <mark key="[" line="37" column="25" />
+        <mark key="]" line="37" column="25" />
+        <mark key="." line="37" column="25" />
+        <mark key="^" line="37" column="24" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/README.md" timestamp="1477569485714">
+        <mark key="[" line="162" column="1" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="161" column="4" />
+        <mark key="." line="116" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1484819741730">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="53" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Electronics.scala" timestamp="1481828860270">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="37" column="77" />
+        <mark key="." line="37" column="77" />
+        <mark key="^" line="27" column="80" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1486450550077">
         <mark key="[" line="0" column="0" />
@@ -726,15 +1496,27 @@
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/GroupRepository.php" timestamp="1485506273088">
+        <mark key="[" line="31" column="21" />
+        <mark key="]" line="31" column="21" />
+        <mark key="." line="31" column="21" />
+        <mark key="^" line="31" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1480323385294">
         <mark key="[" line="9" column="30" />
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/races/race-repository.js" timestamp="1488718734663">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1481807854149">
+        <mark key="[" line="11" column="81" />
+        <mark key="]" line="11" column="77" />
+        <mark key="." line="11" column="78" />
+        <mark key="^" line="25" column="79" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/races/race-repository.js" timestamp="1488720552314">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="47" />
+        <mark key="." line="3" column="47" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
@@ -746,10 +1528,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/ParameterBuilder.php" timestamp="1485324958115">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/patients/models/model.js" timestamp="1488201994802">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/ParsPlanaVitrectomy.scala" timestamp="1477636429947">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="18" column="48" />
+        <mark key="." line="18" column="48" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1488640388061">
         <mark key="[" line="64" column="34" />
@@ -782,6 +1576,24 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/LightFactory.scala" timestamp="1481795086501">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/traits/DataGenerationService.scala" timestamp="1481803517964">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="7" column="95" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1487746143756">
+        <mark key="[" line="175" column="29" />
+        <mark key="]" line="177" column="38" />
+        <mark key="." line="177" column="38" />
+        <mark key="^" line="177" column="38" />
+      </file>
       <file name="/Arquillian Deployment Method.txt.ft" timestamp="1486450515620">
         <mark key="[" line="0" column="0" />
       </file>
@@ -795,10 +1607,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485844697112">
+        <mark key="[" line="17" column="12" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="16" column="18" />
+        <mark key="." line="17" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/helios/migrations/20170227133215-patients.js" timestamp="1488709556894">
         <mark key="[" line="23" column="9" />
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1485844433753">
+        <mark key="[" line="41" column="3" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
+        <mark key="^" line="43" column="4" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
         <mark key="[" line="41" column="62" />
@@ -809,6 +1633,12 @@
         <mark key="[" line="107" column="29" />
         <mark key="]" line="107" column="30" />
         <mark key="." line="107" column="30" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/common/router.js" timestamp="1488271446613">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="29" column="44" />
+        <mark key="." line="30" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/services/library/AllocationUtilsSpec.scala" timestamp="1479379280274">
         <mark key="[" line="4" column="26" />
@@ -825,6 +1655,30 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481623613680">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="10" column="11" />
+        <mark key="^" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" timestamp="1481795078355">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="^" line="19" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/yazimedia/circle.yml" timestamp="1484566278395">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="69" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SlaFactory.scala" timestamp="1481795115354">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="17" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotImplementedException.php" timestamp="1485324448945">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -834,6 +1688,24 @@
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreatmentsRepository.scala" timestamp="1477136137639">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="4" column="22" />
+        <mark key="^" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/repositories/crowdCaster/digestor/spec/unit/Digest/index-spec.js" timestamp="1480679380984">
+        <mark key="[" line="98" column="6" />
+        <mark key="]" line="98" column="6" />
+        <mark key="." line="98" column="6" />
+        <mark key="^" line="89" column="2" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/TimeOfDay.scala" timestamp="1481100738522">
+        <mark key="[" line="2" column="17" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
+        <mark key="^" line="2" column="5" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" timestamp="1488715677992">
         <mark key="'" line="67" column="31" />
@@ -845,10 +1717,40 @@
       <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocator.scala" timestamp="1480062395706">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/Simulator.scala" timestamp="1481521926888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/practices/model.js" timestamp="1488201995956">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/package.json" timestamp="1486369414938">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="12" column="32" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/common/aws-rest-router.js" timestamp="1488175712695">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="41" />
+        <mark key="^" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/CsvOutputWriter.scala" timestamp="1481795784200">
         <mark key="[" line="6" column="0" />
@@ -872,6 +1774,24 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/BiometricController.scala" timestamp="1477231899326">
+        <mark key="[" line="27" column="37" />
+        <mark key="]" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/library/AllocationUtils.scala" timestamp="1479379195553">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocation.scala" timestamp="1480330262722">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+        <mark key="^" line="2" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
         <mark key="[" line="0" column="2" />
       </file>
@@ -879,6 +1799,12 @@
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
+      </file>
+      <file name="/Scala Console" timestamp="1481271383642">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/Context.php" timestamp="1485324467987">
         <mark key="[" line="2" column="10" />
@@ -905,10 +1831,22 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/repositories/TariffRepositorySpec.scala" timestamp="1477395642718">
+        <mark key="[" line="16" column="105" />
+        <mark key="]" line="114" column="17" />
+        <mark key="." line="114" column="17" />
+        <mark key="^" line="132" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/IndexableDateTimeFormatter.php" timestamp="1485324472214">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/practices/handlers.js" timestamp="1488284497705">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
@@ -918,15 +1856,50 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1481805863639">
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="101" column="1" />
+        <mark key="." line="101" column="1" />
+        <mark key="^" line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/GenerationService.scala" timestamp="1481632028157">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoResponse.scala" timestamp="1476878622894">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/races/race-service.js" timestamp="1488720962174">
+        <mark key="[" line="5" column="43" />
+        <mark key="]" line="5" column="44" />
+        <mark key="." line="5" column="44" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
         <mark key="]" line="10" column="6" />
         <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/research/model-map/app/library/models/Screening.scala" timestamp="1477546608969">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-auth/views/login.handlebars" timestamp="1486379804660">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/node_modules/lambda-router-adapter/index.js" timestamp="1488262150064">
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/src/test.js" timestamp="1488362664726">
         <mark key="[" line="8" column="46" />
@@ -949,6 +1922,12 @@
         <mark key="[" line="5" column="83" />
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="108" column="19" />
+        <mark key="." line="108" column="19" />
+        <mark key="^" line="108" column="19" />
       </file>
     </filemarks>
     <jumps>
@@ -1054,11 +2033,11 @@
       <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CmNvbnN0IHNxbFRvb2xzID0gcmVxdWlyZSgnLi4vY29tbW9uL3NxbC10b29scycpOwpjb25zdCBSID0gcmVxdWlyZSgncmFtZGEnKTsKCm1vZHVsZS5leHBvcnRzID0gZGIgPT4gKHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IicpLAoKICBjcmVhdGU6IHNjcmVlbmluZyA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7CiAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwoKICAgIHJldHVybiBkYi5vbmUoCiAgICAgIGBJTlNFUlQgSU5UTyAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiKCR7ZmllbGROYW1lc30pIFZBTFVFUygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShzY3JlZW5pbmcpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IiBXSEVSRSBpZCA9ICQxJywgaWQpLnRoZW4obW9kZWwuYXBwbHkpLAoKICB1cGRhdGU6IChpZCwgc2NyZWVuaW5nKSA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgVVBEQVRFICJkaWFiZXRpYy1yZXRpbm9wYXRoeSIgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCiAgICAgIG1vZGVsLnVuYXBwbHkoc2NyZWVuaW5nKS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSk7CiAgfSwKCiAgZGVsZXRlOiBpZCA9PiBkYi5ub25lKCdERUxFVEUgRlJPTSAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmFjZXMg</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1067,34 +2046,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmNvbnN0IHNxbFRvb2xzID0gcmVxdWlyZSgnLi4vY29tbW9uL3NxbC10b29scycpOwpjb25zdCBSID0gcmVxdWlyZSgncmFtZGEnKTsKCm1vZHVsZS5leHBvcnRzID0gZGIgPT4gKHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IicpLAoKICBjcmVhdGU6IHNjcmVlbmluZyA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7CiAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwoKICAgIHJldHVybiBkYi5vbmUoCiAgICAgIGBJTlNFUlQgSU5UTyAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiKCR7ZmllbGROYW1lc30pIFZBTFVFUygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShzY3JlZW5pbmcpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IiBXSEVSRSBpZCA9ICQxJywgaWQpLnRoZW4obW9kZWwuYXBwbHkpLAoKICB1cGRhdGU6IChpZCwgc2NyZWVuaW5nKSA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgVVBEQVRFICJkaWFiZXRpYy1yZXRpbm9wYXRoeSIgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCiAgICAgIG1vZGVsLnVuYXBwbHkoc2NyZWVuaW5nKS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSk7CiAgfSwKCiAgZGVsZXRlOiBpZCA9PiBkYi5ub25lKCdERUxFVEUgRlJPTSAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7Cg==</text>
+        <text encoding="base64">ICBwcmFjdGljZS5pZCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMnKSwKCiAgY3JlYXRlOiBwYXRpZW50ID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3QgZmllbGROYW1lcyA9IHNxbFRvb2xzLmNyZWF0ZVZhbHVlc1N0cmluZyhmaWVsZHMpOwogICAgY29uc3QgcGxhY2VIb2xkZXJzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzUGxhY2Vob2xkZXJTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgSU5TRVJUIElOVE8gcGF0aWVudHMoJHtmaWVsZE5hbWVzfSkgVkFMVUVTKCR7cGxhY2VIb2xkZXJzfSkgcmV0dXJuaW5nICpgLAogICAgICBtb2RlbC51bmFwcGx5KHBhdGllbnQpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMgV0hFUkUgaWQgPSAkMScsIGlkKS50aGVuKG1vZGVsLmFwcGx5KSwKCiAgdXBkYXRlOiAoaWQsIHBhdGllbnQpID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3Qgc2V0U3RyaW5nID0gc3FsVG9vbHMuY3JlYXRlU2V0U3RyaW5nKGZpZWxkcyk7CgogICAgcmV0dXJuIGRiLm9uZSgKICAgICAgYFVQREFURSBwYXRpZW50cyBTRVQgJHtzZXRTdHJpbmd9IFdIRVJFIGlkID0gJCR7ZmllbGRzLmxlbmd0aCArIDF9IHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShwYXRpZW50KS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSkKICB9LAoKICBkZWxldGU6IGlkID0+IGRiLm5vbmUoJ0RFTEVURSBGUk9NIHBhdGllbnRzIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7</text>
+      <register name="2" type="2">
+        <text encoding="base64">CmNvbnN0IHNxbFRvb2xzID0gcmVxdWlyZSgnLi4vY29tbW9uL3NxbC10b29scycpOwpjb25zdCBSID0gcmVxdWlyZSgncmFtZGEnKTsKCm1vZHVsZS5leHBvcnRzID0gZGIgPT4gKHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IicpLAoKICBjcmVhdGU6IHNjcmVlbmluZyA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7CiAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwoKICAgIHJldHVybiBkYi5vbmUoCiAgICAgIGBJTlNFUlQgSU5UTyAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiKCR7ZmllbGROYW1lc30pIFZBTFVFUygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShzY3JlZW5pbmcpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IiBXSEVSRSBpZCA9ICQxJywgaWQpLnRoZW4obW9kZWwuYXBwbHkpLAoKICB1cGRhdGU6IChpZCwgc2NyZWVuaW5nKSA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgVVBEQVRFICJkaWFiZXRpYy1yZXRpbm9wYXRoeSIgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCiAgICAgIG1vZGVsLnVuYXBwbHkoc2NyZWVuaW5nKS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSk7CiAgfSwKCiAgZGVsZXRlOiBpZCA9PiBkYi5ub25lKCdERUxFVEUgRlJPTSAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Y29uc3Qgc3FsVG9vbHMgPSByZXF1aXJlKCcuLi9jb21tb24vc3FsLXRvb2xzJyk7CmNvbnN0IFIgPSByZXF1aXJlKCdyYW1kYScpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMnKSwKCiAgY3JlYXRlOiBwYXRpZW50ID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3QgZmllbGROYW1lcyA9IHNxbFRvb2xzLmNyZWF0ZVZhbHVlc1N0cmluZyhmaWVsZHMpOwogICAgY29uc3QgcGxhY2VIb2xkZXJzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzUGxhY2Vob2xkZXJTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgSU5TRVJUIElOVE8gcGF0aWVudHMoJHtmaWVsZE5hbWVzfSkgVkFMVUVTKCR7cGxhY2VIb2xkZXJzfSkgcmV0dXJuaW5nICpgLAogICAgICBtb2RlbC51bmFwcGx5KHBhdGllbnQpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMgV0hFUkUgaWQgPSAkMScsIGlkKS50aGVuKG1vZGVsLmFwcGx5KSwKCiAgdXBkYXRlOiAoaWQsIHBhdGllbnQpID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3Qgc2V0U3RyaW5nID0gc3FsVG9vbHMuY3JlYXRlU2V0U3RyaW5nKGZpZWxkcyk7CgogICAgcmV0dXJuIGRiLm9uZSgKICAgICAgYFVQREFURSBwYXRpZW50cyBTRVQgJHtzZXRTdHJpbmd9IFdIRVJFIGlkID0gJCR7ZmllbGRzLmxlbmd0aCArIDF9IHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShwYXRpZW50KS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSkKICB9LAoKICBkZWxldGU6IGlkID0+IGRiLm5vbmUoJ0RFTEVURSBGUk9NIHBhdGllbnRzIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Y29uc3Qgc3FsVG9vbHMgPSByZXF1aXJlKCcuLi9jb21tb24vc3FsLXRvb2xzJyk7CmNvbnN0IFIgPSByZXF1aXJlKCdyYW1kYScpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Y29uc3Qgc3FsVG9vbHMgPSByZXF1aXJlKCcuLi9jb21tb24vc3FsLXRvb2xzJyk7CmNvbnN0IFIgPSByZXF1aXJlKCdyYW1kYScpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBkYiA9PiAoewovLyAgIGxpc3Q6ICgpID0+IGRiLmFueSgnU0VMRUNUICogRlJPTSByYWNlczsnKSwKLy8KLy8gICBjcmVhdGU6IHJhY2UgPT4gewovLyAgICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7Ci8vICAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7Ci8vICAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwovLwovLyAgICAgcmV0dXJuIGRiLm9uZSgKLy8gICAgICAgYElOU0VSVCBJTlRPIHJhY2VzKCR7ZmllbGROYW1lc30pIHZhbHVlcygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKLy8gICAgICAgbW9kZWwudW5hcHBseShyYWNlKQovLyAgICAgKS50aGVuKG1vZGVsLmFwcGx5KQovLyAgIH0sCi8vCi8vICAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gcmFjZXMgV0hFUkUgaWQgPSAkMScsIGlkKSwKLy8KLy8gICB1cGRhdGU6IChpZCwgcmFjZSkgPT4gewovLyAgICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7Ci8vICAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKLy8KLy8gICAgIHJldHVybiBkYi5vbmUoCi8vICAgICAgIGBVUERBVEUgcmFjZXMgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCi8vICAgICAgIG1vZGVsLnVuYXBwbHkocmFjZSkuY29uY2F0KFtpZF0pCi8vICAgICApLnRoZW4obW9kZWwuYXBwbHkpCi8vICAgfSwKLy8KLy8gICBkZWxldGU6IGlkID0+IGRiLm5vbmUoJ0RFTEVURSBGUk9NIHJhY2VzIFdIRVJFIGlkID0gJDEnLCBpZCkKLy8gfSk7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Y29uc3QgbW9kZWwgPSByZXF1aXJlKCcuL3JhY2UnKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICByYWNlLmlkLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByYWNlLmlkLAo=</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
