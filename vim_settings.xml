@@ -1268,11 +1268,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488646411393">
-        <mark key="[" line="21" column="54" />
-        <mark key="]" line="21" column="54" />
-        <mark key="^" line="21" column="54" />
-        <mark key="." line="21" column="54" />
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488647148958">
+        <mark key="]" line="26" column="10" />
+        <mark key="^" line="26" column="10" />
+        <mark key="." line="26" column="10" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
@@ -1982,10 +1981,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>right</text>
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
