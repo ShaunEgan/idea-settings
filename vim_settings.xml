@@ -1268,10 +1268,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488647148958">
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="26" column="10" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" timestamp="1488708196745">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="1" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
@@ -1399,6 +1400,12 @@
         <mark key="[" line="23" column="3" />
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/services/common/sql-tools.js" timestamp="1488707398180">
+        <mark key="[" line="38" column="10" />
+        <mark key="]" line="38" column="21" />
+        <mark key="." line="38" column="21" />
+        <mark key="^" line="38" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
         <mark key="[" line="21" column="32" />
@@ -1660,11 +1667,11 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" timestamp="1488645801277">
-        <mark key="[" line="37" column="22" />
-        <mark key="]" line="37" column="23" />
-        <mark key="^" line="20" column="10" />
-        <mark key="." line="37" column="23" />
+      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" timestamp="1488703941904">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="17" column="6" />
+        <mark key="^" line="17" column="6" />
+        <mark key="." line="17" column="6" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
         <mark key="[" line="0" column="0" />
@@ -1981,10 +1988,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -1993,34 +2000,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHlwZTogJ2ludCcsCiAgICAgIG5vdE51bGw6IHRydWUsCiAgICAgIGZvcmVpZ25LZXk6IHsKICAgICAgICBuYW1lOiAnc2NyZWVuaW5nLWlkLWZrJywKICAgICAgICB0YWJsZTogJycKICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYWNlSG9sZGVycyA9IHNxbFRvb2xzLmNyZWF0ZVZhbHVlc1BsYWNlaG9sZGVyU3RyaW5nKGZpZWxkcyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBAVE9ETzogdGhlIGZvbGxvd2luZyBzaG91bGQgcHJvYmFibHkgYmUgYSBkaWZmZXJlbnQgJ3RyZWF0bWVudHMnIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlOmRvd24iOiAibnBtIHJ1bi1zY3JpcHQgbWlncmF0ZSAtLSBkb3duIiwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJjcmVhdGUtbWlncmF0aW9uIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgY3JlYXRlICIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkU3RyaW5nID0gcmVuZGVyRmllbGQoUi5oZWFkKGZpZWxkcyksIGluZGV4KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlLXVwIjogIkRBVEFCQVNFX1VSTD0kKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIGRiLW1pZ3JhdGUgdXAiLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJtaWdyYXRlLWRvd24iOiAiREFUQUJBU0VfVVJMPSQoc2VydmVybGVzcyBpbmZvIC0tdmVyYm9zZSB8IGdyZXAgSGVsaW9zRGJDb25uZWN0aW9uU3RyaW5nIHwgYXdrICd7cHJpbnQgJDJ9JykgZGItbWlncmF0ZSBkb3duIgo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpZWxkU3RyaW5nID0gcmVuZGVyRmllbGQoUi5oZWFkKGZpZWxkcyksIGluZGV4KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJhYmMiOiAiZWNobyAkKHNlcnZlcmxlc3MgaW5mbyAtLXZlcmJvc2UgfCBncmVwIEhlbGlvc0RiQ29ubmVjdGlvblN0cmluZyB8IGF3ayAne3ByaW50ICQyfScpIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJsYW1iZGEtZXZlbnQtcm91dGVyIjogIjAuMC41IiwK</text>
+        <text encoding="base64">ICBpZihSLmlzTmlsKHJlc3VsdCkgfHwgcmVzdWx0ID09PSAnJykgcmV0dXJuIGNyZWF0ZVZhbHVlc1BsYWNlaG9sZGVyU3RyaW5nKFIudGFpbChmaWVsZHMpLCBpbmRleCsrLCBSLmhlYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
