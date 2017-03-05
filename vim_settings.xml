@@ -172,10 +172,11 @@
       <file name="$USER_HOME$/dev/helios/services/common/succeeds.js" timestamp="1488712096150">
         <mark key="[" line="12" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/base/service/index.js" timestamp="1488730171620">
-        <mark key="]" line="10" column="85" />
-        <mark key="." line="10" column="85" />
-        <mark key="^" line="10" column="85" />
+      <file name="$USER_HOME$/dev/helios/src/lib/base/service/index.js" timestamp="1488738492049">
+        <mark key="[" line="10" column="81" />
+        <mark key="]" line="10" column="81" />
+        <mark key="." line="10" column="81" />
+        <mark key="^" line="10" column="80" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1481826167769">
         <mark key="[" line="37" column="0" />
@@ -935,11 +936,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/helios/migrations/20170305150835-glaucoma.js" timestamp="1488729874475">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="37" />
-        <mark key="." line="20" column="37" />
-        <mark key="^" line="34" column="25" />
+      <file name="$USER_HOME$/dev/helios/migrations/20170305150835-glaucoma.js" timestamp="1488737369322">
+        <mark key="[" line="19" column="51" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/MeterService.scala" timestamp="1476362870805">
         <mark key="[" line="10" column="6" />
@@ -1166,11 +1167,11 @@
       <file name="$USER_HOME$/dev/helios/practices/practice-repository.js" timestamp="1488284487151">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/glaucoma/model.js" timestamp="1488734823618">
-        <mark key="[" line="51" column="10" />
-        <mark key="]" line="51" column="11" />
-        <mark key="^" line="80" column="38" />
-        <mark key="." line="51" column="11" />
+      <file name="$USER_HOME$/dev/helios/src/glaucoma/model.js" timestamp="1488740144186">
+        <mark key="[" line="88" column="12" />
+        <mark key="]" line="88" column="12" />
+        <mark key="." line="88" column="12" />
+        <mark key="^" line="88" column="33" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Retinopathy.scala" timestamp="1477636560626">
         <mark key="[" line="5" column="0" />
@@ -2011,11 +2012,10 @@
         <mark key="]" line="7" column="54" />
         <mark key="." line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/glaucoma/diagnosis.js" timestamp="1488735402576">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="21" column="78" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/dev/helios/src/glaucoma/diagnosis.js" timestamp="1488740132676">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="/PHP Class Doc Comment.txt.ft" timestamp="1486450577263">
         <mark key="[" line="0" column="0" />
@@ -2127,11 +2127,11 @@
       <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>glaucoma</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2140,34 +2140,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnZG9uZScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmFjdGljZS5pZCwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncmFjZScpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IHNxbFRvb2xzID0gcmVxdWlyZSgnLi4vY29tbW9uL3NxbC10b29scycpOwpjb25zdCBSID0gcmVxdWlyZSgncmFtZGEnKTsKCm1vZHVsZS5leHBvcnRzID0gZGIgPT4gKHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IicpLAoKICBjcmVhdGU6IHNjcmVlbmluZyA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7CiAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwoKICAgIHJldHVybiBkYi5vbmUoCiAgICAgIGBJTlNFUlQgSU5UTyAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiKCR7ZmllbGROYW1lc30pIFZBTFVFUygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShzY3JlZW5pbmcpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gImRpYWJldGljLXJldGlub3BhdGh5IiBXSEVSRSBpZCA9ICQxJywgaWQpLnRoZW4obW9kZWwuYXBwbHkpLAoKICB1cGRhdGU6IChpZCwgc2NyZWVuaW5nKSA9PiB7CiAgICAvLyBhbGwgZmllbGRzIGV4Y2x1ZGluZyBpZAogICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7CiAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgVVBEQVRFICJkaWFiZXRpYy1yZXRpbm9wYXRoeSIgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCiAgICAgIG1vZGVsLnVuYXBwbHkoc2NyZWVuaW5nKS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSk7CiAgfSwKCiAgZGVsZXRlOiBpZCA9PiBkYi5ub25lKCdERUxFVEUgRlJPTSAiZGlhYmV0aWMtcmV0aW5vcGF0aHkiIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWdlJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">KHsKICBsaXN0OiAoKSA9PiBkYi5hbnkoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMnKSwKCiAgY3JlYXRlOiBwYXRpZW50ID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3QgZmllbGROYW1lcyA9IHNxbFRvb2xzLmNyZWF0ZVZhbHVlc1N0cmluZyhmaWVsZHMpOwogICAgY29uc3QgcGxhY2VIb2xkZXJzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzUGxhY2Vob2xkZXJTdHJpbmcoZmllbGRzKTsKCiAgICByZXR1cm4gZGIub25lKAogICAgICBgSU5TRVJUIElOVE8gcGF0aWVudHMoJHtmaWVsZE5hbWVzfSkgVkFMVUVTKCR7cGxhY2VIb2xkZXJzfSkgcmV0dXJuaW5nICpgLAogICAgICBtb2RlbC51bmFwcGx5KHBhdGllbnQpCiAgICApLnRoZW4obW9kZWwuYXBwbHkpCiAgfSwKCiAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gcGF0aWVudHMgV0hFUkUgaWQgPSAkMScsIGlkKS50aGVuKG1vZGVsLmFwcGx5KSwKCiAgdXBkYXRlOiAoaWQsIHBhdGllbnQpID0+IHsKICAgIGNvbnN0IGZpZWxkcyA9IFIudGFpbChtb2RlbC5maWVsZHMpOwogICAgY29uc3Qgc2V0U3RyaW5nID0gc3FsVG9vbHMuY3JlYXRlU2V0U3RyaW5nKGZpZWxkcyk7CgogICAgcmV0dXJuIGRiLm9uZSgKICAgICAgYFVQREFURSBwYXRpZW50cyBTRVQgJHtzZXRTdHJpbmd9IFdIRVJFIGlkID0gJCR7ZmllbGRzLmxlbmd0aCArIDF9IHJldHVybmluZyAqYCwKICAgICAgbW9kZWwudW5hcHBseShwYXRpZW50KS5jb25jYXQoW2lkXSkKICAgICkudGhlbihtb2RlbC5hcHBseSkKICB9LAoKICBkZWxldGU6IGlkID0+IGRiLm5vbmUoJ0RFTEVURSBGUk9NIHBhdGllbnRzIFdIRVJFIGlkID0gJDEnLCBpZCkKfSk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnaXNudCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc3FsVG9vbHMgPSByZXF1aXJlKCcuLi9jb21tb24vc3FsLXRvb2xzJyk7CmNvbnN0IFIgPSByZXF1aXJlKCdyYW1kYScpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnY2RyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc3FsVG9vbHMgPSByZXF1aXJlKCcuLi9jb21tb24vc3FsLXRvb2xzJyk7CmNvbnN0IFIgPSByZXF1aXJlKCdyYW1kYScpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygncHBhJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYXN5bW1ldHJ5Jyk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBkYiA9PiAoewovLyAgIGxpc3Q6ICgpID0+IGRiLmFueSgnU0VMRUNUICogRlJPTSByYWNlczsnKSwKLy8KLy8gICBjcmVhdGU6IHJhY2UgPT4gewovLyAgICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7Ci8vICAgICBjb25zdCBmaWVsZE5hbWVzID0gc3FsVG9vbHMuY3JlYXRlVmFsdWVzU3RyaW5nKGZpZWxkcyk7Ci8vICAgICBjb25zdCBwbGFjZUhvbGRlcnMgPSBzcWxUb29scy5jcmVhdGVWYWx1ZXNQbGFjZWhvbGRlclN0cmluZyhmaWVsZHMpOwovLwovLyAgICAgcmV0dXJuIGRiLm9uZSgKLy8gICAgICAgYElOU0VSVCBJTlRPIHJhY2VzKCR7ZmllbGROYW1lc30pIHZhbHVlcygke3BsYWNlSG9sZGVyc30pIHJldHVybmluZyAqYCwKLy8gICAgICAgbW9kZWwudW5hcHBseShyYWNlKQovLyAgICAgKS50aGVuKG1vZGVsLmFwcGx5KQovLyAgIH0sCi8vCi8vICAgZ2V0OiBpZCA9PiBkYi5vbmUoJ1NFTEVDVCAqIEZST00gcmFjZXMgV0hFUkUgaWQgPSAkMScsIGlkKSwKLy8KLy8gICB1cGRhdGU6IChpZCwgcmFjZSkgPT4gewovLyAgICAgY29uc3QgZmllbGRzID0gUi50YWlsKG1vZGVsLmZpZWxkcyk7Ci8vICAgICBjb25zdCBzZXRTdHJpbmcgPSBzcWxUb29scy5jcmVhdGVTZXRTdHJpbmcoZmllbGRzKTsKLy8KLy8gICAgIHJldHVybiBkYi5vbmUoCi8vICAgICAgIGBVUERBVEUgcmFjZXMgU0VUICR7c2V0U3RyaW5nfSBXSEVSRSBpZCA9ICQke2ZpZWxkcy5sZW5ndGggKyAxfSByZXR1cm5pbmcgKmAsCi8vICAgICAgIG1vZGVsLnVuYXBwbHkocmFjZSkuY29uY2F0KFtpZF0pCi8vICAgICApLnRoZW4obW9kZWwuYXBwbHkpCi8vICAgfSwKLy8KLy8gICBkZWxldGU6IGlkID0+IGRiLm5vbmUoJ0RFTEVURSBGUk9NIHJhY2VzIFdIRVJFIGlkID0gJDEnLCBpZCkKLy8gfSk7</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3RhcnRpbmcnKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
