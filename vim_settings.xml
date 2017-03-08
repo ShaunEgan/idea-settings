@@ -1525,11 +1525,11 @@
       <file name="$USER_HOME$/dev/helios/src/patients/model.js" timestamp="1488725183341">
         <mark key="[" line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1488968295526">
-        <mark key="[" line="45" column="87" />
-        <mark key="]" line="52" column="48" />
-        <mark key="^" line="52" column="56" />
-        <mark key="." line="52" column="48" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1488969561934">
+        <mark key="[" line="28" column="87" />
+        <mark key="]" line="35" column="48" />
+        <mark key="^" line="35" column="56" />
+        <mark key="." line="35" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/NotFoundException.php" timestamp="1485262344043">
         <mark key="[" line="9" column="12" />
@@ -1537,10 +1537,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" timestamp="1488968375924">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" timestamp="1488969566834">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="35" />
+        <mark key="." line="10" column="35" />
+        <mark key="^" line="10" column="61" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
         <mark key="[" line="7" column="0" />
@@ -1799,7 +1800,6 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" timestamp="1488952319689" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2131,11 +2131,11 @@
       <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzAzLzA4LgogICovCg==</text>
+      <register name="&quot;" type="4">
+        <text>conf.intervals.getOrElse(1)</text>
       </register>
       <register name="-" type="4">
-        <text>test</text>
+        <text>conf.intervals.getOrElse(1)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
