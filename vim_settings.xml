@@ -529,7 +529,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/consumption.csv" timestamp="1488878898535" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/Measurement.scala" timestamp="1476610952697">
         <mark key="[" line="0" column="14" />
         <mark key="]" line="2" column="0" />
@@ -1511,7 +1510,6 @@
       <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1486450554690">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/common/config.js" timestamp="1488439753689" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/TariffRepositorySpec.scala" timestamp="1480491160726">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -1527,8 +1525,8 @@
       <file name="$USER_HOME$/dev/helios/src/patients/model.js" timestamp="1488725183341">
         <mark key="[" line="35" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1481803261970">
-        <mark key="[" line="35" column="48" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1488952484573">
+        <mark key="[" line="28" column="87" />
         <mark key="]" line="35" column="48" />
         <mark key="^" line="35" column="56" />
         <mark key="." line="35" column="48" />
@@ -1796,6 +1794,7 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" timestamp="1488952319689" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -1977,7 +1976,6 @@
         <mark key="]" line="480" column="0" />
         <mark key="." line="480" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-glaucoma/conf/evolutions/default/2.sql" timestamp="1488736432333" />
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/IndexableDateTimeFormatter.php" timestamp="1485324472214">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
