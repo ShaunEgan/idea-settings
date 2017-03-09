@@ -33,7 +33,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1489071841579">
+      <file name="/a.dummy" timestamp="1489073526599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service.js" timestamp="1488723869693">
@@ -623,6 +623,12 @@
       </file>
       <file name="$USER_HOME$/dev/helios/practices/config.js" timestamp="1488024793720">
         <mark key="[" line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-node/views/trustmark.pug" timestamp="1489073307718">
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="13" column="11" />
       </file>
       <file name="$USER_HOME$/dev/helios/races/handlers.js" timestamp="1488284481896">
         <mark key="[" line="11" column="37" />
@@ -1999,6 +2005,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
         <mark key="[" line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-node/embed/script.js" timestamp="1489073191176">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-node/package.json" timestamp="1489071236316">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="0" />
@@ -2166,10 +2177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mongodb</text>
+        <text>http://188.166.145.72:3000</text>
       </register>
       <register name="-" type="4">
-        <text>mongodb</text>
+        <text>http://188.166.145.72:3000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2177,38 +2188,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBudyA9IHdpbmRvdy5vcGVuKCdodHRwOi8vMTg4LjE2Ni4xNDUuNzI6MzAwMC8jL2JyYW5kLyN7YnJhbmQubm9ybWFsaXplZE5hbWV9JywgJ1BMJywgJ2hlaWdodD00MjAsd2lkdGg9NjAwLGxlZnQ9MTAwLHRvcD0xMDAsbG9jYXRpb249MCxtZW51YmFyPTAscmVzaXphYmxlPTEsc2Nyb2xsYmFycz0wLHN0YXR1cz0wLHRpdGxlYmFyPTAsdG9vbGJhcj0wLCcpCg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="4">
         <text>{
       host: 'ctback01.jar81.com',
       db: 'bm'
     }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCiAgICAgIGRiOiAnYm0nCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIG1vbmdvZGI6IHsKICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Ly8gICAgInN0YXJ0IjogIm5vZGVtb24gLi9iaW4vd3d3Igo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAqLwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzAzLzA4Lgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YWwgaW50ZXJ2YWxzOiBTY2FsbG9wT3B0aW9uW0ludF0gPSBvcHRbSW50XSgpCg==</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzAzLzA4Lgo=</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
