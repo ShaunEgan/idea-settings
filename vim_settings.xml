@@ -729,6 +729,9 @@
         <mark key="^" line="38" column="12" />
         <mark key="." line="81" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
+        <mark key="[" line="88" column="32" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
         <mark key="[" line="21" column="32" />
         <mark key="]" line="23" column="0" />
