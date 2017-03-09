@@ -524,6 +524,9 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-node/.elasticbeanstalk/config.yml" timestamp="1489074556337">
+        <mark key="[" line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/Contracts.scala" timestamp="1481791976231">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="11" />
@@ -1939,6 +1942,12 @@
         <mark key="]" line="41" column="62" />
         <mark key="." line="41" column="62" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-node/circle.yml" timestamp="1489074702019">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="11" column="38" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/helios/common/router.js" timestamp="1488271446613">
         <mark key="[" line="30" column="42" />
         <mark key="]" line="30" column="42" />
@@ -2176,8 +2185,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/repositories/poslux-node/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://188.166.145.72:3000</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcmU6CiAgICAtIG5wbSBpbnN0YWxsIC1nIGd1bHAK</text>
       </register>
       <register name="-" type="4">
         <text>http://188.166.145.72:3000</text>
@@ -2189,37 +2198,37 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBudyA9IHdpbmRvdy5vcGVuKCdodHRwOi8vMTg4LjE2Ni4xNDUuNzI6MzAwMC8jL2JyYW5kLyN7YnJhbmQubm9ybWFsaXplZE5hbWV9JywgJ1BMJywgJ2hlaWdodD00MjAsd2lkdGg9NjAwLGxlZnQ9MTAwLHRvcD0xMDAsbG9jYXRpb249MCxtZW51YmFyPTAscmVzaXphYmxlPTEsc2Nyb2xsYmFycz0wLHN0YXR1cz0wLHRpdGxlYmFyPTAsdG9vbGJhcj0wLCcpCg==</text>
+        <text encoding="base64">ICBwcmU6CiAgICAtIG5wbSBpbnN0YWxsIC1nIGd1bHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBudyA9IHdpbmRvdy5vcGVuKCdodHRwOi8vMTg4LjE2Ni4xNDUuNzI6MzAwMC8jL2JyYW5kLyN7YnJhbmQubm9ybWFsaXplZE5hbWV9JywgJ1BMJywgJ2hlaWdodD00MjAsd2lkdGg9NjAwLGxlZnQ9MTAwLHRvcD0xMDAsbG9jYXRpb249MCxtZW51YmFyPTAscmVzaXphYmxlPTEsc2Nyb2xsYmFycz0wLHN0YXR1cz0wLHRpdGxlYmFyPTAsdG9vbGJhcj0wLCcpCg==</text>
+      </register>
+      <register name="3" type="4">
         <text>{
       host: 'ctback01.jar81.com',
       db: 'bm'
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCiAgICAgIGRiOiAnYm0nCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIG1vbmdvZGI6IHsKICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gICAgInN0YXJ0IjogIm5vZGVtb24gLi9iaW4vd3d3Igo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAqLwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzAzLzA4Lgo=</text>
+        <text encoding="base64">ICAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
