@@ -33,7 +33,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1489073526599">
+      <file name="/a.dummy" timestamp="1489083068279">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service.js" timestamp="1488723869693">
@@ -934,6 +934,11 @@
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-node/thumbnailer/config.js" timestamp="1489082967643">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authentication/strategy.js" timestamp="1486375100724">
         <mark key="[" line="2" column="16" />
@@ -2190,11 +2195,11 @@
       <jump line="37" column="0" filename="$USER_HOME$/repositories/poslux-node/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLSBybSAtcmYgbm9kZV9tb2R1bGVzLwo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>http://188.166.145.72:3000</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
