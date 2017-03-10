@@ -33,7 +33,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1489122712197">
+      <file name="/a.dummy" timestamp="1489123834461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service.js" timestamp="1488723869693">
@@ -1401,6 +1401,9 @@
       </file>
       <file name="$USER_HOME$/dev/helios/common/id-tools.js" timestamp="1488182717801">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-node/thumbnailer/profilePhotoS3Thumbnails.js" timestamp="1489124064024">
+        <mark key="[" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
