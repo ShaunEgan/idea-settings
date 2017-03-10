@@ -33,7 +33,7 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1489083068279">
+      <file name="/a.dummy" timestamp="1489122712197">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service.js" timestamp="1488723869693">
@@ -1488,6 +1488,9 @@
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-node/.ebextensions/staticfiles.config" timestamp="1489122901001">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484805870005">
         <mark key="[" line="11" column="0" />
