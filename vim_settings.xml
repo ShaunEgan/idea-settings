@@ -974,7 +974,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="/Simulator.scala" timestamp="1488970726045" />
       <file name="$USER_HOME$/dev/helios/services/races/race-service.js" timestamp="1488720962174">
         <mark key="[" line="5" column="43" />
         <mark key="]" line="5" column="44" />
@@ -1072,7 +1071,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-node/README.md" timestamp="1489071095262" />
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477640318983">
         <mark key="[" line="98" column="20" />
         <mark key="]" line="98" column="27" />
@@ -1591,11 +1589,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" timestamp="1488976686368">
-        <mark key="[" line="50" column="22" />
-        <mark key="]" line="50" column="22" />
-        <mark key="." line="50" column="22" />
-        <mark key="^" line="50" column="73" />
+      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" timestamp="1489393117931">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="46" column="73" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
         <mark key="[" line="7" column="0" />
@@ -2201,8 +2199,8 @@
       <jump line="37" column="0" filename="$USER_HOME$/repositories/poslux-node/gulpfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -2214,37 +2212,37 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBybSAtcmYgbm9kZV9tb2R1bGVzLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmU6CiAgICAtIG5wbSBpbnN0YWxsIC1nIGd1bHAK</text>
+        <text encoding="base64">ICAgIGRlZiBnZW5lcmF0ZShkYXk6IExvY2FsRGF0ZSwgZGF0YTogKFNlcVtTdHJpbmddLCBTZXFbU2VxW0FueV1dLCBTZXFbU2VxW0FueV1dLCBTZXFbU2VxW0FueV1dLCBTZXFbU2VxW0FueV1dKSkgPSB7CgogICAgfQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLSBybSAtcmYgbm9kZV9tb2R1bGVzLwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwcmU6CiAgICAtIG5wbSBpbnN0YWxsIC1nIGd1bHAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBudyA9IHdpbmRvdy5vcGVuKCdodHRwOi8vMTg4LjE2Ni4xNDUuNzI6MzAwMC8jL2JyYW5kLyN7YnJhbmQubm9ybWFsaXplZE5hbWV9JywgJ1BMJywgJ2hlaWdodD00MjAsd2lkdGg9NjAwLGxlZnQ9MTAwLHRvcD0xMDAsbG9jYXRpb249MCxtZW51YmFyPTAscmVzaXphYmxlPTEsc2Nyb2xsYmFycz0wLHN0YXR1cz0wLHRpdGxlYmFyPTAsdG9vbGJhcj0wLCcpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>{
       host: 'ctback01.jar81.com',
       db: 'bm'
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIH0sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCiAgICAgIGRiOiAnYm0nCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1vbmdvZGI6IHsKICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgInN0YXJ0IjogIm5vZGVtb24gLi9iaW4vd3d3Igo=</text>
+        <text encoding="base64">ICAgICAgaG9zdDogJ2N0YmFjazAxLmphcjgxLmNvbScsCiAgICAgIGRiOiAnYm0nCg==</text>
       </register>
       <register name=":" type="4">
         <text>32</text>
