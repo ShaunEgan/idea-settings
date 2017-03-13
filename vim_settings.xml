@@ -1479,7 +1479,7 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1488972198289">
+      <file name="/fragment.java" timestamp="1489395815981">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1588,12 +1588,6 @@
         <mark key="]" line="9" column="12" />
         <mark key="." line="9" column="28" />
         <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" timestamp="1489393117931">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="46" column="73" />
-        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/traits/ScadaRepository.scala" timestamp="1476879137597">
         <mark key="[" line="7" column="0" />
