@@ -651,10 +651,11 @@
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489737090570">
-        <mark key="[" line="28" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489740603291">
+        <mark key="[" line="6" column="48" />
+        <mark key="]" line="6" column="49" />
+        <mark key="." line="6" column="49" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
@@ -1270,11 +1271,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489738245120">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489740504349">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
@@ -2238,11 +2239,11 @@
       <jump line="43" column="111" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge3twb3J0OiAoKiksIHB0c2lVcmw6ICgqKX19Cg==</text>
+      <register name="&quot;" type="4">
+        <text>run</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDate.of(2016, 12, 15), 30</text>
+        <text>run</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2281,7 +2282,7 @@
         <text encoding="base64">ICAKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2327,7 +2328,6 @@
         <entry>31</entry>
         <entry>s/\^//g</entry>
         <entry>s/\^//</entry>
-        <entry>w</entry>
         <entry>3</entry>
         <entry>set rnu</entry>
         <entry>set numbers</entry>
@@ -2337,6 +2337,7 @@
         <entry>rnr</entry>
         <entry>number</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
