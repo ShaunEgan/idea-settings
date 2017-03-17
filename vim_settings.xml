@@ -184,10 +184,10 @@
         <mark key="." line="10" column="81" />
         <mark key="^" line="10" column="80" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1488792339836">
-        <mark key="[" line="31" column="33" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1489580999191">
+        <mark key="[" line="32" column="47" />
+        <mark key="]" line="32" column="47" />
+        <mark key="." line="32" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/research/pytest/test.py" timestamp="1481609329407">
         <mark key="[" line="22" column="10" />
@@ -2199,11 +2199,11 @@
       <jump line="43" column="111" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkdlbmVyYXRpbmcgdGFyaWZmIGRhdGEiKQogICAgdmFsIHRhcmlmZkRhdGEgPSBUYXJpZmZEYXRhU2VydmljZS5nZW5lcmF0ZURhdGEoY29uc3VtZXJBY2NvdW50SWRzLCBpbnRlcnZhbHMpCgogICAgcHJpbnRsbigiR2VuZXJhdGluZyBTTEEgZGF0YSIpCiAgICB2YWwgc2xhRGF0YSA9IFNsYURhdGFTZXJ2aWNlLmdlbmVyYXRlRGF0YShjb25zdW1lckFjY291bnRJZHMsIGludGVydmFscykKCiAgICBwcmludGxuKCJHZW5lcmF0aW9uIGNvbnN1bXB0aW9uIGRhdGEiKQogICAgdmFsIGNvbnN1bXB0aW9uRGF0YSA9IENvbnN1bXB0aW9uRGF0YVNlcnZpY2UuZ2VuZXJhdGVEYXRhKGNvbnN1bWVyQWNjb3VudElkcywgaW50ZXJ2YWxzKQoKICAgIHByaW50bG4oIkdlbmVyYXRpbmcgZ2VuZXJhdGlvbiBkYXRhIikK</text>
+      <register name="&quot;" type="4">
+        <text>LocalDate.of(2016, 12, 15), 30</text>
       </register>
       <register name="-" type="4">
-        <text>date</text>
+        <text>LocalDate.of(2016, 12, 15), 30</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
