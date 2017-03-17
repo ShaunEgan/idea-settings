@@ -243,6 +243,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/circle.yml" timestamp="1489738374704">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
         <mark key="[" line="2" column="33" />
       </file>
@@ -382,6 +388,11 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1489738021536">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/slas.csv" timestamp="1481825012313">
         <mark key="[" line="0" column="300" />
@@ -640,6 +651,11 @@
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489737090570">
+        <mark key="[" line="28" column="4" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="7" column="5" />
@@ -841,10 +857,6 @@
         <mark key="]" line="7" column="4" />
         <mark key="." line="7" column="4" />
         <mark key="^" line="19" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/gulpfile.js" timestamp="1489071495908">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/circle.yml" timestamp="1484566278395">
         <mark key="[" line="18" column="0" />
@@ -1258,6 +1270,12 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489738245120">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -1452,6 +1470,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="28" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/unit.json" timestamp="1489737791224">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/Search.php" timestamp="1485324533209">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -1506,6 +1530,9 @@
       <file name="$USER_HOME$/dev/helios/src/glaucoma/handlers.js" timestamp="1488728497703">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
         <mark key="]" line="10" column="12" />
@@ -1557,6 +1584,12 @@
         <mark key="]" line="5" column="43" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/jasmine.js" timestamp="1489737741743">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="33" column="17" />
+        <mark key="^" line="33" column="17" />
+        <mark key="." line="33" column="17" />
       </file>
       <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1486450554690">
         <mark key="[" line="0" column="0" />
@@ -1873,6 +1906,9 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1489738026683">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2057,6 +2093,9 @@
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
         <mark key="[" line="7" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/index-spec.js" timestamp="1489737804463">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -2199,8 +2238,8 @@
       <jump line="43" column="111" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>LocalDate.of(2016, 12, 15), 30</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICogQHR5cGUge3twb3J0OiAoKiksIHB0c2lVcmw6ICgqKX19Cg==</text>
       </register>
       <register name="-" type="4">
         <text>LocalDate.of(2016, 12, 15), 30</text>
@@ -2212,37 +2251,37 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkdlbmVyYXRpbmcgdGFyaWZmIGRhdGEiKQogICAgdmFsIHRhcmlmZkRhdGEgPSBUYXJpZmZEYXRhU2VydmljZS5nZW5lcmF0ZURhdGEoY29uc3VtZXJBY2NvdW50SWRzLCBpbnRlcnZhbHMpCgogICAgcHJpbnRsbigiR2VuZXJhdGluZyBTTEEgZGF0YSIpCiAgICB2YWwgc2xhRGF0YSA9IFNsYURhdGFTZXJ2aWNlLmdlbmVyYXRlRGF0YShjb25zdW1lckFjY291bnRJZHMsIGludGVydmFscykKCiAgICBwcmludGxuKCJHZW5lcmF0aW9uIGNvbnN1bXB0aW9uIGRhdGEiKQogICAgdmFsIGNvbnN1bXB0aW9uRGF0YSA9IENvbnN1bXB0aW9uRGF0YVNlcnZpY2UuZ2VuZXJhdGVEYXRhKGNvbnN1bWVyQWNjb3VudElkcywgaW50ZXJ2YWxzKQoKICAgIHByaW50bG4oIkdlbmVyYXRpbmcgZ2VuZXJhdGlvbiBkYXRhIikK</text>
+        <text encoding="base64">ICogQHR5cGUge3twb3J0OiAoKiksIHB0c2lVcmw6ICgqKX19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YWwgZGF0ZSA9IExvY2FsRGF0ZS5ub3cK</text>
+        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL05vbmEtQ3JlYXRpdmUvcG93ZXJ4LWhlcm1lcy12MiNyZWFkbWUiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIGRhdGVGb3JtYXR0ZXIgVGhlIG91dHB1dCBmb3JtYXR0ZXIK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkdlbmVyYXRpbmcgdGFyaWZmIGRhdGEiKQogICAgdmFsIHRhcmlmZkRhdGEgPSBUYXJpZmZEYXRhU2VydmljZS5nZW5lcmF0ZURhdGEoY29uc3VtZXJBY2NvdW50SWRzLCBpbnRlcnZhbHMpCgogICAgcHJpbnRsbigiR2VuZXJhdGluZyBTTEEgZGF0YSIpCiAgICB2YWwgc2xhRGF0YSA9IFNsYURhdGFTZXJ2aWNlLmdlbmVyYXRlRGF0YShjb25zdW1lckFjY291bnRJZHMsIGludGVydmFscykKCiAgICBwcmludGxuKCJHZW5lcmF0aW9uIGNvbnN1bXB0aW9uIGRhdGEiKQogICAgdmFsIGNvbnN1bXB0aW9uRGF0YSA9IENvbnN1bXB0aW9uRGF0YVNlcnZpY2UuZ2VuZXJhdGVEYXRhKGNvbnN1bWVyQWNjb3VudElkcywgaW50ZXJ2YWxzKQoKICAgIHByaW50bG4oIkdlbmVyYXRpbmcgZ2VuZXJhdGlvbiBkYXRhIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZWYgZ2VuZXJhdGVEYXlJbnRlcnZhbHMoZGF0ZTogTG9jYWxEYXRlKShpbXBsaWNpdCBkYXRlRm9ybWF0dGVyOiBEYXRlVGltZUZvcm1hdHRlcik6IEluZGV4ZWRTZXFbTG9jYWxEYXRlVGltZV0gPSB7Cg==</text>
+        <text encoding="base64">ICB2YWwgZGF0ZSA9IExvY2FsRGF0ZS5ub3cK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAaW5oZXJpdGRvYyAqKi8K</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGRhdGVGb3JtYXR0ZXIgVGhlIG91dHB1dCBmb3JtYXR0ZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIGxvY2FsRGF0ZSBUaGUgZGF5IHRvIGdlbmVyYXRlIGZvcgogICAgKiBAcGFyYW0gY29uc3VtZXJBY2NvdW50SWRzIFRoZSBjb25zdW1lciBhY2NvdW50IElEcwogICAgKiBAcGFyYW0gZ2VuZXJhdG9yQWNjb3VudElkcyBUaGUgZ2VuZXJhdG9yIGFjY291bnQgSURzCiAgICAqIEBwYXJhbSBkYXRlRm9ybWF0dGVyIFRoZSBvdXRwdXQgZm9ybWF0IGZvciB0aGUgZGF0ZQogICAgKiBAcmV0dXJuCg==</text>
+        <text encoding="base64">ICBkZWYgZ2VuZXJhdGVEYXlJbnRlcnZhbHMoZGF0ZTogTG9jYWxEYXRlKShpbXBsaWNpdCBkYXRlRm9ybWF0dGVyOiBEYXRlVGltZUZvcm1hdHRlcik6IEluZGV4ZWRTZXFbTG9jYWxEYXRlVGltZV0gPSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICBAaW5oZXJpdGRvYyAqKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmFsczogSW5kZXhlZFNlcVtMb2NhbERhdGVUaW1lXQo=</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGxvY2FsRGF0ZSBUaGUgZGF5IHRvIGdlbmVyYXRlIGZvcgogICAgKiBAcGFyYW0gY29uc3VtZXJBY2NvdW50SWRzIFRoZSBjb25zdW1lciBhY2NvdW50IElEcwogICAgKiBAcGFyYW0gZ2VuZXJhdG9yQWNjb3VudElkcyBUaGUgZ2VuZXJhdG9yIGFjY291bnQgSURzCiAgICAqIEBwYXJhbSBkYXRlRm9ybWF0dGVyIFRoZSBvdXRwdXQgZm9ybWF0IGZvciB0aGUgZGF0ZQogICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGludGVydmFsczogSW5kZXhlZFNlcVtMb2NhbERhdGVUaW1lXQo=</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name=":" type="4">
-        <text>32</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -2284,7 +2323,6 @@
         <entry>24,53</entry>
         <entry>24</entry>
         <entry>25 53</entry>
-        <entry>wq</entry>
         <entry>107</entry>
         <entry>31</entry>
         <entry>s/\^//g</entry>
@@ -2298,6 +2336,7 @@
         <entry>rln</entry>
         <entry>rnr</entry>
         <entry>number</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
