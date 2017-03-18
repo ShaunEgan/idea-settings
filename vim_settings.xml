@@ -680,12 +680,12 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489753765007">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489755191709">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="37" column="10" />
-        <mark key="]" line="37" column="10" />
-        <mark key="." line="37" column="10" />
-        <mark key="^" line="37" column="11" />
+        <mark key="[" line="57" column="72" />
+        <mark key="]" line="59" column="70" />
+        <mark key="." line="59" column="70" />
+        <mark key="^" line="59" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
@@ -1285,11 +1285,10 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489753394911">
-        <mark key="[" line="4" column="59" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="47" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489755611586">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
@@ -2260,11 +2259,11 @@
       <jump line="10" column="19" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>R.type(from) === 'Date', R.type(to) === 'Date'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>R.type(from) === 'Date', R.type(to) === 'Date'</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2273,34 +2272,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCEoKWQpCg==</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByb290UGF0aCA9ICcvUG93ZXJYL1Bvd2VyWF9TZXJ2aWNlLnN2YycK</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgbWFrZUdldFJlcXVlc3QgPSB0b29scy5tYWtlR2V0UmVxdWVzdAo=</text>
+        <text encoding="base64">ICBwdHNpQ2xpZW50LmdldEdlbmVyYXRpb25EYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgICAudGhlbihkYXRhID0+IHsKICAgICAgcmVzcG9uc2Uuc2VuZChkYXRhKQogICAgICBuZXh0KCkKICAgIH0pCiAgICAuY2F0Y2goZXJyb3IgPT4gewogICAgICBuZXh0KGJhZFJlcXVlc3QoZXJyb3IpKQogICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBwdHNpQ2xpZW50LmdldEFsbEdlbmVyYXRpb25EYXRhU2luY2UyMDE0KCkKICAvLyAgIC50aGVuKGRhdGEgPT4gewogIC8vICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgLy8gICAgIG5leHQoKQogIC8vICAgfSkKICAvLyAgIC5jYXRjaChlcnJvciA9PiB7CiAgLy8gICAgIG5leHQoZXJyb3IpCiAgLy8gICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2xpZW50LmdldChgJHtyb290UGF0aH0vR2V0R2VuZXJhdGlvbkRhdGFfU2luY2VfMjAxNGAsIGhhbmRsZVByb21pc2VkUmVzcG9uc2UocmVzb2x2ZSwgcmVqZWN0KSkK</text>
+        <text encoding="base64">ICAgIGdldEFsbEdlbmVyYXRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBtYWtlR2V0UmVxdWVzdCA9IChwYXRoLCBwYXJhbWV0ZXJzLCBoYW5kbGVyKSA9PiB7CiAgICBjb25zdCB1cmwgPSBjcmVhdGVVcmwocm9vdFBhdGgsIHBhdGgsIHBhcmFtZXRlcnMpCgogICAgY2xpZW50LmdldCh1cmwsIGhhbmRsZXIpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgICAgaWYgKGRhdGVzQXJlSW52YWxpZChmcm9tLCB0bykpIHJlamVjdCgnSW52YWxpZCBkYXRlcycpCgogICAgICBtYWtlQ2xpZW50R2V0UmVxdWVzdCgnL0dldENvbnN1bWVyQ29uc3VtcHRpb25EYXRhJywgewogICAgICAgIENvbnN1bWVySWRlbnRpZmllcjogY29uc3VtZXIsCiAgICAgICAgU3RhcnREYXRlOiBmb3JtYXREYXRlKGZyb20pLAogICAgICAgIEVuZERhdGU6IGZvcm1hdERhdGUodG8pCiAgICAgIH0sIGhhbmRsZVByb21pc2VkUmVzcG9uc2UocmVzb2x2ZSwgcmVqZWN0KSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBoYW5kbGVQcm9taXNlZFJlc3BvbnNlID0gKHJlc29sdmUsIHJlamVjdCkgPT4gKGVycm9yLCByZXF1ZXN0LCByZXNwb25zZSwgZGF0YSkgPT4gewogICAgaWYgKGVycm9yKSByZWplY3QoZXJyb3IpCiAgICBlbHNlIHJlc29sdmUoZGF0YSkKICB9Cgo=</text>
+        <text encoding="base64">ICAgIGlmIChwdHNpUGFyYW1ldGVySXNJbnZhbGlkKGNvbnN1bWVyKSkgcmVqZWN0KCdObyBjb25zdW1lciBzcGVjaWZpZWQnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
