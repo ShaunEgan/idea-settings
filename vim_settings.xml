@@ -541,6 +541,7 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="21" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/brand-repository.js" timestamp="1489939263603" />
       <file name="$USER_HOME$/repositories/poslux-node/.elasticbeanstalk/config.yml" timestamp="1489074556337">
         <mark key="[" line="2" column="17" />
       </file>
@@ -742,7 +743,7 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="49" column="34" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/logs-repository.js" timestamp="1487065259733">
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/logs-repository.js" timestamp="1489939239716">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="31" column="31" />
         <mark key="." line="31" column="31" />
@@ -1123,7 +1124,7 @@
         <mark key="]" line="4" column="6" />
         <mark key="." line="4" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/app.js" timestamp="1487066042215">
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/app.js" timestamp="1489939208352">
         <mark key="[" line="10" column="2" />
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
@@ -1409,7 +1410,6 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="40" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/config.js" timestamp="1489913307706" />
       <file name="$USER_HOME$/repositories/powerx/simulator/.gitignore" timestamp="1481794256610">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="7" column="7" />
@@ -1976,7 +1976,6 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/node_modules/restify/lib/index.js" timestamp="1489913780661" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1487746143756">
         <mark key="[" line="175" column="29" />
         <mark key="]" line="177" column="38" />
