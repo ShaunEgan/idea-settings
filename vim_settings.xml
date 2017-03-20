@@ -541,7 +541,6 @@
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/brand-repository.js" timestamp="1489939263603" />
       <file name="$USER_HOME$/repositories/poslux-node/.elasticbeanstalk/config.yml" timestamp="1489074556337">
         <mark key="[" line="2" column="17" />
       </file>
@@ -659,10 +658,10 @@
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489741419026">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489987721084">
+        <mark key="[" line="6" column="59" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
@@ -681,9 +680,9 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489755191709">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489987862201">
         <mark key="'" line="10" column="19" />
-        <mark key="[" line="57" column="72" />
+        <mark key="[" line="59" column="72" />
         <mark key="]" line="59" column="70" />
         <mark key="." line="59" column="70" />
         <mark key="^" line="59" column="70" />
