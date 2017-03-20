@@ -680,12 +680,9 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489987862201">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489992223306">
         <mark key="'" line="10" column="19" />
         <mark key="[" line="59" column="72" />
-        <mark key="]" line="59" column="70" />
-        <mark key="." line="59" column="70" />
-        <mark key="^" line="59" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
