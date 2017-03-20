@@ -448,12 +448,6 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1489999070943">
-        <mark key="[" line="64" column="100" />
-        <mark key="]" line="86" column="22" />
-        <mark key="." line="86" column="22" />
-        <mark key="^" line="86" column="131" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaRepository.scala" timestamp="1480508473567">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="6" column="99" />
@@ -511,12 +505,6 @@
       </file>
       <file name="/Dummy.scala" timestamp="1481823117628">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1490000454042">
-        <mark key="[" line="32" column="102" />
-        <mark key="]" line="130" column="46" />
-        <mark key="." line="130" column="46" />
-        <mark key="^" line="130" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
@@ -750,10 +738,7 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490000329336">
-        <mark key="[" line="74" column="20" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="118" column="1" />
-        <mark key="." line="75" column="0" />
+        <mark key="^" line="107" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
         <mark key="[" line="88" column="32" />
@@ -1588,10 +1573,9 @@
         <mark key="^" line="101" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490000558411">
-        <mark key="[" line="63" column="25" />
-        <mark key="]" line="145" column="11" />
-        <mark key="." line="145" column="11" />
-        <mark key="^" line="145" column="11" />
+        <mark key="]" line="137" column="11" />
+        <mark key="." line="137" column="11" />
+        <mark key="^" line="137" column="11" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma/repository.js" timestamp="1488728413474">
         <mark key="[" line="5" column="43" />
@@ -1794,13 +1778,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1489998754107">
-        <mark key="'" line="41" column="132" />
-        <mark key="[" line="41" column="132" />
-        <mark key="]" line="41" column="136" />
-        <mark key="." line="41" column="136" />
-        <mark key="^" line="41" column="136" />
-      </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1974,9 +1951,6 @@
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490000483267">
         <mark key="[" line="62" column="102" />
-        <mark key="]" line="150" column="46" />
-        <mark key="." line="150" column="46" />
-        <mark key="^" line="150" column="33" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
