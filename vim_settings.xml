@@ -86,11 +86,11 @@
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit/test.js" timestamp="1488358670765">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/shaun-test.php" timestamp="1489995050385">
-        <mark key="[" line="34" column="37" />
-        <mark key="]" line="34" column="37" />
-        <mark key="." line="34" column="37" />
-        <mark key="^" line="34" column="39" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/shaun-test.php" timestamp="1489999146396">
+        <mark key="[" line="32" column="111" />
+        <mark key="]" line="32" column="111" />
+        <mark key="." line="32" column="111" />
+        <mark key="^" line="32" column="110" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/views/layouts/main.handlebars" timestamp="1486379484328">
         <mark key="[" line="18" column="0" />
@@ -443,8 +443,8 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1489995201524">
-        <mark key="[" line="64" column="56" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1489999070943">
+        <mark key="[" line="64" column="100" />
         <mark key="]" line="86" column="22" />
         <mark key="." line="86" column="22" />
         <mark key="^" line="86" column="131" />
@@ -507,11 +507,11 @@
       <file name="/Dummy.scala" timestamp="1481823117628">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1489994263478">
-        <mark key="[" line="124" column="73" />
-        <mark key="]" line="145" column="21" />
-        <mark key="." line="145" column="21" />
-        <mark key="^" line="145" column="21" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1489998579026">
+        <mark key="[" line="127" column="46" />
+        <mark key="]" line="127" column="46" />
+        <mark key="." line="127" column="46" />
+        <mark key="^" line="127" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
@@ -744,11 +744,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1489994026050">
-        <mark key="[" line="38" column="41" />
-        <mark key="]" line="87" column="27" />
-        <mark key="^" line="38" column="12" />
-        <mark key="." line="87" column="27" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1489998798350">
+        <mark key="[" line="74" column="20" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="118" column="1" />
+        <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
         <mark key="[" line="88" column="32" />
@@ -1308,10 +1308,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1479792840520">
-        <mark key="[" line="7" column="103" />
-        <mark key="]" line="7" column="103" />
-        <mark key="." line="7" column="103" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1489998355299">
+        <mark key="[" line="0" column="212" />
+        <mark key="]" line="0" column="257" />
+        <mark key="." line="0" column="257" />
+        <mark key="^" line="0" column="257" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/SimulatorLib/library/House.scala" timestamp="1481527099150">
         <mark key="[" line="2" column="0" />
@@ -1581,8 +1582,8 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1489994435362">
-        <mark key="[" line="106" column="58" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1489999151243">
+        <mark key="[" line="106" column="102" />
         <mark key="]" line="141" column="11" />
         <mark key="." line="141" column="11" />
         <mark key="^" line="141" column="11" />
@@ -1788,11 +1789,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1489993964585">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="31" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="31" column="31" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1489998754107">
+        <mark key="'" line="41" column="132" />
+        <mark key="[" line="41" column="132" />
+        <mark key="]" line="41" column="136" />
+        <mark key="." line="41" column="136" />
+        <mark key="^" line="41" column="136" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
@@ -1965,11 +1967,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1489994312342">
-        <mark key="[" line="148" column="73" />
-        <mark key="]" line="177" column="38" />
-        <mark key="." line="177" column="38" />
-        <mark key="^" line="177" column="38" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1489998586425">
+        <mark key="[" line="149" column="46" />
+        <mark key="]" line="149" column="46" />
+        <mark key="." line="149" column="46" />
+        <mark key="^" line="149" column="33" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -2143,9 +2145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/dev/svc-user/README" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/svc-user/README" />
-      <jump line="48" column="2" filename="$USER_HOME$/dev/svc-user/README" />
       <jump line="41" column="88" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-user/conf/application.conf" />
       <jump line="13" column="35" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" />
@@ -2243,13 +2242,16 @@
       <jump line="5" column="59" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient.js" />
       <jump line="10" column="19" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" />
+      <jump line="42" column="29" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
+      <jump line="33" column="22" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
+      <jump line="41" column="132" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Egan</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>Egan</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2258,34 +2260,34 @@
         <text encoding="base64">ICBhcHBsaWNhdGlvbl9uYW1lOiB5b3VyLWFwcGxpY2F0aW9uLW5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgJ2xvY2F0aW9uJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
+        <text encoding="base64">Ly8gIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVVc2VyKGludCAkaWQsIHN0cmluZyAkZmlyc3ROYW1lLCBzdHJpbmcgJGxhc3ROYW1lLCBzdHJpbmcgJGpvYlRpdGxlLCBzdHJpbmcgJGRlc2NyaXB0aW9uLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlICRsYXRpdHVkZSwgZG91YmxlICRsb25naXR1ZGUpCi8vICB7Ci8vICAgIAovLyAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdHNpQ2xpZW50LmdldEdlbmVyYXRpb25EYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgICAudGhlbihkYXRhID0+IHsKICAgICAgcmVzcG9uc2Uuc2VuZChkYXRhKQogICAgICBuZXh0KCkKICAgIH0pCiAgICAuY2F0Y2goZXJyb3IgPT4gewogICAgICBuZXh0KGJhZFJlcXVlc3QoZXJyb3IpKQogICAgfSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBwdHNpQ2xpZW50LmdldEFsbEdlbmVyYXRpb25EYXRhU2luY2UyMDE0KCkKICAvLyAgIC50aGVuKGRhdGEgPT4gewogIC8vICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgLy8gICAgIG5leHQoKQogIC8vICAgfSkKICAvLyAgIC5jYXRjaChlcnJvciA9PiB7CiAgLy8gICAgIG5leHQoZXJyb3IpCiAgLy8gICB9KQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdldEFsbEdlbmVyYXRpb24K</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGVzQXJlSW52YWxpZChmcm9tLCB0bykpIHJlamVjdCgnSW52YWxpZCBkYXRlcycpCgogICAgICBtYWtlQ2xpZW50R2V0UmVxdWVzdCgnL0dldENvbnN1bWVyQ29uc3VtcHRpb25EYXRhJywgewogICAgICAgIENvbnN1bWVySWRlbnRpZmllcjogY29uc3VtZXIsCiAgICAgICAgU3RhcnREYXRlOiBmb3JtYXREYXRlKGZyb20pLAogICAgICAgIEVuZERhdGU6IGZvcm1hdERhdGUodG8pCiAgICAgIH0sIGhhbmRsZVByb21pc2VkUmVzcG9uc2UocmVzb2x2ZSwgcmVqZWN0KSkK</text>
+        <text encoding="base64">ICAgIC50aGVuKGRhdGEgPT4gewogICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgICAgIG5leHQoKQogICAgfSkKICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgIG5leHQoYmFkUmVxdWVzdChlcnJvcikpCiAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChwdHNpUGFyYW1ldGVySXNJbnZhbGlkKGNvbnN1bWVyKSkgcmVqZWN0KCdObyBjb25zdW1lciBzcGVjaWZpZWQnKQo=</text>
+        <text encoding="base64">ICBwdHNpQ2xpZW50LmdldEdlbmVyYXRpb25EYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgICAudGhlbihkYXRhID0+IHsKICAgICAgcmVzcG9uc2Uuc2VuZChkYXRhKQogICAgICBuZXh0KCkKICAgIH0pCiAgICAuY2F0Y2goZXJyb3IgPT4gewogICAgICBuZXh0KGJhZFJlcXVlc3QoZXJyb3IpKQogICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBwdHNpQ2xpZW50LmdldEFsbEdlbmVyYXRpb25EYXRhU2luY2UyMDE0KCkKICAvLyAgIC50aGVuKGRhdGEgPT4gewogIC8vICAgICByZXNwb25zZS5zZW5kKGRhdGEpCiAgLy8gICAgIG5leHQoKQogIC8vICAgfSkKICAvLyAgIC5jYXRjaChlcnJvciA9PiB7CiAgLy8gICAgIG5leHQoZXJyb3IpCiAgLy8gICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2384,6 +2386,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
