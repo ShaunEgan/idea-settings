@@ -1802,6 +1802,11 @@
       <file name="$USER_HOME$/dev/helios/example/test.js" timestamp="1487164603786">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/pink-team/doc/workflow.md" timestamp="1490101822041">
+        <mark key="[" line="12" column="37" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/aws-lambda-router/src/router.js" timestamp="1488272269369">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2305,7 +2310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2359,8 +2364,8 @@
         <entry>rln</entry>
         <entry>rnr</entry>
         <entry>number</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
