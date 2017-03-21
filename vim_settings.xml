@@ -394,12 +394,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1489753276538">
-        <mark key="'" line="5" column="59" />
-        <mark key="[" line="9" column="49" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/slas.csv" timestamp="1481825012313">
         <mark key="[" line="0" column="300" />
       </file>
@@ -676,10 +670,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1489992223306">
-        <mark key="'" line="10" column="19" />
-        <mark key="[" line="59" column="72" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
         <mark key="]" line="8" column="26" />
@@ -828,7 +818,7 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1486450515620">
+      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1490119224479">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/model.js" timestamp="1488725198265">
@@ -1238,7 +1228,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1486450506637">
+      <file name="/HTML File.txt.ft" timestamp="1490119259155">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/practice-repository.js" timestamp="1488284487151">
@@ -1426,11 +1416,12 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490085944543">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="29" column="22" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490120932006">
+        <mark key="'" line="70" column="18" />
+        <mark key="[" line="69" column="20" />
+        <mark key="]" line="69" column="20" />
+        <mark key="." line="69" column="20" />
+        <mark key="^" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -1561,6 +1552,12 @@
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/handler.js" timestamp="1490120943862">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -2171,8 +2168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="35" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" />
-      <jump line="11" column="2" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/EldoScadaRepository.scala" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
@@ -2271,13 +2266,15 @@
       <jump line="41" column="132" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
       <jump line="50" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
+      <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_insert 4th value_</text>
+        <text>$</text>
       </register>
       <register name="-" type="4">
-        <text>_insert 4th value_</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2292,28 +2289,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0d286CiAgICBoYW5kbGVyOiBzcmMvdHdvL2hhbmRsZXIudHdvCiAgICBwYWNrYWdlOgogICAgICBpbmNsdWRlOgogICAgICAgIC0gc3JjL3R3by8qKgogICAgZXZlbnRzOgogICAgICAtCg==</text>
+        <text encoding="base64">ICAgIGV2ZW50czoKICAgICAgLSBodHRwOiBnZXQgdG9wLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb250ZXh0LnN1Y2NlZWQoewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICBtZXNzYWdlOiAnVG9wIGxldmVsIGZ1bmN0aW9uJywKICAgICAgaW5wdXQ6IGV2ZW50LAogICAgfSksCiAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JHNlYXJjaFNlcnZpY2UKICAtPmdldFBvc3QoJHBvc3QtPmdldElkKCkpCiAgLT5nZXRUaXRsZSgpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB0d286CiAgICBoYW5kbGVyOiBzcmMvdHdvL2hhbmRsZXIudHdvCiAgICBwYWNrYWdlOgogICAgICBpbmNsdWRlOgogICAgICAgIC0gc3JjL3R3by8qKgogICAgZXZlbnRzOgogICAgICAtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJ2xvY2F0aW9uLionCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ2xvY2F0aW9uJwo=</text>
+        <text encoding="base64">bGV0IHggPSAxCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gIHB1YmxpYyBmdW5jdGlvbiBjcmVhdGVVc2VyKGludCAkaWQsIHN0cmluZyAkZmlyc3ROYW1lLCBzdHJpbmcgJGxhc3ROYW1lLCBzdHJpbmcgJGpvYlRpdGxlLCBzdHJpbmcgJGRlc2NyaXB0aW9uLAovLyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZG91YmxlICRsYXRpdHVkZSwgZG91YmxlICRsb25naXR1ZGUpCi8vICB7Ci8vICAgIAovLyAgfQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">JHNlYXJjaFNlcnZpY2UKICAtPmdldFBvc3QoJHBvc3QtPmdldElkKCkpCiAgLT5nZXRUaXRsZSgpOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2xvY2F0aW9uLionCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

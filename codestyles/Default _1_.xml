@@ -3,6 +3,7 @@
   <option name="JD_ALIGN_EXCEPTION_COMMENTS" value="false" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JSCodeStyleSettings>
+    <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
