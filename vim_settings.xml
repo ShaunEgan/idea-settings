@@ -1719,6 +1719,11 @@
         <mark key="." line="9" column="28" />
         <mark key="^" line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1490101522624">
+        <mark key="[" line="17" column="3" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
         <mark key="]" line="46" column="2" />
@@ -2257,11 +2262,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>_insert 4th value_</text>
       </register>
       <register name="-" type="4">
-        <text>getLatitude</text>
+        <text>_insert 4th value_</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
