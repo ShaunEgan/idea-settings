@@ -203,10 +203,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1490184236672">
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1490185902984">
+        <mark key="[" line="18" column="2" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Consumer.scala" timestamp="1481091346755">
         <mark key="[" line="5" column="0" />
@@ -747,11 +747,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490184684956">
-        <mark key="[" line="88" column="19" />
-        <mark key="]" line="88" column="19" />
-        <mark key="^" line="107" column="1" />
-        <mark key="." line="88" column="19" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490185607032">
+        <mark key="[" line="101" column="6" />
+        <mark key="]" line="101" column="6" />
+        <mark key="^" line="97" column="9" />
+        <mark key="." line="101" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
         <mark key="[" line="88" column="32" />
@@ -2017,8 +2017,8 @@
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490183893586">
-        <mark key="[" line="56" column="16" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490185943426">
+        <mark key="[" line="18" column="0" />
         <mark key="]" line="56" column="16" />
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="15" />
@@ -2281,10 +2281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>'lastName'</text>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>'lastName'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
