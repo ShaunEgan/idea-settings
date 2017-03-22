@@ -1140,6 +1140,9 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="9" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/circle.yml" timestamp="1490200455909">
+        <mark key="[" line="8" column="92" />
+      </file>
       <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488726480776">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="59" />
@@ -1602,8 +1605,8 @@
         <mark key="^" line="96" column="18" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1485857319072">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1490200160359">
+        <mark key="[" line="16" column="30" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="67" />
