@@ -109,6 +109,9 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/.gitignore" timestamp="1490176210021">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/SampleRepository/CsvSampleRepositoryTest.scala" timestamp="1481825798680">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="25" />
@@ -253,6 +256,11 @@
         <mark key="]" line="5" column="21" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/sonar-project.properties" timestamp="1490176384100">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
         <mark key="[" line="2" column="33" />
@@ -1062,7 +1070,6 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/top/handler.js" timestamp="1490085731102" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/test.php" timestamp="1485241326956">
         <mark key="[" line="6" column="22" />
         <mark key="]" line="12" column="0" />
@@ -1223,10 +1230,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactoryTest.php" timestamp="1485844764937">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactoryTest.php" timestamp="1490176737785">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1490119259155">
         <mark key="[" line="0" column="0" />
@@ -1354,6 +1361,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490176126780">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
         <mark key="[" line="17" column="6" />
@@ -2270,11 +2282,11 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2289,28 +2301,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV2ZW50czoKICAgICAgLSBodHRwOiBnZXQgdG9wLwo=</text>
+        <text encoding="base64">dmFyICRhID0gMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250ZXh0LnN1Y2NlZWQoewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoewogICAgICBtZXNzYWdlOiAnVG9wIGxldmVsIGZ1bmN0aW9uJywKICAgICAgaW5wdXQ6IGV2ZW50LAogICAgfSksCiAgfSk7Cg==</text>
+        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBFbmNvZGluZyBvZiB0aGUgc291cmNlIGNvZGUuIERlZmF1bHQgaXMgZGVmYXVsdCBzeXN0ZW0gZW5jb2RpbmcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0d286CiAgICBoYW5kbGVyOiBzcmMvdHdvL2hhbmRsZXIudHdvCiAgICBwYWNrYWdlOgogICAgICBpbmNsdWRlOgogICAgICAgIC0gc3JjL3R3by8qKgogICAgZXZlbnRzOgogICAgICAtCg==</text>
+        <text encoding="base64">IyBQYXRoIGlzIHJlbGF0aXZlIHRvIHRoZSBzb25hci1wcm9qZWN0LnByb3BlcnRpZXMgZmlsZS4gUmVwbGFjZSAiXCIgYnkgIi8iIG9uIFdpbmRvd3MuCiMgU2luY2UgU29uYXJRdWJlIDQuMiwgdGhpcyBwcm9wZXJ0eSBpcyBvcHRpb25hbCBpZiBzb25hci5tb2R1bGVzIGlzIHNldC4KIyBJZiBub3Qgc2V0LCBTb25hclF1YmUgc3RhcnRzIGxvb2tpbmcgZm9yIHNvdXJjZSBjb2RlIGZyb20gdGhlIGRpcmVjdG9yeSBjb250YWluaW5nCiMgdGhlIHNvbmFyLXByb2plY3QucHJvcGVydGllcyBmaWxlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyB0aGlzIGlzIHRoZSBuYW1lIGRpc3BsYXllZCBpbiB0aGUgU29uYXJRdWJlIFVJCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">IyBtdXN0IGJlIHVuaXF1ZSBpbiBhIGdpdmVuIFNvbmFyUXViZSBpbnN0YW5jZQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JHNlYXJjaFNlcnZpY2UKICAtPmdldFBvc3QoJHBvc3QtPmdldElkKCkpCiAgLT5nZXRUaXRsZSgpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">IyBtdXN0IGJlIHVuaXF1ZSBpbiBhIGdpdmVuIFNvbmFyUXViZSBpbnN0YW5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2xvY2F0aW9uLionCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

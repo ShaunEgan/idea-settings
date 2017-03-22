@@ -3,8 +3,8 @@
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
-          <token>dfcedf9ddf98dfc8dfcedf98dfccdfcbdfc9df9edfc8dfc8dfc8df9cdfcbdfc8df9edf9edf98df9bdf9cdf99df9fdf92dfcfdfc9dfcbdf9adfcbdfcbdf99df99dfcbdf9ddf9fdf9cdf9fdfc9dfcfdf9c</token>
-          <option name="hostUrl" value="http://192.168.99.100:9000" />
+          <option name="hostUrl" value="http://localhost:9000" />
+          <token>dfcbdfcbdf92df93df9bdf9cdf93df93dfccdfccdf92df98df9bdf92dfcbdfcbdf9fdfcfdf93df93df98dfcfdfccdfcedf9adfcfdf9edf99dfcedf98df9ddf9adf9adf99df9adfccdf93df98df98df9a</token>
           <option name="name" value="docker sonarqube" />
         </SonarQubeServer>
       </list>
