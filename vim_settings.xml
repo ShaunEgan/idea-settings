@@ -257,10 +257,10 @@
         <mark key="^" line="5" column="21" />
         <mark key="." line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/sonar-project.properties" timestamp="1490182451551">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/sonar-project.properties" timestamp="1490191422978">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
         <mark key="[" line="2" column="33" />
@@ -1162,11 +1162,11 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1485238515968">
-        <mark key="[" line="14" column="20" />
-        <mark key="]" line="25" column="13" />
-        <mark key="^" line="25" column="13" />
-        <mark key="." line="25" column="13" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1490191364628">
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="21" />
+        <mark key="^" line="26" column="20" />
+        <mark key="." line="26" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/Digest.js" timestamp="1480672205768">
         <mark key="[" line="16" column="16" />
@@ -1613,6 +1613,12 @@
         <mark key="]" line="101" column="26" />
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490193096306">
+        <mark key="[" line="177" column="37" />
+        <mark key="]" line="177" column="37" />
+        <mark key="." line="177" column="37" />
+        <mark key="^" line="177" column="38" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma/repository.js" timestamp="1488728413474">
         <mark key="[" line="5" column="43" />
@@ -2281,10 +2287,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'lastName'</text>
+        <text>new Post(1, 'title', 'body', [], [], 0.0, 0.0)</text>
       </register>
       <register name="-" type="4">
-        <text>'lastName'</text>
+        <text>new Post(1, 'title', 'body', [], [], 0.0, 0.0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
