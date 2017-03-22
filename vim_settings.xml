@@ -1182,8 +1182,10 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1490201690816">
-        <mark key="[" line="18" column="1" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1490202353102">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/Buildings.scala" timestamp="1481099170182">
         <mark key="[" line="17" column="64" />
@@ -2299,8 +2301,8 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updated</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIHNob3VsZCBnZW5lcmF0ZSBhIHNob3J0bmVzcyBlcnJvcgogICAgJGkgPSAxOwogICAgLy8gc2lkZSBlZmZlY3Q/CiAgICBlY2hvICRpOwoK</text>
       </register>
       <register name="-" type="4">
         <text>updated</text>
@@ -2312,34 +2314,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjIKICogVGltZTogNToyMyBQTQogKi8K</text>
+        <text encoding="base64">ICAgIC8vIHNob3VsZCBnZW5lcmF0ZSBhIHNob3J0bmVzcyBlcnJvcgogICAgJGkgPSAxOwogICAgLy8gc2lkZSBlZmZlY3Q/CiAgICBlY2hvICRpOwoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjIKICogVGltZTogNToyMyBQTQogKi8K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVmaW5lKFRJVExFLCAndGl0bGUnKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVmaW5lKFRJVExFLCAndGl0bGUnKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyICRhID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
+        <text encoding="base64">dmFyICRhID0gMTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBFbmNvZGluZyBvZiB0aGUgc291cmNlIGNvZGUuIERlZmF1bHQgaXMgZGVmYXVsdCBzeXN0ZW0gZW5jb2RpbmcK</text>
+        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBQYXRoIGlzIHJlbGF0aXZlIHRvIHRoZSBzb25hci1wcm9qZWN0LnByb3BlcnRpZXMgZmlsZS4gUmVwbGFjZSAiXCIgYnkgIi8iIG9uIFdpbmRvd3MuCiMgU2luY2UgU29uYXJRdWJlIDQuMiwgdGhpcyBwcm9wZXJ0eSBpcyBvcHRpb25hbCBpZiBzb25hci5tb2R1bGVzIGlzIHNldC4KIyBJZiBub3Qgc2V0LCBTb25hclF1YmUgc3RhcnRzIGxvb2tpbmcgZm9yIHNvdXJjZSBjb2RlIGZyb20gdGhlIGRpcmVjdG9yeSBjb250YWluaW5nCiMgdGhlIHNvbmFyLXByb2plY3QucHJvcGVydGllcyBmaWxlLgo=</text>
+        <text encoding="base64">IyBFbmNvZGluZyBvZiB0aGUgc291cmNlIGNvZGUuIERlZmF1bHQgaXMgZGVmYXVsdCBzeXN0ZW0gZW5jb2RpbmcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
