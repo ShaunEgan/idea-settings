@@ -1614,11 +1614,11 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490193096306">
-        <mark key="[" line="177" column="37" />
-        <mark key="]" line="177" column="37" />
-        <mark key="." line="177" column="37" />
-        <mark key="^" line="177" column="38" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490195284067">
+        <mark key="[" line="122" column="2" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="122" column="14" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma/repository.js" timestamp="1488728413474">
         <mark key="[" line="5" column="43" />
@@ -2286,11 +2286,11 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>new Post(1, 'title', 'body', [], [], 0.0, 0.0)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>new Post(1, 'title', 'body', [], [], 0.0, 0.0)</text>
+        <text>searchPosts</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2305,28 +2305,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmaW5lKFRJVExFLCAndGl0bGUnKQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZGVmaW5lKFRJVExFLCAndGl0bGUnKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyICRhID0gMTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
+        <text encoding="base64">dmFyICRhID0gMTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBFbmNvZGluZyBvZiB0aGUgc291cmNlIGNvZGUuIERlZmF1bHQgaXMgZGVmYXVsdCBzeXN0ZW0gZW5jb2RpbmcK</text>
+        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBQYXRoIGlzIHJlbGF0aXZlIHRvIHRoZSBzb25hci1wcm9qZWN0LnByb3BlcnRpZXMgZmlsZS4gUmVwbGFjZSAiXCIgYnkgIi8iIG9uIFdpbmRvd3MuCiMgU2luY2UgU29uYXJRdWJlIDQuMiwgdGhpcyBwcm9wZXJ0eSBpcyBvcHRpb25hbCBpZiBzb25hci5tb2R1bGVzIGlzIHNldC4KIyBJZiBub3Qgc2V0LCBTb25hclF1YmUgc3RhcnRzIGxvb2tpbmcgZm9yIHNvdXJjZSBjb2RlIGZyb20gdGhlIGRpcmVjdG9yeSBjb250YWluaW5nCiMgdGhlIHNvbmFyLXByb2plY3QucHJvcGVydGllcyBmaWxlLgo=</text>
+        <text encoding="base64">IyBFbmNvZGluZyBvZiB0aGUgc291cmNlIGNvZGUuIERlZmF1bHQgaXMgZGVmYXVsdCBzeXN0ZW0gZW5jb2RpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyB0aGlzIGlzIHRoZSBuYW1lIGRpc3BsYXllZCBpbiB0aGUgU29uYXJRdWJlIFVJCg==</text>
+        <text encoding="base64">IyBQYXRoIGlzIHJlbGF0aXZlIHRvIHRoZSBzb25hci1wcm9qZWN0LnByb3BlcnRpZXMgZmlsZS4gUmVwbGFjZSAiXCIgYnkgIi8iIG9uIFdpbmRvd3MuCiMgU2luY2UgU29uYXJRdWJlIDQuMiwgdGhpcyBwcm9wZXJ0eSBpcyBvcHRpb25hbCBpZiBzb25hci5tb2R1bGVzIGlzIHNldC4KIyBJZiBub3Qgc2V0LCBTb25hclF1YmUgc3RhcnRzIGxvb2tpbmcgZm9yIHNvdXJjZSBjb2RlIGZyb20gdGhlIGRpcmVjdG9yeSBjb250YWluaW5nCiMgdGhlIHNvbmFyLXByb2plY3QucHJvcGVydGllcyBmaWxlLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBtdXN0IGJlIHVuaXF1ZSBpbiBhIGdpdmVuIFNvbmFyUXViZSBpbnN0YW5jZQo=</text>
+        <text encoding="base64">IyB0aGlzIGlzIHRoZSBuYW1lIGRpc3BsYXllZCBpbiB0aGUgU29uYXJRdWJlIFVJCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
