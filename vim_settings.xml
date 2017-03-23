@@ -1140,7 +1140,7 @@
         <mark key="." line="10" column="31" />
         <mark key="^" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/circle.yml" timestamp="1490200455909">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/circle.yml" timestamp="1490263221720">
         <mark key="[" line="8" column="92" />
       </file>
       <file name="$USER_HOME$/dev/helios/package.json" timestamp="1488726480776">
@@ -1171,7 +1171,7 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="37" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1490191364628">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1490263204295">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="21" />
         <mark key="^" line="26" column="20" />
@@ -1845,7 +1845,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1490196236440" />
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
         <mark key="[" line="0" column="0" />
       </file>
