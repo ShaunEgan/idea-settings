@@ -21,6 +21,11 @@
         <mark key="." line="11" column="36" />
         <mark key="^" line="11" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexSpecifier.php" timestamp="1490357873166">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Maculopathy.scala" timestamp="1477636247314">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="16" column="42" />
@@ -122,6 +127,11 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490358388218">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
@@ -1286,10 +1296,10 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490357360434">
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="37" />
-        <mark key="." line="38" column="37" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490358122079">
+        <mark key="[" line="35" column="131" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
         <mark key="^" line="34" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
@@ -1508,11 +1518,11 @@
         <mark key="." line="101" column="26" />
         <mark key="^" line="101" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490195284067">
-        <mark key="[" line="122" column="2" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="122" column="14" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1490358253232">
+        <mark key="[" line="56" column="29" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="132" column="14" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma/repository.js" timestamp="1488728413474">
         <mark key="[" line="5" column="43" />
@@ -2109,8 +2119,8 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Roy</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoyNiBQTQogKi8K</text>
       </register>
       <register name="-" type="4">
         <text>Roy</text>
@@ -2122,34 +2132,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoyNiBQTQogKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBGSUVMRF9MQVNUX05BTUVfTUVUQVBIT05FCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoxNyBQTQogKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICBjb25zdCBGSUVMRF9MQVNUX05BTUVfTUVUQVBIT05FCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2VsZjo6RklFTERfRlVMTF9OQU1FID0+IFsKICAgICAgICAndHlwZScgPT4gJ3RleHQnCiAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
