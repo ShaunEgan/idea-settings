@@ -759,8 +759,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490185607032">
-        <mark key="[" line="101" column="6" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490346523942">
+        <mark key="[" line="106" column="24" />
         <mark key="]" line="101" column="6" />
         <mark key="^" line="97" column="9" />
         <mark key="." line="101" column="6" />
