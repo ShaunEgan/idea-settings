@@ -151,6 +151,12 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/vendor/nona/elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" timestamp="1490340484647">
+        <mark key="[" line="37" column="31" />
+        <mark key="]" line="37" column="31" />
+        <mark key="." line="37" column="31" />
+        <mark key="^" line="37" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocator.scala" timestamp="1480330422576">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -2043,11 +2049,10 @@
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490185943426">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="56" column="16" />
-        <mark key="." line="56" column="16" />
-        <mark key="^" line="56" column="15" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490339993386">
+        <mark key="[" line="122" column="9" />
+        <mark key="]" line="122" column="9" />
+        <mark key="." line="122" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
         <mark key="[" line="41" column="62" />
@@ -2306,11 +2311,11 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAogICAgICAgIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgfSAK</text>
+      <register name="&quot;" type="4">
+        <text>analysisSettings</text>
       </register>
       <register name="-" type="4">
-        <text>updated</text>
+        <text>analysisSettings</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2319,34 +2324,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAogICAgICAgIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgfSAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHNob3VsZCBnZW5lcmF0ZSBhIHNob3J0bmVzcyBlcnJvcgogICAgJGkgPSAxOwogICAgLy8gc2lkZSBlZmZlY3Q/CiAgICBlY2hvICRpOwoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjIKICogVGltZTogNToyMyBQTQogKi8K</text>
+      <register name="3" type="4">
+        <text encoding="base64">JGFuYWx5c2lzU2V0dGluZ3MgPSAkdGhpcy0+Z2V0QW5hbHlzaXNTZXR0aW5ncygpOwogICAgaWYgKCRhbmFseXNpc1NldHRpbmdzICE9IFtdKSB7</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImFuYWx5c2lzIiA9PiBbCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmaW5lKFRJVExFLCAndGl0bGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIAogICAgICAgIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgfSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHNob3VsZCBnZW5lcmF0ZSBhIHNob3J0bmVzcyBlcnJvcgogICAgJGkgPSAxOwogICAgLy8gc2lkZSBlZmZlY3Q/CiAgICBlY2hvICRpOwoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyICRhID0gMTsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjIKICogVGltZTogNToyMyBQTQogKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I3NvbmFyLnNvdXJjZUVuY29kaW5nPVVURi04Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2359,7 +2364,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
