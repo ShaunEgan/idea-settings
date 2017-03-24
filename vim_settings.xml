@@ -1286,11 +1286,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490351517899">
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="6" />
-        <mark key="." line="37" column="6" />
-        <mark key="^" line="37" column="6" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490354206889">
+        <mark key="[" line="34" column="84" />
+        <mark key="]" line="34" column="84" />
+        <mark key="." line="34" column="84" />
+        <mark key="^" line="34" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
         <mark key="[" line="17" column="6" />
@@ -2110,10 +2110,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>shaun</text>
+        <text>coffee</text>
       </register>
       <register name="-" type="4">
-        <text>shaun</text>
+        <text>coffee</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
