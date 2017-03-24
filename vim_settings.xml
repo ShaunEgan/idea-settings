@@ -1188,11 +1188,6 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1490202353102">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/Buildings.scala" timestamp="1481099170182">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="64" />
@@ -2028,8 +2023,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490000483267">
-        <mark key="[" line="62" column="102" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490343636714">
+        <mark key="[" line="195" column="39" />
+        <mark key="]" line="196" column="26" />
+        <mark key="." line="196" column="26" />
+        <mark key="^" line="196" column="26" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -2049,10 +2047,10 @@
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490339993386">
-        <mark key="[" line="122" column="9" />
-        <mark key="]" line="122" column="9" />
-        <mark key="." line="122" column="9" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490341520254">
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="121" column="9" />
+        <mark key="." line="121" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
         <mark key="[" line="41" column="62" />
@@ -2312,10 +2310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>analysisSettings</text>
+        <text encoding="base64">WydpbmRleCcgPT4gJHRoaXMtPmluZGV4XQ==</text>
       </register>
       <register name="-" type="4">
-        <text>analysisSettings</text>
+        <text encoding="base64">WydpbmRleCcgPT4gJHRoaXMtPmluZGV4XQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2324,34 +2322,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICRwcm92aWRlci0+aW5kaWNlcygpLT5jcmVhdGUoWydpbmRleCcgPT4gJGluZGV4XSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JGFuYWx5c2lzU2V0dGluZ3MgPSAkdGhpcy0+Z2V0QW5hbHlzaXNTZXR0aW5ncygpOwogICAgaWYgKCRhbmFseXNpc1NldHRpbmdzICE9IFtdKSB7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIOKAqOKAqAogICAgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImFuYWx5c2lzIiA9PiBbCg==</text>
+        <text encoding="base64">ICAgICRwYXJhbXMgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIAogICAgICAgIHsKICAgICAgICAgIAogICAgICAgIH0KICAgICAgfSAK</text>
+        <text encoding="base64">ICAgICRwYXJhbXMgPSBb4oCoIAogICAgJ2luZGV4JyA9PiAkdGhpcy0+aW5kZXgs4oCoICAKICAgICdib2R5JyA9PiBb4oCoICAgIAogICAgICAnc2V0dGluZ3MnID0+IFvigKggICAgICAnYW5hbHlzaXMnID0+IFvigKggICAgICAgICdhbmFseXplcicgPT4gW+KAqCAgICAgICAgICAnZGVmYXVsdCcgPT4gW+KAqCAgICAgICAgICAgICd0eXBlJyA9PiAnc2ltcGxlJ+KAqCAgICAgICAgICBd4oCoICAgICAgICBd4oCoICAgICAgXeKAqCAgICBd4oCoICBd4oCoXTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIHNob3VsZCBnZW5lcmF0ZSBhIHNob3J0bmVzcyBlcnJvcgogICAgJGkgPSAxOwogICAgLy8gc2lkZSBlZmZlY3Q/CiAgICBlY2hvICRpOwoK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIF0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjIKICogVGltZTogNToyMyBQTQogKi8K</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2JvZHknID0+IFsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
