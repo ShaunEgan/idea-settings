@@ -425,6 +425,11 @@
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit.json" timestamp="1488358657308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
       </file>
@@ -765,11 +770,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490347487983">
-        <mark key="[" line="107" column="23" />
-        <mark key="]" line="107" column="23" />
-        <mark key="^" line="107" column="23" />
-        <mark key="." line="107" column="23" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490351089544">
+        <mark key="[" line="122" column="12" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="126" column="8" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
         <mark key="[" line="88" column="32" />
@@ -1386,10 +1391,11 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490176126780">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490351517899">
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
         <mark key="[" line="17" column="6" />
@@ -1451,13 +1457,6 @@
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490173303954">
-        <mark key="'" line="70" column="18" />
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
-        <mark key="^" line="69" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -2029,11 +2028,11 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490343636714">
-        <mark key="[" line="195" column="39" />
-        <mark key="]" line="196" column="26" />
-        <mark key="." line="196" column="26" />
-        <mark key="^" line="196" column="26" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490349678143">
+        <mark key="[" line="194" column="3" />
+        <mark key="]" line="207" column="26" />
+        <mark key="." line="207" column="26" />
+        <mark key="^" line="207" column="26" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -2104,13 +2103,6 @@
       </file>
       <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" timestamp="1490000303208">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="108" column="31" />
-        <mark key="]" line="108" column="31" />
-        <mark key="^" line="116" column="2" />
-        <mark key="." line="108" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
@@ -2316,10 +2308,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>shaun</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>shaun</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2328,34 +2320,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRwcm92aWRlci0+aW5kaWNlcygpLT5jcmVhdGUoWydpbmRleCcgPT4gJGluZGV4XSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIOKAqOKAqAogICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRwYXJhbXMgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRwYXJhbXMgPSBb4oCoIAogICAgJ2luZGV4JyA9PiAkdGhpcy0+aW5kZXgs4oCoICAKICAgICdib2R5JyA9PiBb4oCoICAgIAogICAgICAnc2V0dGluZ3MnID0+IFvigKggICAgICAnYW5hbHlzaXMnID0+IFvigKggICAgICAgICdhbmFseXplcicgPT4gW+KAqCAgICAgICAgICAnZGVmYXVsdCcgPT4gW+KAqCAgICAgICAgICAgICd0eXBlJyA9PiAnc2ltcGxlJ+KAqCAgICAgICAgICBd4oCoICAgICAgICBd4oCoICAgICAgXeKAqCAgICBd4oCoICBd4oCoXTsK</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgIF0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgc2VsZjo6RklFTERfRlVMTF9OQU1FID0+IFsKICAgICAgICAndHlwZScgPT4gJ3RleHQnCiAgICAgIF0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAnY29weV90bycgPT4gc2VsZjo6RklFTERfRlVMTF9OQU1FCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgJ2JvZHknID0+IFsK</text>
+        <text encoding="base64">ICAgICAgICAnY29weV90bycgPT4gc2VsZjo6RklFTERfRlVMTF9OQU1FLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
