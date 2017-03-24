@@ -695,11 +695,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490351089544">
-        <mark key="[" line="122" column="12" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="126" column="8" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490357215890">
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="88" column="0" />
+        <mark key="^" line="88" column="5" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
         <mark key="[" line="21" column="32" />
@@ -1286,10 +1286,10 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490354206889">
-        <mark key="[" line="34" column="84" />
-        <mark key="]" line="34" column="84" />
-        <mark key="." line="34" column="84" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490357360434">
+        <mark key="[" line="38" column="37" />
+        <mark key="]" line="38" column="37" />
+        <mark key="." line="38" column="37" />
         <mark key="^" line="34" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
@@ -2110,10 +2110,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>coffee</text>
+        <text>Roy</text>
       </register>
       <register name="-" type="4">
-        <text>coffee</text>
+        <text>Roy</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2122,34 +2122,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
+        <text encoding="base64">ICBjb25zdCBGSUVMRF9MQVNUX05BTUVfTUVUQVBIT05FCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2VsZjo6RklFTERfRlVMTF9OQU1FID0+IFsKICAgICAgICAndHlwZScgPT4gJ3RleHQnCiAgICAgIF0sCg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY29weV90bycgPT4gc2VsZjo6RklFTERfRlVMTF9OQU1FCg==</text>
+        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnY29weV90bycgPT4gc2VsZjo6RklFTERfRlVMTF9OQU1FLAo=</text>
+        <text encoding="base64">ICAgICAgc2VsZjo6RklFTERfRlVMTF9OQU1FID0+IFsKICAgICAgICAndHlwZScgPT4gJ3RleHQnCiAgICAgIF0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
