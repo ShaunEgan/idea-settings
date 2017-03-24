@@ -128,10 +128,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490358388218">
-        <mark key="[" line="0" column="5" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490360528361">
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="55" column="23" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
@@ -1864,11 +1865,10 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490349678143">
-        <mark key="[" line="194" column="3" />
-        <mark key="]" line="207" column="26" />
-        <mark key="." line="207" column="26" />
-        <mark key="^" line="207" column="26" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490359768558">
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -2120,10 +2120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoyNiBQTQogKi8K</text>
+        <text encoding="base64">CiAgICBwcmludF9yKCRhbmFseXplcnMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Roy</text>
+        <text>specifierSet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2132,34 +2132,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoyNiBQTQogKi8K</text>
+        <text encoding="base64">CiAgICBwcmludF9yKCRhbmFseXplcnMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoxNyBQTQogKi8K</text>
+        <text encoding="base64">ICAgZGQgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8vICAgICRmaWx0ZXJzID0gYXJyYXlfbWVyZ2UoJGRlZmF1bEZpbHRlcnMsICR0aGlzLT51c2VyUmVwb3NpdG9yeS0+Z2V0RmlsdGVycygpKTsKLy8gICAgJGFuYWx5emVycyA9IGFycmF5X21lcmdlKCRkZWZhdWx0QW5hbHl6ZXJzLCAkdGhpcy0+dXNlclJlcG9zaXRvcnktPmdldEFuYWx5emVycygpKTsKLy8KLy8gICAgJHRoaXMtPnByb3ZpZGVyLT5pbmRpY2VzKCktPmNyZWF0ZShbCi8vICAgICAgJ2luZGV4JyA9PiAkdGhpcy0+aW5kZXgsCi8vICAgICAgJ2JvZHknID0+IFsKLy8gICAgICAgICdzZXR0aW5ncycgPT4gWwovLyAgICAgICAgICAnYW5hbHlzaXMnID0+IFsKLy8gICAgICAgICAgICAnZmlsdGVyJyA9PiAkZmlsdGVycywKLy8gICAgICAgICAgICAnYW5hbHl6ZXInID0+ICRhbmFseXplcnMKLy8gICAgICAgICAgXQovLyAgICAgICAgXQovLyAgICAgIF0KLy8gICAgXSk7Ci8vCi8vICAgICR0aGlzLT51c2VyUmVwb3NpdG9yeS0+aW5pdGlhbGlzZSgpOwovLyAgICAkdGhpcy0+Z3JvdXBSZXBvc2l0b3J5LT5pbml0aWFsaXNlKCk7Ci8vICAgICR0aGlzLT5wb3N0UmVwb3NpdG9yeS0+aW5pdGlhbGlzZSgpOw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBGSUVMRF9MQVNUX05BTUVfTUVUQVBIT05FCg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0xBU1RfTkFNRSA9PiBbCiAgICAgICAgICAgIAogICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICRkZWZhdWxGaWx0ZXJzID0gW107CgogICAgJGRlZmF1bHRBbmFseXplcnMgPSBbCiAgICAgICdkZWZhdWx0JyA9PiBbCiAgICAgICAgJ3R5cGUnID0+ICdlbmdsaXNoJwogICAgICBdCiAgICBdOwoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlbGY6OkZJRUxEX0ZJUlNUX05BTUUgPT4gWwogICAgICAgICAgICAKICAgICAgICAgIF0K</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoyNiBQTQogKi8K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICogVXNlcjogc2hhdW5lZ2FuCiAqIERhdGU6IDIwMTcvMDMvMjQKICogVGltZTogMjoxNyBQTQogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ211bHRpX2ZpZWxkJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAndHlwZScgPT4gJ3RleHQnLAo=</text>
+        <text encoding="base64">ICBjb25zdCBGSUVMRF9MQVNUX05BTUVfTUVUQVBIT05FCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
