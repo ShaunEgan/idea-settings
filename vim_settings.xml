@@ -1473,6 +1473,13 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490452362172">
+        <mark key="'" line="71" column="18" />
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="28" column="12" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -1546,6 +1553,9 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/step/webpack.config.json" timestamp="1490450058580">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/Search.php" timestamp="1485324533209">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -1565,6 +1575,12 @@
         <mark key="[" line="19" column="22" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490450722573">
+        <mark key="[" line="9" column="3" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
@@ -1603,11 +1619,10 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/register/handler.js" timestamp="1490171024474">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-        <mark key="^" line="3" column="34" />
+      <file name="$USER_HOME$/workspace/step/src/register/handler.js" timestamp="1490451892328">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -2323,11 +2338,11 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICdhd3Mtc2RrJywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICB9KSl9</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>src/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2335,46 +2350,35 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICdhd3Mtc2RrJywK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICB9KSl9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJqc29uLWxvYWRlciIK</text>
+        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4yLjMuMiIK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;babel-cli&quot;: &quot;^6.24.0&quot;,
-    &quot;babel-core&quot;: &quot;^6.24.0&quot;,
-    &quot;babel-loader&quot;: &quot;^6.4.1&quot;,
-    &quot;babel-plugin-transform-runtime&quot;: &quot;^6.23.0&quot;,
-    &quot;babel-polyfill&quot;: &quot;^6.23.0&quot;,
-    &quot;babel-preset-es2015&quot;: &quot;^6.24.0&quot;,
-    &quot;babel-preset-es2016&quot;: &quot;^6.22.0&quot;,
-    &quot;babel-preset-stage-0&quot;: &quot;^6.22.0&quot;,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcmVzb2x2ZUxvYWRlcjogewogICAgcGFja2FnZU1haW5zOiBbJ2pzb24tbG9hZGVyJ10KICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICdhd3Mtc2RrJywK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgIHsKICAgICAgICB0ZXN0OiAvXC5qc29uJC8sCiAgICAgICAgbG9hZGVyOiAnanNvbi1sb2FkZXInCiAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJqc29uLWxvYWRlciIK</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-        test: /\.js$/,
-        loader: 'babel',
-        exclude: /node_modules/
-      },</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
