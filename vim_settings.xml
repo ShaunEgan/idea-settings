@@ -443,11 +443,6 @@
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit.json" timestamp="1488358657308">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
       </file>
@@ -1473,12 +1468,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490452362172">
-        <mark key="'" line="71" column="18" />
-        <mark key="[" line="32" column="41" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="28" column="12" />
+      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490453802149">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -1618,11 +1612,6 @@
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/src/register/handler.js" timestamp="1490451892328">
-        <mark key="[" line="24" column="7" />
-        <mark key="]" line="24" column="7" />
-        <mark key="." line="24" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -2083,11 +2072,6 @@
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490341520254">
-        <mark key="[" line="121" column="9" />
-        <mark key="]" line="121" column="9" />
-        <mark key="." line="121" column="9" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
         <mark key="[" line="41" column="62" />
         <mark key="]" line="41" column="62" />
@@ -2338,11 +2322,11 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICB9KSl9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="-" type="4">
-        <text>src/</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2350,14 +2334,14 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICB9KSl9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
@@ -2369,16 +2353,16 @@
         <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICdhd3Mtc2RrJywK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICB9KSl9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJqc29uLWxvYWRlciIK</text>
+        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywK</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
