@@ -461,10 +461,11 @@
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490533102743">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490535418891">
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="46" />
+        <mark key="^" line="17" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/scala.scala" timestamp="1481791964519">
         <mark key="[" line="2" column="11" />
@@ -1118,10 +1119,10 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1490533704611">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="9" column="21" />
+      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1490536591654">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
@@ -1226,6 +1227,9 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/.babelrc" timestamp="1490536055093">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/common/base-repository.js" timestamp="1488718467194">
         <mark key="[" line="31" column="37" />
@@ -1504,10 +1508,7 @@
         <mark key="." line="2" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490534531714">
-        <mark key="[" line="32" column="35" />
-        <mark key="]" line="32" column="35" />
         <mark key="^" line="24" column="44" />
-        <mark key="." line="32" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -1606,9 +1607,9 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490534248783">
+      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490535993801">
         <mark key="'" line="13" column="10" />
-        <mark key="[" line="14" column="22" />
+        <mark key="[" line="21" column="7" />
         <mark key="]" line="14" column="22" />
         <mark key="^" line="14" column="23" />
         <mark key="." line="14" column="22" />
@@ -2375,11 +2376,11 @@
       <jump line="11" column="10" filename="$USER_HOME$/workspace/step/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Error</text>
       </register>
       <register name="-" type="4">
-        <text>handler</text>
+        <text>Error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2388,34 +2389,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">cgoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text />
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text />
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
