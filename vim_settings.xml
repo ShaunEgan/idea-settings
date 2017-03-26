@@ -349,7 +349,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/package.json" timestamp="1490445108225" />
+      <file name="$USER_HOME$/dev/helios/src/package.json" timestamp="1490541033843" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="26" column="25" />
@@ -466,7 +466,7 @@
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490535418891">
+      <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490541171751">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="17" column="46" />
         <mark key="." line="17" column="46" />
@@ -852,11 +852,10 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1490448810001">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="3" />
+      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1490541228101">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Electronics.scala" timestamp="1481828860270">
         <mark key="[" line="2" column="30" />
@@ -1222,6 +1221,11 @@
         <mark key="]" line="10" column="31" />
         <mark key="." line="10" column="31" />
         <mark key="^" line="9" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1490541158506">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/InMemorySampleRepository.scala" timestamp="1480324218491">
         <mark key="[" line="4" column="7" />
@@ -1931,7 +1935,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/.babelrc" timestamp="1490444820980">
+      <file name="$USER_HOME$/dev/helios/.babelrc" timestamp="1490541190355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
@@ -2072,10 +2076,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1490448775434">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1490541360046">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
+        <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/build.sbt" timestamp="1481528283679">
         <mark key="[" line="2" column="0" />
@@ -2389,10 +2394,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
+        <text>src/races/handlers</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
+        <text>src/races/handlers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2401,39 +2406,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZ2lzdGVyQ29udHJvbGxlcjogJy4vc3JjL3JlZ2lzdGVyL2NvbnRyb2xsZXIuanMnLAogICAgcmVnaXN0ZXJTYXZlOiAnLi9zcmMvcmVnaXN0ZXIvc2F2ZS5qcycsCiAgICByZWdpc3RlclN1Y2Nlc3M6ICcuL3NyYy9yZWdpc3Rlci9zdWNjZXNzLmpzJywKICAgIHJlZ2lzdGVySW52YWxpZElucHV0OiAnLi9zcmMvcmVnaXN0ZXIvaW52YWxpZElucHV0LmpzJywKICAgIHJlZ2lzdGVyVXNlcm5hbWVUYWtlbjogJy4vc3JjL3JlZ2lzdGVyL3VzZXJuYW1lVGFrZW4uanMnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgLy8gSm9pLnZhbGlkYXRlKHsgbmFtZTogZXZlbnQubmFtZSwgc3VybmFtZTogZXZlbnQuc3VybmFtZSB9LCBzY2hlbWEsIChlcnJvciwgZGF0YSkgPT4gewogIC8vICAgaWYgKGVycm9yKSB7CiAgLy8gICAgIGNhbGxiYWNrKG5ldyBJbnZhbGlkSW5wdXRFcnJvcihlcnJvci5tZXNzYWdlKSkKICAvLyAgIH0KICAvLyAgIGVsc2UgewogIC8vICAgICBjb25zdCB1c2VybmFtZSA9IGAke2V2ZW50Lm5hbWV9JHtldmVudC5zdXJuYW1lfWAKICAvLyAgICAgY2FsbGJhY2sobnVsbCwgeyB1c2VybmFtZSB9KQogIC8vICAgfQogIC8vIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXN0ZXAtZnVuY3Rpb25zIjogIl4wLjQuMSIsCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5zY2hlbWEgPSBKb2kub2JqZWN0KCkua2V5cyh7CiAgICAgIG5hbWU6IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLAogICAgICBzdXJuYW1lOiBKb2kuc3RyaW5nKCkucmVxdWlyZWQoKQogICAgfSk7CiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgcGFja2FnZToKICAgICAgICBpbmNsdWRlOgogICAgICAgICAgLSBzcmMvZ2xhdWNvbWEvKioK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvZGlhYmV0aWMtcmV0aW5vcGF0aHkvKioK</text>
       </register>
-      <register name="5" type="4">
-        <text>const Joi = require('joi');
-
-const schema = Joi.object().keys({
-  name: Joi.string().required(),
-  surname: Joi.string().required()
-});</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcGF0aWVudHMvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgSW52YWxpZElucHV0RXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnSW52YWxpZElucHV0RXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKSW52YWxpZElucHV0RXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmFjZXMvKioK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
+        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcHJhY3RpY2VzLyoqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbGliLyoqCiAgICAtIHNyYy9ub2RlX21vZHVsZXMvKioK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJwdXNoZCBzcmMgJiYgbnBtIGluc3RhbGwgJiYgcG9wZCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
