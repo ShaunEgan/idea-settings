@@ -272,6 +272,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
         <mark key="[" line="7" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/errors/UsernameAlreadyExistsError.js" timestamp="1490539644460">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/lib/base/repository/index.js" timestamp="1488725060584">
         <mark key="[" line="15" column="6" />
       </file>
@@ -384,10 +389,10 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="48" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/register/controller.js" timestamp="1490534562197">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/workspace/step/src/register/controller.js" timestamp="1490538989405">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484807381636">
         <mark key="[" line="48" column="22" />
@@ -515,6 +520,11 @@
         <mark key="]" line="29" column="40" />
         <mark key="^" line="29" column="32" />
         <mark key="." line="29" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/errors/InvalidInputError.js" timestamp="1490539631895">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaRepository.scala" timestamp="1480508473567">
         <mark key="[" line="2" column="19" />
@@ -930,6 +940,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/validation/RequestValidator.js" timestamp="1490539658172">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" timestamp="1481795078355">
         <mark key="[" line="7" column="4" />
         <mark key="]" line="7" column="4" />
@@ -1119,11 +1134,7 @@
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1490536591654">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="2" column="27" />
-        <mark key="." line="2" column="27" />
-      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1490537199847" />
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="108" column="19" />
@@ -1507,7 +1518,8 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490534531714">
+      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490538212858">
+        <mark key="[" line="46" column="31" />
         <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
@@ -2377,10 +2389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Error</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2389,34 +2401,39 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgLy8gSm9pLnZhbGlkYXRlKHsgbmFtZTogZXZlbnQubmFtZSwgc3VybmFtZTogZXZlbnQuc3VybmFtZSB9LCBzY2hlbWEsIChlcnJvciwgZGF0YSkgPT4gewogIC8vICAgaWYgKGVycm9yKSB7CiAgLy8gICAgIGNhbGxiYWNrKG5ldyBJbnZhbGlkSW5wdXRFcnJvcihlcnJvci5tZXNzYWdlKSkKICAvLyAgIH0KICAvLyAgIGVsc2UgewogIC8vICAgICBjb25zdCB1c2VybmFtZSA9IGAke2V2ZW50Lm5hbWV9JHtldmVudC5zdXJuYW1lfWAKICAvLyAgICAgY2FsbGJhY2sobnVsbCwgeyB1c2VybmFtZSB9KQogIC8vICAgfQogIC8vIH0p</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5zY2hlbWEgPSBKb2kub2JqZWN0KCkua2V5cyh7CiAgICAgIG5hbWU6IEpvaS5zdHJpbmcoKS5yZXF1aXJlZCgpLAogICAgICBzdXJuYW1lOiBKb2kuc3RyaW5nKCkucmVxdWlyZWQoKQogICAgfSk7CiAgfQ==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cgoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="5" type="4">
+        <text>const Joi = require('joi');
+
+const schema = Joi.object().keys({
+  name: Joi.string().required(),
+  surname: Joi.string().required()
+});</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgSW52YWxpZElucHV0RXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnSW52YWxpZElucHV0RXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKSW52YWxpZElucHV0RXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uID0gZnVuY3Rpb24gKG1lc3NhZ2UpIHsKICB0aGlzLm5hbWUgPSAnVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uJwogIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UKfQoKVXNlcm5hbWVBbHJlYWR5RXhpc3RzRXhjZXB0aW9uLnByb3RvdHlwZSA9IG5ldyBFcnJvcigpCgo=</text>
+      </register>
       <register name="8" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
