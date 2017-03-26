@@ -141,6 +141,11 @@
       <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/staff-exit-policy.md" timestamp="1487677473674">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/input.js" timestamp="1490532728647">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/libraries/TimeOfDayUtils.scala" timestamp="1481828900772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -379,6 +384,11 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="48" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/controller.js" timestamp="1490534562197">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484807381636">
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="22" />
@@ -443,8 +453,18 @@
       <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit.json" timestamp="1488358657308">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
         <mark key="[" line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490533102743">
+        <mark key="[" line="11" column="27" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/scala.scala" timestamp="1481791964519">
         <mark key="[" line="2" column="11" />
@@ -697,6 +717,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="6" column="9" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SolarPanelFactory.scala" timestamp="1481794990534">
         <mark key="[" line="3" column="0" />
@@ -989,6 +1015,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/success.js" timestamp="1490533709880">
+        <mark key="[" line="2" column="14" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Context.php" timestamp="1485327768238">
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
@@ -1087,6 +1117,11 @@
         <mark key="[" line="5" column="83" />
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1490533704611">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="9" column="21" />
       </file>
       <file name="$USER_HOME$/dev/svc-user/app/controllers/UserController.scala" timestamp="1477238395847">
         <mark key="[" line="10" column="0" />
@@ -1468,11 +1503,11 @@
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490453802149">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="28" column="3" />
+      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490534531714">
+        <mark key="[" line="32" column="35" />
+        <mark key="]" line="32" column="35" />
+        <mark key="^" line="24" column="44" />
+        <mark key="." line="32" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -1513,6 +1548,7 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/package.json" timestamp="1490532198332" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
@@ -1570,11 +1606,12 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490450722573">
-        <mark key="[" line="9" column="3" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490534248783">
+        <mark key="'" line="13" column="10" />
+        <mark key="[" line="14" column="22" />
+        <mark key="]" line="14" column="22" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
@@ -1612,6 +1649,11 @@
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/step/src/register/handler.js" timestamp="1490532634353">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -2038,6 +2080,12 @@
       <file name="$USER_HOME$/dev/helios/practices/practice.js" timestamp="1488284493924">
         <mark key="[" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/step/src/register/invalidInput.js" timestamp="1490534556803">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/simple-psk/index-spec.js" timestamp="1486634207647">
         <mark key="[" line="41" column="5" />
         <mark key="]" line="24" column="0" />
@@ -2071,6 +2119,11 @@
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490341520254">
+        <mark key="[" line="121" column="9" />
+        <mark key="]" line="121" column="9" />
+        <mark key="." line="121" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/trustmark/logs-repository-spec.js" timestamp="1486711631064">
         <mark key="[" line="41" column="62" />
@@ -2220,7 +2273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/HealthController.scala" />
@@ -2320,13 +2372,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
+      <jump line="11" column="10" filename="$USER_HOME$/workspace/step/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>handler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
@@ -2335,34 +2388,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+      <register name="3" type="4">
+        <text encoding="base64">cgoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICB9KSl9</text>
+      <register name="7" type="2">
+        <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbmNsdWRlOgogICAgLSBzcmMvbm9kZV9tb2R1bGVzLyoqCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcmVnaXN0ZXIvKioK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
