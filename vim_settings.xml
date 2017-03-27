@@ -2041,6 +2041,9 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" timestamp="1490606452732">
+        <mark key="'" line="7192" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2296,7 +2299,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/HealthController.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" />
@@ -2396,6 +2398,7 @@
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
       <jump line="11" column="10" filename="$USER_HOME$/workspace/step/webpack.config.js" />
       <jump line="19" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" />
+      <jump line="7192" column="33" filename="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
