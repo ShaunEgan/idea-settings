@@ -154,12 +154,7 @@
       <file name="$USER_HOME$/dev/helios/aliases/pgpass.js" timestamp="1490542253789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490360528361">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="55" column="23" />
-      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490592900710" />
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="47" />
@@ -518,11 +513,12 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1490348102541">
-        <mark key="[" line="29" column="40" />
-        <mark key="]" line="29" column="40" />
-        <mark key="^" line="29" column="32" />
-        <mark key="." line="29" column="40" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1490592398018">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="25" column="70" />
+        <mark key="]" line="25" column="79" />
+        <mark key="^" line="25" column="79" />
+        <mark key="." line="25" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/errors/InvalidInputError.js" timestamp="1490539631895">
         <mark key="[" line="2" column="0" />
@@ -623,6 +619,11 @@
         <mark key="]" line="19" column="12" />
         <mark key="." line="19" column="12" />
         <mark key="^" line="29" column="77" />
+      </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/dev/Dockerfile" timestamp="1490592602608">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/BioMetrics.scala" timestamp="1476810920056">
         <mark key="[" line="2" column="0" />
@@ -1032,10 +1033,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/src/register/success.js" timestamp="1490533709880">
-        <mark key="[" line="2" column="14" />
-        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Context.php" timestamp="1485327768238">
         <mark key="[" line="2" column="33" />
@@ -2288,7 +2285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/HealthController.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
@@ -2388,61 +2384,62 @@
       <jump line="48" column="0" filename="$USER_HOME$/workspace/step/serverless.yml" />
       <jump line="70" column="18" filename="$USER_HOME$/workspace/step/serverless.yml" />
       <jump line="11" column="10" filename="$USER_HOME$/workspace/step/webpack.config.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLm1kJC8sCiAgICAgICAgbG9hZGVyOiAnbWFya2Rvd24tbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwZWRhbnRpYzogZmFsc2UKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>src/races/handlers</text>
+        <text>compatable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
+        <text>compatable</text>
       </register>
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLm1kJC8sCiAgICAgICAgbG9hZGVyOiAnbWFya2Rvd24tbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwZWRhbnRpYzogZmFsc2UKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ3BncGFzcyQnOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYWxpYXNlcy9wZ3Bhc3MuanMnKSwK</text>
+        <text encoding="base64">TUFJTlRBSU5FUiBzaGF1bkBub25hY3JlYXRpdmUuY29tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLm1kJC8sCiAgICAgICAgbG9hZGVyOiAnbWFya2Rvd24tbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwZWRhbnRpYzogZmFsc2UKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
+        <text encoding="base64">ICAgICAgJ3BncGFzcyQnOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYWxpYXNlcy9wZ3Bhc3MuanMnKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlZ2lzdGVyQ29udHJvbGxlcjogJy4vc3JjL3JlZ2lzdGVyL2NvbnRyb2xsZXIuanMnLAogICAgcmVnaXN0ZXJTYXZlOiAnLi9zcmMvcmVnaXN0ZXIvc2F2ZS5qcycsCiAgICByZWdpc3RlclN1Y2Nlc3M6ICcuL3NyYy9yZWdpc3Rlci9zdWNjZXNzLmpzJywKICAgIHJlZ2lzdGVySW52YWxpZElucHV0OiAnLi9zcmMvcmVnaXN0ZXIvaW52YWxpZElucHV0LmpzJywKICAgIHJlZ2lzdGVyVXNlcm5hbWVUYWtlbjogJy4vc3JjL3JlZ2lzdGVyL3VzZXJuYW1lVGFrZW4uanMnCg==</text>
+        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXN0ZXAtZnVuY3Rpb25zIjogIl4wLjQuMSIsCg==</text>
+        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFja2FnZToKICAgICAgICBpbmNsdWRlOgogICAgICAgICAgLSBzcmMvZ2xhdWNvbWEvKioK</text>
+        <text encoding="base64">ICAgIHJlZ2lzdGVyQ29udHJvbGxlcjogJy4vc3JjL3JlZ2lzdGVyL2NvbnRyb2xsZXIuanMnLAogICAgcmVnaXN0ZXJTYXZlOiAnLi9zcmMvcmVnaXN0ZXIvc2F2ZS5qcycsCiAgICByZWdpc3RlclN1Y2Nlc3M6ICcuL3NyYy9yZWdpc3Rlci9zdWNjZXNzLmpzJywKICAgIHJlZ2lzdGVySW52YWxpZElucHV0OiAnLi9zcmMvcmVnaXN0ZXIvaW52YWxpZElucHV0LmpzJywKICAgIHJlZ2lzdGVyVXNlcm5hbWVUYWtlbjogJy4vc3JjL3JlZ2lzdGVyL3VzZXJuYW1lVGFrZW4uanMnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvZGlhYmV0aWMtcmV0aW5vcGF0aHkvKioK</text>
+        <text encoding="base64">ICAgICJzZXJ2ZXJsZXNzLXN0ZXAtZnVuY3Rpb25zIjogIl4wLjQuMSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2U6CiAgICAgIGluY2x1ZGU6CiAgICAgICAgLSBzcmMvcGF0aWVudHMvKioK</text>
+        <text encoding="base64">ICAgICAgcGFja2FnZToKICAgICAgICBpbmNsdWRlOgogICAgICAgICAgLSBzcmMvZ2xhdWNvbWEvKioK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0b3JcPg==</last-search>
+      <last-search>compatable</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0b3JcPg==</last-pattern>
+      <last-pattern>compatable</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2467,6 +2464,7 @@
         <entry>s</entry>
         <entry>\^</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
+        <entry>compatable</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
