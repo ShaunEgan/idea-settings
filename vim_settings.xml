@@ -1694,10 +1694,10 @@
         <mark key="^" line="96" column="18" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1490597460805">
-        <mark key="[" line="13" column="37" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1490602189952">
+        <mark key="[" line="13" column="47" />
+        <mark key="]" line="13" column="48" />
+        <mark key="." line="13" column="48" />
         <mark key="^" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/models/race.js" timestamp="1488203019514">
