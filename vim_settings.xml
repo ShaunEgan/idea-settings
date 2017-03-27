@@ -392,6 +392,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Repositories/UserRepositoryTest.php" timestamp="1490595096006">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="6" />
+        <mark key="." line="34" column="6" />
+        <mark key="^" line="34" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/yazimedia/package.json" timestamp="1484807381636">
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="22" />
@@ -2387,11 +2393,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>compatable</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
