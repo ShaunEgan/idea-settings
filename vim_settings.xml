@@ -299,8 +299,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1485327802161">
-        <mark key="[" line="2" column="33" />
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1490599775199">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
@@ -830,11 +831,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490357215890">
-        <mark key="[" line="87" column="28" />
-        <mark key="]" line="88" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490600321256">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="88" column="5" />
-        <mark key="." line="88" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
         <mark key="[" line="88" column="32" />
@@ -1417,6 +1418,11 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/IndexHelpers/IndexSpecifier.php" timestamp="1490599805075">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1489998355299">
         <mark key="[" line="0" column="212" />
         <mark key="]" line="0" column="257" />
@@ -1776,6 +1782,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/IndexHelpers/IndexInitializer.php" timestamp="1490599748522">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/dev/helios/common/database.js" timestamp="1488039679624">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -2109,10 +2120,10 @@
         <mark key="." line="5" column="4" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490359768558">
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1490600331296">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
@@ -2387,11 +2398,11 @@
       <jump line="19" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pagination</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleEluaXRpYWxpemVyOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>pagination</text>
+        <text>namespace Apolitical\Search\Lib;</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2400,37 +2411,37 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleEluaXRpYWxpemVyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleFNwZWNpZmllcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">aWYgKGlzc2V0KCRyZXNwb25zZVsnaGl0cyddKSAmJiBpc3NldCgkcmVzcG9uc2VbJ2hpdHMnXVsndG90YWwnXSkgJiYgaW50dmFsKCRyZXNwb25zZVsnaGl0cyddWyd0b3RhbCddKSA+IDApIHsKICAgICAgJGhpdHMgPSAkcmVzcG9uc2VbJ2hpdHMnXVsnaGl0cyddOwoKICAgICAgcmV0dXJuIGFycmF5X21hcChmdW5jdGlvbigkaGl0KSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZXNlcmlhbGl6ZShpbnR2YWwoJGhpdFsnX2lkJ10pLCAkaGl0Wydfc291cmNlJ10pOwogICAgICB9LCAkaGl0cyk7CiAgICB9CiAgICBlbHNlIHJldHVybiBbXTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">bmFtZXNwYWNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
+        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TUFJTlRBSU5FUiBzaGF1bkBub25hY3JlYXRpdmUuY29tCg==</text>
+        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLm1kJC8sCiAgICAgICAgbG9hZGVyOiAnbWFya2Rvd24tbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwZWRhbnRpYzogZmFsc2UKICAgICAgICB9CiAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">aWYgKGlzc2V0KCRyZXNwb25zZVsnaGl0cyddKSAmJiBpc3NldCgkcmVzcG9uc2VbJ2hpdHMnXVsndG90YWwnXSkgJiYgaW50dmFsKCRyZXNwb25zZVsnaGl0cyddWyd0b3RhbCddKSA+IDApIHsKICAgICAgJGhpdHMgPSAkcmVzcG9uc2VbJ2hpdHMnXVsnaGl0cyddOwoKICAgICAgcmV0dXJuIGFycmF5X21hcChmdW5jdGlvbigkaGl0KSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZXNlcmlhbGl6ZShpbnR2YWwoJGhpdFsnX2lkJ10pLCAkaGl0Wydfc291cmNlJ10pOwogICAgICB9LCAkaGl0cyk7CiAgICB9CiAgICBlbHNlIHJldHVybiBbXTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgJ3BncGFzcyQnOiBwYXRoLmpvaW4oX19kaXJuYW1lLCAnYWxpYXNlcy9wZ3Bhc3MuanMnKSwK</text>
+        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
+        <text encoding="base64">TUFJTlRBSU5FUiBzaGF1bkBub25hY3JlYXRpdmUuY29tCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdwZ3Bhc3MkJzogcGF0aC5qb2luKF9fZGlybmFtZSwgJ2FsaWFzZXMvcGdwYXNzLmpzJyksCg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHRlc3Q6IC9cLm1kJC8sCiAgICAgICAgbG9hZGVyOiAnbWFya2Rvd24tbG9hZGVyJywKICAgICAgICBvcHRpb25zOiB7CiAgICAgICAgICBwZWRhbnRpYzogZmFsc2UKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>144</text>
       </register>
     </registers>
     <search>
@@ -2487,6 +2498,7 @@
         <entry>number</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>144</entry>
       </history-cmd>
       <history-expr />
       <history-input />
