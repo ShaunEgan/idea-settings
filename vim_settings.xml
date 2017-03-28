@@ -1464,10 +1464,10 @@
         <mark key="^" line="5" column="5" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490680586699">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/shaun-test.php" timestamp="1490693588144">
+        <mark key="[" line="35" column="41" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
         <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1481825867170">
@@ -2404,11 +2404,11 @@
       <jump line="7192" column="33" filename="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHVzZXIgPSAkc2VhcmNoU2VydmljZS0+Y3JlYXRlVXNlcig0LCAnUm9pJywgJ1NoZXJlbicsICdEZXZlbG9wZXInLCAnSnVzdCBhbm90aGVyIHRlYSBkcmlua2VyJywgLTMzLjkxNzkwMSwgMTguNDE5ODI5KTsK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="-" type="4">
-        <text>Roy</text>
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
