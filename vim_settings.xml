@@ -1694,7 +1694,7 @@
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Group.php" timestamp="1490691267426">
         <mark key="[" line="57" column="3" />
         <mark key="]" line="43" column="0" />
-        <mark key="^" line="101" column="18" />
+        <mark key="^" line="96" column="18" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/composer.json" timestamp="1490602189952">
