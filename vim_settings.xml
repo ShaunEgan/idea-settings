@@ -450,7 +450,7 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490705842327">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490723951118">
         <mark key="[" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/slas.csv" timestamp="1481825012313">
@@ -735,10 +735,10 @@
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490705760660">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="12" column="29" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490724113739">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
         <mark key="^" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
@@ -2411,11 +2411,11 @@
       <jump line="7192" column="33" filename="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicHJlY29tbWl0IjogWyJucG0gcnVuIGxpbnQiLCAibnBtIHJ1biB0ZXN0Il0sCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2464,11 +2464,10 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>console</entry>
         <entry>player</entry>
         <entry>shaun@nonacreative.com</entry>
@@ -2491,8 +2490,6 @@
         <entry>compatable</entry>
       </history-search>
       <history-cmd>
-        <entry>106</entry>
-        <entry>93</entry>
         <entry>9</entry>
         <entry>24,53</entry>
         <entry>24</entry>
