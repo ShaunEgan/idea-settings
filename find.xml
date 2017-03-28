@@ -1,6 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="Directory '.../src - [apolitical-elasticsearch]'" />
+    <option name="defaultScopeName" value="Directory '.../src - [apolitical-elasticsearch]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src - [apolitical-elasticsearch]'" />
   </component>
 </application>
