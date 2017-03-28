@@ -3,6 +3,7 @@
     <extensionMap>
       <removed_mapping ext="js2" type="ActionScript" />
       <mapping ext="scala" type="Native" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <removed_mapping ext="scala" type="Scala" />
