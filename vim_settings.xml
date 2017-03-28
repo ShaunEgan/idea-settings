@@ -154,7 +154,6 @@
       <file name="$USER_HOME$/dev/helios/aliases/pgpass.js" timestamp="1490542253789">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/IndexInitializer.php" timestamp="1490592900710" />
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="47" />
@@ -348,7 +347,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/package.json" timestamp="1490541033843" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/services/ScadaServiceImplSpec.scala" timestamp="1477396849264">
         <mark key="[" line="24" column="19" />
         <mark key="]" line="26" column="25" />
@@ -734,10 +732,10 @@
       <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
         <mark key="[" line="56" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1489987721084">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490695664277">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="6" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
@@ -1191,6 +1189,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" timestamp="1490695461691">
+        <mark key="[" line="8" column="31" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477640318983">
         <mark key="[" line="98" column="20" />
         <mark key="]" line="98" column="27" />
@@ -1387,10 +1390,11 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1489913852778">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490695755697">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
@@ -1577,7 +1581,6 @@
         <mark key="." line="22" column="33" />
         <mark key="^" line="22" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/step/src/package.json" timestamp="1490532198332" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocationServiceImpl.scala" timestamp="1479905252237">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="28" />
@@ -2068,8 +2071,8 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1489753303437">
-        <mark key="[" line="17" column="4" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1490695740580">
+        <mark key="[" line="3" column="26" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
@@ -2404,11 +2407,11 @@
       <jump line="7192" column="33" filename="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>y</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAiZWNtYVZlcnNpb24iOiA4Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2417,34 +2420,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHVzZXIgPSAkc2VhcmNoU2VydmljZS0+Y3JlYXRlVXNlcig0LCAnUm9pJywgJ1NoZXJlbicsICdEZXZlbG9wZXInLCAnSnVzdCBhbm90aGVyIHRlYSBkcmlua2VyJywgLTMzLjkxNzkwMSwgMTguNDE5ODI5KTsK</text>
+        <text encoding="base64">ICAgICAgICAiZWNtYVZlcnNpb24iOiA4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleEluaXRpYWxpemVyOwo=</text>
+        <text encoding="base64">JHVzZXIgPSAkc2VhcmNoU2VydmljZS0+Y3JlYXRlVXNlcig0LCAnUm9pJywgJ1NoZXJlbicsICdEZXZlbG9wZXInLCAnSnVzdCBhbm90aGVyIHRlYSBkcmlua2VyJywgLTMzLjkxNzkwMSwgMTguNDE5ODI5KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleFNwZWNpZmllcjsK</text>
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleEluaXRpYWxpemVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bmFtZXNwYWNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnM7Cg==</text>
+        <text encoding="base64">dXNlIEFwb2xpdGljYWxcU2VhcmNoXExpYlxJbmRleFNwZWNpZmllcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
+        <text encoding="base64">bmFtZXNwYWNlIE5vbmFcRWxhc3RpY3NlYXJjaFRvb2xzXEhlbHBlcnM7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">cHJpbnRfcigkaGl0cyk7Cg==</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">aWYgKGlzc2V0KCRyZXNwb25zZVsnaGl0cyddKSAmJiBpc3NldCgkcmVzcG9uc2VbJ2hpdHMnXVsndG90YWwnXSkgJiYgaW50dmFsKCRyZXNwb25zZVsnaGl0cyddWyd0b3RhbCddKSA+IDApIHsKICAgICAgJGhpdHMgPSAkcmVzcG9uc2VbJ2hpdHMnXVsnaGl0cyddOwoKICAgICAgcmV0dXJuIGFycmF5X21hcChmdW5jdGlvbigkaGl0KSB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5kZXNlcmlhbGl6ZShpbnR2YWwoJGhpdFsnX2lkJ10pLCAkaGl0Wydfc291cmNlJ10pOwogICAgICB9LCAkaGl0cyk7CiAgICB9CiAgICBlbHNlIHJldHVybiBbXTs=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">TUFJTlRBSU5FUiBzaGF1bkBub25hY3JlYXRpdmUuY29tCg==</text>
+        <text encoding="base64">ICBhYnN0cmFjdAo=</text>
       </register>
       <register name=":" type="4">
         <text>144</text>
