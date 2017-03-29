@@ -418,8 +418,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490773379867">
-        <mark key="[" line="2" column="23" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490780026544">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/target/scala-2.11/src_managed/test/library/Simulator/models/HouseSpec.scala" timestamp="1481279674028">
         <mark key="[" line="4" column="0" />
@@ -2221,10 +2223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./node_modules/.bin/</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>./node_modules/.bin/</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
