@@ -265,10 +265,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/Context.php" timestamp="1490599775199">
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/support/response/has-offers/generateTrackingLink.json" timestamp="1478174479770">
         <mark key="[" line="54" column="55" />
         <mark key="]" line="54" column="55" />
@@ -319,6 +315,11 @@
         <mark key="]" line="26" column="25" />
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" timestamp="1490776909092">
+        <mark key="[" line="144" column="45" />
+        <mark key="]" line="144" column="45" />
+        <mark key="." line="144" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/package.json" timestamp="1489384471041">
         <mark key="[" line="7" column="86" />
@@ -613,6 +614,12 @@
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/Repositories/Concretions/RepositoryTest.php" timestamp="1490776478288">
+        <mark key="[" line="211" column="21" />
+        <mark key="]" line="211" column="21" />
+        <mark key="^" line="211" column="23" />
+        <mark key="." line="211" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Search.php" timestamp="1485261586379">
         <mark key="[" line="6" column="8" />
@@ -2213,10 +2220,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50dmFsKCRyZXNwb25zZVsnaGl0cyddWyd0b3RhbCddKSA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">aW50dmFsKCRyZXNwb25zZVsnaGl0cyddWyd0b3RhbCddKSA=</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2778,7 +2785,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
