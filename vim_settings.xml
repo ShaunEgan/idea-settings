@@ -38,9 +38,6 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1489124665723">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service.js" timestamp="1488723869693">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -74,9 +71,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/helios/test.json" timestamp="1488476125701">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/EnvironmentalConditions.scala" timestamp="1481100935744">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -93,9 +87,6 @@
         <mark key="]" line="51" column="25" />
         <mark key="." line="51" column="25" />
         <mark key="^" line="51" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit/test.js" timestamp="1488358670765">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/shaun-test.php" timestamp="1490000757310">
         <mark key="[" line="24" column="22" />
@@ -120,9 +111,6 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/.gitignore" timestamp="1490176210021">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/SampleRepository/CsvSampleRepositoryTest.scala" timestamp="1481825798680">
         <mark key="[" line="15" column="10" />
         <mark key="]" line="15" column="25" />
@@ -135,12 +123,6 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-screening.js" timestamp="1488477467678">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/technical-policies/secure-accounts/staff-exit-policy.md" timestamp="1487677473674">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/step/src/register/input.js" timestamp="1490532728647">
         <mark key="[" line="9" column="14" />
         <mark key="]" line="9" column="14" />
@@ -150,9 +132,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/aliases/pgpass.js" timestamp="1490542253789">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
@@ -182,9 +161,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/support/unit.json" timestamp="1486628781082">
-        <mark key="[" line="10" column="1" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/ConsumptionDataService.scala" timestamp="1481803738231">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="26" column="3" />
@@ -202,9 +178,6 @@
         <mark key="]" line="25" column="20" />
         <mark key="." line="25" column="20" />
         <mark key="^" line="17" column="34" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/services/common/succeeds.js" timestamp="1488712096150">
-        <mark key="[" line="12" column="34" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/lib/base/service/index.js" timestamp="1488738492049">
         <mark key="[" line="10" column="81" />
@@ -266,16 +239,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1481816884212">
-        <mark key="[" line="7" column="51" />
-      </file>
       <file name="$USER_HOME$/workspace/step/src/register/errors/UsernameAlreadyExistsError.js" timestamp="1490539644460">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/base/repository/index.js" timestamp="1488725060584">
-        <mark key="[" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1481825790986">
         <mark key="[" line="16" column="39" />
@@ -426,12 +393,6 @@
         <mark key="^" line="15" column="72" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ParameterQueryable.php" timestamp="1485327952007">
-        <mark key="[" line="2" column="32" />
-      </file>
-      <file name="/PHP Function Doc Comment.txt.ft" timestamp="1486450604007">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Buildings.scala" timestamp="1481795140309">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="73" column="3" />
@@ -456,27 +417,18 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490723951118">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490773379867">
         <mark key="[" line="2" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/slas.csv" timestamp="1481825012313">
-        <mark key="[" line="0" column="300" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/target/scala-2.11/src_managed/test/library/Simulator/models/HouseSpec.scala" timestamp="1481279674028">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/spec/unit.json" timestamp="1488358657308">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/races/race-repository.js" timestamp="1488284477372">
-        <mark key="[" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490541171751">
         <mark key="[" line="16" column="14" />
@@ -490,20 +442,11 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1485767000838">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationService.scala" timestamp="1479905484076">
         <mark key="[" line="6" column="6" />
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="17" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1490103281183">
-        <mark key="[" line="11" column="39" />
-      </file>
-      <file name="/PHP Constructor.txt.ft" timestamp="1486450520327">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/races/race.js" timestamp="1488717915587">
         <mark key="[" line="24" column="0" />
@@ -594,9 +537,6 @@
         <mark key="]" line="0" column="114" />
         <mark key="." line="0" column="114" />
       </file>
-      <file name="/Dummy.scala" timestamp="1481823117628">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="6" column="0" />
@@ -618,9 +558,6 @@
         <mark key="]" line="15" column="22" />
         <mark key="." line="15" column="22" />
         <mark key="^" line="15" column="21" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/.elasticbeanstalk/config.yml" timestamp="1489074556337">
-        <mark key="[" line="2" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Contracts/Contracts.scala" timestamp="1481791976231">
         <mark key="[" line="2" column="11" />
@@ -695,9 +632,6 @@
         <mark key="." line="22" column="4" />
         <mark key="^" line="22" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/svc-auth/.gitignore" timestamp="1486300004895">
-        <mark key="[" line="0" column="12" />
-      </file>
       <file name="$USER_HOME$/dev/helios/lib/config.js" timestamp="1488025091457">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
@@ -724,9 +658,6 @@
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/helios/practices/config.js" timestamp="1488024793720">
-        <mark key="[" line="4" column="13" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux-node/views/trustmark.pug" timestamp="1489073307718">
         <mark key="[" line="14" column="32" />
         <mark key="]" line="14" column="32" />
@@ -738,13 +669,10 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/helios/races/race-service.js" timestamp="1488284473678">
-        <mark key="[" line="56" column="2" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490726406167">
-        <mark key="[" line="39" column="16" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490773096749">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
         <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
@@ -768,6 +696,9 @@
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1490773399929">
+        <mark key="[" line="8" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
@@ -800,9 +731,6 @@
         <mark key="]" line="13" column="65" />
         <mark key="^" line="13" column="65" />
         <mark key="." line="13" column="65" />
-      </file>
-      <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-ready.md" timestamp="1490103259523">
-        <mark key="[" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AllocatorImplSpec.scala" timestamp="1480069722506">
         <mark key="[" line="9" column="6" />
@@ -841,9 +769,6 @@
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490680321458">
         <mark key="[" line="28" column="41" />
         <mark key="^" line="89" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/bin/www" timestamp="1489081737896">
-        <mark key="[" line="88" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
         <mark key="[" line="21" column="32" />
@@ -923,12 +848,6 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1490119224479">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/model.js" timestamp="1488725198265">
-        <mark key="[" line="23" column="39" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485844697112">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="19" />
@@ -983,9 +902,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1489913403579">
-        <mark key="[" line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseTest.scala" timestamp="1481099421859">
         <mark key="[" line="4" column="6" />
         <mark key="]" line="4" column="6" />
@@ -1019,15 +935,6 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
-      </file>
-      <file name="/PHP Console" timestamp="1485774332687">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/common/succeeds.js" timestamp="1488181264621">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/PHP Field Doc Comment.txt.ft" timestamp="1486450577919">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
         <mark key="[" line="1" column="0" />
@@ -1198,11 +1105,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" timestamp="1490705342126">
-        <mark key="[" line="182" column="24" />
-        <mark key="]" line="182" column="26" />
-        <mark key="." line="182" column="26" />
-        <mark key="^" line="182" column="26" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" timestamp="1490772581836">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/ScreeningRepository.scala" timestamp="1477640318983">
         <mark key="[" line="98" column="20" />
@@ -1259,9 +1165,6 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/.babelrc" timestamp="1490536055093">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/common/base-repository.js" timestamp="1488718467194">
         <mark key="[" line="31" column="37" />
@@ -1345,12 +1248,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1490119259155">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice-repository.js" timestamp="1488284487151">
-        <mark key="[" line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma/model.js" timestamp="1488740144186">
         <mark key="[" line="88" column="12" />
         <mark key="]" line="88" column="12" />
@@ -1400,8 +1297,8 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490702688942">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490773106206">
+        <mark key="[" line="3" column="24" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -1414,9 +1311,6 @@
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1486552561679">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/jasmine.js" timestamp="1489384596340">
         <mark key="[" line="33" column="18" />
@@ -1494,9 +1388,6 @@
         <mark key="]" line="11" column="20" />
         <mark key="." line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/helios/aliases/pg-native.js" timestamp="1490542558935">
-        <mark key="[" line="0" column="20" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/Models/Electronics.scala" timestamp="1481531377285">
         <mark key="[" line="9" column="56" />
         <mark key="]" line="9" column="53" />
@@ -1562,12 +1453,6 @@
         <mark key="^" line="21" column="50" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/common/id-tools.js" timestamp="1488182717801">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/thumbnailer/profilePhotoS3Thumbnails.js" timestamp="1489124064024">
-        <mark key="[" line="16" column="34" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/AccountTest.scala" timestamp="1479982790159">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1601,12 +1486,6 @@
         <mark key="]" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-node/.ebignore" timestamp="1489075627886">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/static/login.html" timestamp="1486359848201">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/ParameterBuilder.php" timestamp="1485324516633">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="21" />
@@ -1623,9 +1502,6 @@
         <mark key="]" line="8" column="35" />
         <mark key="^" line="10" column="0" />
         <mark key="." line="8" column="35" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/webpack.config.json" timestamp="1490450058580">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/Search.php" timestamp="1485324533209">
         <mark key="[" line="2" column="10" />
@@ -1667,9 +1543,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-node/.ebextensions/staticfiles.config" timestamp="1489122901001">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484805870005">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1680,12 +1553,6 @@
         <mark key="]" line="25" column="32" />
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/glaucoma/handlers.js" timestamp="1488728497703">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1489736987966">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -1744,9 +1611,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/PHP Interface Doc Comment.txt.ft" timestamp="1486450554690">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/TariffRepositorySpec.scala" timestamp="1480491160726">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="8" />
@@ -1758,9 +1622,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="67" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/model.js" timestamp="1489913249784">
-        <mark key="[" line="35" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/Simulator.scala" timestamp="1489571471711">
         <mark key="[" line="15" column="54" />
@@ -1871,23 +1732,11 @@
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/.gitignore" timestamp="1486627020666">
-        <mark key="[" line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/dev/aws-lambda-router/test.js" timestamp="1488362752423">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/glaucoma/service.js" timestamp="1488728424961">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/library/Simulator/models/HouseTest.scala" timestamp="1481280709826">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/svc-auth/src/authorization/index.js" timestamp="1486374298566">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1480679713244">
         <mark key="[" line="11" column="30" />
@@ -1900,9 +1749,6 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-screening-service.js" timestamp="1488477233748">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Complex.php" timestamp="1490264714196">
         <mark key="[" line="39" column="18" />
         <mark key="]" line="44" column="14" />
@@ -1913,12 +1759,6 @@
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="5" column="26" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1481822255268">
-        <mark key="[" line="9" column="8" />
-      </file>
-      <file name="/PHP Setter Method.txt.ft" timestamp="1486450627368">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Search.php" timestamp="1485505296677">
         <mark key="[" line="14" column="0" />
@@ -1941,9 +1781,6 @@
         <mark key="^" line="15" column="36" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/helios/example/test.js" timestamp="1487164603786">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/workflow.md" timestamp="1490103606728">
         <mark key="[" line="15" column="39" />
         <mark key="]" line="12" column="38" />
@@ -1953,12 +1790,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/.babelrc" timestamp="1490541190355">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/practices/test.js" timestamp="1488027345433">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480330346096">
         <mark key="[" line="21" column="0" />
@@ -2063,16 +1894,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1486450550077">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/src/main/library/SimulatorConf.scala" timestamp="1481526538289">
         <mark key="[" line="4" column="52" />
         <mark key="]" line="4" column="52" />
         <mark key="." line="4" column="52" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/races/model.js" timestamp="1488725208322">
-        <mark key="[" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/races/race-repository.js" timestamp="1488720552314">
         <mark key="[" line="3" column="46" />
@@ -2116,12 +1941,6 @@
         <mark key="]" line="13" column="2" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/.gitignore" timestamp="1485326743720">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/practices/practice.js" timestamp="1488284493924">
-        <mark key="[" line="19" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/step/src/register/invalidInput.js" timestamp="1490534556803">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="21" />
@@ -2158,9 +1977,6 @@
         <mark key="[" line="23" column="9" />
         <mark key="]" line="21" column="22" />
         <mark key="." line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/glaucoma-score/model.js" timestamp="1488725642162">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/GroupRepository.php" timestamp="1490680306405">
         <mark key="[" line="22" column="39" />
@@ -2211,9 +2027,6 @@
         <mark key="." line="2" column="5" />
         <mark key="^" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/helios/patients/model.js" timestamp="1488201509043">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Allocation.scala" timestamp="1479375771884">
         <mark key="[" line="11" column="5" />
         <mark key="]" line="11" column="11" />
@@ -2231,17 +2044,11 @@
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
       </file>
-      <file name="/JavaScript Console" timestamp="1488362836414">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocation.scala" timestamp="1480330262722">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="17" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.scala" timestamp="1481818517976">
-        <mark key="[" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/embed/script.js" timestamp="1489073191176">
         <mark key="[" line="5" column="13" />
@@ -2268,12 +2075,6 @@
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/spec/unit/config-spec.js" timestamp="1486627632531">
-        <mark key="[" line="7" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/index-spec.js" timestamp="1489737804463">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterSpec.scala" timestamp="1477300148848">
         <mark key="[" line="14" column="0" />
@@ -2307,15 +2108,8 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="/PHP Class Doc Comment.txt.ft" timestamp="1486450577263">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Helpers/ParameterBuilder.php" timestamp="1485327937748">
-        <mark key="[" line="2" column="32" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/HealthController.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/README" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/screening/model/Screening.scala" />
       <jump line="2" column="2" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/TrendEnum.scala" />
@@ -2415,13 +2209,14 @@
       <jump line="11" column="10" filename="$USER_HOME$/workspace/step/webpack.config.js" />
       <jump line="19" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" />
       <jump line="7192" column="33" filename="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" />
+      <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2430,34 +2225,547 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHJlY29tbWl0IjogWyJucG0gcnVuIGxpbnQiLCAibnBtIHJ1biB0ZXN0Il0sCg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJzZXR1cC1wcmVjb21taXQiOiAiLi9ub2RlX21vZHVsZXMvcHJlY29tbWl0L2Jpbi9jbGkuanMgaW5zdGFsbCAtYyBwYWNrYWdlLmpzb24iCg==</text>
+      <register name="2" type="4">
+        <text>&quot;accessor-pairs&quot;: &quot;error&quot;,
+    &quot;array-bracket-spacing&quot;: &quot;error&quot;,
+    &quot;array-callback-return&quot;: &quot;error&quot;,
+    &quot;arrow-body-style&quot;: &quot;error&quot;,
+    &quot;arrow-parens&quot;: [
+      &quot;error&quot;,
+      &quot;as-needed&quot;
+    ],
+    &quot;arrow-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: true
+      }
+    ],
+    &quot;block-scoped-var&quot;: &quot;error&quot;,
+    &quot;block-spacing&quot;: &quot;error&quot;,
+    &quot;brace-style&quot;: &quot;error&quot;,
+    &quot;callback-return&quot;: &quot;error&quot;,
+    &quot;camelcase&quot;: &quot;error&quot;,
+    &quot;capitalized-comments&quot;: [
+      &quot;error&quot;,
+      &quot;always&quot;
+    ],
+    &quot;class-methods-use-this&quot;: &quot;error&quot;,
+    &quot;comma-dangle&quot;: &quot;error&quot;,
+    &quot;comma-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: false
+      }
+    ],
+    &quot;comma-style&quot;: [
+      &quot;error&quot;,
+      &quot;last&quot;
+    ],
+    &quot;complexity&quot;: &quot;error&quot;,
+    &quot;computed-property-spacing&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;consistent-return&quot;: &quot;error&quot;,
+    &quot;consistent-this&quot;: &quot;error&quot;,
+    &quot;curly&quot;: &quot;off&quot;,
+    &quot;default-case&quot;: &quot;error&quot;,
+    &quot;dot-location&quot;: [
+      &quot;error&quot;,
+      &quot;property&quot;
+    ],
+    &quot;dot-notation&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;allowKeywords&quot;: true
+      }
+    ],
+    &quot;eol-last&quot;: &quot;error&quot;,
+    &quot;eqeqeq&quot;: &quot;error&quot;,
+    &quot;func-call-spacing&quot;: &quot;error&quot;,
+    &quot;func-name-matching&quot;: &quot;error&quot;,
+    &quot;func-names&quot;: &quot;error&quot;,
+    &quot;func-style&quot;: [
+      &quot;error&quot;,
+      &quot;expression&quot;
+    ],
+    &quot;generator-star-spacing&quot;: &quot;error&quot;,
+    &quot;global-require&quot;: &quot;error&quot;,
+    &quot;guard-for-in&quot;: &quot;error&quot;,
+    &quot;handle-callback-err&quot;: &quot;error&quot;,
+    &quot;id-blacklist&quot;: &quot;error&quot;,
+    &quot;id-length&quot;: &quot;off&quot;,
+    &quot;id-match&quot;: &quot;error&quot;,
+    &quot;indent&quot;: &quot;off&quot;,
+    &quot;init-declarations&quot;: &quot;error&quot;,
+    &quot;jsx-quotes&quot;: &quot;error&quot;,
+    &quot;key-spacing&quot;: &quot;error&quot;,
+    &quot;keyword-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: true
+      }
+    ],
+    &quot;line-comment-position&quot;: &quot;error&quot;,
+    &quot;linebreak-style&quot;: [
+      &quot;error&quot;,
+      &quot;unix&quot;
+    ],
+    &quot;lines-around-comment&quot;: &quot;error&quot;,
+    &quot;lines-around-directive&quot;: &quot;error&quot;,
+    &quot;max-depth&quot;: &quot;error&quot;,
+    &quot;max-len&quot;: &quot;off&quot;,
+    &quot;max-lines&quot;: &quot;error&quot;,
+    &quot;max-nested-callbacks&quot;: &quot;error&quot;,
+    &quot;max-params&quot;: &quot;off&quot;,
+    &quot;max-statements&quot;: &quot;error&quot;,
+    &quot;max-statements-per-line&quot;: &quot;error&quot;,
+    &quot;multiline-ternary&quot;: &quot;error&quot;,
+    &quot;new-cap&quot;: &quot;error&quot;,
+    &quot;new-parens&quot;: &quot;error&quot;,
+    &quot;newline-after-var&quot;: &quot;off&quot;,
+    &quot;newline-before-return&quot;: &quot;error&quot;,
+    &quot;newline-per-chained-call&quot;: &quot;error&quot;,
+    &quot;no-alert&quot;: &quot;error&quot;,
+    &quot;no-array-constructor&quot;: &quot;error&quot;,
+    &quot;no-await-in-loop&quot;: &quot;error&quot;,
+    &quot;no-bitwise&quot;: &quot;error&quot;,
+    &quot;no-caller&quot;: &quot;error&quot;,
+    &quot;no-catch-shadow&quot;: &quot;error&quot;,
+    &quot;no-compare-neg-zero&quot;: &quot;error&quot;,
+    &quot;no-confusing-arrow&quot;: &quot;error&quot;,
+    &quot;no-continue&quot;: &quot;error&quot;,
+    &quot;no-div-regex&quot;: &quot;error&quot;,
+    &quot;no-duplicate-imports&quot;: &quot;error&quot;,
+    &quot;no-else-return&quot;: &quot;error&quot;,
+    &quot;no-empty-function&quot;: &quot;error&quot;,
+    &quot;no-eq-null&quot;: &quot;error&quot;,
+    &quot;no-eval&quot;: &quot;error&quot;,
+    &quot;no-extend-native&quot;: &quot;error&quot;,
+    &quot;no-extra-bind&quot;: &quot;error&quot;,
+    &quot;no-extra-label&quot;: &quot;error&quot;,
+    &quot;no-extra-parens&quot;: &quot;error&quot;,
+    &quot;no-floating-decimal&quot;: &quot;error&quot;,
+    &quot;no-implicit-coercion&quot;: &quot;error&quot;,
+    &quot;no-implicit-globals&quot;: &quot;error&quot;,
+    &quot;no-implied-eval&quot;: &quot;error&quot;,
+    &quot;no-inline-comments&quot;: &quot;error&quot;,
+    &quot;no-invalid-this&quot;: &quot;error&quot;,
+    &quot;no-iterator&quot;: &quot;error&quot;,
+    &quot;no-label-var&quot;: &quot;error&quot;,
+    &quot;no-labels&quot;: &quot;error&quot;,
+    &quot;no-lone-blocks&quot;: &quot;error&quot;,
+    &quot;no-lonely-if&quot;: &quot;error&quot;,
+    &quot;no-loop-func&quot;: &quot;error&quot;,
+    &quot;no-magic-numbers&quot;: &quot;off&quot;,
+    &quot;no-mixed-operators&quot;: &quot;error&quot;,
+    &quot;no-mixed-requires&quot;: &quot;error&quot;,
+    &quot;no-multi-assign&quot;: &quot;error&quot;,
+    &quot;no-multi-spaces&quot;: &quot;error&quot;,
+    &quot;no-multi-str&quot;: &quot;error&quot;,
+    &quot;no-multiple-empty-lines&quot;: &quot;error&quot;,
+    &quot;no-native-reassign&quot;: &quot;error&quot;,
+    &quot;no-negated-condition&quot;: &quot;error&quot;,
+    &quot;no-negated-in-lhs&quot;: &quot;error&quot;,
+    &quot;no-nested-ternary&quot;: &quot;error&quot;,
+    &quot;no-new&quot;: &quot;error&quot;,
+    &quot;no-new-func&quot;: &quot;error&quot;,
+    &quot;no-new-object&quot;: &quot;error&quot;,
+    &quot;no-new-require&quot;: &quot;error&quot;,
+    &quot;no-new-wrappers&quot;: &quot;error&quot;,
+    &quot;no-octal-escape&quot;: &quot;error&quot;,
+    &quot;no-param-reassign&quot;: &quot;error&quot;,
+    &quot;no-path-concat&quot;: &quot;error&quot;,
+    &quot;no-plusplus&quot;: &quot;error&quot;,
+    &quot;no-process-env&quot;: &quot;off&quot;,
+    &quot;no-proto&quot;: &quot;error&quot;,
+    &quot;no-prototype-builtins&quot;: &quot;error&quot;,
+    &quot;no-restricted-globals&quot;: &quot;error&quot;,
+    &quot;no-restricted-imports&quot;: &quot;error&quot;,
+    &quot;no-restricted-modules&quot;: &quot;error&quot;,
+    &quot;no-restricted-properties&quot;: &quot;error&quot;,
+    &quot;no-restricted-syntax&quot;: &quot;error&quot;,
+    &quot;no-return-assign&quot;: &quot;error&quot;,
+    &quot;no-return-await&quot;: &quot;error&quot;,
+    &quot;no-script-url&quot;: &quot;error&quot;,
+    &quot;no-self-compare&quot;: &quot;error&quot;,
+    &quot;no-sequences&quot;: &quot;error&quot;,
+    &quot;no-shadow&quot;: &quot;error&quot;,
+    &quot;no-shadow-restricted-names&quot;: &quot;error&quot;,
+    &quot;no-spaced-func&quot;: &quot;error&quot;,
+    &quot;no-sync&quot;: &quot;error&quot;,
+    &quot;no-tabs&quot;: &quot;error&quot;,
+    &quot;no-template-curly-in-string&quot;: &quot;error&quot;,
+    &quot;no-ternary&quot;: &quot;error&quot;,
+    &quot;no-throw-literal&quot;: &quot;error&quot;,
+    &quot;no-trailing-spaces&quot;: &quot;error&quot;,
+    &quot;no-undef-init&quot;: &quot;error&quot;,
+    &quot;no-undefined&quot;: &quot;error&quot;,
+    &quot;no-underscore-dangle&quot;: &quot;error&quot;,
+    &quot;no-unmodified-loop-condition&quot;: &quot;error&quot;,
+    &quot;no-unneeded-ternary&quot;: &quot;error&quot;,
+    &quot;no-unused-expressions&quot;: &quot;error&quot;,
+    &quot;no-use-before-define&quot;: &quot;error&quot;,
+    &quot;no-useless-call&quot;: &quot;error&quot;,
+    &quot;no-useless-computed-key&quot;: &quot;error&quot;,
+    &quot;no-useless-concat&quot;: &quot;error&quot;,
+    &quot;no-useless-constructor&quot;: &quot;error&quot;,
+    &quot;no-useless-escape&quot;: &quot;error&quot;,
+    &quot;no-useless-rename&quot;: &quot;error&quot;,
+    &quot;no-useless-return&quot;: &quot;error&quot;,
+    &quot;no-var&quot;: &quot;error&quot;,
+    &quot;no-void&quot;: &quot;error&quot;,
+    &quot;no-warning-comments&quot;: &quot;error&quot;,
+    &quot;no-whitespace-before-property&quot;: &quot;error&quot;,
+    &quot;no-with&quot;: &quot;error&quot;,
+    &quot;nonblock-statement-body-position&quot;: &quot;error&quot;,
+    &quot;object-curly-newline&quot;: &quot;error&quot;,
+    &quot;object-curly-spacing&quot;: &quot;error&quot;,
+    &quot;object-property-newline&quot;: &quot;error&quot;,
+    &quot;object-shorthand&quot;: &quot;error&quot;,
+    &quot;one-var&quot;: &quot;off&quot;,
+    &quot;one-var-declaration-per-line&quot;: &quot;error&quot;,
+    &quot;operator-assignment&quot;: &quot;error&quot;,
+    &quot;operator-linebreak&quot;: &quot;error&quot;,
+    &quot;padded-blocks&quot;: &quot;off&quot;,
+    &quot;prefer-arrow-callback&quot;: &quot;error&quot;,
+    &quot;prefer-const&quot;: &quot;error&quot;,
+    &quot;prefer-numeric-literals&quot;: &quot;error&quot;,
+    &quot;prefer-promise-reject-errors&quot;: &quot;off&quot;,
+    &quot;prefer-reflect&quot;: &quot;error&quot;,
+    &quot;prefer-rest-params&quot;: &quot;error&quot;,
+    &quot;prefer-spread&quot;: &quot;error&quot;,
+    &quot;prefer-template&quot;: &quot;error&quot;,
+    &quot;quote-props&quot;: &quot;off&quot;,
+    &quot;quotes&quot;: [
+      &quot;error&quot;,
+      &quot;single&quot;
+    ],
+    &quot;radix&quot;: &quot;error&quot;,
+    &quot;require-await&quot;: &quot;error&quot;,
+    &quot;require-jsdoc&quot;: &quot;error&quot;,
+    &quot;rest-spread-spacing&quot;: &quot;error&quot;,
+
+    &quot;semi-spacing&quot;: &quot;error&quot;,
+    &quot;sort-imports&quot;: &quot;error&quot;,
+    &quot;sort-keys&quot;: &quot;off&quot;,
+    &quot;sort-vars&quot;: &quot;error&quot;,
+    &quot;space-before-blocks&quot;: &quot;error&quot;,
+    &quot;space-before-function-paren&quot;: &quot;error&quot;,
+    &quot;space-in-parens&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;space-infix-ops&quot;: &quot;error&quot;,
+    &quot;space-unary-ops&quot;: &quot;error&quot;,
+    &quot;spaced-comment&quot;: &quot;error&quot;,
+    &quot;strict&quot;: &quot;off&quot;,
+    &quot;symbol-description&quot;: &quot;error&quot;,
+    &quot;template-curly-spacing&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;template-tag-spacing&quot;: &quot;error&quot;,
+    &quot;unicode-bom&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;valid-jsdoc&quot;: &quot;error&quot;,
+    &quot;vars-on-top&quot;: &quot;error&quot;,
+    &quot;wrap-iife&quot;: &quot;error&quot;,
+    &quot;wrap-regex&quot;: &quot;error&quot;,
+    &quot;yield-star-spacing&quot;: &quot;error&quot;,
+    &quot;yoda&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIHByb2Nlc3MuZXhpdCgxKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>&quot;accessor-pairs&quot;: &quot;error&quot;,
+    &quot;array-bracket-spacing&quot;: &quot;error&quot;,
+    &quot;array-callback-return&quot;: &quot;error&quot;,
+    &quot;arrow-body-style&quot;: &quot;error&quot;,
+    &quot;arrow-parens&quot;: [
+      &quot;error&quot;,
+      &quot;as-needed&quot;
+    ],
+    &quot;arrow-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: true
+      }
+    ],
+    &quot;block-scoped-var&quot;: &quot;error&quot;,
+    &quot;block-spacing&quot;: &quot;error&quot;,
+    &quot;brace-style&quot;: &quot;error&quot;,
+    &quot;callback-return&quot;: &quot;error&quot;,
+    &quot;camelcase&quot;: &quot;error&quot;,
+    &quot;capitalized-comments&quot;: [
+      &quot;error&quot;,
+      &quot;always&quot;
+    ],
+    &quot;class-methods-use-this&quot;: &quot;error&quot;,
+    &quot;comma-dangle&quot;: &quot;error&quot;,
+    &quot;comma-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: false
+      }
+    ],
+    &quot;comma-style&quot;: [
+      &quot;error&quot;,
+      &quot;last&quot;
+    ],
+    &quot;complexity&quot;: &quot;error&quot;,
+    &quot;computed-property-spacing&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;consistent-return&quot;: &quot;error&quot;,
+    &quot;consistent-this&quot;: &quot;error&quot;,
+    &quot;curly&quot;: &quot;off&quot;,
+    &quot;default-case&quot;: &quot;error&quot;,
+    &quot;dot-location&quot;: [
+      &quot;error&quot;,
+      &quot;property&quot;
+    ],
+    &quot;dot-notation&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;allowKeywords&quot;: true
+      }
+    ],
+    &quot;eol-last&quot;: &quot;error&quot;,
+    &quot;eqeqeq&quot;: &quot;error&quot;,
+    &quot;func-call-spacing&quot;: &quot;error&quot;,
+    &quot;func-name-matching&quot;: &quot;error&quot;,
+    &quot;func-names&quot;: &quot;error&quot;,
+    &quot;func-style&quot;: [
+      &quot;error&quot;,
+      &quot;expression&quot;
+    ],
+    &quot;generator-star-spacing&quot;: &quot;error&quot;,
+    &quot;global-require&quot;: &quot;error&quot;,
+    &quot;guard-for-in&quot;: &quot;error&quot;,
+    &quot;handle-callback-err&quot;: &quot;error&quot;,
+    &quot;id-blacklist&quot;: &quot;error&quot;,
+    &quot;id-length&quot;: &quot;off&quot;,
+    &quot;id-match&quot;: &quot;error&quot;,
+    &quot;indent&quot;: &quot;off&quot;,
+    &quot;init-declarations&quot;: &quot;error&quot;,
+    &quot;jsx-quotes&quot;: &quot;error&quot;,
+    &quot;key-spacing&quot;: &quot;error&quot;,
+    &quot;keyword-spacing&quot;: [
+      &quot;error&quot;,
+      {
+        &quot;after&quot;: true,
+        &quot;before&quot;: true
+      }
+    ],
+    &quot;line-comment-position&quot;: &quot;error&quot;,
+    &quot;linebreak-style&quot;: [
+      &quot;error&quot;,
+      &quot;unix&quot;
+    ],
+    &quot;lines-around-comment&quot;: &quot;error&quot;,
+    &quot;lines-around-directive&quot;: &quot;error&quot;,
+    &quot;max-depth&quot;: &quot;error&quot;,
+    &quot;max-len&quot;: &quot;off&quot;,
+    &quot;max-lines&quot;: &quot;error&quot;,
+    &quot;max-nested-callbacks&quot;: &quot;error&quot;,
+    &quot;max-params&quot;: &quot;off&quot;,
+    &quot;max-statements&quot;: &quot;error&quot;,
+    &quot;max-statements-per-line&quot;: &quot;error&quot;,
+    &quot;multiline-ternary&quot;: &quot;error&quot;,
+    &quot;new-cap&quot;: &quot;error&quot;,
+    &quot;new-parens&quot;: &quot;error&quot;,
+    &quot;newline-after-var&quot;: &quot;off&quot;,
+    &quot;newline-before-return&quot;: &quot;error&quot;,
+    &quot;newline-per-chained-call&quot;: &quot;error&quot;,
+    &quot;no-alert&quot;: &quot;error&quot;,
+    &quot;no-array-constructor&quot;: &quot;error&quot;,
+    &quot;no-await-in-loop&quot;: &quot;error&quot;,
+    &quot;no-bitwise&quot;: &quot;error&quot;,
+    &quot;no-caller&quot;: &quot;error&quot;,
+    &quot;no-catch-shadow&quot;: &quot;error&quot;,
+    &quot;no-compare-neg-zero&quot;: &quot;error&quot;,
+    &quot;no-confusing-arrow&quot;: &quot;error&quot;,
+    &quot;no-continue&quot;: &quot;error&quot;,
+    &quot;no-div-regex&quot;: &quot;error&quot;,
+    &quot;no-duplicate-imports&quot;: &quot;error&quot;,
+    &quot;no-else-return&quot;: &quot;error&quot;,
+    &quot;no-empty-function&quot;: &quot;error&quot;,
+    &quot;no-eq-null&quot;: &quot;error&quot;,
+    &quot;no-eval&quot;: &quot;error&quot;,
+    &quot;no-extend-native&quot;: &quot;error&quot;,
+    &quot;no-extra-bind&quot;: &quot;error&quot;,
+    &quot;no-extra-label&quot;: &quot;error&quot;,
+    &quot;no-extra-parens&quot;: &quot;error&quot;,
+    &quot;no-floating-decimal&quot;: &quot;error&quot;,
+    &quot;no-implicit-coercion&quot;: &quot;error&quot;,
+    &quot;no-implicit-globals&quot;: &quot;error&quot;,
+    &quot;no-implied-eval&quot;: &quot;error&quot;,
+    &quot;no-inline-comments&quot;: &quot;error&quot;,
+    &quot;no-invalid-this&quot;: &quot;error&quot;,
+    &quot;no-iterator&quot;: &quot;error&quot;,
+    &quot;no-label-var&quot;: &quot;error&quot;,
+    &quot;no-labels&quot;: &quot;error&quot;,
+    &quot;no-lone-blocks&quot;: &quot;error&quot;,
+    &quot;no-lonely-if&quot;: &quot;error&quot;,
+    &quot;no-loop-func&quot;: &quot;error&quot;,
+    &quot;no-magic-numbers&quot;: &quot;off&quot;,
+    &quot;no-mixed-operators&quot;: &quot;error&quot;,
+    &quot;no-mixed-requires&quot;: &quot;error&quot;,
+    &quot;no-multi-assign&quot;: &quot;error&quot;,
+    &quot;no-multi-spaces&quot;: &quot;error&quot;,
+    &quot;no-multi-str&quot;: &quot;error&quot;,
+    &quot;no-multiple-empty-lines&quot;: &quot;error&quot;,
+    &quot;no-native-reassign&quot;: &quot;error&quot;,
+    &quot;no-negated-condition&quot;: &quot;error&quot;,
+    &quot;no-negated-in-lhs&quot;: &quot;error&quot;,
+    &quot;no-nested-ternary&quot;: &quot;error&quot;,
+    &quot;no-new&quot;: &quot;error&quot;,
+    &quot;no-new-func&quot;: &quot;error&quot;,
+    &quot;no-new-object&quot;: &quot;error&quot;,
+    &quot;no-new-require&quot;: &quot;error&quot;,
+    &quot;no-new-wrappers&quot;: &quot;error&quot;,
+    &quot;no-octal-escape&quot;: &quot;error&quot;,
+    &quot;no-param-reassign&quot;: &quot;error&quot;,
+    &quot;no-path-concat&quot;: &quot;error&quot;,
+    &quot;no-plusplus&quot;: &quot;error&quot;,
+    &quot;no-process-env&quot;: &quot;off&quot;,
+    &quot;no-proto&quot;: &quot;error&quot;,
+    &quot;no-prototype-builtins&quot;: &quot;error&quot;,
+    &quot;no-restricted-globals&quot;: &quot;error&quot;,
+    &quot;no-restricted-imports&quot;: &quot;error&quot;,
+    &quot;no-restricted-modules&quot;: &quot;error&quot;,
+    &quot;no-restricted-properties&quot;: &quot;error&quot;,
+    &quot;no-restricted-syntax&quot;: &quot;error&quot;,
+    &quot;no-return-assign&quot;: &quot;error&quot;,
+    &quot;no-return-await&quot;: &quot;error&quot;,
+    &quot;no-script-url&quot;: &quot;error&quot;,
+    &quot;no-self-compare&quot;: &quot;error&quot;,
+    &quot;no-sequences&quot;: &quot;error&quot;,
+    &quot;no-shadow&quot;: &quot;error&quot;,
+    &quot;no-shadow-restricted-names&quot;: &quot;error&quot;,
+    &quot;no-spaced-func&quot;: &quot;error&quot;,
+    &quot;no-sync&quot;: &quot;error&quot;,
+    &quot;no-tabs&quot;: &quot;error&quot;,
+    &quot;no-template-curly-in-string&quot;: &quot;error&quot;,
+    &quot;no-ternary&quot;: &quot;error&quot;,
+    &quot;no-throw-literal&quot;: &quot;error&quot;,
+    &quot;no-trailing-spaces&quot;: &quot;error&quot;,
+    &quot;no-undef-init&quot;: &quot;error&quot;,
+    &quot;no-undefined&quot;: &quot;error&quot;,
+    &quot;no-underscore-dangle&quot;: &quot;error&quot;,
+    &quot;no-unmodified-loop-condition&quot;: &quot;error&quot;,
+    &quot;no-unneeded-ternary&quot;: &quot;error&quot;,
+    &quot;no-unused-expressions&quot;: &quot;error&quot;,
+    &quot;no-use-before-define&quot;: &quot;error&quot;,
+    &quot;no-useless-call&quot;: &quot;error&quot;,
+    &quot;no-useless-computed-key&quot;: &quot;error&quot;,
+    &quot;no-useless-concat&quot;: &quot;error&quot;,
+    &quot;no-useless-constructor&quot;: &quot;error&quot;,
+    &quot;no-useless-escape&quot;: &quot;error&quot;,
+    &quot;no-useless-rename&quot;: &quot;error&quot;,
+    &quot;no-useless-return&quot;: &quot;error&quot;,
+    &quot;no-var&quot;: &quot;error&quot;,
+    &quot;no-void&quot;: &quot;error&quot;,
+    &quot;no-warning-comments&quot;: &quot;error&quot;,
+    &quot;no-whitespace-before-property&quot;: &quot;error&quot;,
+    &quot;no-with&quot;: &quot;error&quot;,
+    &quot;nonblock-statement-body-position&quot;: &quot;error&quot;,
+    &quot;object-curly-newline&quot;: &quot;error&quot;,
+    &quot;object-curly-spacing&quot;: &quot;error&quot;,
+    &quot;object-property-newline&quot;: &quot;error&quot;,
+    &quot;object-shorthand&quot;: &quot;error&quot;,
+    &quot;one-var&quot;: &quot;off&quot;,
+    &quot;one-var-declaration-per-line&quot;: &quot;error&quot;,
+    &quot;operator-assignment&quot;: &quot;error&quot;,
+    &quot;operator-linebreak&quot;: &quot;error&quot;,
+    &quot;padded-blocks&quot;: &quot;off&quot;,
+    &quot;prefer-arrow-callback&quot;: &quot;error&quot;,
+    &quot;prefer-const&quot;: &quot;error&quot;,
+    &quot;prefer-numeric-literals&quot;: &quot;error&quot;,
+    &quot;prefer-promise-reject-errors&quot;: &quot;off&quot;,
+    &quot;prefer-reflect&quot;: &quot;error&quot;,
+    &quot;prefer-rest-params&quot;: &quot;error&quot;,
+    &quot;prefer-spread&quot;: &quot;error&quot;,
+    &quot;prefer-template&quot;: &quot;error&quot;,
+    &quot;quote-props&quot;: &quot;off&quot;,
+    &quot;quotes&quot;: [
+      &quot;error&quot;,
+      &quot;single&quot;
+    ],
+    &quot;radix&quot;: &quot;error&quot;,
+    &quot;require-await&quot;: &quot;error&quot;,
+    &quot;require-jsdoc&quot;: &quot;error&quot;,
+    &quot;rest-spread-spacing&quot;: &quot;error&quot;,
+    
+    &quot;semi-spacing&quot;: &quot;error&quot;,
+    &quot;sort-imports&quot;: &quot;error&quot;,
+    &quot;sort-keys&quot;: &quot;off&quot;,
+    &quot;sort-vars&quot;: &quot;error&quot;,
+    &quot;space-before-blocks&quot;: &quot;error&quot;,
+    &quot;space-before-function-paren&quot;: &quot;error&quot;,
+    &quot;space-in-parens&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;space-infix-ops&quot;: &quot;error&quot;,
+    &quot;space-unary-ops&quot;: &quot;error&quot;,
+    &quot;spaced-comment&quot;: &quot;error&quot;,
+    &quot;strict&quot;: &quot;off&quot;,
+    &quot;symbol-description&quot;: &quot;error&quot;,
+    &quot;template-curly-spacing&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;template-tag-spacing&quot;: &quot;error&quot;,
+    &quot;unicode-bom&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],
+    &quot;valid-jsdoc&quot;: &quot;error&quot;,
+    &quot;vars-on-top&quot;: &quot;error&quot;,
+    &quot;wrap-iife&quot;: &quot;error&quot;,
+    &quot;wrap-regex&quot;: &quot;error&quot;,
+    &quot;yield-star-spacing&quot;: &quot;error&quot;,
+    &quot;yoda&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGZhaWwnLCAoKSA9PiB7CiAgICBleHBlY3QoZmFsc2UpLnRvQmVUcnV0aHkoKTsKICB9KQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICJhY2Nlc3Nvci1wYWlycyI6ICJlcnJvciIsCiAgICAiYXJyYXktYnJhY2tldC1zcGFjaW5nIjogImVycm9yIiwKICAgICJhcnJheS1jYWxsYmFjay1yZXR1cm4iOiAiZXJyb3IiLAogICAgImFycm93LWJvZHktc3R5bGUiOiAiZXJyb3IiLAogICAgImFycm93LXBhcmVucyI6IFsKICAgICAgImVycm9yIiwKICAgICAgImFzLW5lZWRlZCIKICAgIF0sCiAgICAiYXJyb3ctc3BhY2luZyI6IFsKICAgICAgImVycm9yIiwKICAgICAgewogICAgICAgICJhZnRlciI6IHRydWUsCiAgICAgICAgImJlZm9yZSI6IHRydWUKICAgICAgfQogICAgXSwKICAgICJibG9jay1zY29wZWQtdmFyIjogImVycm9yIiwKICAgICJibG9jay1zcGFjaW5nIjogImVycm9yIiwKICAgICJicmFjZS1zdHlsZSI6ICJlcnJvciIsCiAgICAiY2FsbGJhY2stcmV0dXJuIjogImVycm9yIiwKICAgICJjYW1lbGNhc2UiOiAiZXJyb3IiLAogICAgImNhcGl0YWxpemVkLWNvbW1lbnRzIjogWwogICAgICAiZXJyb3IiLAogICAgICAiYWx3YXlzIgogICAgXSwKICAgICJjbGFzcy1tZXRob2RzLXVzZS10aGlzIjogImVycm9yIiwKICAgICJjb21tYS1kYW5nbGUiOiAiZXJyb3IiLAogICAgImNvbW1hLXNwYWNpbmciOiBbCiAgICAgICJlcnJvciIsCiAgICAgIHsKICAgICAgICAiYWZ0ZXIiOiB0cnVlLAogICAgICAgICJiZWZvcmUiOiBmYWxzZQogICAgICB9CiAgICBdLAogICAgImNvbW1hLXN0eWxlIjogWwogICAgICAiZXJyb3IiLAogICAgICAibGFzdCIKICAgIF0sCiAgICAiY29tcGxleGl0eSI6ICJlcnJvciIsCiAgICAiY29tcHV0ZWQtcHJvcGVydHktc3BhY2luZyI6IFsKICAgICAgImVycm9yIiwKICAgICAgIm5ldmVyIgogICAgXSwKICAgICJjb25zaXN0ZW50LXJldHVybiI6ICJlcnJvciIsCiAgICAiY29uc2lzdGVudC10aGlzIjogImVycm9yIiwKICAgICJjdXJseSI6ICJvZmYiLAogICAgImRlZmF1bHQtY2FzZSI6ICJlcnJvciIsCiAgICAiZG90LWxvY2F0aW9uIjogWwogICAgICAiZXJyb3IiLAogICAgICAicHJvcGVydHkiCiAgICBdLAogICAgImRvdC1ub3RhdGlvbiI6IFsKICAgICAgImVycm9yIiwKICAgICAgewogICAgICAgICJhbGxvd0tleXdvcmRzIjogdHJ1ZQogICAgICB9CiAgICBdLAogICAgImVvbC1sYXN0IjogImVycm9yIiwKICAgICJlcWVxZXEiOiAiZXJyb3IiLAogICAgImZ1bmMtY2FsbC1zcGFjaW5nIjogImVycm9yIiwKICAgICJmdW5jLW5hbWUtbWF0Y2hpbmciOiAiZXJyb3IiLAogICAgImZ1bmMtbmFtZXMiOiAiZXJyb3IiLAogICAgImZ1bmMtc3R5bGUiOiBbCiAgICAgICJlcnJvciIsCiAgICAgICJleHByZXNzaW9uIgogICAgXSwKICAgICJnZW5lcmF0b3Itc3Rhci1zcGFjaW5nIjogImVycm9yIiwKICAgICJnbG9iYWwtcmVxdWlyZSI6ICJlcnJvciIsCiAgICAiZ3VhcmQtZm9yLWluIjogImVycm9yIiwKICAgICJoYW5kbGUtY2FsbGJhY2stZXJyIjogImVycm9yIiwKICAgICJpZC1ibGFja2xpc3QiOiAiZXJyb3IiLAogICAgImlkLWxlbmd0aCI6ICJvZmYiLAogICAgImlkLW1hdGNoIjogImVycm9yIiwKICAgICJpbmRlbnQiOiAib2ZmIiwKICAgICJpbml0LWRlY2xhcmF0aW9ucyI6ICJlcnJvciIsCiAgICAianN4LXF1b3RlcyI6ICJlcnJvciIsCiAgICAia2V5LXNwYWNpbmciOiAiZXJyb3IiLAogICAgImtleXdvcmQtc3BhY2luZyI6IFsKICAgICAgImVycm9yIiwKICAgICAgewogICAgICAgICJhZnRlciI6IHRydWUsCiAgICAgICAgImJlZm9yZSI6IHRydWUKICAgICAgfQogICAgXSwKICAgICJsaW5lLWNvbW1lbnQtcG9zaXRpb24iOiAiZXJyb3IiLAogICAgImxpbmVicmVhay1zdHlsZSI6IFsKICAgICAgImVycm9yIiwKICAgICAgInVuaXgiCiAgICBdLAogICAgImxpbmVzLWFyb3VuZC1jb21tZW50IjogImVycm9yIiwKICAgICJsaW5lcy1hcm91bmQtZGlyZWN0aXZlIjogImVycm9yIiwKICAgICJtYXgtZGVwdGgiOiAiZXJyb3IiLAogICAgIm1heC1sZW4iOiAib2ZmIiwKICAgICJtYXgtbGluZXMiOiAiZXJyb3IiLAogICAgIm1heC1uZXN0ZWQtY2FsbGJhY2tzIjogImVycm9yIiwKICAgICJtYXgtcGFyYW1zIjogIm9mZiIsCiAgICAibWF4LXN0YXRlbWVudHMiOiAiZXJyb3IiLAogICAgIm1heC1zdGF0ZW1lbnRzLXBlci1saW5lIjogImVycm9yIiwKICAgICJtdWx0aWxpbmUtdGVybmFyeSI6ICJlcnJvciIsCiAgICAibmV3LWNhcCI6ICJlcnJvciIsCiAgICAibmV3LXBhcmVucyI6ICJlcnJvciIsCiAgICAibmV3bGluZS1hZnRlci12YXIiOiAib2ZmIiwKICAgICJuZXdsaW5lLWJlZm9yZS1yZXR1cm4iOiAiZXJyb3IiLAogICAgIm5ld2xpbmUtcGVyLWNoYWluZWQtY2FsbCI6ICJlcnJvciIsCiAgICAibm8tYWxlcnQiOiAiZXJyb3IiLAogICAgIm5vLWFycmF5LWNvbnN0cnVjdG9yIjogImVycm9yIiwKICAgICJuby1hd2FpdC1pbi1sb29wIjogImVycm9yIiwKICAgICJuby1iaXR3aXNlIjogImVycm9yIiwKICAgICJuby1jYWxsZXIiOiAiZXJyb3IiLAogICAgIm5vLWNhdGNoLXNoYWRvdyI6ICJlcnJvciIsCiAgICAibm8tY29tcGFyZS1uZWctemVybyI6ICJlcnJvciIsCiAgICAibm8tY29uZnVzaW5nLWFycm93IjogImVycm9yIiwKICAgICJuby1jb250aW51ZSI6ICJlcnJvciIsCiAgICAibm8tZGl2LXJlZ2V4IjogImVycm9yIiwKICAgICJuby1kdXBsaWNhdGUtaW1wb3J0cyI6ICJlcnJvciIsCiAgICAibm8tZWxzZS1yZXR1cm4iOiAiZXJyb3IiLAogICAgIm5vLWVtcHR5LWZ1bmN0aW9uIjogImVycm9yIiwKICAgICJuby1lcS1udWxsIjogImVycm9yIiwKICAgICJuby1ldmFsIjogImVycm9yIiwKICAgICJuby1leHRlbmQtbmF0aXZlIjogImVycm9yIiwKICAgICJuby1leHRyYS1iaW5kIjogImVycm9yIiwKICAgICJuby1leHRyYS1sYWJlbCI6ICJlcnJvciIsCiAgICAibm8tZXh0cmEtcGFyZW5zIjogImVycm9yIiwKICAgICJuby1mbG9hdGluZy1kZWNpbWFsIjogImVycm9yIiwKICAgICJuby1pbXBsaWNpdC1jb2VyY2lvbiI6ICJlcnJvciIsCiAgICAibm8taW1wbGljaXQtZ2xvYmFscyI6ICJlcnJvciIsCiAgICAibm8taW1wbGllZC1ldmFsIjogImVycm9yIiwKICAgICJuby1pbmxpbmUtY29tbWVudHMiOiAiZXJyb3IiLAogICAgIm5vLWludmFsaWQtdGhpcyI6ICJlcnJvciIsCiAgICAibm8taXRlcmF0b3IiOiAiZXJyb3IiLAogICAgIm5vLWxhYmVsLXZhciI6ICJlcnJvciIsCiAgICAibm8tbGFiZWxzIjogImVycm9yIiwKICAgICJuby1sb25lLWJsb2NrcyI6ICJlcnJvciIsCiAgICAibm8tbG9uZWx5LWlmIjogImVycm9yIiwKICAgICJuby1sb29wLWZ1bmMiOiAiZXJyb3IiLAogICAgIm5vLW1hZ2ljLW51bWJlcnMiOiAib2ZmIiwKICAgICJuby1taXhlZC1vcGVyYXRvcnMiOiAiZXJyb3IiLAogICAgIm5vLW1peGVkLXJlcXVpcmVzIjogImVycm9yIiwKICAgICJuby1tdWx0aS1hc3NpZ24iOiAiZXJyb3IiLAogICAgIm5vLW11bHRpLXNwYWNlcyI6ICJlcnJvciIsCiAgICAibm8tbXVsdGktc3RyIjogImVycm9yIiwKICAgICJuby1tdWx0aXBsZS1lbXB0eS1saW5lcyI6ICJlcnJvciIsCiAgICAibm8tbmF0aXZlLXJlYXNzaWduIjogImVycm9yIiwKICAgICJuby1uZWdhdGVkLWNvbmRpdGlvbiI6ICJlcnJvciIsCiAgICAibm8tbmVnYXRlZC1pbi1saHMiOiAiZXJyb3IiLAogICAgIm5vLW5lc3RlZC10ZXJuYXJ5IjogImVycm9yIiwKICAgICJuby1uZXciOiAiZXJyb3IiLAogICAgIm5vLW5ldy1mdW5jIjogImVycm9yIiwKICAgICJuby1uZXctb2JqZWN0IjogImVycm9yIiwKICAgICJuby1uZXctcmVxdWlyZSI6ICJlcnJvciIsCiAgICAibm8tbmV3LXdyYXBwZXJzIjogImVycm9yIiwKICAgICJuby1vY3RhbC1lc2NhcGUiOiAiZXJyb3IiLAogICAgIm5vLXBhcmFtLXJlYXNzaWduIjogImVycm9yIiwKICAgICJuby1wYXRoLWNvbmNhdCI6ICJlcnJvciIsCiAgICAibm8tcGx1c3BsdXMiOiAiZXJyb3IiLAogICAgIm5vLXByb2Nlc3MtZW52IjogIm9mZiIsCiAgICAibm8tcHJvdG8iOiAiZXJyb3IiLAogICAgIm5vLXByb3RvdHlwZS1idWlsdGlucyI6ICJlcnJvciIsCiAgICAibm8tcmVzdHJpY3RlZC1nbG9iYWxzIjogImVycm9yIiwKICAgICJuby1yZXN0cmljdGVkLWltcG9ydHMiOiAiZXJyb3IiLAogICAgIm5vLXJlc3RyaWN0ZWQtbW9kdWxlcyI6ICJlcnJvciIsCiAgICAibm8tcmVzdHJpY3RlZC1wcm9wZXJ0aWVzIjogImVycm9yIiwKICAgICJuby1yZXN0cmljdGVkLXN5bnRheCI6ICJlcnJvciIsCiAgICAibm8tcmV0dXJuLWFzc2lnbiI6ICJlcnJvciIsCiAgICAibm8tcmV0dXJuLWF3YWl0IjogImVycm9yIiwKICAgICJuby1zY3JpcHQtdXJsIjogImVycm9yIiwKICAgICJuby1zZWxmLWNvbXBhcmUiOiAiZXJyb3IiLAogICAgIm5vLXNlcXVlbmNlcyI6ICJlcnJvciIsCiAgICAibm8tc2hhZG93IjogImVycm9yIiwKICAgICJuby1zaGFkb3ctcmVzdHJpY3RlZC1uYW1lcyI6ICJlcnJvciIsCiAgICAibm8tc3BhY2VkLWZ1bmMiOiAiZXJyb3IiLAogICAgIm5vLXN5bmMiOiAiZXJyb3IiLAogICAgIm5vLXRhYnMiOiAiZXJyb3IiLAogICAgIm5vLXRlbXBsYXRlLWN1cmx5LWluLXN0cmluZyI6ICJlcnJvciIsCiAgICAibm8tdGVybmFyeSI6ICJlcnJvciIsCiAgICAibm8tdGhyb3ctbGl0ZXJhbCI6ICJlcnJvciIsCiAgICAibm8tdHJhaWxpbmctc3BhY2VzIjogImVycm9yIiwKICAgICJuby11bmRlZi1pbml0IjogImVycm9yIiwKICAgICJuby11bmRlZmluZWQiOiAiZXJyb3IiLAogICAgIm5vLXVuZGVyc2NvcmUtZGFuZ2xlIjogImVycm9yIiwKICAgICJuby11bm1vZGlmaWVkLWxvb3AtY29uZGl0aW9uIjogImVycm9yIiwKICAgICJuby11bm5lZWRlZC10ZXJuYXJ5IjogImVycm9yIiwKICAgICJuby11bnVzZWQtZXhwcmVzc2lvbnMiOiAiZXJyb3IiLAogICAgIm5vLXVzZS1iZWZvcmUtZGVmaW5lIjogImVycm9yIiwKICAgICJuby11c2VsZXNzLWNhbGwiOiAiZXJyb3IiLAogICAgIm5vLXVzZWxlc3MtY29tcHV0ZWQta2V5IjogImVycm9yIiwKICAgICJuby11c2VsZXNzLWNvbmNhdCI6ICJlcnJvciIsCiAgICAibm8tdXNlbGVzcy1jb25zdHJ1Y3RvciI6ICJlcnJvciIsCiAgICAibm8tdXNlbGVzcy1lc2NhcGUiOiAiZXJyb3IiLAogICAgIm5vLXVzZWxlc3MtcmVuYW1lIjogImVycm9yIiwKICAgICJuby11c2VsZXNzLXJldHVybiI6ICJlcnJvciIsCiAgICAibm8tdmFyIjogImVycm9yIiwKICAgICJuby12b2lkIjogImVycm9yIiwKICAgICJuby13YXJuaW5nLWNvbW1lbnRzIjogImVycm9yIiwKICAgICJuby13aGl0ZXNwYWNlLWJlZm9yZS1wcm9wZXJ0eSI6ICJlcnJvciIsCiAgICAibm8td2l0aCI6ICJlcnJvciIsCiAgICAibm9uYmxvY2stc3RhdGVtZW50LWJvZHktcG9zaXRpb24iOiAiZXJyb3IiLAogICAgIm9iamVjdC1jdXJseS1uZXdsaW5lIjogImVycm9yIiwKICAgICJvYmplY3QtY3VybHktc3BhY2luZyI6ICJlcnJvciIsCiAgICAib2JqZWN0LXByb3BlcnR5LW5ld2xpbmUiOiAiZXJyb3IiLAogICAgIm9iamVjdC1zaG9ydGhhbmQiOiAiZXJyb3IiLAogICAgIm9uZS12YXIiOiAib2ZmIiwKICAgICJvbmUtdmFyLWRlY2xhcmF0aW9uLXBlci1saW5lIjogImVycm9yIiwKICAgICJvcGVyYXRvci1hc3NpZ25tZW50IjogImVycm9yIiwKICAgICJvcGVyYXRvci1saW5lYnJlYWsiOiAiZXJyb3IiLAogICAgInBhZGRlZC1ibG9ja3MiOiAib2ZmIiwKICAgICJwcmVmZXItYXJyb3ctY2FsbGJhY2siOiAiZXJyb3IiLAogICAgInByZWZlci1jb25zdCI6ICJlcnJvciIsCiAgICAicHJlZmVyLW51bWVyaWMtbGl0ZXJhbHMiOiAiZXJyb3IiLAogICAgInByZWZlci1wcm9taXNlLXJlamVjdC1lcnJvcnMiOiAib2ZmIiwKICAgICJwcmVmZXItcmVmbGVjdCI6ICJlcnJvciIsCiAgICAicHJlZmVyLXJlc3QtcGFyYW1zIjogImVycm9yIiwKICAgICJwcmVmZXItc3ByZWFkIjogImVycm9yIiwKICAgICJwcmVmZXItdGVtcGxhdGUiOiAiZXJyb3IiLAogICAgInF1b3RlLXByb3BzIjogIm9mZiIsCiAgICAicXVvdGVzIjogWwogICAgICAiZXJyb3IiLAogICAgICAic2luZ2xlIgogICAgXSwKICAgICJyYWRpeCI6ICJlcnJvciIsCiAgICAicmVxdWlyZS1hd2FpdCI6ICJlcnJvciIsCiAgICAicmVxdWlyZS1qc2RvYyI6ICJlcnJvciIsCiAgICAicmVzdC1zcHJlYWQtc3BhY2luZyI6ICJlcnJvciIsCiAgICAKICAgICJzZW1pLXNwYWNpbmciOiAiZXJyb3IiLAogICAgInNvcnQtaW1wb3J0cyI6ICJlcnJvciIsCiAgICAic29ydC1rZXlzIjogIm9mZiIsCiAgICAic29ydC12YXJzIjogImVycm9yIiwKICAgICJzcGFjZS1iZWZvcmUtYmxvY2tzIjogImVycm9yIiwKICAgICJzcGFjZS1iZWZvcmUtZnVuY3Rpb24tcGFyZW4iOiAiZXJyb3IiLAogICAgInNwYWNlLWluLXBhcmVucyI6IFsKICAgICAgImVycm9yIiwKICAgICAgIm5ldmVyIgogICAgXSwKICAgICJzcGFjZS1pbmZpeC1vcHMiOiAiZXJyb3IiLAogICAgInNwYWNlLXVuYXJ5LW9wcyI6ICJlcnJvciIsCiAgICAic3BhY2VkLWNvbW1lbnQiOiAiZXJyb3IiLAogICAgInN0cmljdCI6ICJvZmYiLAogICAgInN5bWJvbC1kZXNjcmlwdGlvbiI6ICJlcnJvciIsCiAgICAidGVtcGxhdGUtY3VybHktc3BhY2luZyI6IFsKICAgICAgImVycm9yIiwKICAgICAgIm5ldmVyIgogICAgXSwKICAgICJ0ZW1wbGF0ZS10YWctc3BhY2luZyI6ICJlcnJvciIsCiAgICAidW5pY29kZS1ib20iOiBbCiAgICAgICJlcnJvciIsCiAgICAgICJuZXZlciIKICAgIF0sCiAgICAidmFsaWQtanNkb2MiOiAiZXJyb3IiLAogICAgInZhcnMtb24tdG9wIjogImVycm9yIiwKICAgICJ3cmFwLWlpZmUiOiAiZXJyb3IiLAogICAgIndyYXAtcmVnZXgiOiAiZXJyb3IiLAogICAgInlpZWxkLXN0YXItc3BhY2luZyI6ICJlcnJvciIsCiAgICAieW9kYSI6IFsKICAgICAgImVycm9yIiwKICAgICAgIm5ldmVyIgogICAgXSwKICAgICJzZW1pIjogWwogICAgICAiZXJyb3IiLAogICAgICAibmV2ZXIiCiAgICBdLA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IHJlcXVpcmUoJ2FzZGphc2xrZGphc2xrZGonKQpjb25zb2xlLmxvZyhhKQo=</text>
+      <register name="6" type="4">
+        <text>&quot;semi&quot;: [
+      &quot;error&quot;,
+      &quot;never&quot;
+    ],</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJpbXBvcnQvZXh0ZXJuYWwtbW9kdWxlLWZvbGRlcnMiOiBbIm5vZGVfbW9kdWxlcyIsICJzcmMiXQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH1dCg==</text>
+        <text encoding="base64">ICAicHJlY29tbWl0IjogWyJucG0gcnVuIGxpbnQiLCAibnBtIHJ1biB0ZXN0Il0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJub2RlL25vLW1pc3NpbmctcmVxdWlyZSI6IFsiZXJyb3IiLCB7CiAgICAgICJhbGxvd01vZHVsZXMiOiBbImNvbmZpZyJdCg==</text>
+        <text encoding="base64">ICAgICJzZXR1cC1wcmVjb21taXQiOiAiLi9ub2RlX21vZHVsZXMvcHJlY29tbWl0L2Jpbi9jbGkuanMgaW5zdGFsbCAtYyBwYWNrYWdlLmpzb24iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
