@@ -473,12 +473,12 @@
         <mark key="^" line="24" column="15" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1490777878608">
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/README.md" timestamp="1490789388343">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="9" column="45" />
-        <mark key="]" line="20" column="8" />
+        <mark key="[" line="9" column="42" />
+        <mark key="]" line="9" column="43" />
         <mark key="^" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+        <mark key="." line="9" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/errors/InvalidInputError.js" timestamp="1490539631895">
         <mark key="[" line="2" column="0" />
