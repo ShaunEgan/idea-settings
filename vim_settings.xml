@@ -444,11 +444,11 @@
         <mark key="." line="22" column="26" />
         <mark key="^" line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.npmrc" timestamp="1490726321473">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.npmrc" timestamp="1490765548006">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="15" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/TreatmentController.scala" timestamp="1477286807997">
         <mark key="[" line="35" column="36" />
