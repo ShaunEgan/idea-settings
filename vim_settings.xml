@@ -223,12 +223,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1481809559379">
-        <mark key="[" line="0" column="49" />
-        <mark key="]" line="0" column="49" />
-        <mark key="." line="0" column="49" />
-        <mark key="^" line="0" column="34" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/services/AllocatorImpl.scala" timestamp="1479982671469">
         <mark key="[" line="5" column="41" />
         <mark key="]" line="2" column="0" />
@@ -354,6 +348,11 @@
         <mark key="." line="55" column="26" />
         <mark key="^" line="48" column="29" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1486710511865">
+        <mark key="[" line="0" column="174" />
+        <mark key="]" line="0" column="181" />
+        <mark key="." line="0" column="181" />
+      </file>
       <file name="$USER_HOME$/workspace/step/src/register/controller.js" timestamp="1490538989405">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="8" column="0" />
@@ -428,11 +427,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/step/package.json" timestamp="1490541171751">
         <mark key="[" line="16" column="14" />
         <mark key="]" line="17" column="46" />
@@ -461,6 +455,12 @@
         <mark key="]" line="4" column="72" />
         <mark key="^" line="4" column="72" />
         <mark key="." line="4" column="72" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1484819741730">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="53" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/SlaDataService.scala" timestamp="1481803758032">
         <mark key="[" line="20" column="45" />
@@ -534,11 +534,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1481017582227">
-        <mark key="[" line="0" column="114" />
-        <mark key="]" line="0" column="114" />
-        <mark key="." line="0" column="114" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
@@ -678,10 +673,15 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490779072608">
-        <mark key="[" line="10" column="19" />
-        <mark key="]" line="10" column="19" />
-        <mark key="." line="10" column="19" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490787000242">
+        <mark key="[" line="10" column="27" />
+        <mark key="]" line="10" column="27" />
+        <mark key="." line="10" column="27" />
         <mark key="^" line="45" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
@@ -796,12 +796,6 @@
         <mark key="^" line="161" column="4" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1484819741730">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1490543024296">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="32" column="0" />
@@ -830,6 +824,12 @@
         <mark key="." line="11" column="78" />
         <mark key="^" line="25" column="79" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1481805863639">
+        <mark key="[" line="101" column="1" />
+        <mark key="]" line="101" column="1" />
+        <mark key="." line="101" column="1" />
+        <mark key="^" line="121" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/patients/handlers.js" timestamp="1489915700248">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
@@ -857,6 +857,12 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="95" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1489998355299">
+        <mark key="[" line="0" column="212" />
+        <mark key="]" line="0" column="257" />
+        <mark key="." line="0" column="257" />
+        <mark key="^" line="0" column="257" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/SearchServiceFactory.php" timestamp="1485844697112">
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="19" />
@@ -872,6 +878,11 @@
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1486103389239">
+        <mark key="[" line="19" column="22" />
+        <mark key="]" line="19" column="22" />
+        <mark key="." line="19" column="22" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/GlycatedHemoglobin.scala" timestamp="1477555199538">
         <mark key="[" line="5" column="56" />
@@ -899,6 +910,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="69" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1481017582227">
+        <mark key="[" line="0" column="114" />
+        <mark key="]" line="0" column="114" />
+        <mark key="." line="0" column="114" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/SlaFactory.scala" timestamp="1481795115354">
         <mark key="[" line="5" column="4" />
@@ -1114,8 +1130,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" timestamp="1490772581836">
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" timestamp="1490787165988">
+        <mark key="[" line="292" column="1" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
@@ -1306,8 +1322,8 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490778622178">
-        <mark key="[" line="4" column="28" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490787360514">
+        <mark key="[" line="7" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -1336,12 +1352,6 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.txt" timestamp="1489998355299">
-        <mark key="[" line="0" column="212" />
-        <mark key="]" line="0" column="257" />
-        <mark key="." line="0" column="257" />
-        <mark key="^" line="0" column="257" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/SimulatorLib/library/House.scala" timestamp="1481527099150">
         <mark key="[" line="2" column="0" />
@@ -1413,6 +1423,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="33" column="1" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.js" timestamp="1490787408975">
+        <mark key="[" line="286" column="9" />
+        <mark key="]" line="286" column="8" />
+        <mark key="^" line="286" column="8" />
+        <mark key="." line="286" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/WattageClass.scala" timestamp="1481531367816">
         <mark key="[" line="0" column="8" />
@@ -1527,14 +1543,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1486103389239">
-        <mark key="[" line="19" column="22" />
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1490542115146">
-        <mark key="'" line="13" column="10" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/library/Simulator/traits/Generator.scala" timestamp="1481279728733">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="15" />
@@ -1590,6 +1598,11 @@
         <mark key="]" line="13" column="50" />
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="37" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1481815354136">
+        <mark key="[" line="480" column="0" />
+        <mark key="]" line="480" column="0" />
+        <mark key="." line="480" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/patients/models/race.js" timestamp="1488203019514">
         <mark key="[" line="6" column="2" />
@@ -1830,11 +1843,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="2" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1486710511865">
-        <mark key="[" line="0" column="174" />
-        <mark key="]" line="0" column="181" />
-        <mark key="." line="0" column="181" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/build.sbt" timestamp="1477300226313">
         <mark key="[" line="16" column="26" />
         <mark key="]" line="16" column="26" />
@@ -1856,6 +1864,12 @@
         <mark key="]" line="3" column="26" />
         <mark key="^" line="0" column="19" />
         <mark key="." line="3" column="26" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1481809559379">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="0" column="49" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/conf/application.test.conf" timestamp="1477297572306">
         <mark key="[" line="1" column="0" />
@@ -1894,9 +1908,6 @@
         <mark key="]" line="5" column="68" />
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" timestamp="1490606452732">
-        <mark key="'" line="7192" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
@@ -2076,11 +2087,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1481815354136">
-        <mark key="[" line="480" column="0" />
-        <mark key="]" line="480" column="0" />
-        <mark key="." line="480" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Elasticsearch/IndexableDateTimeFormatter.php" timestamp="1485324472214">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="10" />
@@ -2090,12 +2096,6 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1481805863639">
-        <mark key="[" line="101" column="1" />
-        <mark key="]" line="101" column="1" />
-        <mark key="." line="101" column="1" />
-        <mark key="^" line="121" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/scala/services/GenerationService.scala" timestamp="1481632028157">
         <mark key="[" line="5" column="24" />
@@ -2223,10 +2223,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text encoding="base64">LS1oYXJtb255IA==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">LS1oYXJtb255IA==</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2788,7 +2788,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
