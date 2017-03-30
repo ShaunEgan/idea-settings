@@ -735,7 +735,12 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" timestamp="1490856787693" />
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" timestamp="1490857805533">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481829534010">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="28" />
@@ -2526,7 +2531,7 @@
     ],</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>7</text>
       </register>
     </registers>
     <search>
@@ -2582,6 +2587,8 @@
         <entry>144</entry>
         <entry>NERDTree</entry>
         <entry>w</entry>
+        <entry>23</entry>
+        <entry>7</entry>
       </history-cmd>
       <history-expr />
       <history-input />
