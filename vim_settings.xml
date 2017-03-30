@@ -492,10 +492,10 @@
         <mark key="." line="6" column="99" />
         <mark key="^" line="6" column="99" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/tools.js" timestamp="1490866497350">
-        <mark key="[" line="23" column="11" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="5" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/tools.js" timestamp="1490868532682">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
         <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/README.md" timestamp="1481794479816">
@@ -715,10 +715,10 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1490867296241">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1490869574490">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/Library/ScadaResponseAdapterTest.scala" timestamp="1477039445627">
         <mark key="[" line="8" column="26" />
@@ -1204,11 +1204,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/PtsiClient.js" timestamp="1490867390480">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="11" column="36" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/PtsiClient.js" timestamp="1490870702791">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/common/base-repository.js" timestamp="1488718467194">
         <mark key="[" line="31" column="37" />
@@ -1514,6 +1514,11 @@
         <mark key="]" line="4" column="72" />
         <mark key="." line="4" column="72" />
         <mark key="^" line="4" column="72" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/lib/tools.js" timestamp="1490870367646">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Repositories/GroupRepositoryTest.php" timestamp="1485511771334">
         <mark key="[" line="22" column="33" />
@@ -2012,6 +2017,12 @@
         <mark key="]" line="196" column="5" />
         <mark key="." line="196" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/lib/RestifyRestClient.js" timestamp="1490870622520">
+        <mark key="[" line="26" column="32" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Units/Units.scala" timestamp="1477546266749">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -2253,11 +2264,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgcmVzdGlmeSA9IHJlcXVpcmUoJ3Jlc3RpZnknKQo=</text>
+      <register name="&quot;" type="4">
+        <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>w</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2266,37 +2277,37 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcmVzdGlmeSA9IHJlcXVpcmUoJ3Jlc3RpZnknKQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gY29uc3QgcHRzaUNsaWVudCA9IHJlcXVpcmUoJy4vbGliL1B0c2lDbGllbnQnKShjb25maWcucHRzaVVybCwgY29uZmlnLnB0c2lSb290UGF0aCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGEnCmltcG9ydCAqIGFzIHRvb2xzIGZyb20gJy4vdG9vbHMnCgpjb25zdCBoYW5kbGVQcm9taXNlZFJlc3BvbnNlID0gdG9vbHMuaGFuZGxlUHJvbWlzZWRSZXNwb25zZQpjb25zdCBwdHNpUGFyYW1ldGVySXNJbnZhbGlkID0gdG9vbHMucHRzaVBhcmFtZXRlcklzSW52YWxpZApjb25zdCBkYXRlc0FyZUludmFsaWQgPSB0b29scy5kYXRlc0FyZUludmFsaWQKCmNvbnN0IGZvcm1hdERhdGUgPSBkYXRlID0+IGRhdGUudG9JU09TdHJpbmcoKS5zcGxpdCgnVCcpWzBdCgpjb25zdCBwdHNpQ2xpZW50ID0gKHB0c2lVcmwsIHJvb3RQYXRoKSA9PiB7CiAgY29uc3QgY2xpZW50ID0gcmVzdGlmeS5jcmVhdGVKc29uQ2xpZW50KHsKICAgIHVybDogcHRzaVVybCwKICAgIHZlcnNpb246ICd+MS4wJwogIH0pCgogIGNvbnN0IG1ha2VDbGllbnRHZXRSZXF1ZXN0ID0gUi5jdXJyeSh0b29scy5tYWtlR2V0UmVxdWVzdCkoY2xpZW50LCByb290UGF0aCkKCiAgY29uc3QgZ2V0R2VuZXJhdG9yRGF0YSA9IChnZW5lcmF0b3IsIGZyb20sIHRvKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBpZiAoZGF0ZXNBcmVJbnZhbGlkKGZyb20sIHRvKSkgcmVqZWN0KCdJbnZhbGlkIGRhdGVzJykKCiAgICBtYWtlQ2xpZW50R2V0UmVxdWVzdCgnL0dldEdlbmVyYXRpb25EYXRhJywgewogICAgICBHZW5lcmF0b3JJZGVudGlmaWVyOiBnZW5lcmF0b3IsCiAgICAgIFN0YXJ0RGF0ZTogZm9ybWF0RGF0ZShmcm9tKSwKICAgICAgRW5kRGF0ZTogZm9ybWF0RGF0ZSh0bykKICAgIH0sIGhhbmRsZVByb21pc2VkUmVzcG9uc2UocmVzb2x2ZSwgcmVqZWN0KSkKICB9KQoKICBjb25zdCBnZXRDb25zdW1lckRhdGEgPSAoY29uc3VtZXIsIGZyb20sIHRvKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBpZiAoZGF0ZXNBcmVJbnZhbGlkKGZyb20sIHRvKSkgcmVqZWN0KCdJbnZhbGlkIGRhdGVzJykKCiAgICBtYWtlQ2xpZW50R2V0UmVxdWVzdCgnL0dldENvbnN1bWVyQ29uc3VtcHRpb25EYXRhJywgewogICAgICBDb25zdW1lcklkZW50aWZpZXI6IGNvbnN1bWVyLAogICAgICBTdGFydERhdGU6IGZvcm1hdERhdGUoZnJvbSksCiAgICAgIEVuZERhdGU6IGZvcm1hdERhdGUodG8pCiAgICB9LCBoYW5kbGVQcm9taXNlZFJlc3BvbnNlKHJlc29sdmUsIHJlamVjdCkpCiAgfSkKCiAgcmV0dXJuIHsKICAgIGdldEFsbEdlbmVyYXRpb25EYXRhU2luY2UyMDE0OiAoKSA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIG1ha2VDbGllbnRHZXRSZXF1ZXN0KCcvR2V0R2VuZXJhdGlvbkRhdGFfU2luY2VfMjAxNCcsIHt9LCBoYW5kbGVQcm9taXNlZFJlc3BvbnNlKHJlc29sdmUsIHJlamVjdCkpCiAgICB9KSwKCiAgICBnZXRHZW5lcmF0aW9uRGF0YTogKGdlbmVyYXRvciwgZnJvbSwgdG8pID0+IHsKICAgICAgaWYgKHB0c2lQYXJhbWV0ZXJJc0ludmFsaWQoZ2VuZXJhdG9yKSkgcmV0dXJuIFByb21pc2UucmVqZWN0KCdObyBnZW5lcmF0b3Igc3BlY2lmaWVkJykKCiAgICAgIHJldHVybiBnZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgICB9LAoKICAgIGdldENvbnN1bXB0aW9uRGF0YTogKGNvbnN1bWVyLCBmcm9tLCB0bykgPT4gewogICAgICBpZiAocHRzaVBhcmFtZXRlcklzSW52YWxpZChjb25zdW1lcikpIHJldHVybiBQcm9taXNlLnJlamVjdCgnTm8gY29uc3VtZXIgc3BlY2lmaWVkJykKCiAgICAgIHJldHVybiBnZXRDb25zdW1lckRhdGEoY29uc3VtZXIsIGZyb20sIHRvKQogICAgfSwKCiAgICBnZXRBbGxHZW5lcmF0aW9uRGF0YTogKGZyb20sIHRvKSA9PiBnZXRHZW5lcmF0b3JEYXRhKG51bGwsIGZyb20sIHRvKSwKCiAgICBnZXRBbGxDb25zdW1wdGlvbkRhdGU6IChmcm9tLCB0bykgPT4gZ2V0Q29uc3VtZXJEYXRhKG51bGwsIGZyb20sIHRvKQogIH0KfQoKbW9kdWxlLmV4cG9ydHMgPSBwdHNpQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RpZnkgZnJvbSAncmVzdGlmeScK</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlUHJvbWlzZWRSZXNwb25zZSA9IHRvb2xzLmhhbmRsZVByb21pc2VkUmVzcG9uc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBoYW5kbGVQcm9taXNlZFJlc3BvbnNlLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgcmV0dXJuIHsKICAgICwKCiAgICBnZXRBbGxDb25zdW1wdGlvbkRhdGU6IChmcm9tLCB0bykgPT4gZ2V0Q29uc3VtZXJEYXRhKG51bGwsIGZyb20sIHRvKQogIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgaGFuZGxlUHJvbWlzZWRSZXNwb25zZSA9IChyZXNvbHZlLCByZWplY3QpID0+IChlcnJvciwgcmVxdWVzdCwgcmVzcG9uc2UsIGRhdGEpID0+IHsKICBpZiAoZXJyb3IpIHJlamVjdChlcnJvcikKICBlbHNlIHJlc29sdmUoZGF0YSkKfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICAsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">OwogICAg</text>
       </register>
       <register name=":" type="4">
-        <text>7</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -2354,6 +2365,7 @@
         <entry>w</entry>
         <entry>23</entry>
         <entry>7</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
