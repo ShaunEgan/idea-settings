@@ -358,6 +358,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/test/index.js" timestamp="1490861968454">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Repositories/UserRepositoryTest.php" timestamp="1490595096006">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="6" />
@@ -417,10 +422,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490790409518">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490862847763">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="16" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/target/scala-2.11/src_managed/test/library/Simulator/models/HouseSpec.scala" timestamp="1481279674028">
         <mark key="[" line="4" column="0" />
@@ -691,8 +696,9 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490860417021">
-        <mark key="^" line="45" column="15" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490861824906">
+        <mark key="[" line="6" column="14" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
         <mark key="[" line="2" column="14" />
@@ -1211,6 +1217,9 @@
         <mark key="^" line="31" column="17" />
         <mark key="." line="31" column="37" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.gitignore" timestamp="1490863028472">
+        <mark key="[" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1490263204295">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="21" />
@@ -1336,10 +1345,8 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490790482182">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490861538303">
+        <mark key="[" line="62" column="60" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
@@ -1783,6 +1790,9 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/nodemon.json" timestamp="1490863596924">
+        <mark key="[" line="4" column="1" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/GeneratorAssigner.scala" timestamp="1481821436607">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="4" column="46" />
@@ -1942,11 +1952,10 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1490790445502">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="23" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1490863197258">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/library/Biometrics/BloodGlucose.scala" timestamp="1476547530360">
         <mark key="[" line="5" column="0" />
@@ -2082,6 +2091,9 @@
         <mark key="]" line="13" column="41" />
         <mark key="^" line="13" column="41" />
         <mark key="." line="13" column="41" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1490862166770">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/Allocation.scala" timestamp="1480330262722">
         <mark key="[" line="2" column="6" />
@@ -2240,11 +2252,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2253,7 +2265,7 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2262,25 +2274,29 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICdub2RlL25vLXVucHVibGlzaGVkLXJlcXVpcmUnOiAnb2ZmJywKICAgIC8vICdub2RlL25vLW1pc3NpbmctcmVxdWlyZSc6ICdvZmYnLAo=</text>
+        <text encoding="base64">Ly8gY29uc3QgY29uZmlnID0gcmVxdWlyZSgnLi4vLi4vc3JjL2NvbmZpZycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAoKICAgIAogIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+      <register name="6" type="4">
+        <text>module.exports = {
+  port: env.PORT || 8001,
+  ptsiUrl: env.PTSI_URL || 'http://41.85.147.248',
+  ptsiRootPath: env.PTSI_ROOT_PATH || '/PowerX/PowerX_Service.svc'
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgpjb25zdCByZXN0aWZ5ID0gcmVxdWlyZSgncmVzdGlmeScpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciAoKSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>7</text>
