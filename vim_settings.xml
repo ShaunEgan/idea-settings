@@ -727,6 +727,11 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/index.js" timestamp="1490854569896">
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/models/Generators.scala" timestamp="1481829534010">
         <mark key="[" line="20" column="28" />
         <mark key="]" line="20" column="28" />
@@ -776,10 +781,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1490680321458">
-        <mark key="[" line="28" column="41" />
-        <mark key="^" line="89" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1481814638591">
         <mark key="[" line="21" column="32" />
@@ -1464,10 +1465,6 @@
         <mark key="[" line="2" column="33" />
         <mark key="]" line="2" column="33" />
         <mark key="." line="2" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/serverless.yml" timestamp="1490538212858">
-        <mark key="[" line="46" column="31" />
-        <mark key="^" line="24" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
@@ -2224,11 +2221,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICdub2RlL25vLXVucHVibGlzaGVkLXJlcXVpcmUnOiAnb2ZmJywKICAgIC8vICdub2RlL25vLW1pc3NpbmctcmVxdWlyZSc6ICdvZmYnLAo=</text>
+      <register name="&quot;" type="4">
+        <text>500</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LS1oYXJtb255IA==</text>
+        <text>500</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
