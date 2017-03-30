@@ -1344,8 +1344,8 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490867560404">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490872214635">
+        <mark key="[" line="3" column="26" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -2265,10 +2265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>Client</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>Client</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
