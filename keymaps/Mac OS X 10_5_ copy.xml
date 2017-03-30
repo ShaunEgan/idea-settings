@@ -25,7 +25,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Tool_External Tools_git cola">
-    <keyboard-shortcut first-keystroke="shift meta back_quote" />
+    <keyboard-shortcut first-keystroke="shift meta #10000a7" />
   </action>
   <action id="UnsplitAll">
     <keyboard-shortcut first-keystroke="alt page_down" />
