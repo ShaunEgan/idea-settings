@@ -116,8 +116,11 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="7" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/NotFoundError.js" timestamp="1490875969658">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/NotFoundError.js" timestamp="1490877420844">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+        <mark key="." line="2" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/SampleRepository/CsvSampleRepositoryTest.scala" timestamp="1481825798680">
         <mark key="[" line="15" column="10" />
@@ -430,8 +433,8 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490874310362">
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490878706060">
+        <mark key="[" line="10" column="69" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
@@ -452,7 +455,7 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490856769795">
+      <file name="/Dummy.txt" timestamp="1490877725515">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationService.scala" timestamp="1479905484076">
@@ -650,11 +653,7 @@
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/errors/ExtendableError.js" timestamp="1490873311608">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/errors/ExtendableError.js" timestamp="1490877113512" />
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="32" />
@@ -687,10 +686,22 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1490878763230">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="42" column="76" />
+        <mark key="^" line="42" column="106" />
+        <mark key="." line="42" column="76" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490877240330">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="7" />
+        <mark key="^" line="27" column="7" />
+        <mark key="." line="27" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
         <mark key="[" line="2" column="14" />
@@ -1349,8 +1360,8 @@
         <mark key="]" line="5" column="44" />
         <mark key="." line="5" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490875360264">
-        <mark key="[" line="9" column="68" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/index.js" timestamp="1490878699502">
+        <mark key="[" line="16" column="19" />
         <mark key="]" line="3" column="22" />
         <mark key="." line="3" column="22" />
       </file>
@@ -1813,10 +1824,11 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/RestifyRestClient.js" timestamp="1490875672280">
-        <mark key="[" line="20" column="20" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/RestifyRestClient.js" timestamp="1490877541294">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="21" column="63" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Complex.php" timestamp="1490264714196">
         <mark key="[" line="39" column="18" />
@@ -1860,10 +1872,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/PtsiError.js" timestamp="1490875583872">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/PtsiError.js" timestamp="1490877369671">
+        <mark key="[" line="2" column="39" />
+        <mark key="]" line="2" column="39" />
+        <mark key="." line="2" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/BatchAllocatorImpl.scala" timestamp="1480330346096">
         <mark key="[" line="21" column="0" />
@@ -1883,11 +1895,11 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/ConsumerNotFoundError.js" timestamp="1490875911546">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/ConsumerNotFoundError.js" timestamp="1490878562287">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="5" />
-        <mark key="." line="2" column="6" />
+        <mark key="." line="2" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/traits/Generator.scala" timestamp="1481091428929">
         <mark key="[" line="5" column="0" />
@@ -2088,11 +2100,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/GeneratorNotFoundError.js" timestamp="1490876006680">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="10" column="37" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/GeneratorNotFoundError.js" timestamp="1490878518710">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="8" column="37" />
+        <mark key="." line="2" column="51" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/build.sbt" timestamp="1481623613680">
         <mark key="[" line="17" column="37" />
@@ -2301,10 +2313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PtsiError</text>
+        <text>`Consumer ${consumer} not found`</text>
       </register>
       <register name="-" type="4">
-        <text>PtsiError</text>
+        <text>`Consumer ${consumer} not found`</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2312,35 +2324,59 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UK</text>
+      <register name="1" type="4">
+        <text>{
+  constructor(message) {
+    super(message)
+
+    this.name = 'ConsumerNotFoundError'
+  }
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1lc3NhZ2UgPSAKICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5ldyBQdHNpRXJyb3IoSlNPTi5wYXJzZShlcnJvci5tZXNzYWdlKS5FcnJvcikpCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UK</text>
+      <register name="3" type="4">
+        <text>{
+  constructor(message) {
+    super(message)
+
+    this.name = 'GeneratorNotFoundError'
+  }
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yLm1lc3NhZ2UpCg==</text>
+      <register name="4" type="4">
+        <text>{
+  constructor(message) {
+    super(message)
+
+    this.name = 'GeneratorNotFoundError'
+  }
+}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFB0c2lFcnJvciBmcm9tICcuL2xpYi9QdHNpL0NsaWVudC9lcnJvci9QdHNpRXJyb3InCg==</text>
+      <register name="5" type="4">
+        <text>{
+  // constructor(message) {
+  //   super(message)
+
+    // this.name = 'PtsiError'
+  // }
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQdHNpRXJyb3I6ICVzJywgZXJyb3IgaW5zdGFuY2VvZiBQdHNpRXJyb3IpCiAgICBjb25zb2xlLmxvZyhlcnJvci5uYW1lKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHJlc3RpZnkgZnJvbSAncmVzdGlmeScKaW1wb3J0IFJlc3RpZnlSZXN0Q2xpZW50IGZyb20gJy4vQ2xpZW50L2xpYi9SZXN0aWZ5UmVzdENsaWVudCcKaW1wb3J0IFB0c2lDbGllbnQgZnJvbSAnLi9DbGllbnQvbGliL1B0c2lDbGllbnQnCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IHRoaXMuY29uc3RydWN0b3IubmFtZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgQ2xpZW50IGV4dGVuZHMgUHRzaUNsaWVudCB7CiAgY29uc3RydWN0b3IocHRzaVVybCwgcm9vdFBhdGgpIHsKICAgIGNvbnN0IHJlc3RDbGllbnQgPSBuZXcgUmVzdGlmeVJlc3RDbGllbnQocHRzaVVybCwgcm9vdFBhdGgsIHJlc3RpZnkpCgogICAgc3VwZXIocmVzdENsaWVudCkKICB9Cn0K</text>
+        <text encoding="base64">ICAgIHRoaXMubWVzc2FnZSA9IG1lc3NhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEVycm9yLmNhcHR1cmVTdGFjawo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IG1lc3NhZ2UgPSAKICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
