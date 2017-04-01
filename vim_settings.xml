@@ -515,6 +515,11 @@
         <mark key="^" line="161" column="4" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491051275243">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="8" />
+        <mark key="." line="33" column="8" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Electronics.scala" timestamp="1481828860270">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="37" column="77" />
@@ -1188,10 +1193,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1490541360046">
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="13" />
-        <mark key="." line="40" column="13" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491051817820">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="17" />
+        <mark key="." line="13" column="17" />
         <mark key="^" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/invalidInput.js" timestamp="1490534556803">
@@ -1388,11 +1393,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>4.3</text>
       </register>
       <register name="-" type="4">
-        <text>getConsumptionData</text>
+        <text>4.3</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -1400,39 +1405,43 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>loader: 'markdown-loader',
+        options: {
+          pedantic: false,
+          sanitize: false
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZ2VuZXJhdG9yCiAgICogQHBhcmFtIGZyb20KICAgKiBAcGFyYW0gdG8KICAgKiBAcmV0dXJuIHsqfQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ci8qKgogKiBDaGVja3MgdGhhdCBhIHBhcmFtZXRlciBpcyBub3QgTmlsIGFuZCBoYXMgYSBub24tZW1wdHkgdmFsdWUuCiAqCiAqIEBwYXJhbSBwYXJhbWV0ZXIgc3RyaW5nIFRoZSBwYXJhbWV0ZXIgdG8gY2hlY2suCiAqIEByZXR1cm4gYm9vbAogKi8KY29uc3QgcHRzaVBhcmFtZXRlcklzSW52YWxpZCA9IHRvb2xzLnB0c2lQYXJhbWV0ZXJJc0ludmFsaWQ=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgKiBAcGFyYW0gZ2VuZXJhdG9yCiAgICogQHBhcmFtIGZyb20KICAgKiBAcGFyYW0gdG8KICAgKiBAcmV0dXJuIHsqfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">Ci8qKgogKiBDaGVja3MgdGhhdCBhIHBhcmFtZXRlciBpcyBub3QgTmlsIGFuZCBoYXMgYSBub24tZW1wdHkgdmFsdWUuCiAqCiAqIEBwYXJhbSBwYXJhbWV0ZXIgc3RyaW5nIFRoZSBwYXJhbWV0ZXIgdG8gY2hlY2suCiAqIEByZXR1cm4gYm9vbAogKi8KY29uc3QgcHRzaVBhcmFtZXRlcklzSW52YWxpZCA9IHRvb2xzLnB0c2lQYXJhbWV0ZXJJc0ludmFsaWQ=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">CgogIGdldEdlbmVyYXRpb25EYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pIHsKICAgIGlmIChwdHNpUGFyYW1ldGVySXNJbnZhbGlkKGdlbmVyYXRvcikpIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSW52YWxpZElucHV0RXJyb3IoJ05vIGdlbmVyYXRvciBzcGVjaWZpZWQnKSkKCiAgICByZXR1cm4gdGhpcy5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgfQoKICBnZXRDb25zdW1wdGlvbkRhdGEoY29uc3VtZXIsIGZyb20sIHRvKSB7CiAgICBpZiAocHRzaVBhcmFtZXRlcklzSW52YWxpZChjb25zdW1lcikpIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSW52YWxpZElucHV0RXJyb3IoJ05vIGNvbnN1bWVyIHNwZWNpZmllZCcpKQoKICAgIHJldHVybiB0aGlzLmdldENvbnN1bWVyRGF0YShjb25zdW1lciwgZnJvbSwgdG8pCiAgfQoKICBnZXRBbGxHZW5lcmF0aW9uRGF0YShmcm9tLCB0bykgewogICAgcmV0dXJuIHRoaXMuZ2V0R2VuZXJhdG9yRGF0YShudWxsLCBmcm9tLCB0bykKICB9CgogIGdldEFsbENvbnN1bXB0aW9uRGF0ZShmcm9tLCB0bykgewogICAgcmV0dXJuIHRoaXMuZ2V0Q29uc3VtZXJEYXRhKG51bGwsIGZyb20sIHRvKQogIH0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGVycm9ycyBmcm9tICdyZXN0aWZ5LWVycm9ycycK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
           if (error instanceof errors.NotFoundError) reject(new NotFoundError('Resource not found'))
           else {
             reject(new PtsiError(JSON.parse(error.message).Error))
           }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHBFcnJvciA9IG1hcFJlc3RpZnlFcnJvclRvUHRzaUVycm9yKGVycm9yKQogICAgICAgICAgY29uc29sZS5sb2cocEVycm9yKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHBFcnJvciA9IG1hcFJlc3RpZnlFcnJvclRvUHRzaUVycm9yKGVycm9yKQogICAgICAgICAgY29uc29sZS5sb2cocEVycm9yKQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
