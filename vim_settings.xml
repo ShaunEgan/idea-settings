@@ -217,6 +217,11 @@
         <mark key="^" line="7" column="6" />
         <mark key="." line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/helios/README.md" timestamp="1491052624081">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/TimeSlotAllocatorImplSpec.scala" timestamp="1480586749774">
         <mark key="[" line="55" column="23" />
         <mark key="]" line="55" column="23" />
@@ -1394,10 +1399,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4.3</text>
+        <text>4.3.2</text>
       </register>
       <register name="-" type="4">
-        <text>4.3</text>
+        <text>4.3.2</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
