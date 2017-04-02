@@ -262,6 +262,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/lib/base/repository/index.js" timestamp="1491152723564">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1481825790986">
         <mark key="[" line="16" column="39" />
         <mark key="]" line="16" column="39" />
@@ -1002,11 +1008,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1491149274427">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="16" />
+      <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1491153160806">
+        <mark key="[" line="7" column="41" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseTest.scala" timestamp="1481099421859">
         <mark key="[" line="4" column="6" />
@@ -1878,10 +1883,10 @@
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491150284728">
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491154155762">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
@@ -2422,10 +2427,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -2434,34 +2439,36 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygiV2UgaGF2ZSBzdGFydGVkIikKICBjb25zb2xlLmxvZyhldmVudCkK</text>
+      <register name="2" type="4">
+        <text>{
+  db: db
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAiYXN5bW1ldHJ5IjogdHJ1ZSwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">LAogIGVuZDogKCkgPT4gewogICAgcGdwLmVuZCgpCiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdGUgPSByZXF1aXJlKCcuLi9saWIvbW9kZWwnKS52YWxpZGF0ZQo=</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlIGZyb20gJy4uL2xpYi9tb2RlbCcK</text>
+        <text encoding="base64">ICAgICAgZGIuZW5kKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC5maW5hbGx5KCjCpykgPT4gewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEV4dGVuZGFibGVFcnJvciBmcm9tICcuLi8uLi8uLi9saWIvZXJyb3JzL0V4dGVuZGFibGVFcnJvcicK</text>
+        <text encoding="base64">ICAgICAgLmZpbmFsbHkK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAibGFzZXJMZWZ0IjogIkZvY2FsIExhc2VyIiwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJXZSBhcmUgZG9uZTsgY29tcGxldGluZyB3aXRoOiIpCiAgICAgIGNvbnNvbGUubG9nKGRhdGEpCgogICAgICBjb21wbGV0ZShkYXRhKQogICAgfQ==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBjYWxsYmFjayhuZXcgSW52YWxpZFNjcmVlbmluZ01vZGVsRXJyb3IoZXJyb3IubWVzc2FnZSkpCiAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
@@ -2500,10 +2507,6 @@
         <entry>compatable</entry>
       </history-search>
       <history-cmd>
-        <entry>9</entry>
-        <entry>24,53</entry>
-        <entry>24</entry>
-        <entry>25 53</entry>
         <entry>107</entry>
         <entry>31</entry>
         <entry>s/\^//g</entry>
