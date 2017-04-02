@@ -57,6 +57,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/validateModel.js" timestamp="1491138207657">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/services/practices/practice-repository.js" timestamp="1488720544682">
         <mark key="[" line="3" column="46" />
         <mark key="]" line="3" column="47" />
@@ -223,6 +228,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/lib/error/BrandNotFoundError.js" timestamp="1490856902753">
+        <mark key="[" line="5" column="42" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="6" column="0" />
@@ -258,18 +268,24 @@
         <mark key="]" line="16" column="59" />
         <mark key="." line="16" column="59" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/lib/errors/ExtendableError.js" timestamp="1491138651486">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1481812967981">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/lib/model.js" timestamp="1491140938023">
+        <mark key="[" line="121" column="3" />
+        <mark key="]" line="123" column="0" />
+        <mark key="^" line="123" column="0" />
+        <mark key="." line="123" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/lib/config.js" timestamp="1488025091457">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/errors/ExtendableError.js" timestamp="1490946669122">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/authentication/routes.js" timestamp="1486377812507">
         <mark key="[" line="2" column="20" />
@@ -285,6 +301,11 @@
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/events/dr-screening-invalid.json" timestamp="1491140078703">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/races/handlers.js" timestamp="1488284481896">
         <mark key="[" line="11" column="37" />
@@ -351,11 +372,10 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/test/handlers.js" timestamp="1491136111674">
-        <mark key="[" line="12" column="53" />
-        <mark key="]" line="17" column="46" />
-        <mark key="^" line="17" column="46" />
-        <mark key="." line="17" column="46" />
+      <file name="$USER_HOME$/dev/helios/src/test/handlers.js" timestamp="1491137577198">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/app.js" timestamp="1489070526391">
         <mark key="[" line="132" column="19" />
@@ -372,10 +392,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491135499334">
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491139045297">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="49" />
+        <mark key="." line="15" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/repositories/InMemorySampleRepositoryTest.scala" timestamp="1480323385294">
         <mark key="[" line="9" column="30" />
@@ -565,6 +585,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.gitignore" timestamp="1490863028472">
         <mark key="[" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/helios/node_modules/serverless-webpack/index.js" timestamp="1491137501840">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/src/Digest/Digest.js" timestamp="1480672205768">
         <mark key="[" line="16" column="16" />
         <mark key="]" line="51" column="23" />
@@ -652,6 +677,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/events/dr-screening.json" timestamp="1491139520243">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/SimulatorLib/library/House.scala" timestamp="1481527099150">
         <mark key="[" line="2" column="0" />
@@ -765,6 +793,9 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/validateNewDrScreening.js" timestamp="1491138387790">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/models/EldoErrorResponse.scala" timestamp="1476794935708">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
@@ -784,6 +815,12 @@
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/validateNewDiabeticRetinopathyScreening.js" timestamp="1491140756284">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+        <mark key="^" line="0" column="25" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1481815354136">
         <mark key="[" line="480" column="0" />
@@ -863,6 +900,11 @@
         <mark key="]" line="41" column="22" />
         <mark key="^" line="33" column="20" />
         <mark key="." line="41" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/lib/errors/InvalidScreeningModelError.js" timestamp="1491140423816">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="41" />
+        <mark key="." line="0" column="41" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/repositories/TreamentsRepositories.scala" timestamp="1477135169700">
         <mark key="[" line="5" column="6" />
@@ -973,8 +1015,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491135523493">
-        <mark key="[" line="30" column="2" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491138985392">
+        <mark key="[" line="73" column="36" />
         <mark key="]" line="30" column="2" />
         <mark key="." line="30" column="2" />
         <mark key="^" line="30" column="2" />
@@ -1045,6 +1087,9 @@
         <mark key="]" line="7" column="51" />
         <mark key="^" line="13" column="37" />
         <mark key="." line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyResponse.js" timestamp="1491137989152">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotImplementedException.php" timestamp="1485324448945">
         <mark key="[" line="2" column="10" />
@@ -1203,10 +1248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>distinguishedNamae</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>distinguishedNamae</text>
       </register>
       <register name="/" type="4">
         <text>compatable</text>
@@ -1215,41 +1260,37 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdGUgPSByZXF1aXJlKCcuLi9saWIvbW9kZWwnKS52YWxpZGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ewogIHN0YXR1c0NvZGU6IDIwMCwK</text>
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlIGZyb20gJy4uL2xpYi9tb2RlbCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV2ZW50TG9nZ2VyOiAnLi9zcmMvdGVzdC9oYW5kbGVycy5qcycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>loader: 'markdown-loader',
-        options: {
-          pedantic: false,
-          sanitize: false
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEV4dGVuZGFibGVFcnJvciBmcm9tICcuLi8uLi8uLi9saWIvZXJyb3JzL0V4dGVuZGFibGVFcnJvcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAibGFzZXJMZWZ0IjogIkZvY2FsIExhc2VyIiwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZ2VuZXJhdG9yCiAgICogQHBhcmFtIGZyb20KICAgKiBAcGFyYW0gdG8KICAgKiBAcmV0dXJuIHsqfQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBjYWxsYmFjayhuZXcgSW52YWxpZFNjcmVlbmluZ01vZGVsRXJyb3IoZXJyb3IubWVzc2FnZSkpCiAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgIGNhbGxiYWNrKG51bGwsIGRhdGEpCiAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ci8qKgogKiBDaGVja3MgdGhhdCBhIHBhcmFtZXRlciBpcyBub3QgTmlsIGFuZCBoYXMgYSBub24tZW1wdHkgdmFsdWUuCiAqCiAqIEBwYXJhbSBwYXJhbWV0ZXIgc3RyaW5nIFRoZSBwYXJhbWV0ZXIgdG8gY2hlY2suCiAqIEByZXR1cm4gYm9vbAogKi8KY29uc3QgcHRzaVBhcmFtZXRlcklzSW52YWxpZCA9IHRvb2xzLnB0c2lQYXJhbWV0ZXJJc0ludmFsaWQ=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignZWggd3JvbmchJykK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogIGdldEdlbmVyYXRpb25EYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pIHsKICAgIGlmIChwdHNpUGFyYW1ldGVySXNJbnZhbGlkKGdlbmVyYXRvcikpIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSW52YWxpZElucHV0RXJyb3IoJ05vIGdlbmVyYXRvciBzcGVjaWZpZWQnKSkKCiAgICByZXR1cm4gdGhpcy5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvciwgZnJvbSwgdG8pCiAgfQoKICBnZXRDb25zdW1wdGlvbkRhdGEoY29uc3VtZXIsIGZyb20sIHRvKSB7CiAgICBpZiAocHRzaVBhcmFtZXRlcklzSW52YWxpZChjb25zdW1lcikpIHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgSW52YWxpZElucHV0RXJyb3IoJ05vIGNvbnN1bWVyIHNwZWNpZmllZCcpKQoKICAgIHJldHVybiB0aGlzLmdldENvbnN1bWVyRGF0YShjb25zdW1lciwgZnJvbSwgdG8pCiAgfQoKICBnZXRBbGxHZW5lcmF0aW9uRGF0YShmcm9tLCB0bykgewogICAgcmV0dXJuIHRoaXMuZ2V0R2VuZXJhdG9yRGF0YShudWxsLCBmcm9tLCB0bykKICB9CgogIGdldEFsbENvbnN1bXB0aW9uRGF0ZShmcm9tLCB0bykgewogICAgcmV0dXJuIHRoaXMuZ2V0Q29uc3VtZXJEYXRhKG51bGwsIGZyb20sIHRvKQogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2RhdGEgaXMgdmFsaWQhIScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>34</text>
+        <text>61</text>
       </register>
     </registers>
     <search>
@@ -1308,6 +1349,7 @@
         <entry>23</entry>
         <entry>7</entry>
         <entry>34</entry>
+        <entry>61</entry>
       </history-cmd>
       <history-expr />
       <history-input />
