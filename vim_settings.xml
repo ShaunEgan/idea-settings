@@ -563,11 +563,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-trustmark-api/src/trustmark/lib/error/BrandNotFoundError.js" timestamp="1490856902753">
-        <mark key="[" line="5" column="42" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/circle.yml" timestamp="1489384703409">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="6" column="0" />
@@ -687,9 +682,6 @@
         <mark key="[" line="4" column="15" />
         <mark key="]" line="4" column="15" />
         <mark key="." line="4" column="15" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/errors/ExtendableError.js" timestamp="1490946669122">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Exceptions/NotFoundException.php" timestamp="1485416650630">
         <mark key="[" line="2" column="10" />
@@ -1306,11 +1298,6 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/.gitignore" timestamp="1490863028472">
         <mark key="[" line="1" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/helios/node_modules/serverless-webpack/index.js" timestamp="1491137501840">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/phpunit.xml" timestamp="1490263204295">
         <mark key="[" line="26" column="21" />
         <mark key="]" line="26" column="21" />
@@ -1637,6 +1624,9 @@
         <mark key="^" line="8" column="28" />
         <mark key="." line="8" column="28" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/lib/errors/PersistenceError.js" timestamp="1491150224976">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
         <mark key="[" line="5" column="6" />
         <mark key="]" line="5" column="6" />
@@ -1888,8 +1878,10 @@
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491149583020">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491150284728">
+        <mark key="[" line="8" column="69" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
@@ -2430,7 +2422,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAiYXN5bW1ldHJ5IjogdHJ1ZSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">Pg==</text>
@@ -2442,34 +2434,34 @@
         <text>float $latitude, float $longitude</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYXN5bW1ldHJ5IjogdHJ1ZSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdGUgPSByZXF1aXJlKCcuLi9saWIvbW9kZWwnKS52YWxpZGF0ZQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygiV2UgaGF2ZSBzdGFydGVkIikKICBjb25zb2xlLmxvZyhldmVudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlIGZyb20gJy4uL2xpYi9tb2RlbCcK</text>
+        <text encoding="base64">ICAiYXN5bW1ldHJ5IjogdHJ1ZSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdmFsaWRhdGUgPSByZXF1aXJlKCcuLi9saWIvbW9kZWwnKS52YWxpZGF0ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEV4dGVuZGFibGVFcnJvciBmcm9tICcuLi8uLi8uLi9saWIvZXJyb3JzL0V4dGVuZGFibGVFcnJvcicK</text>
+        <text encoding="base64">aW1wb3J0IHZhbGlkYXRlIGZyb20gJy4uL2xpYi9tb2RlbCcK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IEV4dGVuZGFibGVFcnJvciBmcm9tICcuLi8uLi8uLi9saWIvZXJyb3JzL0V4dGVuZGFibGVFcnJvcicK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAibGFzZXJMZWZ0IjogIkZvY2FsIExhc2VyIiwK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZXJyb3IgPT4gewogICAgICBjYWxsYmFjayhuZXcgSW52YWxpZFNjcmVlbmluZ01vZGVsRXJyb3IoZXJyb3IubWVzc2FnZSkpCiAgICB9</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgIGNhbGxiYWNrKG51bGwsIGRhdGEpCiAgICB9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcignZWggd3JvbmchJykK</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
