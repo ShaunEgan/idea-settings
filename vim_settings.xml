@@ -1008,10 +1008,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1491153160806">
-        <mark key="[" line="7" column="41" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
+      <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1491155161436">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="20" />
+        <mark key="." line="9" column="20" />
+        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/src/test/models/HouseTest.scala" timestamp="1481099421859">
         <mark key="[" line="4" column="6" />
@@ -1883,10 +1884,10 @@
         <mark key="]" line="17" column="3" />
         <mark key="." line="17" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491154155762">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/persistNewDiabeticRetinopathyScreening.js" timestamp="1491154885866">
+        <mark key="[" line="3" column="41" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/controllers/ScreeningController.scala" timestamp="1477239663098">
         <mark key="[" line="46" column="3" />
@@ -2426,62 +2427,62 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
+      <register name="&quot;" type="4">
+        <text>pgp(connectionString);</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>pgp(connectionString);</text>
       </register>
       <register name="/" type="4">
-        <text>compatable</text>
+        <text encoding="base64">XDxwZ3BcPg==</text>
       </register>
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">cGdwKGNvbm5lY3Rpb25TdHJpbmcpOwoKbW9kdWxlLmV4cG9ydHMuZGIgPSA=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>{
   db: db
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">LAogIGVuZDogKCkgPT4gewogICAgcGdwLmVuZCgpCiAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZGIuZW5kKCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIC5maW5hbGx5KCjCpykgPT4gewo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgLmZpbmFsbHkK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJXZSBhcmUgZG9uZTsgY29tcGxldGluZyB3aXRoOiIpCiAgICAgIGNvbnNvbGUubG9nKGRhdGEpCgogICAgICBjb21wbGV0ZShkYXRhKQogICAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>61</text>
       </register>
     </registers>
     <search>
-      <last-search>compatable</last-search>
+      <last-search encoding="base64">XDxwZ3BcPg==</last-search>
       <last-offset />
-      <last-pattern>compatable</last-pattern>
+      <last-pattern encoding="base64">XDxwZ3BcPg==</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2505,6 +2506,7 @@
         <entry>\^</entry>
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry>compatable</entry>
+        <entry encoding="base64">XDxwZ3BcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>107</entry>
