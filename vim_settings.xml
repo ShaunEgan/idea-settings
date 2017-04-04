@@ -508,6 +508,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/ClientFactorySpec.js" timestamp="1491284656214">
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="6" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="4" column="6" />
+      </file>
       <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486449188459">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -573,6 +579,12 @@
         <mark key="[" line="2" column="17" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/tools-spec.js" timestamp="1491287326817">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/spec/unit/lib/has-offers/tracking-url-generator-spec.js" timestamp="1478174732157">
         <mark key="[" line="86" column="29" />
@@ -2083,10 +2095,10 @@
         <mark key="." line="5" column="68" />
         <mark key="^" line="5" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/tools.js" timestamp="1490946655693">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/tools.js" timestamp="1491286953057">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1481821737886">
         <mark key="[" line="9" column="0" />
@@ -2427,11 +2439,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pgp(connectionString);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>pgp(connectionString);</text>
+        <text>R.not(R.and(isDate(from), isDate(to)))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -2439,40 +2451,40 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cGdwKGNvbm5lY3Rpb25TdHJpbmcpOwoKbW9kdWxlLmV4cG9ydHMuZGIgPSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ZGQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiBlaXRoZXIgZGF0ZSBpcyBub3QgYSBkYXRlIG9iamVjdAogKgogKiBAcGFyYW0gZnJvbSBkYXRlIFRoZSBzdGFydCBkYXRlCiAqIEBwYXJhbSB0byBkYXRlIFRoZSBlbmQgZGF0ZQogKiBAcmV0dXJuIGJvb2wKICovCmNvbnN0IGFyZU5vdERhdGVzID0gUi5jb21wb3NlKFIubm90LCBhcmVEYXRlcykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiB0aGUgc3ViamVjdCBpcyBub3QgYW4gaW5zdGFuY2Ugb2YgRGF0ZQogKgogKiBAcGFyYW0gc3ViamVjdCBvYmplY3QgVGhlIGluc3RhbmNlIHRvIHRlc3QKICogQHJldHVybiBib29sCiAqLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBpdCgncmV0dXJucyB0cnVlIGZvciBhIG5vbi1zdHJpbmcgcGFyYW1ldGVyJywgKCkgPT4gewogICAgICBleHBlY3QocHRzaVBhcmFtZXRlcklzSW52YWxpZCgxKSkudG9CZVRydXRoeSgpCiAgICB9KQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">cGdwKGNvbm5lY3Rpb25TdHJpbmcpOwoKbW9kdWxlLmV4cG9ydHMuZGIgPSA=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>{
   db: db
 }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LAogIGVuZDogKCkgPT4gewogICAgcGdwLmVuZCgpCiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGIuZW5kKCkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC5maW5hbGx5KCjCpykgPT4gewo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmZpbmFsbHkK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKCJXZSBhcmUgZG9uZTsgY29tcGxldGluZyB3aXRoOiIpCiAgICAgIGNvbnNvbGUubG9nKGRhdGEpCgogICAgICBjb21wbGV0ZShkYXRhKQogICAgfQ==</text>
-      </register>
       <register name=":" type="4">
-        <text>61</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -2529,6 +2541,7 @@
         <entry>7</entry>
         <entry>34</entry>
         <entry>61</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
