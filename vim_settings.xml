@@ -733,6 +733,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/RestifyRestClientSpec.js" timestamp="1491296630309">
+        <mark key="[" line="73" column="56" />
+        <mark key="]" line="73" column="56" />
+        <mark key="^" line="45" column="8" />
+        <mark key="." line="73" column="56" />
+      </file>
       <file name="$USER_HOME$/dev/helios/races/handlers.js" timestamp="1488284481896">
         <mark key="[" line="11" column="37" />
         <mark key="]" line="3" column="31" />
@@ -2439,11 +2445,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>receive</text>
       </register>
       <register name="-" type="4">
-        <text>R.not(R.and(isDate(from), isDate(to)))</text>
+        <text>receive</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -2451,40 +2457,38 @@
       <register name="0" type="4">
         <text>float $latitude, float $longitude</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICAgICAgZG9uZS5mYWlsKGVycm9yKQogICAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGQK</text>
+        <text encoding="base64">aW1wb3J0IEphc21pbmUgZnJvbSAnamFzbWluZScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiBlaXRoZXIgZGF0ZSBpcyBub3QgYSBkYXRlIG9iamVjdAogKgogKiBAcGFyYW0gZnJvbSBkYXRlIFRoZSBzdGFydCBkYXRlCiAqIEBwYXJhbSB0byBkYXRlIFRoZSBlbmQgZGF0ZQogKiBAcmV0dXJuIGJvb2wKICovCmNvbnN0IGFyZU5vdERhdGVzID0gUi5jb21wb3NlKFIubm90LCBhcmVEYXRlcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiB0aGUgc3ViamVjdCBpcyBub3QgYW4gaW5zdGFuY2Ugb2YgRGF0ZQogKgogKiBAcGFyYW0gc3ViamVjdCBvYmplY3QgVGhlIGluc3RhbmNlIHRvIHRlc3QKICogQHJldHVybiBib29sCiAqLwo=</text>
+        <text encoding="base64">ZGQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBpdCgncmV0dXJucyB0cnVlIGZvciBhIG5vbi1zdHJpbmcgcGFyYW1ldGVyJywgKCkgPT4gewogICAgICBleHBlY3QocHRzaVBhcmFtZXRlcklzSW52YWxpZCgxKSkudG9CZVRydXRoeSgpCiAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cGdwKGNvbm5lY3Rpb25TdHJpbmcpOwoKbW9kdWxlLmV4cG9ydHMuZGIgPSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiBlaXRoZXIgZGF0ZSBpcyBub3QgYSBkYXRlIG9iamVjdAogKgogKiBAcGFyYW0gZnJvbSBkYXRlIFRoZSBzdGFydCBkYXRlCiAqIEBwYXJhbSB0byBkYXRlIFRoZSBlbmQgZGF0ZQogKiBAcmV0dXJuIGJvb2wKICovCmNvbnN0IGFyZU5vdERhdGVzID0gUi5jb21wb3NlKFIubm90LCBhcmVEYXRlcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFBlcnNpc3RlbmNlRXJyb3IgZnJvbSAnLi4vLi4vbGliL2Vycm9ycy9QZXJzaXN0ZW5jZUVycm9yJwo=</text>
+        <text encoding="base64">LyoqCiAqIENoZWNrcyBpZiB0aGUgc3ViamVjdCBpcyBub3QgYW4gaW5zdGFuY2Ugb2YgRGF0ZQogKgogKiBAcGFyYW0gc3ViamVjdCBvYmplY3QgVGhlIGluc3RhbmNlIHRvIHRlc3QKICogQHJldHVybiBib29sCiAqLwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-  db: db
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgICBpdCgncmV0dXJucyB0cnVlIGZvciBhIG5vbi1zdHJpbmcgcGFyYW1ldGVyJywgKCkgPT4gewogICAgICBleHBlY3QocHRzaVBhcmFtZXRlcklzSW52YWxpZCgxKSkudG9CZVRydXRoeSgpCiAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>18</text>
+        <text>38</text>
       </register>
     </registers>
     <search>
@@ -2542,6 +2546,7 @@
         <entry>34</entry>
         <entry>61</entry>
         <entry>18</entry>
+        <entry>38</entry>
       </history-cmd>
       <history-expr />
       <history-input />
