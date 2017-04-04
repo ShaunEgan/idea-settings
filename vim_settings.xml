@@ -754,11 +754,11 @@
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1490877240330">
-        <mark key="[" line="27" column="8" />
-        <mark key="]" line="27" column="7" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1491316787833">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
         <mark key="^" line="27" column="7" />
-        <mark key="." line="27" column="7" />
+        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
         <mark key="[" line="2" column="14" />
@@ -2452,10 +2452,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'http://localhost', ''</text>
+        <text>babel-node</text>
       </register>
       <register name="-" type="4">
-        <text>'http://localhost', ''</text>
+        <text>babel-node</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
