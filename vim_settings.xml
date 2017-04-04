@@ -508,11 +508,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/ClientFactorySpec.js" timestamp="1491284656214">
-        <mark key="[" line="4" column="6" />
-        <mark key="]" line="4" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/ClientFactorySpec.js" timestamp="1491309418716">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="7" column="11" />
         <mark key="^" line="5" column="3" />
-        <mark key="." line="4" column="6" />
+        <mark key="." line="7" column="11" />
       </file>
       <file name="$USER_HOME$/dev/svc-auth/src/kong/index.js" timestamp="1486449188459">
         <mark key="[" line="27" column="0" />
@@ -2448,11 +2448,11 @@
       <jump line="182" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/.eslintrc.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZWNobyAnQ29ubmVjdGVkJzsK</text>
+      <register name="&quot;" type="4">
+        <text>client instanceof PtsiClient</text>
       </register>
       <register name="-" type="4">
-        <text>https://search-apolitical-isezthpeaez4guais3qyxrergq.eu-west-1.es.amazonaws.com</text>
+        <text>client instanceof PtsiClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
