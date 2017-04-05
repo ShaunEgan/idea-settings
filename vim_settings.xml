@@ -1742,12 +1742,12 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1491372253207">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1491377542267">
         <mark key="'" line="25" column="2" />
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="28" />
-        <mark key="^" line="55" column="28" />
+        <mark key="[" line="76" column="8" />
+        <mark key="]" line="76" column="82" />
+        <mark key="." line="76" column="82" />
+        <mark key="^" line="76" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/test/controllers/AccountControllerSpec.scala" timestamp="1477383883244">
         <mark key="[" line="51" column="16" />
@@ -2460,10 +2460,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rest</text>
+        <text>rejects errors that it does not expect without modification</text>
       </register>
       <register name="-" type="4">
-        <text>rest</text>
+        <text>rejects errors that it does not expect without modification</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -2502,7 +2502,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>55</text>
+        <text>139</text>
       </register>
     </registers>
     <search>
@@ -2553,19 +2553,22 @@
         <entry>number</entry>
         <entry>wq</entry>
         <entry>144</entry>
-        <entry>NERDTree</entry>
         <entry>w</entry>
         <entry>23</entry>
         <entry>7</entry>
         <entry>34</entry>
         <entry>61</entry>
         <entry>18</entry>
-        <entry>38</entry>
         <entry>126</entry>
         <entry>10</entry>
         <entry>56</entry>
         <entry>91</entry>
         <entry>55</entry>
+        <entry>38</entry>
+        <entry>NERDTree</entry>
+        <entry>118</entry>
+        <entry>77</entry>
+        <entry>139</entry>
       </history-cmd>
       <history-expr />
       <history-input />
