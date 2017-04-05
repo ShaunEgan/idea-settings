@@ -168,8 +168,8 @@
         <mark key="." line="3" column="46" />
         <mark key="^" line="3" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/circle.yml" timestamp="1491383757309">
-        <mark key="[" line="2" column="14" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/circle.yml" timestamp="1491387132385">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="2" column="14" />
         <mark key="^" line="5" column="21" />
         <mark key="." line="2" column="14" />
@@ -470,12 +470,11 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1491385732992">
-        <mark key="'" line="36" column="11" />
-        <mark key="[" line="49" column="5" />
-        <mark key="]" line="49" column="5" />
-        <mark key="." line="49" column="5" />
-        <mark key="^" line="36" column="5" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1491387157311">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="65" column="36" />
+        <mark key="." line="65" column="36" />
+        <mark key="^" line="65" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/step/src/register/usernameTaken.js" timestamp="1490533713978">
         <mark key="[" line="2" column="14" />
@@ -1446,14 +1445,11 @@
       <jump line="36" column="11" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>exclude&quot;: [
-      &quot;**/*[sS]pec.js&quot;,
-      &quot;dist&quot;
-    ],</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJleGNsdWRlIjogWwogICAgICAiKiovKltzU11wZWMuanMiCiAgICBdLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tk9ERV9FTlY9dGVzdCA=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -1461,19 +1457,29 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
-      <register name="1" type="4">
-        <text>exclude&quot;: [
-      &quot;**/*[sS]pec.js&quot;,
-      &quot;dist&quot;
-    ],</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJleGNsdWRlIjogWwogICAgICAiKiovKltzU11wZWMuanMiCiAgICBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>,
+      &quot;dist&quot;</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1yZWdpc3RlciI6ICJkNi4yNC4wIiwK</text>
+      </register>
+      <register name="4" type="4">
+        <text>exclude&quot;: [
+      &quot;**/*[sS]pec.js&quot;,
+      &quot;dist&quot;
+    ],</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAiZW52IjogewogICAgICAidGVzdCI6IHsKICAgICAgICAicGx1Z2lucyI6IFsKICAgICAgICAgICJpc3RhbmJ1bCIKICAgICAgICBdCiAgICAgIH0KICAgIH0s</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>&quot;env&quot;: {
       &quot;test&quot;: {
         &quot;plugins&quot;: [
@@ -1481,25 +1487,16 @@
         ]
       }</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICJjb3ZlcmFnZSI6ICJueWMgbnBtIHRlc3QiLAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgImNsb3ZlciIK</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>[
       &quot;test&quot;: 
     ]</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlc2UgYXJlIGRpc2FibGVkCiAgICAgKi8K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoCiAgICAgKiBAcGFyYW0gcGFyYW1ldGVycwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwYXRoCiAgICAgKiBAcGFyYW0gcGFyYW1ldGVycwo=</text>
       </register>
       <register name=":" type="4">
         <text>139</text>
