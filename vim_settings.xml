@@ -346,6 +346,9 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="26" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/repositories/index.js" timestamp="1491461028616">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" timestamp="1490776909092">
         <mark key="[" line="144" column="45" />
         <mark key="]" line="144" column="45" />
@@ -750,11 +753,7 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1491315074191">
-        <mark key="[" line="109" column="5" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1491462857911" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.json" timestamp="1490349877002">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -1388,6 +1387,12 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="8" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/repositories/PtsiRepositorySpec.js" timestamp="1491463092958">
+        <mark key="[" line="86" column="19" />
+        <mark key="]" line="86" column="20" />
+        <mark key="." line="86" column="20" />
+        <mark key="^" line="56" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/evolutions.default/1.sql" timestamp="1477228191483">
         <mark key="[" line="52" column="12" />
         <mark key="]" line="45" column="37" />
@@ -1458,6 +1463,9 @@
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/repository.js" timestamp="1491460925536">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1481825943729">
         <mark key="[" line="98" column="0" />
@@ -1735,7 +1743,7 @@
         <mark key="." line="25" column="32" />
         <mark key="^" line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1491394089105">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/README.md" timestamp="1491460816692">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="56" column="97" />
         <mark key="^" line="56" column="97" />
@@ -1751,7 +1759,7 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1491377542267">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1491461968020">
         <mark key="'" line="25" column="2" />
         <mark key="[" line="76" column="8" />
         <mark key="]" line="76" column="82" />
@@ -1810,6 +1818,12 @@
         <mark key="]" line="5" column="43" />
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="43" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1491463122874">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="24" column="56" />
+        <mark key="^" line="24" column="56" />
+        <mark key="." line="24" column="56" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/jasmine.js" timestamp="1490704716418">
         <mark key="[" line="29" column="0" />
@@ -2468,11 +2482,11 @@
       <jump line="36" column="11" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4taXN0YW5idWwiOiAiNC4xLjEiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>generatorId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>generatorId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -2481,31 +2495,37 @@
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4taXN0YW5idWwiOiAiNC4xLjEiLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChjbGllbnRNb2NrLmdldEdlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgICAgICBleHBlY3QoZGF0YSkKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4taXN0YW5idWwiOiAiNC4xLjEiLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICJleGNsdWRlIjogWwogICAgICAiKiovKltzU11wZWMuanMiCiAgICBdLAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>,
       &quot;dist&quot;</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJiYWJlbC1yZWdpc3RlciI6ICJkNi4yNC4wIiwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>exclude&quot;: [
       &quot;**/*[sS]pec.js&quot;,
       &quot;dist&quot;
     ],</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAiZW52IjogewogICAgICAidGVzdCI6IHsKICAgICAgICAicGx1Z2lucyI6IFsKICAgICAgICAgICJpc3RhbmJ1bCIKICAgICAgICBdCiAgICAgIH0KICAgIH0s</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>&quot;env&quot;: {
       &quot;test&quot;: {
         &quot;plugins&quot;: [
@@ -2513,14 +2533,8 @@
         ]
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJjb3ZlcmFnZSI6ICJueWMgbnBtIHRlc3QiLAo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgImNsb3ZlciIK</text>
-      </register>
       <register name=":" type="4">
-        <text>139</text>
+        <text>34</text>
       </register>
     </registers>
     <search>
@@ -2574,7 +2588,6 @@
         <entry>w</entry>
         <entry>23</entry>
         <entry>7</entry>
-        <entry>34</entry>
         <entry>61</entry>
         <entry>18</entry>
         <entry>126</entry>
@@ -2587,6 +2600,7 @@
         <entry>118</entry>
         <entry>77</entry>
         <entry>139</entry>
+        <entry>34</entry>
       </history-cmd>
       <history-expr />
       <history-input />
