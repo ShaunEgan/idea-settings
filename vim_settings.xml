@@ -1350,6 +1350,7 @@
         <mark key="]" line="51" column="23" />
         <mark key="." line="51" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1491307661156" />
       <file name="$USER_HOME$/repositories/powerx/simulator/src/main/models/Buildings.scala" timestamp="1481099170182">
         <mark key="[" line="17" column="64" />
         <mark key="]" line="17" column="64" />
@@ -1831,11 +1832,11 @@
         <mark key="^" line="5" column="42" />
         <mark key="." line="5" column="43" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1491464563268">
-        <mark key="[" line="44" column="23" />
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1491482079906">
+        <mark key="[" line="13" column="10" />
+        <mark key="]" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="^" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/jasmine.js" timestamp="1490704716418">
         <mark key="[" line="29" column="0" />
@@ -1974,11 +1975,7 @@
         <mark key="." line="10" column="11" />
         <mark key="^" line="10" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/responses/get-single-generator.json" timestamp="1491471953636">
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="." line="4" column="3" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/responses/get-single-generator.json" timestamp="1491479139454" />
       <file name="$USER_HOME$/repositories/crowdCaster/digestor/assets/email.jade" timestamp="1480679713244">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="30" />
@@ -1993,11 +1990,10 @@
         <mark key="." line="4" column="46" />
         <mark key="^" line="4" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/RestifyRestClient.js" timestamp="1491471733896">
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="48" column="20" />
-        <mark key="." line="48" column="20" />
-        <mark key="^" line="48" column="20" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/RestifyRestClient.js" timestamp="1491482168832">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Complex.php" timestamp="1490264714196">
         <mark key="[" line="39" column="18" />
@@ -2503,11 +2499,11 @@
       <jump line="36" column="11" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>expectedResult</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKGVycm9yKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>expectedResult</text>
+        <text>mapDataToValues</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -2516,226 +2512,38 @@
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRSZXN1bHQgPSB7IGNvbnN1bWVyOiB7fSB9Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmVycm9yKGVycm9yKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWRSZXN1bHQgPSB7IGdlbmVyYXRvcjoge30gfQo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>,
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T00:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T01:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T01:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T02:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T02:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T03:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T03:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T04:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T04:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T05:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T05:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T06:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T06:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T07:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T07:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T08:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T08:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T09:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T09:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T10:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T10:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T11:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T11:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T12:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T12:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T13:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T13:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T14:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T14:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T15:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T15:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T16:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T16:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T17:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T17:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T18:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T18:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T19:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T19:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T20:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T20:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T21:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T21:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T22:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T22:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T23:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-01T23:30:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  },
-  {
-    &quot;Timestamp&quot;: &quot;2016-03-02T00:00:00&quot;,
-    &quot;GP_TSB_Malelane&quot;: 0
-  }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gZGF0ZS50b0lTT1N0cmluZygpLnNwbGl0KCcuJylbMF0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyhkYXRlLnRvSVNPU3RyaW5nKCkpCiAgLy8gY29uc3QgcGFydHMgPSBkYXRlLnRvSVNPU3RyaW5nKCkuc3BsaXQoJ1QnKQogIC8vIGNvbnN0IGRhdGVQYXJ0ID0gcGFydHNbMF0KICAvLyBjb25zdCB0aW1lUGFydCA9IHBhcnRzWzFdLnNwbGl0KCcuJylbMF0KICAvLwogIC8vIHJldHVybiBgJHtkYXRlUGFydH1UJHt0aW1lUGFydH1gCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnRm9ybWF0dGVkOiAlcycsIHBhcnRzWzBdICsgJyAnICsgcGFydHNbMV0uc3BsaXQoJy4nKVswXSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGZvcm1hdERhdGUoKGZyb20pKSkK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGdldFZhbHVlcyA9IFIucGljayhbJ1ZhbHVlJ10pCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>const values = mapDataToValues(slot)
+    
+    return {
+      timeSlot: values
+    }</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IGNvbnN0IHNsb3RzID0gW10KICAgIHNsb3RzW3RpbWVTbG90XSA9IHZhbHVlcw==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ZGF0YSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coZGF0YSkKCiAgICAgICAgcmV0dXJuIGRhdGEKICAgICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZvcm1hdHRlZCA9IGZvcm1hdAo=</text>
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGEnCg==</text>
       </register>
       <register name=":" type="4">
         <text>18</text>
