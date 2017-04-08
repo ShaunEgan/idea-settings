@@ -463,6 +463,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/delete.js" timestamp="1491651895098">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="10" column="16" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/services/Scada.scala" timestamp="1476362895377">
         <mark key="[" line="9" column="6" />
         <mark key="]" line="9" column="6" />
@@ -955,10 +961,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491650885574">
-        <mark key="[" line="12" column="51" />
-        <mark key="]" line="19" column="49" />
-        <mark key="." line="19" column="49" />
+      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491651960960">
+        <mark key="[" line="13" column="57" />
+        <mark key="]" line="20" column="49" />
+        <mark key="." line="20" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/tools.js" timestamp="1491315929654">
         <mark key="[" line="22" column="14" />
@@ -1016,8 +1022,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491650907197">
-        <mark key="[" line="53" column="32" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491651994935">
+        <mark key="[" line="63" column="29" />
         <mark key="]" line="28" column="123" />
         <mark key="." line="28" column="123" />
         <mark key="^" line="28" column="123" />
@@ -1370,10 +1376,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create</text>
+        <text>result.Item</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>result.Item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
