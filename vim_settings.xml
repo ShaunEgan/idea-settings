@@ -1001,10 +1001,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491657633271">
-        <mark key="[" line="45" column="7" />
-        <mark key="]" line="20" column="49" />
-        <mark key="." line="20" column="49" />
+      <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1491666197008">
+        <mark key="[" line="19" column="57" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/tools.js" timestamp="1491315929654">
         <mark key="[" line="22" column="14" />
@@ -1062,11 +1063,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491665019499">
-        <mark key="[" line="60" column="20" />
-        <mark key="]" line="52" column="36" />
-        <mark key="." line="52" column="36" />
-        <mark key="^" line="52" column="36" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491667146506">
+        <mark key="[" line="97" column="30" />
+        <mark key="]" line="97" column="19" />
+        <mark key="^" line="97" column="19" />
+        <mark key="." line="97" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Generator.scala" timestamp="1481621635611">
         <mark key="[" line="0" column="0" />
@@ -1429,10 +1430,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>post</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -1521,13 +1522,13 @@
         <entry>91</entry>
         <entry>55</entry>
         <entry>38</entry>
-        <entry>NERDTree</entry>
         <entry>118</entry>
         <entry>77</entry>
         <entry>139</entry>
         <entry>34</entry>
         <entry>18</entry>
         <entry>102</entry>
+        <entry>NERDTree</entry>
       </history-cmd>
       <history-expr />
       <history-input />
