@@ -237,7 +237,7 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Generator.js" timestamp="1491543981101">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/functions/list.js" timestamp="1491646678642">
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/list.js" timestamp="1491663753094">
         <mark key="[" line="14" column="11" />
         <mark key="]" line="14" column="9" />
         <mark key="^" line="0" column="12" />
@@ -337,7 +337,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/functions/update.js" timestamp="1491658530895">
+      <file name="$USER_HOME$/dev/helios/src/patients/functions/update.js" timestamp="1491663789664">
         <mark key="[" line="27" column="52" />
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
@@ -428,11 +428,11 @@
         <mark key="]" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/functions/create.js" timestamp="1491654477356">
-        <mark key="[" line="38" column="8" />
-        <mark key="]" line="38" column="8" />
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/create.js" timestamp="1491663734791">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="27" />
         <mark key="^" line="38" column="7" />
-        <mark key="." line="38" column="8" />
+        <mark key="." line="7" column="27" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1486710511865">
         <mark key="[" line="0" column="174" />
@@ -472,7 +472,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/functions/delete.js" timestamp="1491651895098">
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/delete.js" timestamp="1491663737698">
         <mark key="[" line="12" column="17" />
         <mark key="]" line="12" column="17" />
         <mark key="^" line="10" column="16" />
@@ -504,7 +504,7 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/functions/get.js" timestamp="1491658269665">
+      <file name="$USER_HOME$/dev/helios/src/patients/functions/get.js" timestamp="1491663796732">
         <mark key="[" line="4" column="51" />
         <mark key="]" line="2" column="15" />
         <mark key="." line="2" column="15" />
@@ -515,11 +515,13 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/base/service/id-tools.js" timestamp="1491649344515" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" timestamp="1490935111750">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/aws/services/practices.yml" timestamp="1491664378863">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/target/scala-2.11/src_managed/test/library/Simulator/models/HouseSpec.scala" timestamp="1481279674028">
         <mark key="[" line="4" column="0" />
@@ -574,9 +576,6 @@
         <mark key="[" line="83" column="0" />
         <mark key="]" line="73" column="0" />
         <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/webpack.config.js" timestamp="1491645945097">
-        <mark key="[" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/functions/validateNewDrScreening.js" timestamp="1491138387790">
         <mark key="[" line="0" column="0" />
@@ -743,6 +742,12 @@
         <mark key="]" line="2" column="10" />
         <mark key="." line="2" column="10" />
       </file>
+      <file name="$USER_HOME$/dev/helios/aws/services/patients.yml" timestamp="1491664308379">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="31" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="32" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1481812967981">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="0" />
@@ -865,12 +870,18 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/dev/helios/aws/cloudformation-resources.yml" timestamp="1491664948733">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" timestamp="1490869574490">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/functions/update.js" timestamp="1491658334598">
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/update.js" timestamp="1491663757350">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
         <mark key="." line="3" column="6" />
@@ -940,6 +951,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/helios/aws/resource.yml" timestamp="1491662450994">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux-node/app.js" timestamp="1489070526391">
         <mark key="[" line="132" column="19" />
         <mark key="]" line="132" column="19" />
@@ -976,7 +990,7 @@
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/functions/create.js" timestamp="1491658218614">
+      <file name="$USER_HOME$/dev/helios/src/patients/functions/create.js" timestamp="1491663802731">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="42" column="8" />
         <mark key="." line="42" column="8" />
@@ -1012,11 +1026,11 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/functions/get.js" timestamp="1491649371509">
-        <mark key="[" line="24" column="14" />
-        <mark key="]" line="24" column="14" />
+      <file name="$USER_HOME$/dev/helios/src/practices/functions/get.js" timestamp="1491663750596">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
         <mark key="^" line="23" column="34" />
-        <mark key="." line="24" column="14" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="$USER_HOME$/dev/helios/services/races/race-repository.js" timestamp="1488720552314">
         <mark key="[" line="3" column="46" />
@@ -1048,11 +1062,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491658632824">
-        <mark key="[" line="52" column="4" />
-        <mark key="]" line="52" column="4" />
-        <mark key="^" line="22" column="123" />
-        <mark key="." line="52" column="4" />
+      <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1491665019499">
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="52" column="36" />
+        <mark key="." line="52" column="36" />
+        <mark key="^" line="52" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/traits/Generator.scala" timestamp="1481621635611">
         <mark key="[" line="0" column="0" />
@@ -1143,7 +1157,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/functions/delete.js" timestamp="1491658234683">
+      <file name="$USER_HOME$/dev/helios/src/patients/functions/delete.js" timestamp="1491663800243">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="2" column="6" />
         <mark key="." line="2" column="6" />
@@ -1260,7 +1274,7 @@
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/functions/list.js" timestamp="1491658289807">
+      <file name="$USER_HOME$/dev/helios/src/patients/functions/list.js" timestamp="1491663792891">
         <mark key="[" line="3" column="40" />
         <mark key="]" line="3" column="40" />
         <mark key="." line="3" column="40" />
@@ -1309,9 +1323,6 @@
         <mark key="[" line="5" column="83" />
         <mark key="]" line="5" column="83" />
         <mark key="." line="5" column="83" />
-      </file>
-      <file name="$USER_HOME$/workspace/step/src/register/save.js" timestamp="1491647601248">
-        <mark key="[" line="2" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -1430,34 +1441,34 @@
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJykK</text>
+        <text encoding="base64">ICBpYW1Sb2xlU3RhdGVtZW50czoKICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICBBY3Rpb246CiAgICAgICAgLSBkeW5hbW9kYjpRdWVyeQogICAgICAgIC0gZHluYW1vZGI6U2NhbgogICAgICAgIC0gZHluYW1vZGI6R2V0SXRlbQogICAgICAgIC0gZHluYW1vZGI6UHV0SXRlbQogICAgICAgIC0gZHluYW1vZGI6VXBkYXRlSXRlbQogICAgICAgIC0gZHluYW1vZGI6RGVsZXRlSXRlbQogICAgICBSZXNvdXJjZTogImFybjphd3M6ZHluYW1vZGI6JHtvcHQ6cmVnaW9uLCBzZWxmOnByb3ZpZGVyLnJlZ2lvbn06Kjp0YWJsZS8ke3NlbGY6Y3VzdG9tLnRhYmxlTmFtZXMucHJhY3RpY2VzfSIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
+        <text encoding="base64">ICBlbnZpcm9ubWVudDoKICAgIERZTkFNT0RCX1RBQkxFX1BSQUNUSUNFUzogJHtzZWxmOnNlcnZpY2V9LSR7b3B0OnN0YWdlLCBzZWxmOnByb3ZpZGVyLnN0YWdlfS1wcmFjdGljZXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgICAgQWN0aW9uOgogICAgICAgICAgICAgICAgLSBlYzI6Q3JlYXRlTmV0d29ya0ludGVyZmFjZQogICAgICAgICAgICAgICAgLSBlYzI6RGVzY3JpYmVOZXR3b3JrSW50ZXJmYWNlcwogICAgICAgICAgICAgICAgLSBlYzI6RGV0YWNoTmV0d29ya0ludGVyZmFjZQogICAgICAgICAgICAgICAgLSBlYzI6RGVsZXRlTmV0d29ya0ludGVyZmFjZQogICAgICAgICAgICAgIFJlc291cmNlOiAiKiIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Y29uc3QgZmllbGRzID0gWwogICdpZCcsCiAgJ2ZpcnN0LW5hbWUnLAogICdsYXN0LW5hbWUnLAogICdkYXRlLW9mLWJpcnRoJywKICAnZ2VuZGVyJywKICAncmFjZS1pZCcKXTsKCm1vZHVsZS5leHBvcnRzLnNjaGVtYSA9IHNjaGVtYTsKCm1vZHVsZS5leHBvcnRzLmZpZWxkcyA9IGZpZWxkczsKCm1vZHVsZS5leHBvcnRzLmFwcGx5ID0gcm93ID0+ICh7CiAgaWQ6IHJvd1tmaWVsZHNbMF1dLAogIGZpcnN0TmFtZTogcm93W2ZpZWxkc1sxXV0sCiAgbGFzdE5hbWU6IHJvd1tmaWVsZHNbMl1dLAogIGRhdGVPZkJpcnRoOiByb3dbZmllbGRzWzNdXSwKICBnZW5kZXI6IHJvd1tmaWVsZHNbNF1dLAogIHJhY2VJZDogcm93W2ZpZWxkc1s1XV0sCn0pOwoKbW9kdWxlLmV4cG9ydHMudW5hcHBseSA9IHBhdGllbnQgPT4gKFsKICBwYXRpZW50LmlkLAogIHBhdGllbnQuZmlyc3ROYW1lLAogIHBhdGllbnQubGFzdE5hbWUsCiAgcGF0aWVudC5kYXRlT2ZCaXJ0aCwKICBwYXRpZW50LmdlbmRlciwKICBwYXRpZW50LnJhY2VJZApdKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJhanYiOiAiXjQuMTEuNiIsCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJqc3QtbG9hZGVyIjogIl4xLjAuMSIsCg==</text>
+        <text encoding="base64">Y29uc3QgSm9pID0gcmVxdWlyZSgnam9pJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWRhdG9yID0gYWp2LmNvbXBpbGUoc2NoZW1hKQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnCgo=</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
