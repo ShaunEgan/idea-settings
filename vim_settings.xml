@@ -319,7 +319,7 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/services/PtsiServiceSpec.js" timestamp="1491900812451">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/services/PtsiServiceSpec.js" timestamp="1491983501216">
         <mark key="[" line="73" column="15" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -674,7 +674,7 @@
       <file name="$USER_HOME$/dev/helios/src/lib/errors/PersistenceError.js" timestamp="1491150224976">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491384967829">
+      <file name="/Dummy.txt" timestamp="1491983311220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/events/gs/screening.json" timestamp="1491141869598">
@@ -760,6 +760,12 @@
         <mark key="]" line="56" column="97" />
         <mark key="^" line="56" column="97" />
         <mark key="." line="56" column="97" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/controllers/PtsiControllerSpec.js" timestamp="1491984394436">
+        <mark key="[" line="56" column="14" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Exceptions/ProviderException.php" timestamp="1485262322903">
         <mark key="[" line="10" column="12" />
@@ -987,7 +993,7 @@
         <mark key="]" line="11" column="30" />
         <mark key="." line="11" column="30" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/RestifyRestClientSpec.js" timestamp="1491372461621">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/RestifyRestClientSpec.js" timestamp="1491983323559">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="200" column="2" />
         <mark key="^" line="200" column="2" />
@@ -1261,7 +1267,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" timestamp="1491978046852">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" timestamp="1491984260428">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -1665,7 +1671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="50" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" />
       <jump line="34" column="50" filename="$USER_HOME$/repositories/powerx/svc-hermes/app/repositories/AccountRepository.scala" />
       <jump line="65" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Screening.scala" />
@@ -1765,13 +1770,14 @@
       <jump line="36" column="11" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" />
       <jump line="24" column="8" filename="$USER_HOME$/dev/helios/src/practices/model.js" />
       <jump line="26" column="53" filename="$USER_HOME$/dev/helios/src/races/create.js" />
+      <jump line="0" column="9" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>data</text>
       </register>
       <register name="-" type="4">
-        <text>.bind(ptsiController)</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -1786,28 +1792,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBnZXRHZW5lcmF0b3JEYXRhKHJlcXVlc3QsIHJlc3BvbnNlLCBuZXh0KSB7CiAgLy8gICBjb25zdCBnZW5lcmF0b3IgPSByZXF1ZXN0LnBhcmFtcy5nZW5lcmF0b3IKICAvLyAgIGNvbnN0IGZyb20gPSBuZXcgRGF0ZShyZXF1ZXN0LnF1ZXJ5LmZyb20pCiAgLy8gICBjb25zdCB0byA9IG5ldyBEYXRlKHJlcXVlc3QucXVlcnkudG8pCiAgLy8KICAvLyAgIHRoaXMuaGFuZGxlUmVzcG9uc2UodGhpcy5wdHNpU2VydmljZS5nZXREYXRhRm9yR2VuZXJhdG9yKGdlbmVyYXRvciwgZnJvbSwgdG8pLCByZXF1ZXN0LCByZXNwb25zZSwgbmV4dCkKICAvLyB9Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zdCB0b2RheSA9IG5ldyBEYXRlKDIwMTcsIDAsIDEpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAvLyBjb25zdCB5ZXN0ZXJkYXkgPSBuZXcgRGF0ZSgyMDE3LCAwLCAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiA9PiB7Cg==</text>
+        <text encoding="base64">ICBjb25zdCAKICAKICBjb25zdCBuZXh0TW9jayA9ICgpID0+IHt9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRoaXMuc3RhY2sgPSBuZXcgRXJyb3IobWVzc2FnZSkuc3RhY2sKICAgIH0K</text>
+        <text encoding="base64">ICBjb25zdCBqc29uQ2xpZW50TW9jayA9IHsKICAgIGdldDogKHVybCwgY2FsbGJhY2spID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCkKICAgIH0KICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmICh0eXBlb2YgRXJyb3IuY2FwdHVyZVN0YWNrVHJhY2UgPT09ICdmdW5jdGlvbicpIHsK</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUpzb25DbGllbnQ6ICgpID0+IGpzb25DbGllbnRNb2NrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHtQcm9taXNlLjxUUmVzdWx0Pn0K</text>
+        <text encoding="base64">ICBjb25zdCB0b2RheSA9IG5ldyBEYXRlKDIwMTcsIDAsIDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gZnJvbSBEYXRlIHRoZSBzdGFydCBkYXRlCiAgICogQHBhcmFtIHRvIERhdGUgVGhlIGVuZCBkYXRlCg==</text>
+        <text encoding="base64">ICBjb25zdCB5ZXN0ZXJkYXkgPSBuZXcgRGF0ZSgyMDE3LCAwLCAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>22:19</text>
