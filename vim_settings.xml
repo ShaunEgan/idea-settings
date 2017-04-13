@@ -127,11 +127,11 @@
         <mark key="." line="90" column="4" />
         <mark key="^" line="90" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/nonabot/src/talk2tash/index.js" timestamp="1492073654602">
-        <mark key="[" line="5" column="18" />
-        <mark key="]" line="5" column="18" />
-        <mark key="." line="5" column="18" />
-        <mark key="^" line="5" column="11" />
+      <file name="$USER_HOME$/repositories/nonabot/src/talk2tash/index.js" timestamp="1492075684809">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/dev/helios/package.json" timestamp="1491657829347">
         <mark key="[" line="10" column="0" />
@@ -867,6 +867,11 @@
         <mark key="[" line="13" column="6" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1492075377482">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/traits/BilateralMeasurement.scala" timestamp="1476549183869">
         <mark key="[" line="2" column="15" />
@@ -1803,10 +1808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>event</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text>event</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
