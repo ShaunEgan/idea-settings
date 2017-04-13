@@ -92,6 +92,9 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/errors/InvalidInputError.js" timestamp="1490946792452">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonabot/README.md" timestamp="1492071532802">
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1491566848695">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -124,10 +127,11 @@
         <mark key="." line="90" column="4" />
         <mark key="^" line="90" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/nonabot/src/talk2tash/index.js" timestamp="1492069881697">
-        <mark key="[" line="51" column="1" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/repositories/nonabot/src/talk2tash/index.js" timestamp="1492073654602">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="11" />
       </file>
       <file name="$USER_HOME$/dev/helios/package.json" timestamp="1491657829347">
         <mark key="[" line="10" column="0" />
@@ -193,11 +197,10 @@
         <mark key="]" line="1" column="19" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/nonabot/serverless.yml" timestamp="1492070435411">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/repositories/nonabot/serverless.yml" timestamp="1492071431233">
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -1800,10 +1803,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgaWFtUm9sZVN0YXRlbWVudHM6CiAgICAtIEVmZmVjdDogJ0FsbG93JwogICAgICBBY3Rpb246CiAgICAgICAgLSAnU05TOlB1Ymxpc2gnCiAgICAgIFJlc291cmNlOiAke3NlbGY6cmVzb3VyY2VzLk91dHB1dHMuVGFsazJUYXNoVG9waWNBcm4uVmFsdWV9</text>
+        <text>event</text>
       </register>
       <register name="-" type="4">
-        <text>'${self:resources.Outputs.Talk2TashTopicArn.Value}'</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZ3BcPg==</text>
@@ -1811,46 +1814,35 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgaWFtUm9sZVN0YXRlbWVudHM6CiAgICAtIEVmZmVjdDogJ0FsbG93JwogICAgICBBY3Rpb246CiAgICAgICAgLSAnU05TOlB1Ymxpc2gnCiAgICAgIFJlc291cmNlOiAke3NlbGY6cmVzb3VyY2VzLk91dHB1dHMuVGFsazJUYXNoVG9waWNBcm4uVmFsdWV9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBjb25zdCByZXF1ZXN0ID0gZ2V0VXNlclJlcXVlc3QoZXZlbnQpCgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>resources:
-  Resources:
-    Talk2TashTopic:
-      Type: 'AWS::SNS::Topic'
-      Properties:
-        DisplayName: 'Talk2TashTopic'
-        TopicName: 'Talk2TashTopic'
-  Outputs:
-    Talk2TashTopicArn:
-      Description: 'Talk2Tash topic'
-      Value:
-        Ref: Talk2TashTopic</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coYXV0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjcmVhdGVDYXJkKHVzZXJSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgIC50aGVuKHNlbmRPaykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyAgIC50aGVuKHJlZ2lzdGVyUmVxdWVzdCkK</text>
+        <text encoding="base64">LnRoZW4oc2VuZE9rKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIC50aGVuKHJlZ2lzdGVyUmVxdWVzdCkK</text>
+        <text encoding="base64">ICBjcmVhdGVDYXJkKCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc25zID0gbmV3IEFXUy5TTlMoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhdXRoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IFRSRUxMT19MSVNUID0gZW52LlRSRUxMT19MSVNUCmNvbnN0IFRSRUxMT19LRVkgPSBlbnYuS0VZCmNvbnN0IFRSRUxMT19UT0tFTiA9IGVudi5UT0tFTgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgQVdTID0gcmVxdWlyZSgnYXdzLXNkaycpCg==</text>
+        <text encoding="base64">Y29uc3QgVFJFTExPX0JPQVJEID0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>102</text>
@@ -1863,7 +1855,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
