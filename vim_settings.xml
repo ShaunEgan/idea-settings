@@ -422,8 +422,8 @@
       <file name="$USER_HOME$/repositories/poslux-trustmark-api/.eslintrc.js" timestamp="1490856566648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/decorators/controller.js" timestamp="1492344620922">
-        <mark key="[" line="27" column="23" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/decorators/controller.js" timestamp="1492422662245">
+        <mark key="[" line="25" column="70" />
         <mark key="]" line="27" column="24" />
         <mark key="^" line="27" column="24" />
         <mark key="." line="27" column="24" />
@@ -1320,12 +1320,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" timestamp="1492344574016">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" timestamp="1492422181059">
         <mark key="'" line="64" column="5" />
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="13" />
-        <mark key="." line="15" column="13" />
-        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/dev/helios/webpack.config.js" timestamp="1492066502925">
         <mark key="[" line="24" column="28" />
@@ -1604,7 +1600,7 @@
         <mark key="]" line="25" column="26" />
         <mark key="." line="25" column="26" />
       </file>
-      <file name="/JavaScript Console" timestamp="1492344623633">
+      <file name="/JavaScript Console" timestamp="1492422569299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes/app/library/errors/EldoScadaError.scala" timestamp="1476878485776">
