@@ -183,7 +183,7 @@
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/VectorFormatter.js" timestamp="1492594498167" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/VectorFormatter.js" timestamp="1492596938375" />
       <file name="$USER_HOME$/repositories/nonabot/serverless.yml" timestamp="1492071431233">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="16" column="0" />
@@ -1233,7 +1233,7 @@
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Client.js" timestamp="1491557209638">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Client.js" timestamp="1492596907516">
         <mark key="[" line="3" column="9" />
         <mark key="]" line="3" column="9" />
         <mark key="^" line="6" column="5" />
@@ -1316,9 +1316,6 @@
         <mark key="[" line="21" column="32" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/controllers/PtsiController.js" timestamp="1492492559494">
-        <mark key="'" line="64" column="5" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/service/RaceRepository.js" timestamp="1492432128258">
         <mark key="[" line="55" column="0" />
