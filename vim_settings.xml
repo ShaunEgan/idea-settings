@@ -83,13 +83,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/practices/model/index.js" timestamp="1492427742654">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1491566848695">
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="1" />
@@ -185,23 +178,16 @@
         <mark key="]" line="3" column="47" />
         <mark key="." line="3" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/races/handlers.js" timestamp="1492429321656">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/practices/service.js" timestamp="1488723948925">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/VectorFormatter.js" timestamp="1492666579620">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="21" column="67" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/VectorFormatter.js" timestamp="1492667775487">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="40" />
+        <mark key="." line="17" column="40" />
+        <mark key="^" line="22" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/nonabot/serverless.yml" timestamp="1492071431233">
         <mark key="[" line="13" column="36" />
@@ -729,7 +715,7 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="/Dummy.txt" timestamp="1492582251395">
+      <file name="/Dummy.txt" timestamp="1492667632604">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/Treatments.scala" timestamp="1477135963266">
@@ -789,13 +775,6 @@
         <mark key="[" line="2" column="28" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/races/service/RaceController.js" timestamp="1492491702658">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="6" column="37" />
-        <mark key="]" line="6" column="36" />
-        <mark key="." line="6" column="36" />
-        <mark key="^" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/repositories/yazimedia/src/sync.js" timestamp="1484805870005">
         <mark key="[" line="11" column="0" />
@@ -897,12 +876,12 @@
         <mark key="^" line="53" column="25" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/VectorFormatterSpec.js" timestamp="1492604324384">
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/VectorFormatterSpec.js" timestamp="1492667376482">
         <mark key="'" line="25" column="27" />
-        <mark key="[" line="20" column="4" />
-        <mark key="]" line="20" column="4" />
-        <mark key="." line="20" column="4" />
-        <mark key="^" line="23" column="5" />
+        <mark key="[" line="21" column="67" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/service/GlaucomaScoreRepository.js" timestamp="1492432261147">
         <mark key="[" line="52" column="17" />
@@ -1876,11 +1855,11 @@
       <jump line="27" column="27" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/VectorFormatterSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwbG9kZSA9IAo=</text>
+      <register name="&quot;" type="4">
+        <text>toISOString().split('T')[0]</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>toISOString().split('T')[0]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
