@@ -46,8 +46,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/repositories/PtsiRepositorySpec.js" timestamp="1492691168780">
-        <mark key="[" line="37" column="4" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/repositories/PtsiRepositorySpec.js" timestamp="1492691695795">
+        <mark key="[" line="66" column="4" />
         <mark key="]" line="37" column="4" />
         <mark key="." line="37" column="4" />
         <mark key="^" line="37" column="4" />
@@ -60,11 +60,11 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/ResponseTools.js" timestamp="1492691003348">
-        <mark key="[" line="59" column="47" />
-        <mark key="]" line="59" column="47" />
-        <mark key="." line="59" column="47" />
-        <mark key="^" line="59" column="46" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/ResponseTools.js" timestamp="1492693006028">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="45" column="18" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/functions/list.js" timestamp="1491735988597">
         <mark key="[" line="12" column="15" />
@@ -254,6 +254,12 @@
         <mark key="^" line="123" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1492600845209" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1492692959503">
+        <mark key="[" line="33" column="30" />
+        <mark key="]" line="33" column="30" />
+        <mark key="." line="33" column="30" />
+        <mark key="^" line="33" column="30" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492687148453">
         <mark key="[" line="95" column="4" />
         <mark key="]" line="95" column="4" />
@@ -500,7 +506,7 @@
         <mark key="^" line="28" column="26" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1492689807570">
+      <file name="/JavaScript Console" timestamp="1492692641421">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/services/DiabeticRetinopathyController.js" timestamp="1492431672123">
@@ -662,10 +668,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CiAgICBjb25zdCBtZXJnZSA9IGJsYWggPT4gewogICAgICBjb25zdCBuYW1lID0gZ2V0TmFtZUZyb21GaXJzdERhdGFQb2ludChibGFoKQogICAgICBjb25zdCBkYXRhID0gZ2V0RGF0YVBvaW50cyhibGFoKQogICAgICByZXR1cm4gbmV3IENsaWVudChuYW1lLCBkYXRhKQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
@@ -673,8 +679,8 @@
       <register name="0" type="4">
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ci8qKgogKiBNZXJnZXMgYWxsIGluc3RhbmNlcyBvZiBjbGllbnQgZGF0YSB0aGF0IHJlcHJlc2VudCB0aGUgc2FtZSBjbGllbnQKICoKICogQHBhcmFtIGNsaWVudERhdGEKICovCmNvbnN0IHJlZm9ybWF0ID0gCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBjb25zdCBtZXJnZSA9IGJsYWggPT4gewogICAgICBjb25zdCBuYW1lID0gZ2V0TmFtZUZyb21GaXJzdERhdGFQb2ludChibGFoKQogICAgICBjb25zdCBkYXRhID0gZ2V0RGF0YVBvaW50cyhibGFoKQogICAgICByZXR1cm4gbmV3IENsaWVudChuYW1lLCBkYXRhKQogICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -683,26 +689,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBncm91cGVkQ2xpZW50cyA9IFIuZ3JvdXBCeShpdGVtID0+IGl0ZW0uY2xpZW50LCBjbGllbnREYXRhKQogIC8vIGNvbnN0IGNsaWVudHMgPSBSLm1hcChtZXJnZUNsaWVudEdyb3VwLCBncm91cGVkQ2xpZW50cykK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">LyoqCiAqIE1hcHMgYSBQVFNJIHJlc3BvbnNlIHRvIGEgQ29uc3VtZXIKICoKICogQHBhcmFtIHJlc3BvbnNlCiAqIEByZXR1cm4gQ29uc3VtZXIKICovCmNvbnN0IHJlc3BvbnNlVG9Db25zdW1lciA9IHJlc3BvbnNlID0+IHsKICBjb25zdCByZXN1bHQgPSBSLmNvbXBvc2UoUi5oZWFkLCByZXNwb25zZVRvQ29uc3VtZXJzKShyZXNwb25zZSkKCiAgcmV0dXJuIHJlc3VsdAp9</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IG5hbWUgPSBnZXROYW1lRnJvbUZpcnN0RGF0YVBvaW50KGdyb3VwKQogICAgLy8gY29uc3QgZGF0YSA9IGdldERhdGFQb2ludHMoZ3JvdXApCiAgICAvLwogICAgLy8gcmV0dXJuIG5ldyBDbGllbnQobmFtZSwgZGF0YSkK</text>
+        <text encoding="base64">Ci8qKgogKiBNZXJnZXMgYWxsIGluc3RhbmNlcyBvZiBjbGllbnQgZGF0YSB0aGF0IHJlcHJlc2VudCB0aGUgc2FtZSBjbGllbnQKICoKICogQHBhcmFtIGNsaWVudERhdGEKICovCmNvbnN0IHJlZm9ybWF0ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBtZXJnZUNsaWVudHMgPSAoYWNjLCBpdGVtKSA9PiB7CiAgICBjb25zdCBjbGllbnROb3RFbmNvdW50ZXJlZEJlZm9yZSA9IGNsaWVudCA9PiBSLmlzTmlsKGFjY1tjbGllbnRdKQoKICAgIGNvbnN0IHsgY2xpZW50LCBkYXRlLCB2YWx1ZSB9ID0gaXRlbQoKICAgIGNvbnN0IGRhdGEgPSBbeyBkYXRlLCB2YWx1ZSB9XQoKICAgIGlmIChjbGllbnROb3RFbmNvdW50ZXJlZEJlZm9yZShjbGllbnQpKSBhY2NbY2xpZW50XSA9IGRhdGEKICAgIGVsc2UgYWNjW2NsaWVudF0gPSBhY2NbY2xpZW50XS5jb25jYXQoZGF0YSkKCiAgICByZXR1cm4gYWNjCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKCiAgbGV0IHJlc3VsdCA9IAo=</text>
+        <text encoding="base64">ICAvLyBjb25zdCBncm91cGVkQ2xpZW50cyA9IFIuZ3JvdXBCeShpdGVtID0+IGl0ZW0uY2xpZW50LCBjbGllbnREYXRhKQogIC8vIGNvbnN0IGNsaWVudHMgPSBSLm1hcChtZXJnZUNsaWVudEdyb3VwLCBncm91cGVkQ2xpZW50cykK</text>
       </register>
-      <register name="8" type="4">
-        <text>uce = R.reduce(mergeClients, {}, clientData)
-  return r</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZvcm1hdDogJycK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IG5hbWUgPSBnZXROYW1lRnJvbUZpcnN0RGF0YVBvaW50KGdyb3VwKQogICAgLy8gY29uc3QgZGF0YSA9IGdldERhdGFQb2ludHMoZ3JvdXApCiAgICAvLwogICAgLy8gcmV0dXJuIG5ldyBDbGllbnQobmFtZSwgZGF0YSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
