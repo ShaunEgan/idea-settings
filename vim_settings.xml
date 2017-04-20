@@ -398,11 +398,11 @@
         <mark key="." line="2" column="31" />
         <mark key="^" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Client.js" timestamp="1492596907516">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="9" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="3" column="9" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Client.js" timestamp="1492702612651">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/update.js" timestamp="1492428934393">
         <mark key="[" line="41" column="0" />
@@ -674,10 +674,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>timeslot</text>
+        <text>clone</text>
       </register>
       <register name="-" type="4">
-        <text>timeslot</text>
+        <text>clone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
@@ -692,28 +692,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNsb25lID0gdGhpcy5kYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyByZXR1cm4gc2xvdFRvQ2xpZW50RGF0YSh0aW1lc2xvdCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBlbnRyeVRvQ2xpZW50RGF0YSA9IFIuY29tcG9zZShlbnRyeVRvRGF0YSwgUi5wcm9wKCdUaW1lc3RhbXAnKSkodGltZXNsb3QpCiAgLy8gY29uc3Qgc2xvdFRvQ2xpZW50RGF0YSA9IFIuY29tcG9zZShSLm1hcChlbnRyeVRvQ2xpZW50RGF0YSksIFIucHJvcCgnRGF0YUxpc3QnKSkKICAvLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBjbGllbnREYXRhID0gUi5tYXAoYWRkVGltZVN0YW1wVG9FbnRyeSwgZW50cmllcykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB0aW1lc3RhbXAgPSBSLnByb3AoJ1RpbWVzdGFtcCcsIHRpbWVzbG90KQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Ci8qKgogKiBDb252ZXJ0cyBhIFBUU0kgcmVzcG9uc2UgdG8gYW4gYXJyYXkgb2YgZGF0YSBvYmplY3RzIHdpdGggYWxsIHRoZSBvZiB0aGUgZGF0YSByZXF1aXJlZCB0byBjcmVhdGUgYSBDbGllbnQgaW5zdGFuY2UKICoKICogQHBhcmFtIHJlc3BvbnNlCiAqLwpjb25zdCByZXNwb25zZVRvQ2xpZW50RGF0YSA9IFIuY29tcG9zZSgp</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGNsb25lID0gdGhpcy5uYW1lCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvLyByZXR1cm4gc2xvdFRvQ2xpZW50RGF0YSh0aW1lc2xvdCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCBlbnRyeVRvQ2xpZW50RGF0YSA9IFIuY29tcG9zZShlbnRyeVRvRGF0YSwgUi5wcm9wKCdUaW1lc3RhbXAnKSkodGltZXNsb3QpCiAgLy8gY29uc3Qgc2xvdFRvQ2xpZW50RGF0YSA9IFIuY29tcG9zZShSLm1hcChlbnRyeVRvQ2xpZW50RGF0YSksIFIucHJvcCgnRGF0YUxpc3QnKSkKICAvLwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdCBjbGllbnREYXRhID0gUi5tYXAoYWRkVGltZVN0YW1wVG9FbnRyeSwgZW50cmllcykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
