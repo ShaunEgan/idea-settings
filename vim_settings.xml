@@ -21,11 +21,11 @@
         <mark key="^" line="142" column="11" />
         <mark key="." line="142" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1493035684830">
-        <mark key="[" line="76" column="12" />
-        <mark key="]" line="76" column="12" />
-        <mark key="." line="76" column="19" />
-        <mark key="^" line="75" column="19" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1493099394125">
+        <mark key="[" line="44" column="95" />
+        <mark key="]" line="89" column="12" />
+        <mark key="." line="89" column="19" />
+        <mark key="^" line="88" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1491566848695">
         <mark key="[" line="0" column="1" />
@@ -36,11 +36,11 @@
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Models/UserTest.php" timestamp="1493032452875">
         <mark key="[" line="69" column="70" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1493036029040">
-        <mark key="[" line="261" column="67" />
-        <mark key="]" line="261" column="46" />
-        <mark key="." line="261" column="46" />
-        <mark key="^" line="261" column="46" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1493099842938">
+        <mark key="[" line="226" column="46" />
+        <mark key="]" line="226" column="46" />
+        <mark key="." line="226" column="46" />
+        <mark key="^" line="226" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1492692959503">
         <mark key="[" line="33" column="30" />
@@ -452,11 +452,11 @@
         <mark key="^" line="104" column="5" />
         <mark key="." line="104" column="5" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1493035717349">
-        <mark key="[" line="123" column="82" />
-        <mark key="]" line="151" column="34" />
-        <mark key="^" line="151" column="34" />
-        <mark key="." line="151" column="34" />
+      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/Elasticsearch/SearchService.php" timestamp="1493099410800">
+        <mark key="[" line="85" column="57" />
+        <mark key="]" line="155" column="34" />
+        <mark key="^" line="155" column="34" />
+        <mark key="." line="155" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/circle.yml" timestamp="1492673919524">
         <mark key="[" line="22" column="0" />
@@ -738,10 +738,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>1, 'title', 'body', [], [], 0.0, 0.0</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>1, 'title', 'body', [], [], 0.0, 0.0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
