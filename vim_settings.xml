@@ -23,9 +23,6 @@
         <mark key="." line="123" column="25" />
         <mark key="^" line="123" column="25" />
       </file>
-      <file name="/a.dummy" timestamp="1493101291053">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/integration/ServiceIntegrationTest.php" timestamp="1493106615140">
         <mark key="[" line="240" column="63" />
         <mark key="]" line="240" column="67" />
@@ -52,9 +49,6 @@
         <mark key="]" line="0" column="1" />
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Models/UserTest.php" timestamp="1493032452875">
-        <mark key="[" line="69" column="70" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1493099842938">
         <mark key="[" line="226" column="46" />
@@ -153,9 +147,6 @@
         <mark key="^" line="16" column="47" />
         <mark key="." line="16" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" timestamp="1492773227752">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" timestamp="1493034155576">
         <mark key="[" line="44" column="27" />
         <mark key="]" line="44" column="27" />
@@ -191,11 +182,11 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/index.js" timestamp="1493125334665">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="21" column="5" />
-        <mark key="." line="21" column="5" />
-        <mark key="^" line="21" column="5" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/index.js" timestamp="1493134094220">
+        <mark key="'" line="9" column="20" />
+        <mark key="]" line="4" column="54" />
+        <mark key="." line="4" column="54" />
+        <mark key="^" line="4" column="54" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -238,9 +229,6 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
         <mark key="^" line="95" column="4" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" timestamp="1492506590721">
-        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/client-samples/single-client-2-day-vector-format.js" timestamp="1492687073431">
         <mark key="[" line="107" column="15" />
@@ -306,6 +294,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/TemplateServices/Node/repositories/index.js" timestamp="1493138288579">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
@@ -394,14 +388,10 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/ClientFactory.js" timestamp="1491907673524">
-        <mark key="[" line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1493123485733">
-        <mark key="[" line="3" column="49" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nodejs-template/.eslintignore" timestamp="1493113707771">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1493137703237">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/functions/update.js" timestamp="1491727109835">
         <mark key="[" line="3" column="24" />
@@ -409,8 +399,11 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/UserRepository.php" timestamp="1493032229118">
-        <mark key="[" line="25" column="42" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1493133914557">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="16" />
+        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
@@ -441,6 +434,11 @@
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/TemplateServices/Node/index.js" timestamp="1493137664261">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequestWrapper.js" timestamp="1491842622813">
         <mark key="[" line="8" column="0" />
@@ -489,11 +487,20 @@
         <mark key="^" line="38" column="7" />
         <mark key="." line="7" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Cli.js" timestamp="1493132470987">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/serverless.yml" timestamp="1492432722148">
         <mark key="[" line="224" column="13" />
         <mark key="]" line="224" column="13" />
         <mark key="^" line="192" column="25" />
         <mark key="." line="224" column="25" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/CommandPrompts.js" timestamp="1493132475921">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/README.md" timestamp="1493113330802">
         <mark key="[" line="6" column="114" />
@@ -517,6 +524,11 @@
         <mark key="]" line="155" column="34" />
         <mark key="^" line="155" column="34" />
         <mark key="." line="155" column="34" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493135067111">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/circle.yml" timestamp="1492673919524">
         <mark key="[" line="22" column="0" />
@@ -558,9 +570,6 @@
         <mark key="]" line="55" column="27" />
         <mark key="." line="55" column="27" />
         <mark key="^" line="39" column="43" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nodejs-template/nodemon.json" timestamp="1493111377895">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/lib/database.js" timestamp="1491155161436">
         <mark key="[" line="8" column="20" />
@@ -616,13 +625,22 @@
         <mark key="^" line="248" column="42" />
         <mark key="." line="248" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/BriefingRepository.php" timestamp="1493032972960">
-        <mark key="[" line="18" column="28" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/TemplateServices/Node/services/index.js" timestamp="1493139815525">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="23" column="22" />
+        <mark key="." line="23" column="22" />
+        <mark key="^" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493125246592">
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Cli/index.js" timestamp="1493133302053">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493131614955">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/spec/unit/Services/ExampleSpec.js" timestamp="1493113269758">
         <mark key="[" line="0" column="0" />
@@ -663,22 +681,10 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Briefing.php" timestamp="1493032780560">
-        <mark key="[" line="16" column="16" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493011671782">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nodejs-template/.npmrc" timestamp="1493110812551">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1492667632604">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/matchers/to-be-all-of-type.js" timestamp="1492509186331">
-        <mark key="[" line="0" column="40" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/repositories/RaceRepository.js" timestamp="1492426047019">
         <mark key="[" line="84" column="13" />
@@ -691,9 +697,6 @@
         <mark key="]" line="18" column="2" />
         <mark key="." line="18" column="2" />
         <mark key="^" line="18" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/model/index.js" timestamp="1492431340121">
-        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/integration/UserIntegration.php" timestamp="1493101192738">
         <mark key="[" line="2" column="27" />
@@ -725,12 +728,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="/fragment.java" timestamp="1492506545328">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/repositories/crowdCaster/digestor/src/config.js" />
       <jump line="2" column="0" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/conf/routes" />
       <jump line="21" column="43" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/tables/ScreeningTable.scala" />
       <jump line="5" column="11" filename="$USER_HOME$/dev/svc-diabetic-retinopathy/app/models/VisualAcuity.scala" />
@@ -830,13 +829,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/helios/src/races/service/RaceController.js" />
       <jump line="46" column="0" filename="$USER_HOME$/dev/helios/src/races/service/RaceController.js" />
       <jump line="27" column="27" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/VectorFormatterSpec.js" />
+      <jump line="9" column="20" filename="$USER_HOME$/repositories/nonacli/nonacli/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNldE5hbWUgPSAKICAgIGNvbnN0IHNldERlc2NyaXB0aW9uID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9jZXNzXD4=</text>
@@ -845,37 +845,37 @@
         <text encoding="base64">ZGVzY3JpYmUoJyNnZXRHZW5lcmF0b3JEYXRhJywgKCkgPT4gewogICAgY29uc3QgZ2VuZXJhdG9ySWQgPSAnc29tZS1nZW5lcmF0b3InCgogICAgaXQoJ3JlamVjdHMgaWYgZnJvbSBkYXRlIGlzIGludmFsaWQnLCBkb25lID0+IHsKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsICcwMS8wMS8yMDE3JywgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoSW52YWxpZElucHV0RXJyb3IpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgaWYgdG8gZGF0ZSBpcyBpbnZhbGlkJywgZG9uZSA9PiB7CiAgICAgIGNsaWVudC5nZXRHZW5lcmF0b3JEYXRhKGdlbmVyYXRvcklkLCB5ZXN0ZXJkYXksICcwMS8wMS8yMDE3JykKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgncmVqZWN0cyBpZiB0aGUgc3RhcnQgZGF0ZSBpcyBub3QgYmVmb3JlIHRoZSBlbmQgZGF0ZScsIGRvbmUgPT4gewogICAgICBjbGllbnQuZ2V0R2VuZXJhdG9yRGF0YShnZW5lcmF0b3JJZCwgdG9kYXksIHllc3RlcmRheSkKICAgICAgICAudGhlbihkb25lLmZhaWwpCiAgICAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgICAgICAgIGV4cGVjdChlcnJvcikudG9FcXVhbChqYXNtaW5lLmFueShJbnZhbGlkSW5wdXRFcnJvcikpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgfSkKCiAgICBpdCgnY2FsbHMgZ2V0IG9uIHRoZSByZXN0IGNsaWVudCcsIGRvbmUgPT4gewogICAgICBzcHlPbihyZXN0Q2xpZW50LCAnZ2V0JykuYW5kLmNhbGxUaHJvdWdoKCkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgICAgZXhwZWN0KHJlc3RDbGllbnQuZ2V0KS50b0hhdmVCZWVuQ2FsbGVkVGltZXMoMSkKICAgICAgICAgIGV4cGVjdChyZXN0Q2xpZW50LmdldCkudG9IYXZlQmVlbkNhbGxlZFdpdGgoJy9HZXRHZW5lcmF0aW9uRGF0YScsIGphc21pbmUuYW55KE9iamVjdCkpCiAgICAgICAgICBkb25lKCkKICAgICAgICB9KQogICAgICAgIC5jYXRjaChkb25lLmZhaWwpCiAgICB9KQoKICAgIGl0KCdyZWplY3RzIHdpdGggYSBHZW5lcmF0b3JOb3RGb3VuZEVycm9yIHdoZW4gdGhlIHJlc3QgY2xpZW50IHJlamVjdHMgd2l0aCBhIE5vdEZvdW5kRXJyb3InLCBkb25lID0+IHsKICAgICAgc3B5T24ocmVzdENsaWVudCwgJ2dldCcpLmFuZC5yZXR1cm5WYWx1ZShQcm9taXNlLnJlamVjdChuZXcgTm90Rm91bmRFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoR2VuZXJhdG9yTm90Rm91bmQpKQogICAgICAgICAgZG9uZSgpCiAgICAgICAgfSkKICAgIH0pCgogICAgaXQoJ3JlamVjdHMgZXJyb3JzIHRoYXQgaXQgZG9lcyBub3QgZXhwZWN0IHdpdGhvdXQgbW9kaWZpY2F0aW9uJywgZG9uZSA9PiB7CiAgICAgIHNweU9uKHJlc3RDbGllbnQsICdnZXQnKS5hbmQucmV0dXJuVmFsdWUoUHJvbWlzZS5yZWplY3QobmV3IFB0c2lFcnJvcigpKSkKICAgICAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9ySWQsIHllc3RlcmRheSwgdG9kYXkpCiAgICAgICAgLnRoZW4oZG9uZS5mYWlsKQogICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICBleHBlY3QoZXJyb3IpLnRvRXF1YWwoamFzbWluZS5hbnkoUHRzaUVycm9yKSkKICAgICAgICAgIGRvbmUoKQogICAgICAgIH0pCiAgICB9KQogIH0p</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGtleXMgPSBPYmplY3Qua2V5cyhjcmVhdGlvblByb21wdHMpCgogICAgcmV0dXJuIGtleXMubWFwKGtleSA9PiB7CiAgICAgIGNvbnNvbGUubG9nKGNyZWF0aW9uUHJvbXB0c1trZXldKQogICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNldE5hbWUgPSAKICAgIGNvbnN0IHNldERlc2NyaXB0aW9uID0gCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbmFtZTogJ1Byb2plY3QgbmFtZT8nLAogICAgICBkZXNjcmlwdGlvbjogJ1Byb2plY3QgZGVzY3JpcHRpb24/Jwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBwcmU6CiAgICAtIG5wbSBydW4gbGludAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGZzLnJlYWRkaXIoJy4nLCAoZXJyb3IsIGZpbGVzKSA9PiB7CiAgICAvLyAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogICAgLy8gICByZXNvbHZlKGZpbGVzKQogICAgLy8gfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlc29sdmUocmVxdWlyZShwYWNrYWdlSnNvblBhdGgpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJlc29sdmUocmVxdWlyZShwYWNrYWdlSnNvblBhdGgpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBhY2thZ2VKc29uUGF0aCA9IHBhdGguam9pbihuYW1lLCAncGFja2FnZS5qc29uJykK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YGBganNvbgp7CiAgInNjcmlwdHMiOiB7CiAgICAicHVibGlzaC1jb3ZlcmFnZSI6ICJjYXQgY292ZXJhZ2UvbGNvdi5pbmZvIHwgY29kYWN5LWNvdmVyYWdlIgogIH0KfQpgYGAK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHVwZGF0ZUZpbGVzID0gdXBkYXRlUGFja2FnZUpzb24obmFtZSkoZGVzY3JpcHRpb24pCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0IjogImVjaG8gJ05vIHRlc3RzJyIK</text>
+        <text encoding="base64">ICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKCdDb21wbGV0ZScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">YnJldyBpbnN0YWxsIGxpYmdjcnlwdAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -930,8 +930,8 @@
         <entry>30</entry>
         <entry>102</entry>
         <entry>NERDTree</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
