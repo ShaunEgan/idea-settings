@@ -38,13 +38,6 @@
         <mark key="^" line="142" column="11" />
         <mark key="." line="142" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/create.js" timestamp="1493185531456">
-        <mark key="'" line="12" column="23" />
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="12" column="23" />
-      </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/jasmine.js" timestamp="1493114418618">
         <mark key="[" line="0" column="0" />
       </file>
@@ -202,13 +195,6 @@
         <mark key="^" line="4" column="41" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/index.js" timestamp="1493185589222">
-        <mark key="'" line="15" column="20" />
-        <mark key="[" line="7" column="59" />
-        <mark key="]" line="7" column="64" />
-        <mark key="." line="7" column="64" />
-        <mark key="^" line="7" column="64" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -293,6 +279,9 @@
         <mark key="]" line="6" column="14" />
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1493207582379">
+        <mark key="[" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/functions/list.js" timestamp="1491735988597">
         <mark key="[" line="12" column="15" />
