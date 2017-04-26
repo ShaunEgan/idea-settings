@@ -315,6 +315,9 @@
         <mark key="." line="249" column="111" />
         <mark key="^" line="249" column="111" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesClient.scala" timestamp="1493201576647">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/practices/functions/update.js" timestamp="1491663757350">
         <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="6" />
@@ -468,6 +471,11 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
         <mark key="^" line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1493201629949">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesSampleRepository.scala" timestamp="1493196757811">
         <mark key="[" line="4" column="0" />
@@ -921,28 +929,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWl0cy5BY2NvdW50SWQK</text>
+        <text encoding="base64">ICBwcm90ZWN0ZWQgdmFsIGhlcm1lc0NsaWVudCA9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBCdWlsZCBhIG1hcCBvZiB0aW1lIHRvIGJpZyBkZWNpbWFsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wbGljaXQgCg==</text>
+        <text encoding="base64">aW1wb3J0IHRyYWl0cy5BY2NvdW50SWQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEVMQVNUSUNfQkVBTlNUQUxLX0xBQkVMOiB0cnVzdG1hcmsoY29tbWl0OiR7Q0lSQ0xFX1NIQTF9LGJ1aWxkOiR7Q0lSQ0xFX0JVSUxEX05VTX0pCg==</text>
+        <text encoding="base64">ICAvLyBCdWlsZCBhIG1hcCBvZiB0aW1lIHRvIGJpZyBkZWNpbWFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzZWJjbGkK</text>
+        <text encoding="base64">aW1wbGljaXQgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmRlcGxveW1lbnQ6CiAgcHJvZDoKICAgIGJyYW5jaDogZWxhc3RpYy1maXhlcwogICAgY29tbWFuZHM6CiAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
+        <text encoding="base64">ICAgIEVMQVNUSUNfQkVBTlNUQUxLX0xBQkVMOiB0cnVzdG1hcmsoY29tbWl0OiR7Q0lSQ0xFX1NIQTF9LGJ1aWxkOiR7Q0lSQ0xFX0JVSUxEX05VTX0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICAgIC0gcGlwIGluc3RhbGwgYXdzZWJjbGkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlCg==</text>
+        <text encoding="base64">CmRlcGxveW1lbnQ6CiAgcHJvZDoKICAgIGJyYW5jaDogZWxhc3RpYy1maXhlcwogICAgY29tbWFuZHM6CiAgICAgIC0gZWIgZGVwbG95IC0tcHJvZmlsZSBkZWZhdWx0IC0tbGFiZWw9JHtFTEFTVElDX0JFQU5TVEFMS19MQUJFTH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
