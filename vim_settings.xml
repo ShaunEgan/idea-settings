@@ -269,6 +269,9 @@
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1493881818030">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Clients/HermesClient.scala" timestamp="1493209376850">
         <mark key="[" line="11" column="117" />
         <mark key="]" line="12" column="0" />
