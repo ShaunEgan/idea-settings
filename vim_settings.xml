@@ -794,10 +794,10 @@
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/package.json" timestamp="1493878225593">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/package.json" timestamp="1493881640917">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/matchers/to-be-all-of-type.js" timestamp="1492509186331">
         <mark key="[" line="0" column="40" />
@@ -844,8 +844,11 @@
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="41" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/.npmignore" timestamp="1493878251617">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/.npmignore" timestamp="1493881136966">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/package.json" timestamp="1493113631680">
         <mark key="[" line="56" column="30" />
