@@ -309,8 +309,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494312374501">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494314728512">
+        <mark key="[" line="14" column="73" />
+        <mark key="]" line="8" column="49" />
+        <mark key="." line="8" column="49" />
+        <mark key="^" line="8" column="49" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/functions/delete.js" timestamp="1491663737698">
         <mark key="[" line="12" column="17" />
@@ -1079,8 +1082,8 @@
       <jump line="29" column="90" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Clients/HermesClient.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -1098,28 +1101,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgaW1wbGljaXQgdmFsIGRhdGFQb2ludEZvcm1hdCA9IG5ldyBGb3JtYXRbRGF0YVBvaW50XSB7CiAgICBvdmVycmlkZSBkZWYgcmVhZHMoanNvbjogSnNWYWx1ZSkgPSBKc1Jlc3VsdC4KCiAgICBvdmVycmlkZSBkZWYgd3JpdGVzKGRhdGFQb2ludDogRGF0YVBvaW50KSA9ID8/PwogIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgaW1wb3J0IENvbnN1bWVyUmVzcG9uc2UudG9Db25zdW1lcgoK</text>
+        <text encoding="base64">b2JqZWN0IERhdGFQb2ludCB7CiAgaW1wbGljaXQgZGVmIGZvcm1hdCgpCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcmVhZHMoanNvbjogSnNWYWx1ZSk6IEpzUmVzdWx0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgaW1wb3J0IENvbnN1bWVyUmVzcG9uc2UudG9Db25zdW1lcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgaW1wb3J0IENvbnN1bWVyUmVzcG9uc2UudG9Db25zdW1lcgoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
