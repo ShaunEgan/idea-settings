@@ -407,11 +407,6 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/models.scala" timestamp="1494308355689">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/BriefingRepository.php" timestamp="1493032972960">
         <mark key="[" line="18" column="28" />
       </file>
@@ -749,6 +744,12 @@
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/generic-example.json" timestamp="1494322353053">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" timestamp="1494395954161">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/functions/update.js" timestamp="1491727109835">
         <mark key="[" line="3" column="24" />
