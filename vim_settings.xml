@@ -745,11 +745,7 @@
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/generic-example.json" timestamp="1494322353053">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" timestamp="1494400395487">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" timestamp="1494401810688" />
       <file name="$USER_HOME$/dev/helios/src/races/functions/update.js" timestamp="1491727109835">
         <mark key="[" line="3" column="24" />
         <mark key="]" line="3" column="27" />
