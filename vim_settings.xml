@@ -160,10 +160,10 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494492926075">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494500550163">
+        <mark key="[" line="31" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1493038574613">
         <mark key="[" line="151" column="28" />
@@ -472,7 +472,7 @@
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/null-test.json" timestamp="1494402952504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494420740760">
+      <file name="/fragment.java" timestamp="1494500699961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/src/Services/Example.js" timestamp="1493898018321">
@@ -1145,11 +1145,11 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;http://localhost:8001&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>response.body</text>
+        <text>&quot;http://localhost:8001&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
