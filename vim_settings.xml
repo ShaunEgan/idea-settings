@@ -82,6 +82,12 @@
         <mark key="." line="44" column="0" />
         <mark key="^" line="38" column="14" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Config.scala" timestamp="1494503541869">
+        <mark key="[" line="12" column="36" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/circle.yml" timestamp="1493114407790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -160,10 +166,8 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494500550163">
-        <mark key="[" line="31" column="28" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494503873839">
+        <mark key="[" line="46" column="82" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1493038574613">
         <mark key="[" line="151" column="28" />
@@ -233,6 +237,9 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="8" column="25" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/GeneratorRespository.scala" timestamp="1494503988136">
+        <mark key="[" line="10" column="72" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1494495295913" />
       <file name="$USER_HOME$/dev/eth-btc/research/index.js" timestamp="1491371753561">
         <mark key="[" line="54" column="11" />
@@ -286,11 +293,9 @@
         <mark key="^" line="39" column="36" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494495305618">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494503962279">
+        <mark key="[" line="12" column="72" />
         <mark key="^" line="12" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/delete.js" timestamp="1492429010412">
         <mark key="[" line="19" column="0" />
@@ -472,7 +477,7 @@
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/null-test.json" timestamp="1494402952504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1494500699961">
+      <file name="/fragment.java" timestamp="1494503700595">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/src/Services/Example.js" timestamp="1493898018321">
@@ -671,8 +676,8 @@
         <mark key="^" line="88" column="108" />
         <mark key="." line="88" column="108" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/ConsumerRepository.scala" timestamp="1494420365049">
-        <mark key="[" line="2" column="49" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/ConsumerRepository.scala" timestamp="1494503954637">
+        <mark key="[" line="10" column="70" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/create.js" timestamp="1492431434271">
         <mark key="[" line="8" column="0" />
@@ -1008,6 +1013,11 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/formatJson.js" timestamp="1493187183346">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1494504125285">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/handlers.js" timestamp="1492431739260">
         <mark key="[" line="0" column="42" />
         <mark key="]" line="0" column="42" />
@@ -1145,11 +1155,11 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;http://localhost:8001&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;http://localhost:8001&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -1164,28 +1174,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIHZhbCBTQU1QTEVfSU5URVJWQUwgPSAzMAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhc2UgZXhjZXB0aW9uOiBFeGNlcHRpb24gPT4gaGFuZGxlRXJyb3IoZXhjZXB0aW9uKQogICAgY2FzZSBlcnJvcjogRXJyb3IgPT4gaGFuZGxlRXJyb3IoZXJyb3IpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMiwgMCwgMCwgMCkpCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMiwgMCwgMCwgMCkpCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgcmVwb3NpdG9yeSA9IEdlbmVyYXRvclJlc3Bvc2l0b3J5W0JpZ0RlY2ltYWxdKGNsaWVudCwgZnJvbSkK</text>
+        <text encoding="base64">ICBkZWYgaGFuZGxlRXhjZXB0aW9uKGV4Y2VwdGlvbjogRXhjZXB0aW9uKSA9IHsKICAgIHByaW50bG4oIk1lc3NhZ2U6ICIgKyBleGNlcHRpb24uZ2V0TWVzc2FnZSkKICAgIHByaW50bG4oIkNhdXNlIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgY2xpZW50LmdldEdlbmVyYXRvckRhdGEoZ2VuZXJhdG9yLCBmcm9tLCB0bykKICAvLyAgICAuYW5kVGhlbiB7IGNhc2UgcmVzdWx0ID0+IHByaW50bG4ocmVzdWx0LmdldE9yRWxzZSgiTm90aGluZyByZWNlaXZlZCIpKSB9CiAgLy8gICAgLmFuZFRoZW4geyBjYXNlIF8gPT4gd3NDbGllbnQuY2xvc2UoKSB9CiAgLy8gICAgLmFuZFRoZW4geyBjYXNlIF8gPT4gc3lzdGVtLnRlcm1pbmF0ZSgpIH0KCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcmludGxuKCJTZW5kaW5nIHJlcXVlc3QiKQo=</text>
+        <text encoding="base64">ICAgIHByaW50RGV0YWlscyhlcnJvci5nZXRNZXNzYWdlLCBlcnJvci5nZXRDYXVzZSwgZ2V0U3RhY2tUcmFjZShlcnJvcikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>1584</text>
