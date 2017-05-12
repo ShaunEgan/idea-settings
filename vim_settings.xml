@@ -1018,10 +1018,10 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/formatJson.js" timestamp="1493187183346">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1494504125285">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1494581374973">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/handlers.js" timestamp="1492431739260">
         <mark key="[" line="0" column="42" />
