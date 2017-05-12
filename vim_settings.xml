@@ -167,11 +167,11 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494507363754">
-        <mark key="[" line="68" column="10" />
-        <mark key="]" line="35" column="33" />
-        <mark key="^" line="35" column="33" />
-        <mark key="." line="35" column="33" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494580424686">
+        <mark key="[" line="68" column="9" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="8" />
+        <mark key="." line="68" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1493038574613">
         <mark key="[" line="151" column="28" />
@@ -1160,11 +1160,11 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>scala.util.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym91bmRyeURhdGVzIG1hdGNoIHsgY2FzZSAoXywgdG9EYXRlKSA9PiB0b0RhdGUudG9Mb2NhbERhdGUgfQ==</text>
+        <text>scala.util.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
