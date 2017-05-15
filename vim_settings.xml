@@ -249,8 +249,11 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/GeneratorRespository.scala" timestamp="1494503988136">
-        <mark key="[" line="10" column="72" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/GeneratorRespository.scala" timestamp="1494831637463">
+        <mark key="[" line="18" column="13" />
+        <mark key="]" line="18" column="14" />
+        <mark key="^" line="18" column="14" />
+        <mark key="." line="18" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/CsvSampleRepository.scala" timestamp="1494495295913" />
       <file name="$USER_HOME$/dev/eth-btc/research/index.js" timestamp="1491371753561">
@@ -689,8 +692,11 @@
         <mark key="^" line="88" column="108" />
         <mark key="." line="88" column="108" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/ConsumerRepository.scala" timestamp="1494503954637">
-        <mark key="[" line="10" column="70" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/ConsumerRepository.scala" timestamp="1494831605687">
+        <mark key="[" line="13" column="91" />
+        <mark key="]" line="13" column="91" />
+        <mark key="." line="13" column="91" />
+        <mark key="^" line="13" column="100" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/create.js" timestamp="1492431434271">
         <mark key="[" line="8" column="0" />
@@ -1172,11 +1178,11 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdGF0aWMgY3JlYXRlKHJhY2UpIAo=</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>scala.util.</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
