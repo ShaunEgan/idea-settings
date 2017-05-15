@@ -181,10 +181,11 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494842496412">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1494847809312">
+        <mark key="[" line="70" column="49" />
+        <mark key="]" line="70" column="49" />
+        <mark key="." line="70" column="49" />
+        <mark key="^" line="70" column="48" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" timestamp="1493038574613">
         <mark key="[" line="151" column="28" />
@@ -295,7 +296,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1494238010743">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1494848064622">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -1218,11 +1219,11 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cn0K</text>
+      <register name="&quot;" type="4">
+        <text>LocalDate.now</text>
       </register>
       <register name="-" type="4">
-        <text>immutable.Seq</text>
+        <text>LocalDate.now</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -1271,7 +1272,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
