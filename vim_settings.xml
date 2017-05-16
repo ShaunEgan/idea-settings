@@ -26,7 +26,11 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1494934522914" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1494937742554">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/Generic.scala" timestamp="1494325583660">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
@@ -35,6 +39,12 @@
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/cloneRemoteGitRepository.js" timestamp="1493185790263">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AllocationService.scala" timestamp="1494938661516">
+        <mark key="[" line="4" column="76" />
+        <mark key="]" line="4" column="76" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="76" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1491566848695">
         <mark key="[" line="0" column="1" />
@@ -120,10 +130,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/ExcessPowerCalculator.scala" timestamp="1494935962611">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/ExcessPowerCalculator.scala" timestamp="1494937526781">
+        <mark key="[" line="2" column="34" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/service/PatientService.js" timestamp="1492589729257">
         <mark key="[" line="17" column="3" />
@@ -221,6 +231,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/Aliases.scala" timestamp="1494937670592">
+        <mark key="[" line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Hermes/Models/DataPoint.scala" timestamp="1494832778474">
         <mark key="[" line="0" column="0" />
       </file>
@@ -304,11 +317,6 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1494935722418">
-        <mark key="[" line="26" column="91" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/decorators/controller.js" timestamp="1492422662245">
         <mark key="[" line="25" column="70" />
         <mark key="]" line="27" column="24" />
@@ -327,8 +335,8 @@
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/.eslintignore" timestamp="1493113707771">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1494834681976">
-        <mark key="[" line="63" column="73" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1494937114322">
+        <mark key="[" line="52" column="55" />
         <mark key="]" line="63" column="73" />
         <mark key="." line="63" column="73" />
         <mark key="^" line="63" column="72" />
@@ -431,7 +439,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1494935077546" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1494937592372">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="13" />
@@ -521,6 +533,11 @@
         <mark key="]" line="0" column="27" />
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/GeneratorAssignerImpl.scala" timestamp="1494937694131">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/null-test.json" timestamp="1494402952504">
         <mark key="[" line="0" column="0" />
@@ -732,6 +749,12 @@
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/RestifyRestClient.js" timestamp="1493884709578">
         <mark key="[" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/GeneratorAssigner.scala" timestamp="1494937574540">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="2" column="49" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1494403788132">
         <mark key="[" line="88" column="64" />
@@ -1235,10 +1258,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Map[AccountId, scala.BigDecimal]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Map[AccountId, scala.BigDecimal]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -1253,28 +1276,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGV4Y2Vzc1Bvd2VyQ2FsY3VsYXRvcjogRXhjZXNzUG93ZXJDYWxjdWxhdG9ySW1wbFtBY2NvdW50SWQsIEJpZ0RlY2ltYWxdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBleGNlc3NQb3dlckNhbGN1bGF0b3IgPSBuZXcgRXhjZXNzUG93ZXJDYWxjdWxhdG9ySW1wbFtBY2NvdW50SWQsIEJpZ0RlY2ltYWxdKCkK</text>
+        <text encoding="base64">CiAgCgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBBY2NvdW50QXNzb2NpYXRpb25bQSwgVF0gPSBNYXBbQSwgVF0K</text>
+        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQogIHR5cGUgR2VuZXJhdGlvbkFycmF5ID0gQXJyYXlbVF0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKHMiVW5hbGxvY2F0ZWQgcG93ZXI6ICRleGNlc3NQb3dlciIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">c3sKICAgICAgZGVmIGNhbGN1bGF0ZXVzYWdlKGFjY3VtdWxhdG9yOiB0LCB2YWx1ZXM6IGxpc3RbdF0pOiB1bml0ID0gewogICAgICAgIGlmICh2YWx1ZXMgaXNlbXB0eSkgYWNjdW11bGF0b3IKICAgICAgICBlbHNlIGNhbGN1bGF0ZXVzYWdlKGFjY3VtdWxhdG9yICsgdmFsdWVzLmhlYWQsIHZhbHVlcy50YWlsKQogICAgICB9CgogICAgICB2YWwgY29uc3VtZXJ1c2FnZXMgPSAoZm9yICgoYWNjb3VudCwgdmFsdWUpIDwtIHVzYWdlKSB5aWVsZCB2YWx1ZSkgdG9saXN0CiAgICAgIGNhbGN1bGF0ZXVzYWdlKGJpZ2RlY2ltYWwoMCkuYXNpbnN0YW5jZW9mW3RdLCBjb25zdW1lcnVzYWdlcykKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxpYnJhcnkuU2FtcGxlUmVwb3NpdG9yeS5HZW5lcmF0b3JSZXNwb3NpdG9yeQo=</text>
+        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQogIHR5cGUgR2VuZXJhdGlvbkFycmF5ID0gQXJyYXlbVF0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>1584</text>
