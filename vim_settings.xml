@@ -26,6 +26,9 @@
         <mark key="^" line="0" column="18" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1494930858282">
+        <mark key="[" line="55" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/Generic.scala" timestamp="1494325583660">
         <mark key="[" line="5" column="14" />
         <mark key="]" line="5" column="14" />
@@ -864,7 +867,6 @@
         <mark key="^" line="16" column="38" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/allocations.json" timestamp="1494850927857" />
       <file name="$USER_HOME$/repositories/nonacli/nodejs-template/.nvmrc" timestamp="1493110863216">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
