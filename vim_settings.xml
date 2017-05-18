@@ -1093,6 +1093,9 @@
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/matchers/to-be-all-of-type.js" timestamp="1492509186331">
         <mark key="[" line="0" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/template.json" timestamp="1495088205048">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/races/repositories/RaceRepository.js" timestamp="1492426047019">
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="13" />
@@ -1149,11 +1152,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/src/index.js" timestamp="1495086315839">
-        <mark key="[" line="13" column="38" />
-        <mark key="]" line="13" column="37" />
-        <mark key="." line="13" column="37" />
-        <mark key="^" line="13" column="39" />
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/src/index.js" timestamp="1495087761962">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="7" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/TariffRepository.scala" timestamp="1494842374444">
         <mark key="[" line="6" column="12" />
@@ -1276,10 +1279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
