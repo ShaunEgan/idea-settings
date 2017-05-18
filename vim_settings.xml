@@ -668,6 +668,9 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumptionRepository.scala" timestamp="1494842334270">
         <mark key="[" line="6" column="17" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/src/Config.js" timestamp="1495085508460">
+        <mark key="[" line="6" column="37" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Repositories/Node/index.js" timestamp="1493123787726">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="2" column="17" />
@@ -1146,10 +1149,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/src/index.js" timestamp="1493876155045">
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/src/index.js" timestamp="1495086315839">
+        <mark key="[" line="13" column="38" />
+        <mark key="]" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+        <mark key="^" line="13" column="39" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/TariffRepository.scala" timestamp="1494842374444">
         <mark key="[" line="6" column="12" />
@@ -1272,10 +1276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYXRhXD4=</text>
@@ -1290,28 +1294,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3RyZWFtcyA9IHsgc3RyZWFtOiBwcm9jZXNzLnN0ZG91dCB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgCgo=</text>
+        <text encoding="base64">ICBjb25zdCBlc1N0cmVhbSA9IAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQogIHR5cGUgR2VuZXJhdGlvbkFycmF5ID0gQXJyYXlbVF0KCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgCgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQo=</text>
+        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQogIHR5cGUgR2VuZXJhdGlvbkFycmF5ID0gQXJyYXlbVF0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0eXBlIEFjY291bnRBc3NvY2lhdGlvbiA9IE1hcFtBLCBUXQogIHR5cGUgR2VuZXJhdGlvbkFycmF5ID0gQXJyYXlbVF0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>1584</text>
