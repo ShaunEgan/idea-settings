@@ -1096,10 +1096,11 @@
         <mark key="." line="84" column="13" />
         <mark key="^" line="84" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/resources/logback.xml" timestamp="1495176177706">
-        <mark key="[" line="40" column="23" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="40" column="23" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/resources/logback.xml" timestamp="1495177273336">
+        <mark key="[" line="40" column="35" />
+        <mark key="]" line="40" column="38" />
+        <mark key="." line="40" column="38" />
+        <mark key="^" line="40" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/responses/get-generator-data.json" timestamp="1491547055816">
         <mark key="[" line="51" column="2" />
@@ -1278,10 +1279,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>plain</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>plain</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25hbFw+</text>
