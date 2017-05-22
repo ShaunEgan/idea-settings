@@ -678,7 +678,7 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1495441162448">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1495442385325">
         <mark key="[" line="18" column="87" />
         <mark key="]" line="18" column="87" />
         <mark key="." line="18" column="87" />
@@ -940,11 +940,20 @@
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex.json" timestamp="1494330131386">
         <mark key="[" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1495442763938">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="26" column="12" />
+        <mark key="^" line="19" column="17" />
+        <mark key="." line="26" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/practices/functions/get.js" timestamp="1491663750596">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="27" />
         <mark key="^" line="23" column="34" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/library/Allocation/GeneratorAssignerImplSpec.scala" timestamp="1495443309980">
+        <mark key="[" line="16" column="83" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/model.js" timestamp="1491726861185">
         <mark key="[" line="12" column="2" />
@@ -1291,10 +1300,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, Map[LocalDateTime, ])]</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>, Map[LocalDateTime, ])]</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25hbFw+</text>
