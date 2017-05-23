@@ -337,6 +337,12 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1495543486676">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
         <mark key="]" line="104" column="5" />
@@ -425,6 +431,7 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/node_modules/nona-node-logging/dist/index.js" timestamp="1495543987518" />
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493131614955">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="14" column="0" />
@@ -448,6 +455,11 @@
         <mark key="]" line="50" column="28" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="50" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Hermes/HermesClient.scala" timestamp="1494832627052">
         <mark key="[" line="49" column="5" />
@@ -870,6 +882,7 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="22" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/config-spec.js" timestamp="1495543242018" />
       <file name="$USER_HOME$/dev/helios/src/patients/handlers.js" timestamp="1492429366921">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -982,6 +995,12 @@
         <mark key="^" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/ConfigSpec.js" timestamp="1495543179013">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="18" />
+        <mark key="^" line="20" column="31" />
+        <mark key="." line="21" column="21" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="26" column="46" />
@@ -1064,7 +1083,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorCli/build.sbt" />
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/build.sbt" />
       <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/test.php" />
@@ -1164,13 +1182,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
       <jump line="1379" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Consumer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Consumer</text>
+        <text>ptsiRootPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25hbFw+</text>
@@ -1179,34 +1198,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRhcmlmZiBmcm9tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHsqfFByb21pc2UuPHN0cmluZ1tdPn0K</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzdWx0cwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzdWx0cwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0ID0gVGFyaWZmQ29uc3RydWN0b3IoJ3Rlc3QnLCBbXSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHN1cGVyKG5hbWUsIGRhdGEpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbGV2Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IFRhcmlmZiBmcm9tCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHsqfFByb21pc2UuPHN0cmluZ1tdPn0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXR1cm4gcmVzdWx0cwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuL0NsaWVudCcK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>1584</text>
