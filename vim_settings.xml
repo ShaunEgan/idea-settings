@@ -1229,7 +1229,7 @@
         <text encoding="base64">aW1wb3J0IFRhcmlmZiBmcm9tCg==</text>
       </register>
       <register name=":" type="4">
-        <text>1584</text>
+        <text>11</text>
       </register>
     </registers>
     <search>
@@ -1285,6 +1285,7 @@
         <entry encoding="base64">JzwsJz4xNTg0</entry>
         <entry>1584</entry>
         <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
+        <entry>11</entry>
       </history-cmd>
       <history-expr />
       <history-input />
