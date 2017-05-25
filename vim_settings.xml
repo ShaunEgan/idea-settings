@@ -282,6 +282,9 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/index.js" timestamp="1495690657143">
+        <mark key="[" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1494937114322">
         <mark key="[" line="52" column="55" />
         <mark key="]" line="63" column="73" />
@@ -339,11 +342,11 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1495543486676">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1495691543839">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="5" column="33" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
@@ -459,6 +462,9 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/ExtendableError.js" timestamp="1495690425891">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="0" />
@@ -468,6 +474,12 @@
         <mark key="[" line="49" column="5" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1495692067015">
+        <mark key="[" line="14" column="30" />
+        <mark key="]" line="14" column="31" />
+        <mark key="." line="14" column="31" />
+        <mark key="^" line="14" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
         <mark key="[" line="16" column="2" />
@@ -490,6 +502,9 @@
         <mark key="]" line="90" column="83" />
         <mark key="." line="90" column="83" />
         <mark key="^" line="90" column="91" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/InvalidInputError.js" timestamp="1495690490147">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array.json" timestamp="1494307603033">
         <mark key="[" line="15" column="13" />
@@ -519,6 +534,14 @@
         <mark key="]" line="240" column="67" />
         <mark key="^" line="240" column="67" />
         <mark key="." line="240" column="67" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/controllers/MetaController.js" timestamp="1495690769980">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/ControllerProxy.js" timestamp="1495690528100">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/Client/PtsiClientSpec.js" timestamp="1495532153881">
         <mark key="[" line="196" column="56" />
@@ -627,6 +650,12 @@
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
         <mark key="." line="36" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/index.js" timestamp="1495691533464">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="33" />
+        <mark key="^" line="1" column="33" />
+        <mark key="." line="1" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/example/JsonFromFile.scala" timestamp="1494254550919">
         <mark key="[" line="5" column="51" />
@@ -1007,6 +1036,11 @@
         <mark key="]" line="26" column="46" />
         <mark key="." line="26" column="46" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/models/Consumer.js" timestamp="1495692570100">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="3" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/races/repositories/RaceRepository.js" timestamp="1492426047019">
         <mark key="[" line="84" column="13" />
         <mark key="]" line="84" column="13" />
@@ -1041,6 +1075,9 @@
         <mark key="[" line="6" column="15" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/NotFoundError.js" timestamp="1495690432839">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/handlers.js" timestamp="1492431739260">
         <mark key="[" line="0" column="42" />
@@ -1186,11 +1223,11 @@
       <jump line="3" column="0" filename="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>response</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX25hbWUgPSBuYW1lCiAgICB0aGlzLl9kaXNjb3VudCA9IGRpc2NvdW50CiAgICB0aGlzLl9zbGEgPSBzbGEKICAgIHRoaXMuX2V4Y2x1ZGUgPSBleGNsdWRlCiAgICB0aGlzLl9jbG9zZWQgPSBjbG9zZWQKICAgIHRoaXMuX3RvdSA9IHRvdQo=</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text encoding="base64">Z2V0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25hbFw+</text>
@@ -1199,34 +1236,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIGRlcGVuZGVuY2llczogY29uZmlndXJlZCBwYXR0ZXJucyB0byBsb29rIGZvcgogKiByZXF1aXJlbWVudHM6CiAqIDEuIHN0b3JlIG1hdGNoZWQgcGF0dGVybnMKICogMi4gcmV0cmlldmUgbWF0Y2hlZCBwYXR0ZXJucyBmb3Igb3JkZXJpbmcKICogMy4gY2xlYXJpbmcgYWZ0ZXIgb3JkZXJpbmcKICovCgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX25hbWUgPSBuYW1lCiAgICB0aGlzLl9kaXNjb3VudCA9IGRpc2NvdW50CiAgICB0aGlzLl9zbGEgPSBzbGEKICAgIHRoaXMuX2V4Y2x1ZGUgPSBleGNsdWRlCiAgICB0aGlzLl9jbG9zZWQgPSBjbG9zZWQKICAgIHRoaXMuX3RvdSA9IHRvdQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNsYXNzIEl0ZW1DYXJ0IHsKICBjb25zdHJ1Y3Rvcihjb25maWd1cmVkUGF0dGVybnMpIHsKICAgIC8vIGl0ZW1zIHdlIHdhbnQgdG8gbG9vayBmb3IgYW5kIGJ1eSBpZiB3ZSBmaW5kCiAgICB0aGlzLmNvbmZpZ3VyZWRQYXR0ZXJucyA9IGNvbmZpZ3VyZWRQYXR0ZXJucwoKICAgIC8vIGl0ZW1zIHRoYXQgd2UgaGF2ZSBmb3VuZCBhbmQgd2FudCB0byBidXkgbGF0ZXIKICAgIHRoaXMubWF0Y2hlZEl0ZW1zID0gW10KICB9CgogIGFkZElmTWF0Y2hlcyhuZXdJdGVtKSB7CiAgICBpZiAodGhpcy5jb25maWd1cmVkUGF0dGVybnMuaW5kZXhPZihuZXdJdGVtLnBhdHRlcm4pID4gLTEpIHsKICAgICAgdGhpcy5tYXRjaGVkSXRlbXMucHVzaChuZXdJdGVtKQogICAgfQogIH0KCiAgZ2V0SXRlbU9yZGVyKCkgewogICAgcmV0dXJuIHRoaXMubWF0Y2hlZEl0ZW1zCiAgfQp9CgpleHBvcnQgZGVmYXVsdCBJdGVtQ2FydAoKCi8vIHN0YXJ0IHlvdXIgcnVuCmNvbnN0IGNvbmZpZyA9IHsgcGF0dGVybnM6IFsnMjM0MzY0NScsICc1Njc1ODUnLCAnMTIzMTIzMTIzJ10gfQoKY29uc3QgY2FydCA9IG5ldyBJdGVtQ2FydChjb25maWcucGF0dGVybnMpCgovLyBmZXRjaCBhdmFpbGFibGUgc3R1ZmYgZnJvbSBzdGVhbQpjb25zdCByZXNwb25zZSA9IFsKICB7IGlkOiAxLCBwYXR0ZXJuOiAnMjM0MzQ1MzQ2JyB9LAogIHsgaWQ6IDEsIHBhdHRlcm46ICcwMzQ3NTAzNDk4NTA5MzQnIH0sCiAgeyBpZDogMSwgcGF0dGVybjogJzIzNDM0NTM0NicgfSwKICB7IGlkOiAxLCBwYXR0ZXJuOiAnMTIzMTIzMTIzJyB9LCAvLyBzaG91bGQgd29yawogIHsgaWQ6IDEsIHBhdHRlcm46ICc0NTY5ODQ1MDk2ODQnIH0sCiAgeyBpZDogMiwgcGF0dGVybjogJzU2NzU4NScgfSAvLyBzaG91bGQKXQoKcmVzcG9uc2UuZm9yRWFjaChpdGVtID0+IGNhcnQuYWRkSWZNYXRjaGVzKGl0ZW0pKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDUvMjQuCiAqLwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRoaXMucmVzdGlmeSA9IHJlc3RpZnkK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udHJvbGxlclByb3h5ID0gbmV3IENvbnRyb2xsZXJQcm94eShyZXN0aWZ5KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
+        <text encoding="base64">LyoqCiAqIE1hcHMgUFRTSSBlcnJvcnMgdG8gYXBwcm9wcmlhdGUgcmVzdGlmeSBlcnJvcnMuCiAqCiAqIEBwYXJhbSByZXN0aWZ5CiAqIEBwYXJhbSBlcnJvcgogKi8KY29uc3QgbWFwRXJyb3JUb1Jlc3BvbnNlID0gKHJlc3RpZnksIGVycm9yKSA9PiB7CiAgY29uc3QgbWVzc2FnZSA9IGVycm9yLm1lc3NhZ2UgPyBlcnJvci5tZXNzYWdlIDogJycKICBjb25zdCBub3RGb3VuZCA9ICgpID0+IG5ldyByZXN0aWZ5LmVycm9ycy5Ob3RGb3VuZEVycm9yKG1lc3NhZ2UpCiAgY29uc3QgYmFkUmVxdWVzdCA9ICgpID0+IG5ldyByZXN0aWZ5LmVycm9ycy5CYWRSZXF1ZXN0RXJyb3IobWVzc2FnZSkKICBjb25zdCBzZXJ2ZXJFcnJvciA9ICgpID0+IG5ldyByZXN0aWZ5LmVycm9ycy5JbnRlcm5hbFNlcnZlckVycm9yKCkKCiAgaWYgKGVycm9yIGluc3RhbmNlb2YgTm90Rm91bmRFcnJvcikgcmV0dXJuIG5vdEZvdW5kKCkKICBlbHNlIGlmIChlcnJvciBpbnN0YW5jZW9mIEludmFsaWRJbnB1dEVycm9yKSByZXR1cm4gYmFkUmVxdWVzdCgpCgogIHJldHVybiBzZXJ2ZXJFcnJvcigpCn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV2Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihtYXBSZXNwb25zZVRvRm9ybWF0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRhcmlmZiBmcm9tCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgbWFwUmVzcG9uc2VUb0Zvcm1hdCA9IGFwcGx5Rm9ybWF0KHJlcXVlc3QucXVlcnkuZm9ybWF0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>11</text>
