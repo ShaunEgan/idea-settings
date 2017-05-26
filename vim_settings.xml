@@ -895,10 +895,10 @@
         <mark key="." line="76" column="21" />
         <mark key="^" line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1495440977470">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1495789851405">
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="28" column="13" />
+        <mark key="." line="28" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesSampleRepository.scala" timestamp="1493196757811">
         <mark key="[" line="4" column="0" />
@@ -1281,10 +1281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>accounts</text>
+        <text>associations</text>
       </register>
       <register name="-" type="4">
-        <text>accounts</text>
+        <text>associations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcHRpb25hbFw+</text>
