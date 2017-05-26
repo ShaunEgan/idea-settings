@@ -143,6 +143,9 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1495795061539">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1041,6 +1044,9 @@
         <mark key="]" line="6" column="39" />
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495794339419">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1495701146321">
         <mark key="[" line="0" column="0" />
