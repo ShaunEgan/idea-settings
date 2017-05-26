@@ -143,11 +143,10 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1495800365126">
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
-        <mark key="^" line="39" column="62" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1495803479777">
+        <mark key="[" line="73" column="14" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -282,7 +281,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1495780350680">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1495801782360">
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
@@ -483,6 +482,9 @@
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/ExtendableError.js" timestamp="1495690425891">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" timestamp="1495802959273">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="0" />
@@ -527,7 +529,7 @@
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/InvalidInputError.js" timestamp="1495690490147">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1495777962487">
+      <file name="/fragment.java" timestamp="1495802909193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array.json" timestamp="1494307603033">
@@ -1189,9 +1191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/repositories/powerx/simulator/SimulatorLib/src/main/scala/SimulatorLib/factories/HouseFactory.scala" />
-      <jump line="3" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/test.php" />
-      <jump line="9" column="15" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Factories/Elasticsearch/SearchServiceFactory.php" />
       <jump line="4" column="27" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="46" column="56" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="9" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
@@ -1289,46 +1288,49 @@
       <jump line="1585" column="3" filename="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array-large.json" />
       <jump line="3" column="0" filename="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/consumer-accounts.json" />
+      <jump line="105" column="118" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
+      <jump line="50" column="104" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
+      <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TariffRepository</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>TariffRepository</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvcHRpb25hbFw+</text>
+        <text encoding="base64">XDx0b1NlcVw+</text>
       </register>
       <register name="0" type="4">
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAgKiAKICAqIAogICogQHBhcmFtIGdlbmVyYXRpb25SZXBvc2l0b3J5CiAgKiBAdHBhcmFtIFQKICAqLwo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgfS5tYXAoXy50b01hcCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vICAgIEZ1dHVyZS50cmF2ZXJzZShzbG90RGF0YS50b01hcCkgewovLyAgICAgIGNhc2UgKGksIGYpID0+IGYubWFwKChpLCBfKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiBHZXRzIGFsbCBvZiB0aGUgZGF0YSByZXF1aXJlZCBmb3IgYWxsb2NhdGlvbgogICoKICAqIEBwYXJhbSBnZW5lcmF0aW9uUmVwb3NpdG9yeQogICogQHBhcmFtIGNvbnN1bXB0aW9uUmVwb3NpdG9yeQogICogQHBhcmFtIHRhcmlmZlJlcG9zaXRvcnkKICAqIEBwYXJhbSBzbGFSZXBvc2l0b3J5CiAgKiBAcGFyYW0gZGF0ZQogICogQHRwYXJhbSBUCiAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gIHByaXZhdGUgZGVmIGhhbmRsZUVycm9yKGVycm9yOiBUaHJvd2FibGUpID0gewovLyAgICBkZWYgZ2V0U3RhY2tUcmFjZSh0aHJvd2FibGU6IFRocm93YWJsZSkgPSB7Ci8vICAgICAgdmFsIHN0cmluZ1dyaXRlciA9IG5ldyBTdHJpbmdXcml0ZXIoKQovLyAgICAgIHZhbCBwcmludFdyaXRlciA9IG5ldyBQcmludFdyaXRlcihzdHJpbmdXcml0ZXIpCi8vICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZShwcmludFdyaXRlcikKLy8gICAgICBzdHJpbmdXcml0ZXIudG9TdHJpbmcKLy8gICAgfQovLwovLyAgICBMb2dnZXIuZXJyb3IoIk5hbWU6ICIgKyBlcnJvci5nZXRDbGFzcy5nZXROYW1lKQovLyAgICBMb2dnZXIuZXJyb3IoIk1lc3NhZ2U6ICIgKyBlcnJvci5nZXRNZXNzYWdlKQovLyAgICBMb2dnZXIuZXJyb3IoIkNhdXNlOiAiICsgZXJyb3IuZ2V0Q2F1c2UpCi8vICAgIExvZ2dlci5lcnJvcigiU3RhY2sgdHJhY2U6ICIgKyBnZXRTdGFja1RyYWNlKGVycm9yKSkKLy8gIH0K</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLlNsb3REYXRhCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgY2FzZSBGYWlsdXJlKGV4Y2VwdGlvbikgPT4gaGFuZGxlRXJyb3IoZXhjZXB0aW9uKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LCBzbGFSZXBvc2l0b3J5LCBkYXRlKS5kYXRhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNsb3REYXRhIDwtIGdldFNsb3REYXRhKHNsb3QpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAgKiAKICAqIAogICogQHBhcmFtIGdlbmVyYXRpb25SZXBvc2l0b3J5CiAgKiBAdHBhcmFtIFQKICAqLwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1338,9 +1340,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvcHRpb25hbFw+</last-search>
+      <last-search encoding="base64">XDx0b1NlcVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvcHRpb25hbFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0b1NlcVw+</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
@@ -1368,6 +1370,7 @@
         <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25hbFw+</entry>
+        <entry encoding="base64">XDx0b1NlcVw+</entry>
       </history-search>
       <history-cmd>
         <entry>18</entry>
