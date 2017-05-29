@@ -27,11 +27,11 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AllocationService.scala" timestamp="1494938661516">
-        <mark key="[" line="4" column="76" />
-        <mark key="]" line="4" column="76" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="76" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AllocationService.scala" timestamp="1496041612743">
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.json" timestamp="1491566848695">
         <mark key="[" line="0" column="1" />
@@ -143,10 +143,10 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1495803479777">
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496041849514">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -281,9 +281,10 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1495801782360">
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496041744997">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/decorators/controller.js" timestamp="1492422662245">
         <mark key="[" line="25" column="70" />
@@ -300,6 +301,7 @@
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/index.js" timestamp="1495690657143">
         <mark key="[" line="1" column="13" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/EnergyAllocationServiceSpec.scala" timestamp="1496041879999" />
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="33" column="0" />
@@ -403,10 +405,11 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1494937592372">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/TimeSlotAllocator.scala" timestamp="1496041189697">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="27" />
+        <mark key="." line="11" column="27" />
+        <mark key="^" line="11" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
@@ -1294,10 +1297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoZGF0YSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>date, 30</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1306,31 +1309,31 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoZGF0YSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgfS5tYXAoXy50b01hcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8vICAgIEZ1dHVyZS50cmF2ZXJzZShzbG90RGF0YS50b01hcCkgewovLyAgICAgIGNhc2UgKGksIGYpID0+IGYubWFwKChpLCBfKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBHZXRzIGFsbCBvZiB0aGUgZGF0YSByZXF1aXJlZCBmb3IgYWxsb2NhdGlvbgogICoKICAqIEBwYXJhbSBnZW5lcmF0aW9uUmVwb3NpdG9yeQogICogQHBhcmFtIGNvbnN1bXB0aW9uUmVwb3NpdG9yeQogICogQHBhcmFtIHRhcmlmZlJlcG9zaXRvcnkKICAqIEBwYXJhbSBzbGFSZXBvc2l0b3J5CiAgKiBAcGFyYW0gZGF0ZQogICogQHRwYXJhbSBUCiAgKi8K</text>
+        <text encoding="base64">Ly8gIC8qKgovLyAgICAqIE1hcHMgdGhlIHJlcG9zaXRvcnkgZ2VuZXJhdGlvbiBzZXF1ZW5jZSB0byBhbiBhcnJheSBvZiBnZW5lcmF0aW9uIHZhbHVlcwovLyAgICAqCi8vICAgICogQHBhcmFtIGdlbmVyYXRpb24gU2VxdWVuY2UgZnJvbSB0aGUgZ2VuZXJhdGlvbiByZXBvc2l0b3J5Ci8vICAgICogQHJldHVybgovLyAgICAqLwovLyAgcHJpdmF0ZSBkZWYgZ2VuZXJhdGlvblNlcVRvQXJyYXkoZ2VuZXJhdGlvbjogU2VxW0FjY291bnRTYW1wbGVbQmlnRGVjaW1hbF1dKSA9IGdlbmVyYXRpb24ubWFwKF8uc2FtcGxlKS50b0FycmF5CgovLyAgLyoqCi8vICAgICogTWFwcyBhIHNhbXBsZSBzZXF1ZW5jZSB0byBhIE1hcCBvZiBBY2NvdW50SWQgLT4gdmFsdWUKLy8gICAgKgovLyAgICAqIEBwYXJhbSBzYW1wbGVzIFNlcXVlbmNlIGZyb20gdGhlIHJlcG9zaXRvcnkKLy8gICAgKiBAcmV0dXJuCi8vICAgICovCi8vICBwcml2YXRlIGRlZiBzYW1wbGVTZXFUb01hcChzYW1wbGVzOiBTZXFbQWNjb3VudFNhbXBsZVtCaWdEZWNpbWFsXV0pID0gewovLyAgICBzYW1wbGVzLm1hcCh7IHNhbXBsZSA9PiBzYW1wbGUuYWNjb3VudElkIC0+IHNhbXBsZS5zYW1wbGUgfSkudG9NYXAKLy8gIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2VzLlNsb3REYXRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LCBzbGFSZXBvc2l0b3J5LCBkYXRlKS5kYXRhCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gIC8qKgovLyAgICAqIEFsbG9jYXRlcyBlbmVyZ3kgZm9yIGEgc2luZ2xlIHRpbWUgc2xvdAovLyAgICAqCi8vICAgICogQHBhcmFtIHNsb3QgVGhlIHRpbWUgc2xvdCB0byBhbGxvY2F0ZQovLyAgICAqIEByZXR1cm4KLy8gICAgKi8KLy8gIHByaXZhdGUgZGVmIGFsbG9jYXRlU2xvdChzbG90OiBMb2NhbERhdGVUaW1lKSA9IHsKLy8gICAgZm9yIHsKLy8gICAgICBnZW5lcmF0aW9uIDwtIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChnZW5lcmF0aW9uU2VxVG9BcnJheSkKLy8gICAgICB1c2FnZSA8LSB1c2FnZVJlcG9zaXRvcnkuYWNjb3VudFNhbXBsZXMoc2xvdCkubWFwKHNhbXBsZVNlcVRvTWFwKQovLyAgICAgIHRhcmlmZnMgPC0gdGFyaWZmUmVwb3NpdG9yeS5hY2NvdW50U2FtcGxlcyhzbG90KS5tYXAoc2FtcGxlU2VxVG9NYXApCi8vICAgICAgc2xhcyA8LSBzbGFSZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChzYW1wbGVTZXFUb01hcCkKLy8gICAgfSB5aWVsZCB7Ci8vICAgICAgdGltZVNsb3RBbGxvY2F0b3IuYWxsb2NhdGUoZ2VuZXJhdGlvbiwgdXNhZ2UsIHRhcmlmZnMsIHNsYXMpCi8vICAgIH0KLy8gIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNsb3REYXRhIDwtIGdldFNsb3REYXRhKHNsb3QpCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gZm9yIHsKLy8gICAgICBmb3IgKHNsb3QgPC0gY29udGV4dERhdGEpIHlpZWxkIHNsb3QgLT4KLy8gICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiAKICAqIAogICogQHBhcmFtIGdlbmVyYXRpb25SZXBvc2l0b3J5CiAgKiBAdHBhcmFtIFQKICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
