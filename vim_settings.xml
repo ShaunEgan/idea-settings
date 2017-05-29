@@ -44,6 +44,11 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/test.js" timestamp="1496080993096">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple-array.json" timestamp="1494257108499">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -228,6 +233,11 @@
         <mark key="]" line="46" column="12" />
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/PatternMatcher.js" timestamp="1495604571743">
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="6" />
+        <mark key="." line="29" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/services/PtsiServiceSpec.js" timestamp="1495529537418">
         <mark key="[" line="101" column="10" />
@@ -448,6 +458,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/controllers/ConsumerControllerSpec.js" timestamp="1495701453448">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493131614955">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="14" column="0" />
@@ -482,6 +497,11 @@
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Hermes/HermesClient.scala" timestamp="1495777339709">
+        <mark key="[" line="52" column="13" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1495700568213">
         <mark key="[" line="4" column="29" />
@@ -883,6 +903,12 @@
         <mark key="]" line="14" column="7" />
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496080050195">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="5" column="44" />
+        <mark key="^" line="5" column="44" />
+        <mark key="." line="5" column="44" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/functions/create.js" timestamp="1491663802731">
         <mark key="[" line="42" column="8" />
@@ -1291,11 +1317,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Li</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Li</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1304,34 +1330,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAqIEB0cGFyYW0gVCBUaGUgdW5kZXJseWluZyBudW1iZXIgc3lzdGVtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAqIEB0cGFyYW0gVCBUaGUgdW5kZXJseWluZyBudW1iZXIgc3lzdGVtCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZGlmZmVyZW5jZSA9IE1hdGguYWJzKHNvcnRlZFtpXSAtIHNvcnRlZFtpIC0gMV0pCiAgICAgIC8vIGlmIChzbWFsbGVzdCA+IGRpZmZlcmVuY2UpIHNtYWxsZXN0ID0gZGlmZmVyZW5jZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAqCiAgKiBAdHBhcmFtIFQK</text>
+        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSBkaWZmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICogQHRwYXJhbSBUIFRoZSB1bmRlcmx5aW5nIG51bWJlciBzeXN0ZW0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAqCg==</text>
+        <text encoding="base64">ICBzdGF0aWMgZGlmZihsZWZ0LCByaWdodCkgewogICAgCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAqIEB0cGFyYW0gQSBUaGUgdHlwZSBzcGVjaWZ5aW5nIGFjY291bnQgaWRlbnRpZmllcnMuCiAgKiBAdHBhcmFtIFQgQSB0eXBlIHNwZWNpZnlpbmcgdGhlIE51bWVyaWMgYmFja2luZyByZXByZXNlbnRpbmcgdXNhZ2UsIGdlbmVyYXRpb24sIHRhcmlmZnMgYW5kIGFsbG9jYXRpb25zLgo=</text>
+        <text encoding="base64">Y2xhc3MgVGVzdCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqCiAgKiBAdHBhcmFtIEEgVGhlIHR5cGUgc3BlY2lmeWluZyBhY2NvdW50IGlkZW50aWZpZXJzCiAgKiBAdHBhcmFtIFQgQSB0eXBlIHNwZWNpZnlpbmcgdGhlIE51bWVyaWMgYmFja2luZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FzZSBjbGFzcyBHZW5lcmF0b3IoaWQ6IEFjY291bnRJZCwgb3V0cHV0OiBUKShpbXBsaWNpdCBudW1lcmljOiBOdW1lcmljW1RdKSB7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc29ydGVkID1bMSwgMiwgM10uc29ydDsKY29uc3QgbSA9IGEoc29ydGVkW2k9MF0tc29ydGVkWzFdKTsKZm9yKHZhbCBpID0gMjsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykge209KHY94oCM4oCLYShzb3J0ZWRbaV0tc29ydGVkW2ktMV0pKTxtP3Y64oCM4oCLbTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAqIEB0cGFyYW0gQSB0eXBlIG9mIHRoZSBhY2NvdW50IGlkZW50aWZpY2F0aW9ucwogICogQHRwYXJhbSBUIHR5cGUgb2YgdGhlIG51bWVyaWNhbCBiYWNraW5nIGZvciBjYWxjdWxhdGlvbnMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
