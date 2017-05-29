@@ -683,11 +683,11 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1495442385325">
-        <mark key="[" line="18" column="87" />
-        <mark key="]" line="18" column="87" />
-        <mark key="." line="18" column="87" />
-        <mark key="^" line="18" column="110" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1496043525208">
+        <mark key="[" line="17" column="79" />
+        <mark key="]" line="19" column="87" />
+        <mark key="." line="19" column="87" />
+        <mark key="^" line="19" column="110" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
         <mark key="[" line="36" column="5" />
@@ -906,10 +906,11 @@
         <mark key="." line="76" column="21" />
         <mark key="^" line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1495789851405">
-        <mark key="[" line="28" column="13" />
-        <mark key="]" line="28" column="13" />
-        <mark key="." line="28" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1496044088110">
+        <mark key="[" line="46" column="5" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesSampleRepository.scala" timestamp="1493196757811">
         <mark key="[" line="4" column="0" />
@@ -1296,11 +1297,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoZGF0YSkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiBNYXBbTG9jYWxEYXRlVGltZSwgKE1hcFtBY2NvdW50SWQsIFNlcVsoQWNjb3VudElkLCBCaWdEZWNpbWFsKV1dLCBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXSldIA==</text>
       </register>
       <register name="-" type="4">
-        <text>date, 30</text>
+        <text encoding="base64">OiBNYXBbTG9jYWxEYXRlVGltZSwgKE1hcFtBY2NvdW50SWQsIFNlcVsoQWNjb3VudElkLCBCaWdEZWNpbWFsKV1dLCBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXSldIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
