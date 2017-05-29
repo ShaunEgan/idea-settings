@@ -683,10 +683,10 @@
         <mark key="^" line="21" column="29" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1496043525208">
-        <mark key="[" line="17" column="79" />
-        <mark key="]" line="19" column="87" />
-        <mark key="." line="19" column="87" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/AssignmentService.scala" timestamp="1496045157184">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
         <mark key="^" line="19" column="110" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
@@ -764,7 +764,7 @@
         <mark key="^" line="51" column="17" />
         <mark key="." line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/GeneratorAssigner.scala" timestamp="1495440313368">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/GeneratorAssigner.scala" timestamp="1496045400394">
         <mark key="[" line="7" column="80" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="49" />
@@ -906,11 +906,11 @@
         <mark key="." line="76" column="21" />
         <mark key="^" line="76" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1496044088110">
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="37" column="22" />
-        <mark key="." line="37" column="22" />
-        <mark key="^" line="37" column="22" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/EnergyAssignmentService.scala" timestamp="1496045444500">
+        <mark key="[" line="26" column="121" />
+        <mark key="]" line="26" column="110" />
+        <mark key="." line="26" column="113" />
+        <mark key="^" line="26" column="108" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesSampleRepository.scala" timestamp="1493196757811">
         <mark key="[" line="4" column="0" />
@@ -1298,10 +1298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiBNYXBbTG9jYWxEYXRlVGltZSwgKE1hcFtBY2NvdW50SWQsIFNlcVsoQWNjb3VudElkLCBCaWdEZWNpbWFsKV1dLCBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXSldIA==</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiBNYXBbTG9jYWxEYXRlVGltZSwgKE1hcFtBY2NvdW50SWQsIFNlcVsoQWNjb3VudElkLCBCaWdEZWNpbWFsKV1dLCBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXSldIA==</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1310,28 +1310,28 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoZGF0YSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gIHByaXZhdGUgZGVmIGFzc2lnblNsb3Qoc2xvdDogTG9jYWxEYXRlVGltZSwgYWxsb2NhdGlvbnM6IE1hcFtBY2NvdW50SWQsIEJpZ0RlY2ltYWxdKTogRnV0dXJlWyhnZW5lcmF0aW9uQXNzaWduZXIuQ29uc3VtZXJHZW5lcmF0b3JBc3NpZ25tZW50LCBnZW5lcmF0aW9uQXNzaWduZXIuQWNjb3VudEFzc29jaWF0aW9uKV0gPSB7Ci8vICAgIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpCi8vICAgICAgLm1hcCh0b0FjY291bnRBc3NvY2lhdGlvbnMpCi8vICAgICAgLm1hcCB7IGdlbmVyYXRpb24gPT4KLy8gICAgICAgIGdlbmVyYXRpb25Bc3NpZ25lci5hc3NpZ24oYWxsb2NhdGlvbnMsIGdlbmVyYXRpb24pCi8vICAgICAgfQovLyAgfQoKLy8gIHByaXZhdGUgZGVmIGFzc2lnblNsb3QoYWxsb2NhdGlvbjogTWFwW0FjY291bnRJZCwgQmlnRGVjaW1hbF0sIGdlbmVyYXRpb246IE1hcFtBY2NvdW50SWQsIEJpZ0RlY2ltYWxdKTogKGdlbmVyYXRpb25Bc3NpZ25lci5Db25zdW1lckdlbmVyYXRvckFzc2lnbm1lbnQsIGdlbmVyYXRpb25Bc3NpZ25lci5BY2NvdW50QXNzb2NpYXRpb24pID0gewovLyAgICBnZW5lcmF0aW9uQXNzaWduZXIuYXNzaWduKGFsbG9jYXRpb24sIGdlbmVyYXRpb24pCi8vICB9CgovLyAgcHJpdmF0ZSBkZWYgdG9BY2NvdW50QXNzb2NpYXRpb25zKHNhbXBsZXM6IExpc3RbQWNjb3VudFNhbXBsZVtCaWdEZWNpbWFsXV0pOiBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXSA9IHsKLy8gICAgdmFsIGFzc29jaWF0ZWQgPSBmb3IgKHNhbXBsZSA8LSBzYW1wbGVzKSB5aWVsZCBzYW1wbGUuYWNjb3VudElkIC0+IHNhbXBsZS5zYW1wbGUKLy8KLy8gICAgYXNzb2NpYXRlZC50b01hcAovLyAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBhc3NpZ25tZW50cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gIC8qKgovLyAgICAqIE1hcHMgdGhlIHJlcG9zaXRvcnkgZ2VuZXJhdGlvbiBzZXF1ZW5jZSB0byBhbiBhcnJheSBvZiBnZW5lcmF0aW9uIHZhbHVlcwovLyAgICAqCi8vICAgICogQHBhcmFtIGdlbmVyYXRpb24gU2VxdWVuY2UgZnJvbSB0aGUgZ2VuZXJhdGlvbiByZXBvc2l0b3J5Ci8vICAgICogQHJldHVybgovLyAgICAqLwovLyAgcHJpdmF0ZSBkZWYgZ2VuZXJhdGlvblNlcVRvQXJyYXkoZ2VuZXJhdGlvbjogU2VxW0FjY291bnRTYW1wbGVbQmlnRGVjaW1hbF1dKSA9IGdlbmVyYXRpb24ubWFwKF8uc2FtcGxlKS50b0FycmF5CgovLyAgLyoqCi8vICAgICogTWFwcyBhIHNhbXBsZSBzZXF1ZW5jZSB0byBhIE1hcCBvZiBBY2NvdW50SWQgLT4gdmFsdWUKLy8gICAgKgovLyAgICAqIEBwYXJhbSBzYW1wbGVzIFNlcXVlbmNlIGZyb20gdGhlIHJlcG9zaXRvcnkKLy8gICAgKiBAcmV0dXJuCi8vICAgICovCi8vICBwcml2YXRlIGRlZiBzYW1wbGVTZXFUb01hcChzYW1wbGVzOiBTZXFbQWNjb3VudFNhbXBsZVtCaWdEZWNpbWFsXV0pID0gewovLyAgICBzYW1wbGVzLm1hcCh7IHNhbXBsZSA9PiBzYW1wbGUuYWNjb3VudElkIC0+IHNhbXBsZS5zYW1wbGUgfSkudG9NYXAKLy8gIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIC8qKgovLyAgICAqIEFsbG9jYXRlcyBlbmVyZ3kgZm9yIGEgc2luZ2xlIHRpbWUgc2xvdAovLyAgICAqCi8vICAgICogQHBhcmFtIHNsb3QgVGhlIHRpbWUgc2xvdCB0byBhbGxvY2F0ZQovLyAgICAqIEByZXR1cm4KLy8gICAgKi8KLy8gIHByaXZhdGUgZGVmIGFsbG9jYXRlU2xvdChzbG90OiBMb2NhbERhdGVUaW1lKSA9IHsKLy8gICAgZm9yIHsKLy8gICAgICBnZW5lcmF0aW9uIDwtIGdlbmVyYXRpb25SZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChnZW5lcmF0aW9uU2VxVG9BcnJheSkKLy8gICAgICB1c2FnZSA8LSB1c2FnZVJlcG9zaXRvcnkuYWNjb3VudFNhbXBsZXMoc2xvdCkubWFwKHNhbXBsZVNlcVRvTWFwKQovLyAgICAgIHRhcmlmZnMgPC0gdGFyaWZmUmVwb3NpdG9yeS5hY2NvdW50U2FtcGxlcyhzbG90KS5tYXAoc2FtcGxlU2VxVG9NYXApCi8vICAgICAgc2xhcyA8LSBzbGFSZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChzYW1wbGVTZXFUb01hcCkKLy8gICAgfSB5aWVsZCB7Ci8vICAgICAgdGltZVNsb3RBbGxvY2F0b3IuYWxsb2NhdGUoZ2VuZXJhdGlvbiwgdXNhZ2UsIHRhcmlmZnMsIHNsYXMpCi8vICAgIH0KLy8gIH0K</text>
+        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBhc3NpZ24oYWxsb2NhdGlvbnM6IE1hcFtMb2NhbERhdGVUaW1lLCBNYXBbQWNjb3VudElkLCBCaWdEZWNpbWFsXV0pID0gewovLwovLyAgICB2YWwgYXNzaWdubWVudHMgPSBmb3IgewovLyAgICAgIChzbG90LCBhbGxvY2F0aW9uKSA8LSBhbGxvY2F0aW9ucwovLyAgICB9IHlpZWxkIGFzc2lnblNsb3Qoc2xvdCwgYWxsb2NhdGlvbikubWFwKHNsb3QgLT4gXykKLy8KLy8gICAgRnV0dXJlLnNlcXVlbmNlKGFzc2lnbm1lbnRzKQovLyAgICAgIC5tYXAoXy50b01hcCkKLy8gIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gZm9yIHsKLy8gICAgICBmb3IgKHNsb3QgPC0gY29udGV4dERhdGEpIHlpZWxkIHNsb3QgLT4KLy8gICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGFsbG9jYXRpb25zID0gYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoZGF0YSkK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1441,6 +1441,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
