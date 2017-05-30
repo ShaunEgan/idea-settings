@@ -44,12 +44,7 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/test.js" timestamp="1496129449313">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="39" />
-        <mark key="." line="25" column="39" />
-        <mark key="^" line="25" column="37" />
-      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/test.js" timestamp="1496145130028" />
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple-array.json" timestamp="1494257108499">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
@@ -873,11 +868,11 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496138582272">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="2" />
-        <mark key="^" line="5" column="2" />
-        <mark key="." line="5" column="2" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496145118610">
+        <mark key="[" line="9" column="2" />
+        <mark key="]" line="9" column="3" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/functions/create.js" timestamp="1491663802731">
         <mark key="[" line="42" column="8" />
@@ -1281,10 +1276,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>initialDifference</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>initialDifference</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1299,28 +1294,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
+        <text encoding="base64">CiAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2l0ID0gcHVwcGllcyA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsKICBjb25zb2xlLmxvZyhwdXBwaWVzKQogIAogIHJlc29sdmUocHVwcGllcykKfSkKClByb21pc2UucmVzb2x2ZSgnYW5iJykKICAudGhlbihsb2dpdCkKICAudGhlbihsb2dpdCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBQcm9taXNlLnJlc29sdmUocHVwcGllcykK</text>
+        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
