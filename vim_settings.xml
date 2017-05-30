@@ -304,9 +304,6 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/index.js" timestamp="1495690657143">
-        <mark key="[" line="1" column="13" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="33" column="0" />
@@ -369,6 +366,9 @@
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1496121043299">
+        <mark key="y" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
@@ -487,12 +487,6 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="50" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/ExtendableError.js" timestamp="1495690425891">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" timestamp="1495802959273">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="0" />
@@ -508,9 +502,6 @@
         <mark key="]" line="15" column="4" />
         <mark key="." line="15" column="4" />
         <mark key="^" line="15" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1495700474141">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
         <mark key="[" line="16" column="2" />
@@ -534,20 +525,11 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/InvalidInputError.js" timestamp="1495690490147">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1495802909193">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array.json" timestamp="1494307603033">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="13" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1495714078541">
-        <mark key="[" line="11" column="47" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -572,9 +554,6 @@
         <mark key="^" line="240" column="67" />
         <mark key="." line="240" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/controllers/MetaController.js" timestamp="1495690769980">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1495699721401">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -590,9 +569,6 @@
         <mark key="]" line="196" column="56" />
         <mark key="^" line="196" column="81" />
         <mark key="." line="196" column="56" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1495716710212">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Services/SearchService.php" timestamp="1493099394125">
         <mark key="[" line="44" column="95" />
@@ -638,9 +614,6 @@
         <mark key="]" line="100" column="0" />
         <mark key="^" line="53" column="25" />
         <mark key="." line="100" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/README.md" timestamp="1495700034682">
-        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/service/GlaucomaScoreRepository.js" timestamp="1494759243600">
         <mark key="[" line="6" column="0" />
@@ -791,9 +764,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="39" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/Models/ConsumerResponse.scala" timestamp="1495714624359">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
@@ -1097,9 +1067,6 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1495713549742">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/index-spec.js" timestamp="1491911959513">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="17" column="58" />
@@ -1169,9 +1136,6 @@
         <mark key="[" line="22" column="82" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/errors/NotFoundError.js" timestamp="1495690432839">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/handlers.js" timestamp="1492431739260">
         <mark key="[" line="0" column="42" />
@@ -1318,10 +1282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2l0ID0gcHVwcGllcyA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsKICBjb25zb2xlLmxvZyhwdXBwaWVzKQogIAogIHJlc29sdmUocHVwcGllcykKfSkKClByb21pc2UucmVzb2x2ZSgnYW5iJykKICAudGhlbihsb2dpdCkKICAudGhlbihsb2dpdCkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1330,31 +1294,31 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2l0ID0gcHVwcGllcyA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsKICBjb25zb2xlLmxvZyhwdXBwaWVzKQogIAogIHJlc29sdmUocHVwcGllcykKfSkKClByb21pc2UucmVzb2x2ZSgnYW5iJykKICAudGhlbihsb2dpdCkKICAudGhlbihsb2dpdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3QgZGlmZmVyZW5jZSA9IE1hdGguYWJzKHNvcnRlZFtpXSAtIHNvcnRlZFtpIC0gMV0pCiAgICAgIC8vIGlmIChzbWFsbGVzdCA+IGRpZmZlcmVuY2UpIHNtYWxsZXN0ID0gZGlmZmVyZW5jZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSBkaWZmCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBQcm9taXNlLnJlc29sdmUocHVwcGllcykK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGlmZihsZWZ0LCByaWdodCkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgVGVzdCB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">bmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gcmVzb2x2ZSgnYW5iJykpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3Qgc29ydGVkID1bMSwgMiwgM10uc29ydDsKY29uc3QgbSA9IGEoc29ydGVkW2k9MF0tc29ydGVkWzFdKTsKZm9yKHZhbCBpID0gMjsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykge209KHY94oCM4oCLYShzb3J0ZWRbaV0tc29ydGVkW2ktMV0pKTxtP3Y64oCM4oCLbTsK</text>
+        <text encoding="base64">Y29uc3Qgc29tZWZ1bmMgPSAoY2FsbGJhY2spID0+IHsKICBjYWxsYmFjaygnb2Ntc29uJykKfQoKCgoKY29uc3QgZG9Tb21ldGhpbmcgPSAoaGVycGRlcnApID0+IHsKICBpZiAobXlsaXR0bGVwb255KSBjb25zb2xlLmVycm9yKG15bGl0dGxlcG9ueSkKICBjb25zb2xlLmxvZyhoZXJwZGVycCkKfQoKCnNvbWVmdW5jKCdsb3ZlIG1lIHBsZWFzZSEnLCBkb1NvbWV0aGluZykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
