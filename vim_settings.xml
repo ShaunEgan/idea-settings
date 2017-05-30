@@ -44,7 +44,12 @@
         <mark key="^" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/test.js" timestamp="1496145130028" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/test.js" timestamp="1496151666797">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple-array.json" timestamp="1494257108499">
         <mark key="[" line="7" column="16" />
         <mark key="]" line="7" column="16" />
