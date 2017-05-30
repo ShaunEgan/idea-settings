@@ -300,6 +300,7 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/tariffs.json" timestamp="1496137758211" />
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="33" column="0" />
@@ -454,6 +455,12 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/controllers/ConsumerControllerSpec.js" timestamp="1496139539478">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="36" column="4" />
+        <mark key="." line="36" column="4" />
+        <mark key="^" line="42" column="68" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493131614955">
         <mark key="[" line="18" column="31" />
         <mark key="]" line="14" column="0" />
@@ -483,11 +490,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1495700568213">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="15" column="4" />
-        <mark key="." line="15" column="4" />
-        <mark key="^" line="15" column="4" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496139246571">
+        <mark key="[" line="20" column="36" />
+        <mark key="]" line="20" column="36" />
+        <mark key="." line="20" column="36" />
+        <mark key="^" line="20" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
         <mark key="[" line="16" column="2" />
@@ -540,10 +547,10 @@
         <mark key="^" line="240" column="67" />
         <mark key="." line="240" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1495699721401">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496138338220">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/ControllerProxy.js" timestamp="1495690528100">
         <mark key="[" line="0" column="38" />
@@ -734,6 +741,12 @@
         <mark key="^" line="6" column="51" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/consumer-accounts.json" timestamp="1496137909900">
+        <mark key="[" line="263" column="11" />
+        <mark key="]" line="263" column="14" />
+        <mark key="." line="263" column="14" />
+        <mark key="^" line="263" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1495531849532">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="130" column="0" />
@@ -860,11 +873,11 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496080050195">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496138582272">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="^" line="5" column="2" />
+        <mark key="." line="5" column="2" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/patients/functions/create.js" timestamp="1491663802731">
         <mark key="[" line="42" column="8" />
@@ -931,8 +944,8 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="22" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/services/ConsumerService.js" timestamp="1495699764547">
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/services/ConsumerService.js" timestamp="1496138305884">
+        <mark key="[" line="11" column="15" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
         <mark key="^" line="10" column="4" />
@@ -1035,7 +1048,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1496128952588">
+      <file name="/JavaScript Console" timestamp="1496138809173">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1268,10 +1281,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1286,28 +1299,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmNvbnN0IGxvZ2l0ID0gcHVwcGllcyA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsKICBjb25zb2xlLmxvZyhwdXBwaWVzKQogIAogIHJlc29sdmUocHVwcGllcykKfSkKClByb21pc2UucmVzb2x2ZSgnYW5iJykKICAudGhlbihsb2dpdCkKICAudGhlbihsb2dpdCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">CmNvbnN0IGxvZ2l0ID0gcHVwcGllcyA9PiBuZXcgUHJvbWlzZSgocmVzb2x2ZSxyZWplY3QpID0+IHsKICBjb25zb2xlLmxvZyhwdXBwaWVzKQogIAogIHJlc29sdmUocHVwcGllcykKfSkKClByb21pc2UucmVzb2x2ZSgnYW5iJykKICAudGhlbihsb2dpdCkKICAudGhlbihsb2dpdCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBQcm9taXNlLnJlc29sdmUocHVwcGllcykK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQcm9taXNlLnJlc29sdmUocHVwcGllcykK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
