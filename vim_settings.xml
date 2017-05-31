@@ -154,17 +154,17 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496216837290">
-        <mark key="[" line="92" column="45" />
-        <mark key="]" line="98" column="51" />
-        <mark key="." line="98" column="51" />
-        <mark key="^" line="98" column="51" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496218112410">
+        <mark key="[" line="74" column="44" />
+        <mark key="]" line="74" column="44" />
+        <mark key="." line="74" column="44" />
+        <mark key="^" line="74" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496217314005">
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496217812053">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="13" column="76" />
+        <mark key="." line="13" column="76" />
+        <mark key="^" line="13" column="76" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -318,8 +318,8 @@
         <mark key="^" line="54" column="27" />
         <mark key="." line="54" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/RequestImplicits.scala" timestamp="1495713916806">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/RequestImplicits.scala" timestamp="1496217638034">
+        <mark key="[" line="18" column="117" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="25" />
@@ -529,11 +529,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496217224536">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="16" column="27" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496217625940">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="34" />
+        <mark key="." line="17" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -1077,10 +1077,10 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1496217248703">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1496217587332">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
         <mark key="^" line="16" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/index-spec.js" timestamp="1491911959513">
@@ -1095,11 +1095,11 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountRepository.scala" timestamp="1495715316172">
-        <mark key="[" line="9" column="51" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountRepository.scala" timestamp="1496217761563">
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="11" column="45" />
+        <mark key="." line="11" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
@@ -1298,10 +1298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>consumerAccount</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>consumerAccount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1310,34 +1310,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGZyb20gVGhlIHN0YXJ0IGRhdGUKICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHMoZnJvbTogTG9jYWxEYXRlLCB0bzogTG9jYWxEYXRlKTogRnV0dXJlW0pzVmFsdWVdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
+        <text encoding="base64">CiAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1350,7 +1350,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
