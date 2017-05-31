@@ -154,11 +154,11 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496218112410">
-        <mark key="[" line="74" column="44" />
-        <mark key="]" line="74" column="44" />
-        <mark key="." line="74" column="44" />
-        <mark key="^" line="74" column="46" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496218780227">
+        <mark key="[" line="76" column="35" />
+        <mark key="]" line="76" column="35" />
+        <mark key="." line="76" column="35" />
+        <mark key="^" line="75" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496217812053">
         <mark key="[" line="9" column="52" />
@@ -212,7 +212,7 @@
         <mark key="]" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/services/ConsumerServiceSpec.js" timestamp="1495701390815">
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/services/ConsumerServiceSpec.js" timestamp="1496219252671">
         <mark key="[" line="0" column="68" />
         <mark key="]" line="0" column="68" />
         <mark key="^" line="0" column="83" />
@@ -460,11 +460,11 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/controllers/ConsumerControllerSpec.js" timestamp="1496139539478">
-        <mark key="[" line="36" column="4" />
-        <mark key="]" line="36" column="4" />
-        <mark key="." line="36" column="4" />
-        <mark key="^" line="42" column="68" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/controllers/ConsumerControllerSpec.js" timestamp="1496220076486">
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="67" />
+        <mark key="." line="42" column="67" />
+        <mark key="^" line="42" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/NodeRepository/index.js" timestamp="1493131614955">
         <mark key="[" line="18" column="31" />
@@ -495,11 +495,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496139246571">
-        <mark key="[" line="20" column="36" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="34" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496220062367">
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="30" />
+        <mark key="^" line="22" column="30" />
+        <mark key="." line="22" column="30" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
         <mark key="[" line="16" column="2" />
@@ -558,10 +558,10 @@
         <mark key="^" line="240" column="67" />
         <mark key="." line="240" column="67" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496138338220">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496218917315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/ControllerProxy.js" timestamp="1495690528100">
         <mark key="[" line="0" column="38" />
@@ -884,7 +884,7 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="14" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496145118610">
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/TestSpec.js" timestamp="1496219225620">
         <mark key="[" line="9" column="2" />
         <mark key="]" line="9" column="3" />
         <mark key="^" line="9" column="2" />
@@ -1183,6 +1183,12 @@
         <mark key="^" line="6" column="6" />
         <mark key="." line="6" column="6" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/spec/unit/Resources/Consumers/repositories/ConsumerJsonRepositorySpec.js" timestamp="1496219543057">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="57" column="23" />
+        <mark key="^" line="57" column="23" />
+        <mark key="." line="57" column="23" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple.json" timestamp="1494253864196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -1298,10 +1304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>consumerAccount</text>
+        <text>undefined</text>
       </register>
       <register name="-" type="4">
-        <text>consumerAccount</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1310,34 +1316,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIGZyb20gVGhlIHN0YXJ0IGRhdGUKICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHMoZnJvbTogTG9jYWxEYXRlLCB0bzogTG9jYWxEYXRlKTogRnV0dXJlW0pzVmFsdWVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgeyB0b3UgfSA9IHJlcXVlc3QucXVlcnkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmVzb2x2ZSh0b3UgPyBkb3NvbWV0aGluZyA6IGNvbnN1bWVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzb2x2ZSh0b3UgPyBjb25zdW1lcnMuZmlsdGVyKHRvdVByZWRpY2F0ZSkgOiBjb25zdW1lcnMuZmlsdGVyKG5vblRvdVByZWRpY2F0ZSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2xvdCAtPiBTbG90RGF0YShnZW5lcmF0aW9uLCB0b3VDb25zdW1wdGlvbiwgdGFyaWZmcywgc2xhcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIGZyb20gVGhlIHN0YXJ0IGRhdGUKICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
+        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHMoZnJvbTogTG9jYWxEYXRlLCB0bzogTG9jYWxEYXRlKTogRnV0dXJlW0pzVmFsdWVdCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
