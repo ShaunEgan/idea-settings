@@ -154,17 +154,14 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496218780227">
-        <mark key="[" line="76" column="35" />
-        <mark key="]" line="76" column="35" />
-        <mark key="." line="76" column="35" />
-        <mark key="^" line="75" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496221739729">
+        <mark key="[" line="75" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496217812053">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="13" column="76" />
-        <mark key="." line="13" column="76" />
-        <mark key="^" line="13" column="76" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -529,11 +526,10 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496217625940">
-        <mark key="[" line="17" column="35" />
-        <mark key="]" line="17" column="35" />
-        <mark key="^" line="17" column="34" />
-        <mark key="." line="17" column="35" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496221211196">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -867,7 +863,7 @@
         <mark key="." line="10" column="13" />
         <mark key="^" line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumerRepository.scala" timestamp="1496056650280">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumerRepository.scala" timestamp="1496221665456">
         <mark key="[" line="21" column="129" />
         <mark key="]" line="21" column="129" />
         <mark key="." line="21" column="129" />
@@ -1077,11 +1073,11 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1496217587332">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1496222079360">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/index-spec.js" timestamp="1491911959513">
         <mark key="[" line="4" column="46" />
@@ -1095,11 +1091,11 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountRepository.scala" timestamp="1496217761563">
-        <mark key="[" line="7" column="18" />
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="11" column="45" />
-        <mark key="." line="11" column="45" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountRepository.scala" timestamp="1496222092933">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
@@ -1148,8 +1144,13 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1495716030580">
-        <mark key="[" line="22" column="82" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/CachingAccountRepository.scala" timestamp="1496222155690">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
+        <mark key="[" line="26" column="18" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
@@ -1303,11 +1304,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>undefined</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
       </register>
       <register name="-" type="4">
-        <text>undefined</text>
+        <text>conumer</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1316,34 +1317,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyB0b3UgfSA9IHJlcXVlc3QucXVlcnkK</text>
+        <text encoding="base64">ICAgIHZhbCBub25Ub3VBY2NvdW50cyA9IGFjY291bnRSZXBvc2l0b3J5LmdldE5vblRvdUFjY291bnRzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgdG91Q29uc3VtcHRpb24gPSBjb25zdW1wdGlvbi5maWx0ZXIoY29uc3VtZXIgPT4gdG91QWNjb3VudHMuY29udGFpbnMoY29uc3VtZXIuXzEpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZSh0b3UgPyBkb3NvbWV0aGluZyA6IGNvbnN1bWVycykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzb2x2ZSh0b3UgPyBjb25zdW1lcnMuZmlsdGVyKHRvdVByZWRpY2F0ZSkgOiBjb25zdW1lcnMuZmlsdGVyKG5vblRvdVByZWRpY2F0ZSkpCg==</text>
+        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHM6IEZ1dHVyZVtMaXN0W0FjY291bnRdXQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2xvdCAtPiBTbG90RGF0YShnZW5lcmF0aW9uLCB0b3VDb25zdW1wdGlvbiwgdGFyaWZmcywgc2xhcykK</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHRvdSBTZWxlY3QgVE9VIG9yIG5vbi1UT1UgYWNjb3VudHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIGZyb20gVGhlIHN0YXJ0IGRhdGUKICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgLndpdGhRdWVyeVN0cmluZygidG91IiAtPiB0b3UpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHMoZnJvbTogTG9jYWxEYXRlLCB0bzogTG9jYWxEYXRlKTogRnV0dXJlW0pzVmFsdWVdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
