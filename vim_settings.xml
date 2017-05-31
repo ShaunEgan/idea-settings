@@ -136,11 +136,10 @@
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/SampleRepository.scala" timestamp="1496055407558">
-        <mark key="[" line="63" column="82" />
-        <mark key="]" line="63" column="82" />
-        <mark key="." line="63" column="82" />
-        <mark key="^" line="27" column="89" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/SampleRepository.scala" timestamp="1496224828695">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/VectorFormatter.js" timestamp="1492675470794">
         <mark key="[" line="17" column="0" />
@@ -154,11 +153,11 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496223669438">
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="45" />
-        <mark key="^" line="79" column="45" />
-        <mark key="." line="79" column="45" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496225372042">
+        <mark key="[" line="60" column="88" />
+        <mark key="]" line="60" column="88" />
+        <mark key="^" line="60" column="88" />
+        <mark key="." line="60" column="88" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
         <mark key="[" line="8" column="6" />
@@ -368,9 +367,6 @@
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1496121043299">
-        <mark key="y" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
@@ -774,6 +770,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="39" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/Models/ConsumerResponse.scala" timestamp="1496225013132">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="7" />
+        <mark key="." line="6" column="7" />
+        <mark key="^" line="6" column="7" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
         <mark key="]" line="21" column="131" />
@@ -1141,6 +1143,12 @@
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/CachingAccountRepository.scala" timestamp="1496225044130">
+        <mark key="[" line="39" column="45" />
+        <mark key="]" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
         <mark key="]" line="15" column="0" />
@@ -1296,11 +1304,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>touConsumption</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>touConsumption</text>
+        <text encoding="base64">c2xhUmVwb3NpdG9yeSwg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1309,34 +1317,46 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBub25Ub3VBY2NvdW50cyA9IGFjY291bnRSZXBvc2l0b3J5LmdldE5vblRvdUFjY291bnRzCg==</text>
+      <register name="3" type="4">
+        <text>object TemporaryServices {
+  // This is purely for mocking purposes. When there is a source for SLAs, this can be removed
+  def getConsumerAccounts[T](client: HermesClient, date: LocalDate): List[AccountId] = {
+    val boundaryDates = Tools.getBoundaryDatesForMonth(date)
+    val start = Tools.getStartFromBoundaryDate(boundaryDates)
+    val end = Tools.getEndFromBoundaryDate(boundaryDates)
+
+    val accounts = client.getConsumptionData(start.toLocalDate, end.toLocalDate)
+      .map(_.as[List[ClientResponse]].map(_.name).distinct.map(AccountId(_)))
+
+    Await.result(accounts, 1 minutes)
+  }
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgdG91Q29uc3VtcHRpb24gPSBjb25zdW1wdGlvbi5maWx0ZXIoY29uc3VtZXIgPT4gdG91QWNjb3VudHMuY29udGFpbnMoY29uc3VtZXIuXzEpKQo=</text>
+        <text encoding="base64">ICAvLyBtb2NrIFNMQSBkYXRhIC0gY2FuIGJlIHJlbW92ZWQgd2hlbiB3ZSBoYXZlIGEgdHJ1ZSBTTEEgc291cmNlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YWwgY29uc3VtZXJBY2NvdW50cyA9IFRlbXBvcmFyeVNlcnZpY2VzLmdldENvbnN1bWVyQWNjb3VudHMoaGVybWVzLCBkYXRlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0QWNjb3VudHM6IEZ1dHVyZVtMaXN0W0FjY291bnRdXQo=</text>
+        <text encoding="base64">ICB2YWwgc2xhUmVwb3NpdG9yeSA9IG5ldyBNb2NrUmVwb3NpdG9yeVtCaWdEZWNpbWFsXShjb25zdW1lckFjY291bnRzLCBCaWdEZWNpbWFsKDAuMCkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICogQHBhcmFtIHRvdSBTZWxlY3QgVE9VIG9yIG5vbi1UT1UgYWNjb3VudHMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xhUmVwb3NpdG9yeTogU2FtcGxlUmVwb3NpdG9yeVtUXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhRdWVyeVN0cmluZygidG91IiAtPiB0b3UpCg==</text>
+        <text encoding="base64">ICAgICAgc2xhcyA8LSBzbGFSZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChzYW1wbGVTZXFUb01hcCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBzbG90IC0+IFNsb3REYXRhKGdlbmVyYXRpb24sIGNvbnN1bXB0aW9uLCB0YXJpZmZzLCB0b3VTbGFzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1349,7 +1369,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
