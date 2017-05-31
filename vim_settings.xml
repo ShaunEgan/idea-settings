@@ -154,11 +154,17 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496058913296">
-        <mark key="[" line="112" column="6" />
-        <mark key="]" line="116" column="34" />
-        <mark key="." line="116" column="34" />
-        <mark key="^" line="116" column="34" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496216837290">
+        <mark key="[" line="92" column="45" />
+        <mark key="]" line="98" column="51" />
+        <mark key="." line="98" column="51" />
+        <mark key="^" line="98" column="51" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496217314005">
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/functions/create.js" timestamp="1491744247583">
         <mark key="[" line="34" column="0" />
@@ -300,7 +306,6 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/tariffs.json" timestamp="1496137758211" />
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
         <mark key="]" line="33" column="0" />
@@ -523,6 +528,12 @@
         <mark key="]" line="15" column="13" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="13" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496217224536">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -1066,6 +1077,12 @@
         <mark key="^" line="43" column="18" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountClient.scala" timestamp="1496217248703">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="16" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/index-spec.js" timestamp="1491911959513">
         <mark key="[" line="4" column="46" />
         <mark key="]" line="17" column="58" />
@@ -1281,10 +1298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initialDifference</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>initialDifference</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1293,7 +1310,7 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogQHBhcmFtIHRvIFRoZSBlbmQgZGF0ZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1302,25 +1319,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGxldCBzbWFsbGVzdCA9IGRpZmYoc29ydGVkWzBdLCBzb3J0ZWRbMV0pCiAgICAvLyBmb3IgKGxldCBpID0gMTsgaSA8IHNvcnRlZC5sZW5ndGg7IGkrKykgewogICAgLy8gICBjb25zdCBkZWx0YSA9IGRpZmYoc29ydGVkW2ldLCBzb3J0ZWRbaSAtIDFdKQogICAgLy8gICBzbWFsbGVzdCA9IGRlbHRhIDwgc21hbGxlc3QgPyBkZWx0YSA6IHNtYWxsZXN0CiAgICAvLyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coImhlcmU6ICIsIHRvdSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc21hbGxlc3QgPSAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRpZmYgPSAobGVmdCwgcmlnaHQpID0+IE1hdGguYWJzKGxlZnQgLSByaWdodCkK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1337,7 +1354,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\\n</entry>
         <entry>}</entry>
         <entry encoding="base64">XDxzb21lU291cmNlXD4=</entry>
         <entry>, sort</entry>
@@ -1360,7 +1376,6 @@
         <entry encoding="base64">XDx0b1NlcVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>77</entry>
         <entry>22:19</entry>
         <entry>30</entry>
