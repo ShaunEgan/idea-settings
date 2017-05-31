@@ -154,8 +154,11 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496221739729">
-        <mark key="[" line="75" column="13" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496223669438">
+        <mark key="[" line="79" column="35" />
+        <mark key="]" line="79" column="45" />
+        <mark key="^" line="79" column="45" />
+        <mark key="." line="79" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
         <mark key="[" line="8" column="6" />
@@ -1091,12 +1094,6 @@
         <mark key="^" line="20" column="31" />
         <mark key="." line="21" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/traits/AccountRepository.scala" timestamp="1496222092933">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="25" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="26" column="46" />
@@ -1143,11 +1140,6 @@
         <mark key="]" line="1" column="31" />
         <mark key="^" line="21" column="32" />
         <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/CachingAccountRepository.scala" timestamp="1496222155690">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
@@ -1304,11 +1296,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICogQHJldHVybgo=</text>
+      <register name="&quot;" type="4">
+        <text>touConsumption</text>
       </register>
       <register name="-" type="4">
-        <text>conumer</text>
+        <text>touConsumption</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1400,9 +1392,9 @@
         <entry>1380</entry>
         <entry encoding="base64">JzwsJz4xNTg0</entry>
         <entry>1584</entry>
-        <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
         <entry>11</entry>
         <entry>34</entry>
+        <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
