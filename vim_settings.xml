@@ -153,11 +153,10 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496309285243">
-        <mark key="[" line="110" column="8" />
-        <mark key="]" line="109" column="44" />
-        <mark key="^" line="109" column="44" />
-        <mark key="." line="109" column="44" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496313118298">
+        <mark key="[" line="88" column="34" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
         <mark key="[" line="8" column="6" />
@@ -292,6 +291,11 @@
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496311712019">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/decorators/controller.js" timestamp="1492422662245">
         <mark key="[" line="25" column="70" />
@@ -552,6 +556,11 @@
         <mark key="]" line="240" column="67" />
         <mark key="^" line="240" column="67" />
         <mark key="." line="240" column="67" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496218917315">
         <mark key="[" line="0" column="0" />
@@ -1305,10 +1314,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2xhUmVwb3NpdG9yeSwg</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1317,46 +1326,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHVuYWxsb2NhdGVkID0gYWxsb2NhdGlvbnMK</text>
+        <text encoding="base64">ICB2YWwgZGF0YSA9IHsKICAgIHZhbCBzbG90cyA9IGZvciB7CiAgICAgIHNsb3QgPC0gVG9vbHMuZ2V0TW9udGhseVNsb3RzKCkKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgICB2YWwgbm9uVG91Q29udGV4dERhdGEgPSBkYXRhLmNvcHkoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>object TemporaryServices {
-  // This is purely for mocking purposes. When there is a source for SLAs, this can be removed
-  def getConsumerAccounts[T](client: HermesClient, date: LocalDate): List[AccountId] = {
-    val boundaryDates = Tools.getBoundaryDatesForMonth(date)
-    val start = Tools.getStartFromBoundaryDate(boundaryDates)
-    val end = Tools.getEndFromBoundaryDate(boundaryDates)
-
-    val accounts = client.getConsumptionData(start.toLocalDate, end.toLocalDate)
-      .map(_.as[List[ClientResponse]].map(_.name).distinct.map(AccountId(_)))
-
-    Await.result(accounts, 1 minutes)
-  }
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzA2LzAxLgogICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBtb2NrIFNMQSBkYXRhIC0gY2FuIGJlIHJlbW92ZWQgd2hlbiB3ZSBoYXZlIGEgdHJ1ZSBTTEEgc291cmNlCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YWwgY29uc3VtZXJBY2NvdW50cyA9IFRlbXBvcmFyeVNlcnZpY2VzLmdldENvbnN1bWVyQWNjb3VudHMoaGVybWVzLCBkYXRlKQo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHVuYWxsb2NhdGVkID0gYWxsb2NhdGlvbnMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YWwgc2xhUmVwb3NpdG9yeSA9IG5ldyBNb2NrUmVwb3NpdG9yeVtCaWdEZWNpbWFsXShjb25zdW1lckFjY291bnRzLCBCaWdEZWNpbWFsKDAuMCkpCg==</text>
+        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xhUmVwb3NpdG9yeTogU2FtcGxlUmVwb3NpdG9yeVtUXSwK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
