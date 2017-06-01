@@ -153,11 +153,11 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496225372042">
-        <mark key="[" line="60" column="88" />
-        <mark key="]" line="60" column="88" />
-        <mark key="^" line="60" column="88" />
-        <mark key="." line="60" column="88" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496309285243">
+        <mark key="[" line="110" column="8" />
+        <mark key="]" line="109" column="44" />
+        <mark key="^" line="109" column="44" />
+        <mark key="." line="109" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
         <mark key="[" line="8" column="6" />
@@ -1305,7 +1305,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">c2xhUmVwb3NpdG9yeSwg</text>
@@ -1317,15 +1317,21 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHVuYWxsb2NhdGVkID0gYWxsb2NhdGlvbnMK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gY2FuIGFkZCBhbiBleHRyYSBmaWVsZCBoZXJlIGZvciBub24tdG91IGNvbnN1bXB0aW9uCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>object TemporaryServices {
   // This is purely for mocking purposes. When there is a source for SLAs, this can be removed
   def getConsumerAccounts[T](client: HermesClient, date: LocalDate): List[AccountId] = {
@@ -1340,23 +1346,17 @@
   }
 }</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAvLyBtb2NrIFNMQSBkYXRhIC0gY2FuIGJlIHJlbW92ZWQgd2hlbiB3ZSBoYXZlIGEgdHJ1ZSBTTEEgc291cmNlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB2YWwgY29uc3VtZXJBY2NvdW50cyA9IFRlbXBvcmFyeVNlcnZpY2VzLmdldENvbnN1bWVyQWNjb3VudHMoaGVybWVzLCBkYXRlKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB2YWwgc2xhUmVwb3NpdG9yeSA9IG5ldyBNb2NrUmVwb3NpdG9yeVtCaWdEZWNpbWFsXShjb25zdW1lckFjY291bnRzLCBCaWdEZWNpbWFsKDAuMCkpCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xhUmVwb3NpdG9yeTogU2FtcGxlUmVwb3NpdG9yeVtUXSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2xhcyA8LSBzbGFSZXBvc2l0b3J5LmFjY291bnRTYW1wbGVzKHNsb3QpLm1hcChzYW1wbGVTZXFUb01hcCkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICBzbG90IC0+IFNsb3REYXRhKGdlbmVyYXRpb24sIGNvbnN1bXB0aW9uLCB0YXJpZmZzLCB0b3VTbGFzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgc2xhUmVwb3NpdG9yeTogU2FtcGxlUmVwb3NpdG9yeVtUXSwK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1369,7 +1369,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
