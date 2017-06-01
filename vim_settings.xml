@@ -153,6 +153,13 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496319873892">
+        <mark key="'" line="43" column="66" />
+        <mark key="[" line="114" column="32" />
+        <mark key="]" line="114" column="32" />
+        <mark key="." line="114" column="32" />
+        <mark key="^" line="114" column="35" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/AccountRepositoryImpl.scala" timestamp="1496221273117">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="7" />
@@ -264,11 +271,11 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="18" column="14" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/MappingTools.scala" timestamp="1496314777944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/MappingTools.scala" timestamp="1496317960374">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+        <mark key="." line="11" column="28" />
       </file>
       <file name="$USER_HOME$/dev/eth-btc/research/index.js" timestamp="1491371753561">
         <mark key="[" line="54" column="11" />
@@ -309,6 +316,12 @@
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1496320835754">
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="11" column="37" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
@@ -1218,7 +1231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="27" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="46" column="56" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="9" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
       <jump line="43" column="1" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" />
@@ -1318,13 +1330,14 @@
       <jump line="105" column="118" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
       <jump line="50" column="104" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
+      <jump line="43" column="66" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Tools</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>Tools</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1333,34 +1346,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGdlbmVyYXRpb24gPSBub25Ub3VEYXRhLm1hcChzbG90ID0+IHNsb3QuXzEgLT4gc2xvdC5fMi5nZW5lcmF0aW9uKQovLyAgICAgIC5tYXAoZGF0YSA9PiBHZW5lcmF0aW9uRW50cnkoZGF0YS5fMSwgZGF0YS5fMikpICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbm9uVG91Q29uc3VtcHRpb246IE1hcFtMb2NhbERhdGVUaW1lLCBNYXBbQWNjb3VudElkLCBUXV0sCg==</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdW5hbGxvY2F0ZWRHZW5lcmF0aW9uOiBPcHRpb25bTWFwW0FjY291bnRJZCwgVF1dLAo=</text>
+        <text encoding="base64">ICAgIHZhbCBnZW5lcmF0aW9uID0gbm9uVG91RGF0YS5tYXAoc2xvdCA9PiApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbm9uVG91Q29uc3VtcHRpb246IE1hcFtBY2NvdW50SWQsIFRdLAo=</text>
+        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzA2LzAxLgogICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIG5vblRvdUNvbnN1bXB0aW9uID0gY29uc3VtcHRpb24uZmlsdGVyKGNvbnN1bXB0aW9uQWNjb3VudCA9PiBub25Ub3VBY2NvdW50cy5tYXAoXy5pZCkuY29udGFpbnMoY29uc3VtcHRpb25BY2NvdW50Ll8xKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBzbG90cyA9IGZvciAoc2xvdCA8LSB0aW1lc2xvdHMubWFwKGdldFNsb3REYXRhKSkgeWllbGQgc2xvdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBub25Ub3VBY2NvdW50cyA9IGFjY291bnRSZXBvc2l0b3J5LmdldE5vblRvdUFjY291bnRzCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzbG90cyA9IGZvciAoc2xvdCA8LSB0aW1lc2xvdHMubWFwKGdldFNsb3REYXRhKSkgeWllbGQgc2xvdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBub25Ub3VBY2NvdW50cyA9IGFjY291bnRSZXBvc2l0b3J5LmdldE5vblRvdUFjY291bnRzCg==</text>
+        <text encoding="base64">ICAgICAgZ2VuZXJhdGlvbiA8LSB1bmFsbG9jYXRlZEdlbmVyYXRpb24oc2xvdCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIHVuYWxsb2N0ZWQgPSAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICBzbG90IDwtIFRvb2xzLmdldE1vbnRobHlTbG90cyhkYXRlLCAzMCkubWFwKGdldFNsb3REYXRhKQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1373,7 +1386,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
