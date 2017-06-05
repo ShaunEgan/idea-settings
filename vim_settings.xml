@@ -444,10 +444,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496668943225">
-        <mark key="[" line="1" column="61" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496671087347">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="6" />
+        <mark key="." line="14" column="6" />
+        <mark key="^" line="14" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
@@ -627,8 +628,8 @@
         <mark key="^" line="2" column="5" />
         <mark key="." line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1496664991835">
-        <mark key="[" line="9" column="34" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1496671247016">
+        <mark key="[" line="10" column="63" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="5" column="26" />
         <mark key="." line="9" column="0" />
@@ -1367,11 +1368,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+      <register name="&quot;" type="4">
+        <text>buildResponse</text>
       </register>
       <register name="-" type="4">
-        <text>BrandNotFoundError</text>
+        <text>buildResponse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1380,34 +1381,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBPYmplY3QuYXNzaWduKG1ldGEsIHsgYWN0aW9ucyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNsdWcgPT09ICcnKSB7CiAgICAgICAgcmVzcG9uc2Uuc2VuZCg0MDAsICdCYWQgUmVxdWVzdCcpCiAgICAgICAgbmV4dCgpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmllbGRzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBmaWVsZHMgPSBwaWNrRmllbGRzKGRvY3VtZW50KQogIGZpZWxkcy5hY3Rpb25zID0gUi5tYXAocGlja0FjdGlvbkZpZWxkcywgZmllbGRzLmFjdGlvbnMpCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGEnCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbHNlIHJlc29sdmUoZG9jdW1lbnQpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NsdWc6Jywgc2x1ZykK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
