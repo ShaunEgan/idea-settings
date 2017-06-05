@@ -444,11 +444,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496671087347">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="6" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496673361195">
+        <mark key="[" line="14" column="80" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
@@ -527,7 +527,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496667903994">
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496672604501">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
@@ -1368,11 +1368,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>buildResponse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAvLyBpZiAoaWNvblBhdGguaW5kZXhPZignaHR0cHM6Ly9wb3NsdXguczMuYW1hem9uYXdzLmNvbS8nKSA9PT0gMCkgcmV0dXJuIFV0aWwuZ2V0RmlsZU5hbWUoaWNvblBhdGgpCiAgLy8gcmV0dXJuIGljb25QYXRoCg==</text>
       </register>
       <register name="-" type="4">
-        <text>buildResponse</text>
+        <text>R.map(correctIconPath)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1381,34 +1381,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAvLyBpZiAoaWNvblBhdGguaW5kZXhPZignaHR0cHM6Ly9wb3NsdXguczMuYW1hem9uYXdzLmNvbS8nKSA9PT0gMCkgcmV0dXJuIFV0aWwuZ2V0RmlsZU5hbWUoaWNvblBhdGgpCiAgLy8gcmV0dXJuIGljb25QYXRoCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpY29uUGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBPYmplY3QuYXNzaWduKG1ldGEsIHsgYWN0aW9ucyB9KQo=</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmllbGRzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWVsZHMgPSBwaWNrRmllbGRzKGRvY3VtZW50KQogIGZpZWxkcy5hY3Rpb25zID0gUi5tYXAocGlja0FjdGlvbkZpZWxkcywgZmllbGRzLmFjdGlvbnMpCgo=</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBPYmplY3QuYXNzaWduKG1ldGEsIHsgYWN0aW9ucyB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbHNlIHJlc29sdmUoZG9jdW1lbnQpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZmllbGRzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICBjb25zdCBmaWVsZHMgPSBwaWNrRmllbGRzKGRvY3VtZW50KQogIGZpZWxkcy5hY3Rpb25zID0gUi5tYXAocGlja0FjdGlvbkZpZWxkcywgZmllbGRzLmFjdGlvbnMpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBlbHNlIHJlc29sdmUoZG9jdW1lbnQpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
