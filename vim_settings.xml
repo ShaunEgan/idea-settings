@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1496667255043">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/example/Hello.scala" timestamp="1494408124510">
         <mark key="[" line="28" column="63" />
         <mark key="]" line="33" column="35" />
@@ -241,6 +247,11 @@
         <mark key="^" line="46" column="12" />
         <mark key="." line="46" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/services/PtsiServiceSpec.js" timestamp="1495529537418">
         <mark key="[" line="101" column="10" />
         <mark key="]" line="107" column="23" />
@@ -386,6 +397,7 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1496665736757" />
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
         <mark key="]" line="104" column="5" />
@@ -431,6 +443,12 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496665617633">
+        <mark key="[" line="12" column="6" />
+        <mark key="]" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+        <mark key="^" line="12" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
@@ -603,6 +621,12 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1496664991835">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/tests/Apolitical/Search/Services/Elasticsearch/SearchServiceTest.php" timestamp="1493099842938">
         <mark key="[" line="226" column="46" />
@@ -786,6 +810,12 @@
         <mark key="]" line="13" column="91" />
         <mark key="." line="13" column="91" />
         <mark key="^" line="13" column="100" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1496666335508">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/create.js" timestamp="1492431434271">
         <mark key="[" line="8" column="0" />
@@ -1231,7 +1261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="56" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="9" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
       <jump line="43" column="1" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" />
@@ -1331,13 +1360,14 @@
       <jump line="50" column="104" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
       <jump line="43" column="66" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
+      <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1346,34 +1376,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGdlbmVyYXRpb24gPSBub25Ub3VEYXRhLm1hcChzbG90ID0+IHNsb3QuXzEgLT4gc2xvdC5fMi5nZW5lcmF0aW9uKQovLyAgICAgIC5tYXAoZGF0YSA9PiBHZW5lcmF0aW9uRW50cnkoZGF0YS5fMSwgZGF0YS5fMikpICAK</text>
+        <text encoding="base64">ICAgICAgLy8gcmVzcG9uc2Uuc2VuZCgyMDAsIHJlcXVlc3QucGFyYW1zKQogICAgICAvLyBuZXh0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBnZW5lcmF0aW9uID0gbm9uVG91RGF0YS5tYXAoc2xvdCA9PiApCg==</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzA2LzAxLgogICovCg==</text>
+        <text encoding="base64">ICBjb25zdCBjb250cm9sbGVyID0gbmV3IEJyYW5kQ29udHJvbGxlcihyZXBvc2l0b3J5KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbG90cyA9IGZvciAoc2xvdCA8LSB0aW1lc2xvdHMubWFwKGdldFNsb3REYXRhKSkgeWllbGQgc2xvdAo=</text>
+        <text encoding="base64">aW1wb3J0IEJyYW5kQ29udHJvbGxlciBmcm9tICcuL2NvbnRyb2xsZXJzL0JyYW5kQ29udHJvbGxlcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzbG90cyA9IGZvciAoc2xvdCA8LSB0aW1lc2xvdHMubWFwKGdldFNsb3REYXRhKSkgeWllbGQgc2xvdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ2VuZXJhdGlvbiA8LSB1bmFsbG9jYXRlZEdlbmVyYXRpb24oc2xvdCkK</text>
+        <text encoding="base64">ICAvLyBpbXBvcnQgb3VyIEFQSQogIHJlcXVpcmUoJ3RydXN0bWFyaycpKGFwcCwgZGIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHVuYWxsb2N0ZWQgPSAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICBzbG90IDwtIFRvb2xzLmdldE1vbnRobHlTbG90cyhkYXRlLCAzMCkubWFwKGdldFNsb3REYXRhKQo=</text>
+        <text encoding="base64">ICAvLyBlbmZvcmNlIGFjY2Vzcy10b2tlbiBmb3IgYWxsIHJlcXVlc3RzCiAgYXBwLnVzZShzaW1wbGVQc2soY29uZmlnLmF1dGhUb2tlbikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
