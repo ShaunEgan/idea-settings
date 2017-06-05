@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1496667255043">
-        <mark key="[" line="23" column="15" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="18" column="41" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1496668025228">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="19" column="50" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/example/Hello.scala" timestamp="1494408124510">
         <mark key="[" line="28" column="63" />
@@ -444,11 +444,10 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="32" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496665617633">
-        <mark key="[" line="12" column="6" />
-        <mark key="]" line="12" column="10" />
-        <mark key="." line="12" column="10" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1496668943225">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/SimpleJson.scala" timestamp="1494307694882">
         <mark key="[" line="4" column="13" />
@@ -527,7 +526,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496220062367">
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/controllers/ConsumerController.js" timestamp="1496667903994">
         <mark key="[" line="22" column="14" />
         <mark key="]" line="22" column="30" />
         <mark key="^" line="22" column="30" />
@@ -621,6 +620,12 @@
         <mark key="]" line="5" column="19" />
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotSpecifiedError.js" timestamp="1496668936320">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1496664991835">
         <mark key="[" line="9" column="34" />
@@ -811,11 +816,10 @@
         <mark key="." line="13" column="91" />
         <mark key="^" line="13" column="100" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1496666335508">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="3" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1496669304723">
+        <mark key="[" line="2" column="61" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/create.js" timestamp="1492431434271">
         <mark key="[" line="8" column="0" />
@@ -1363,11 +1367,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>BrandNotFoundError</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1376,34 +1380,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVzcG9uc2Uuc2VuZCgyMDAsIHJlcXVlc3QucGFyYW1zKQogICAgICAvLyBuZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgIAoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250cm9sbGVyID0gbmV3IEJyYW5kQ29udHJvbGxlcihyZXBvc2l0b3J5KQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNsdWcgPT09ICcnKSB7CiAgICAgICAgcmVzcG9uc2Uuc2VuZCg0MDAsICdCYWQgUmVxdWVzdCcpCiAgICAgICAgbmV4dCgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJyYW5kQ29udHJvbGxlciBmcm9tICcuL2NvbnRyb2xsZXJzL0JyYW5kQ29udHJvbGxlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGEnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBpbXBvcnQgb3VyIEFQSQogIHJlcXVpcmUoJ3RydXN0bWFyaycpKGFwcCwgZGIpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NsdWc6Jywgc2x1ZykK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyBlbmZvcmNlIGFjY2Vzcy10b2tlbiBmb3IgYWxsIHJlcXVlc3RzCiAgYXBwLnVzZShzaW1wbGVQc2soY29uZmlnLmF1dGhUb2tlbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
