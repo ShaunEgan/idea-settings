@@ -328,11 +328,11 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1496320835754">
-        <mark key="[" line="9" column="68" />
-        <mark key="]" line="9" column="68" />
-        <mark key="." line="9" column="68" />
-        <mark key="^" line="11" column="37" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1496735830005">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="14" column="11" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
@@ -1370,10 +1370,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBpZiAoaWNvblBhdGguaW5kZXhPZignaHR0cHM6Ly9wb3NsdXguczMuYW1hem9uYXdzLmNvbS8nKSA9PT0gMCkgcmV0dXJuIFV0aWwuZ2V0RmlsZU5hbWUoaWNvblBhdGgpCiAgLy8gcmV0dXJuIGljb25QYXRoCg==</text>
+        <text encoding="base64">ICAgICAgLnNvcnRXaXRoKF8uKSAvLyBzb3J0IGJ5IGNvc3QgcGVyIHVuaXQK</text>
       </register>
       <register name="-" type="4">
-        <text>R.map(correctIconPath)</text>
+        <text>toSeq</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1382,34 +1382,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBpZiAoaWNvblBhdGguaW5kZXhPZignaHR0cHM6Ly9wb3NsdXguczMuYW1hem9uYXdzLmNvbS8nKSA9PT0gMCkgcmV0dXJuIFV0aWwuZ2V0RmlsZU5hbWUoaWNvblBhdGgpCiAgLy8gcmV0dXJuIGljb25QYXRoCg==</text>
+        <text encoding="base64">ICAgICAgLnNvcnRXaXRoKF8uKSAvLyBzb3J0IGJ5IGNvc3QgcGVyIHVuaXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhpY29uUGF0aCkK</text>
+        <text encoding="base64">ICAgICAgLnRvU2VxICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgLnRvU2VxCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnNvcnRXaXRoKCkgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBPYmplY3QuYXNzaWduKG1ldGEsIHsgYWN0aW9ucyB9KQo=</text>
+        <text encoding="base64">Y2xhc3MgVGltZXNsb3RFbnRyeShkYXRlOiBMb2NhbERhdGVUaW1lLCBhY2NvdW50OiBBY2NvdW50SWQsIHZhbHVlOiBCaWdEZWNpbWFsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gZmllbGRzCg==</text>
+        <text encoding="base64">Y2FzZSBjbGFzcyBHZW5lcmF0aW9uRW50cnkgZXh0ZW5kcyBUaW1lc2xvdEVudHJ5IHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWVsZHMgPSBwaWNrRmllbGRzKGRvY3VtZW50KQogIGZpZWxkcy5hY3Rpb25zID0gUi5tYXAocGlja0FjdGlvbkZpZWxkcywgZmllbGRzLmFjdGlvbnMpCgo=</text>
+        <text encoding="base64">ICAvLyBpZiAoaWNvblBhdGguaW5kZXhPZignaHR0cHM6Ly9wb3NsdXguczMuYW1hem9uYXdzLmNvbS8nKSA9PT0gMCkgcmV0dXJuIFV0aWwuZ2V0RmlsZU5hbWUoaWNvblBhdGgpCiAgLy8gcmV0dXJuIGljb25QYXRoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBlbHNlIHJlc29sdmUoZG9jdW1lbnQpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhpY29uUGF0aCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAoK</text>
+        <text encoding="base64">ICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
