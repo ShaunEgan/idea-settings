@@ -164,7 +164,7 @@
         <mark key="." line="80" column="44" />
         <mark key="^" line="80" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496818250312">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496822557715">
         <mark key="'" line="43" column="66" />
         <mark key="[" line="135" column="8" />
         <mark key="]" line="135" column="8" />
@@ -211,6 +211,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="68" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouAllocationTest.scala" timestamp="1496822967281">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="22" />
+        <mark key="." line="4" column="22" />
+        <mark key="^" line="4" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/MockRepository.scala" timestamp="1496056749036">
         <mark key="[" line="74" column="90" />
@@ -333,11 +339,11 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1496820199863">
-        <mark key="[" line="36" column="45" />
-        <mark key="]" line="37" column="34" />
-        <mark key="." line="37" column="34" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1496822790367">
+        <mark key="[" line="29" column="7" />
+        <mark key="]" line="30" column="63" />
+        <mark key="." line="30" column="63" />
+        <mark key="^" line="30" column="63" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/update.js" timestamp="1492427945565">
         <mark key="[" line="34" column="41" />
@@ -560,6 +566,9 @@
         <mark key="." line="41" column="39" />
         <mark key="^" line="41" column="36" />
       </file>
+      <file name="/fragment.java" timestamp="1496822895999">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/complex-array.json" timestamp="1494307603033">
         <mark key="[" line="15" column="13" />
         <mark key="]" line="15" column="13" />
@@ -587,6 +596,12 @@
         <mark key="]" line="161" column="23" />
         <mark key="." line="161" column="23" />
         <mark key="^" line="161" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouAllocationSpec.scala" timestamp="1496823572240">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="12" column="53" />
+        <mark key="^" line="9" column="54" />
+        <mark key="." line="12" column="54" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/integration/ServiceIntegrationTest.php" timestamp="1493106615140">
         <mark key="[" line="240" column="63" />
@@ -925,6 +940,9 @@
         <mark key="]" line="41" column="0" />
         <mark key="^" line="46" column="27" />
         <mark key="." line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496822581614">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1493184221322">
         <mark key="[" line="9" column="10" />
@@ -1381,10 +1399,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>: Map[LocalDateTime, Map[AccountId, BigDecimal]]</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>: Map[LocalDateTime, Map[AccountId, BigDecimal]]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1393,34 +1411,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICByZXN1bHQK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDYvMDcuCiAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Lm1hcCB7CiAgICAgIGNhc2UgKGRhdGUsIGVudHJpZXMpID0+IGRhdGUgLT4gZW50cmllcy5tYXAoZW50cnkgPT4gKGVudHJ5LmFjY291bnQsIGVudHJ5LmFsbG9jYXRpb24pKQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBkZWYgYWxsb2NhdGUobm9uVG91RGF0YTogTWFwW0xvY2FsRGF0ZVRpbWUsIFNsb3REYXRhW0JpZ0RlY2ltYWxdXSkgPSB7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBhc3NpZ25HZW5lcmF0aW9uKGFsbG9jYXRpb25zOiBNYXBbTG9jYWxEYXRlVGltZSwgTWFwW0FjY291bnRJZCwgQmlnRGVjaW1hbF1dLCBnZW5lcmF0aW9uOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKCiAgICBkZWYgYXNzaWduR2VuZXJhdG9ycyhhbW91bnQ6IEJpZ0RlY2ltYWwsIGdlbmVyYXRpb246IEFycmF5W0dlbmVyYXRpb25FbnRyeV0sIGFzc2lnbm1lbnRzOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKICAgICAgaWYgKGFtb3VudCA9PSAwIHx8IGdlbmVyYXRpb24uaXNFbXB0eSkgKGdlbmVyYXRpb24sIGFzc2lnbm1lbnRzKQogICAgICB2YWwgY3VycmVudCA9IGdlbmVyYXRpb24uaGVhZAogICAgfQoKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">CiAgICByZXN1bHQK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBAdGFpbHJlYyBwcml2YXRlIGRlZiBhbGxvY2F0ZUFjY291bnRzKGFjY291bnRzOiBBcnJheVtDb25zdW1wdGlvbkVudHJ5XSwgcG93ZXJQb29sOiBCaWdEZWNpbWFsLCBzbGFSZXF1aXJlbWVudDogQmlnRGVjaW1hbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFsbG9jYXRlZEFjY291bnRzOiBBcnJheVtDb25zdW1wdGlvbkVudHJ5XSA9IEFycmF5KCkpOiBBcnJheVtDb25zdW1wdGlvbkVudHJ5XSA9IHsKICAgIGlmIChhY2NvdW50cy5pc0VtcHR5KSB7CiAgICAgIGFsbG9jYXRlZEFjY291bnRzCiAgICB9CiAgICBlbHNlIHsKICAgICAgdmFsIGN1cnJlbnQgPSBhY2NvdW50cy5oZWFkCiAgICAgIHZhbCBhbGxvY2F0aW9uID0gY2FsY3VsYXRlQWNjb3VudEFsbG9jYXRpb24oY3VycmVudC51c2FnZSwgY3VycmVudC5taW5BbGxvY2F0aW9uLCBwb3dlclBvb2wsIHNsYVJlcXVpcmVtZW50KQoKICAgICAgYWxsb2NhdGVBY2NvdW50cyhhY2NvdW50cy50YWlsLCBwb3dlclBvb2wgLSBhbGxvY2F0aW9uLCBzbGFSZXF1aXJlbWVudCAtIGN1cnJlbnQubWluQWxsb2NhdGlvbiwKICAgICAgICBhbGxvY2F0ZWRBY2NvdW50cyArKyBBcnJheShjdXJyZW50LmNvcHkoYWxsb2NhdGlvbiA9IGFsbG9jYXRpb24pKSkKICAgIH0KICB9CgogIC8qKgogICAgKiBDYWxjdWxhdGVzIHRoZSBhbGxvY2F0aW9uIGZvciBhIHNpbmdsZSBhY2NvdW50IGZvciBhIGdpdmVuIHRpbWUtc2xvdC4gV2lsbCB0cnkgdG8gYWxsb2NhdGUgYXMgbXVjaCBwb3dlciBhcwogICAgKiBwb3NzaWJsZSB3aXRob3V0IGV4Y2VlZGluZyB1c2FnZSBhbmQgYXQgbGVhc3QgbWVldCB0aGUgU0xBIHJlcXVpcmVtZW50LgogICAgKgogICAgKiBUaGlzIHdpbGwgdGhyb3cgYW4gSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uIGlmIHRoZXJlIGlzIG5vdCBlbm91Z2ggcG93ZXIgaW4gdGhlIHBvd2VyIHBvb2wgdG8gbWVldCB0aGUgU0xBCiAgICAqIHJlcXVpcmVtZW50LgogICAgKgogICAgKiBAcGFyYW0gdXNhZ2UgVGhlIGNvbnN1bWVyJ3MgdXNhZ2UgZm9yIGEgZ2l2ZW4gdGltZS1zbG90CiAgICAqIEBwYXJhbSBzbGEgVGhlIG1pbmltdW0gcG93ZXIgYWxsb2NhdGFibGUgZm9yIHRoaXMgdGltZS1zbG90CiAgICAqIEBwYXJhbSBwb3dlclBvb2wgVGhlIHBvd2VyIGF2YWlsYWJsZSB0byB1c2UgZm9yIGFsbG9jYXRpb24KICAgICogQHBhcmFtIHRvdGFsU2xhUmVxdWlyZW1lbnQgVGhlIGFtb3VudCBvZiBwb3dlciByZXF1aXJlZCB0byBtZWV0IGFsbCBTTEFzLCB1c2VkIHRvIGNhbGN1bGF0ZSB0aGUgbWF4aW11bSBhbGxvY2F0aW9uCiAgICAqIEByZXR1cm4KICAgICovCiAgcHJpdmF0ZSBkZWYgY2FsY3VsYXRlQWNjb3VudEFsbG9jYXRpb24odXNhZ2U6IEJpZ0RlY2ltYWwsIHNsYTogQmlnRGVjaW1hbCwgcG93ZXJQb29sOiBCaWdEZWNpbWFsLCB0b3RhbFNsYVJlcXVpcmVtZW50OiBCaWdEZWNpbWFsKSA9IHsKICAgIC8vIFRoZSBtYXhpbXVtIHBvd2VyIGF2YWlsYWJsZSB0byBhbGxvY2F0ZSAoaW5jbHVkaW5nIFNMQSByZXF1aXJlZCBmb3IgY3VycmVudCBhbGxvY2F0aW9uKSwgY29uc2lkZXJpbmcgdGhlIHBvd2VyCiAgICAvLyByZXF1aXJlZCBmb3IgZnV0dXJlIFNMQXMuCiAgICB2YWwgYXZhaWxhYmxlUG93ZXIgPSBwb3dlclBvb2wgLSAodG90YWxTbGFSZXF1aXJlbWVudCAtIHNsYSkKICAgIHJlcXVpcmUoYXZhaWxhYmxlUG93ZXIgPj0gc2xhLCAiVGhlcmUgaXMgbm90IGVub3VnaCBwb3dlciBhdmFpbGFibGUgdG8gYWxsb2NhdGUgdGhlIFNMQSIpCgogICAgLy8gYXNzaWduIGFzIG11Y2ggcG93ZXIgYXMgaXMgYXZhaWxhYmxlLCB3aXRoIGFuIHVwcGVyIGxpbWl0IG9mIHRoZSB1c2FnZQogICAgaWYgKGF2YWlsYWJsZVBvd2VyID4gdXNhZ2UpIHVzYWdlCiAgICBlbHNlIGF2YWlsYWJsZVBvd2VyCiAgfQ==</text>
+        <text encoding="base64">Lm1hcCB7CiAgICAgIGNhc2UgKGRhdGUsIGVudHJpZXMpID0+IGRhdGUgLT4gZW50cmllcy5tYXAoZW50cnkgPT4gKGVudHJ5LmFjY291bnQsIGVudHJ5LmFsbG9jYXRpb24pKQogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzA2LzA2LgogICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAgKiBDcmVhdGVkIGJ5IHNoYXVuZWdhbiBvbiAyMDE3LzA2LzA2LgogICovCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
