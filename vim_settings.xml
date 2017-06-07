@@ -597,10 +597,10 @@
         <mark key="." line="161" column="23" />
         <mark key="^" line="161" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1496824446048">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1496829291687">
+        <mark key="[" line="16" column="83" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="84" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouAllocationSpec.scala" timestamp="1496824379293">
         <mark key="[" line="7" column="12" />
@@ -946,11 +946,11 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496827173643">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="15" column="6" />
-        <mark key="^" line="15" column="6" />
-        <mark key="." line="15" column="6" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496830420882">
+        <mark key="[" line="34" column="30" />
+        <mark key="]" line="34" column="67" />
+        <mark key="^" line="34" column="67" />
+        <mark key="." line="34" column="67" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1493184221322">
         <mark key="[" line="9" column="10" />
@@ -1033,6 +1033,11 @@
         <mark key="]" line="16" column="9" />
         <mark key="." line="16" column="9" />
         <mark key="^" line="15" column="9" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1496830506304">
+        <mark key="[" line="0" column="482" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/races/model.js" timestamp="1491726861185">
         <mark key="[" line="12" column="2" />
@@ -1406,11 +1411,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>amount - total</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Uwo=</text>
       </register>
       <register name="-" type="4">
-        <text>amount - total</text>
+        <text>GenerationEntry</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1419,34 +1424,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Uwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDYvMDcuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgYWxsb2NhdGUobm9uVG91RGF0YTogTWFwW0xvY2FsRGF0ZVRpbWUsIFNsb3REYXRhW0JpZ0RlY2ltYWxdXSkgPSB7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDYvMDcuCiAqLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgYWxsb2NhdGUobm9uVG91RGF0YTogTWFwW0xvY2FsRGF0ZVRpbWUsIFNsb3REYXRhW0JpZ0RlY2ltYWxdXSkgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBhc3NpZ25HZW5lcmF0aW9uKGFsbG9jYXRpb25zOiBNYXBbTG9jYWxEYXRlVGltZSwgTWFwW0FjY291bnRJZCwgQmlnRGVjaW1hbF1dLCBnZW5lcmF0aW9uOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKCiAgICBkZWYgYXNzaWduR2VuZXJhdG9ycyhhbW91bnQ6IEJpZ0RlY2ltYWwsIGdlbmVyYXRpb246IEFycmF5W0dlbmVyYXRpb25FbnRyeV0sIGFzc2lnbm1lbnRzOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKICAgICAgaWYgKGFtb3VudCA9PSAwIHx8IGdlbmVyYXRpb24uaXNFbXB0eSkgKGdlbmVyYXRpb24sIGFzc2lnbm1lbnRzKQogICAgICB2YWwgY3VycmVudCA9IGdlbmVyYXRpb24uaGVhZAogICAgfQoKICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICByZXN1bHQK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Lm1hcCB7CiAgICAgIGNhc2UgKGRhdGUsIGVudHJpZXMpID0+IGRhdGUgLT4gZW50cmllcy5tYXAoZW50cnkgPT4gKGVudHJ5LmFjY291bnQsIGVudHJ5LmFsbG9jYXRpb24pKQogICAgfQ==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGRlZiBhc3NpZ25HZW5lcmF0aW9uKGFsbG9jYXRpb25zOiBNYXBbTG9jYWxEYXRlVGltZSwgTWFwW0FjY291bnRJZCwgQmlnRGVjaW1hbF1dLCBnZW5lcmF0aW9uOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKCiAgICBkZWYgYXNzaWduR2VuZXJhdG9ycyhhbW91bnQ6IEJpZ0RlY2ltYWwsIGdlbmVyYXRpb246IEFycmF5W0dlbmVyYXRpb25FbnRyeV0sIGFzc2lnbm1lbnRzOiBBcnJheVtHZW5lcmF0aW9uRW50cnldKSA9IHsKICAgICAgaWYgKGFtb3VudCA9PSAwIHx8IGdlbmVyYXRpb24uaXNFbXB0eSkgKGdlbmVyYXRpb24sIGFzc2lnbm1lbnRzKQogICAgICB2YWwgY3VycmVudCA9IGdlbmVyYXRpb24uaGVhZAogICAgfQoKICB9Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICByZXN1bHQK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">Lm1hcCB7CiAgICAgIGNhc2UgKGRhdGUsIGVudHJpZXMpID0+IGRhdGUgLT4gZW50cmllcy5tYXAoZW50cnkgPT4gKGVudHJ5LmFjY291bnQsIGVudHJ5LmFsbG9jYXRpb24pKQogICAgfQ==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLmFubm90YXRpb24udGFpbHJlYwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
