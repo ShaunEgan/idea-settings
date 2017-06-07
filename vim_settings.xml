@@ -946,8 +946,11 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496822581614">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496827173643">
+        <mark key="[" line="22" column="13" />
+        <mark key="]" line="15" column="6" />
+        <mark key="^" line="15" column="6" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1493184221322">
         <mark key="[" line="9" column="10" />
@@ -1403,11 +1406,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>amount - total</text>
       </register>
       <register name="-" type="4">
-        <text>shouldEqual expecte</text>
+        <text>amount - total</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
