@@ -935,6 +935,7 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="0" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/users/api/lib/v1/isAvailable.js" timestamp="1496917527102" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/models/Client.js" timestamp="1492702612651">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="27" />
@@ -959,6 +960,7 @@
         <mark key="^" line="46" column="27" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/drivers/api/lib/v1/updateRaw.js" timestamp="1496917646582" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1496832316163">
         <mark key="[" line="13" column="6" />
         <mark key="]" line="13" column="6" />
@@ -1212,6 +1214,7 @@
         <mark key="]" line="26" column="46" />
         <mark key="." line="26" column="46" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/rest-api/drivers/drivers.js" timestamp="1496917571038" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/TouAllocationServiceSpec.scala" timestamp="1496837463335">
         <mark key="[" line="49" column="6" />
         <mark key="]" line="51" column="0" />
