@@ -62,11 +62,10 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1493188377341">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="27" column="6" />
-        <mark key="^" line="27" column="6" />
-        <mark key="." line="27" column="6" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaCsvRepository.scala" timestamp="1494842891205">
         <mark key="[" line="6" column="0" />
@@ -205,6 +204,11 @@
         <mark key="]" line="151" column="28" />
         <mark key="." line="151" column="28" />
         <mark key="^" line="151" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/getJsonFile.js" timestamp="1496904997107">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/MockSlaRepository.scala" timestamp="1494841992596">
         <mark key="[" line="8" column="30" />
@@ -408,7 +412,6 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/index.js" timestamp="1496665736757" />
       <file name="$USER_HOME$/repositories/nonabot/node_modules/serverless-webpack/index.js" timestamp="1492069016399">
         <mark key="[" line="104" column="12" />
         <mark key="]" line="104" column="5" />
@@ -532,6 +535,12 @@
         <mark key="]" line="50" column="28" />
         <mark key="^" line="5" column="27" />
         <mark key="." line="50" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -726,7 +735,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1496727133843" />
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Repositories/Node/index.js" timestamp="1493123787726">
         <mark key="[" line="3" column="3" />
         <mark key="]" line="2" column="17" />
@@ -767,7 +775,6 @@
         <mark key="]" line="10" column="91" />
         <mark key="." line="10" column="91" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/non-tou-allocations.json" timestamp="1496835319264" />
       <file name="$USER_HOME$/dev/helios/src/glaucoma-score/delete.js" timestamp="1491841621937">
         <mark key="[" line="22" column="10" />
         <mark key="]" line="22" column="10" />
@@ -1422,11 +1429,11 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAvLyAgICB3aGVuUmVhZHkoYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoTG9jYWxEYXRlLm9mKDIwMTYsIDExLCAxKSwgMzApLCB0aW1lb3V0KDMwIHNlY29uZHMpKSB7CiAgICAvLyAgICAgIF8gc2hvdWxkIGNvbnRhaW4oZXhwZWN0ZWQpCiAgICAvLyAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdjb21wb3Nlci5qc29uJykKICBmcy53cml0ZUZpbGUoZmlsZSwgZGF0YSwgeyBlbmNvZGluZzogJ3V0ZjgnIH0sIGVycm9yID0+IHsKICAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogICAgZWxzZSByZXNvbHZlKG5hbWUpCiAgfSkKfSk=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>PackageJson</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -1434,35 +1441,35 @@
       <register name="0" type="4">
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAvLyAgICB3aGVuUmVhZHkoYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoTG9jYWxEYXRlLm9mKDIwMTYsIDExLCAxKSwgMzApLCB0aW1lb3V0KDMwIHNlY29uZHMpKSB7CiAgICAvLyAgICAgIF8gc2hvdWxkIGNvbnRhaW4oZXhwZWN0ZWQpCiAgICAvLyAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdjb21wb3Nlci5qc29uJykKICBmcy53cml0ZUZpbGUoZmlsZSwgZGF0YSwgeyBlbmNvZGluZzogJ3V0ZjgnIH0sIGVycm9yID0+IHsKICAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogICAgZWxzZSByZXNvbHZlKG5hbWUpCiAgfSkKfSk=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGdlbmVyYXRpb25SZXBvc2l0b3J5ID0gbmV3IEdlbmVyYXRpb25Dc3ZSZXBvc2l0b3J5KGdlbmVyYXRpb25Dc3YpCi8vICAgIHZhbCB1c2FnZVJlcG9zaXRvcnkgPSBuZXcgQ29uc3VtcHRpb25Dc3ZSZXBvc2l0b3J5KHVzYWdlQ3N2KQovLyAgICB2YWwgdGFyaWZmUmVwb3NpdG9yeSA9IG5ldyBUYXJpZmZDc3ZSZXBvc2l0b3J5KHRhcmlmZkNzdikKLy8gICAgdmFsIHNsYVJlcG9zaXRvcnkgPSBuZXcgU2xhQ3N2UmVwb3NpdG9yeShzbGFDc3YpCi8vCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdwYWNrYWdlLmpzb24nKQogIGZzLndyaXRlRmlsZShmaWxlLCBkYXRhLCB7IGVuY29kaW5nOiAndXRmOCcgfSwgZXJyb3IgPT4gewogICAgaWYgKGVycm9yKSByZWplY3QoZXJyb3IpCiAgICBlbHNlIHJlc29sdmUobmFtZSkKICB9KQp9KQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgZ2V0Q29tcG9zZXJKc29uID0gKG5hbWUpID0+IGdldEpzb25GaWxlKCdjb21wb3Nlci5qc29uJywgbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAvLyAgICB3aGVuUmVhZHkoYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoTG9jYWxEYXRlLm9mKDIwMTYsIDExLCAxKSwgMzApLCB0aW1lb3V0KDMwIHNlY29uZHMpKSB7CiAgICAvLyAgICAgIF8gc2hvdWxkIGNvbnRhaW4oZXhwZWN0ZWQpCiAgICAvLyAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgLy8gdGVzdCBkYXRhCiAgdmFsIGdlbmVyYXRpb25Dc3YgPSBTb3VyY2UuZnJvbVN0cmluZygKICAgICIiInxBY2NvdW50IElELERhdGUsMDozMAogICAgICAgfCAxLDIwMTYtMTEtMDEsMS43CiAgICAgICB8IDIsMjAxNi0xMS0wMSwwLjkKICAgICAgIHwgMywyMDE2LTExLTAxLDMuMwogICAgICAgfCA0LDIwMTYtMTEtMDEsMC4xIiIiLnN0cmlwTWFyZ2luKCd8JykpCgogIHZhbCB1c2FnZUNzdiA9IFNvdXJjZS5mcm9tU3RyaW5nKAogICAgIiIifEFjY291bnQgSUQsRGF0ZSwwOjMwCiAgICAgICB8MSwyMDE2LTExLTAxLDIuNQogICAgICAgfDIsMjAxNi0xMS0wMSw5LjgKICAgICAgIHwzLDIwMTYtMTEtMDEsMy4wCiAgICAgICB8NCwyMDE2LTExLTAxLDEyLjAiIiIuc3RyaXBNYXJnaW4oJ3wnKSkKCiAgdmFsIHRhcmlmZkNzdiA9IFNvdXJjZS5mcm9tU3RyaW5nKAogICAgIiIifEFjY291bnQgSUQsRGF0ZSwwOjMwCiAgICAgICB8MSwyMDE2LTExLTAxLDAuMQogICAgICAgfDIsMjAxNi0xMS0wMSwwLjIKICAgICAgIHwzLDIwMTYtMTEtMDEsMC43CiAgICAgICB8NCwyMDE2LTExLTAxLDAuNSIiIi5zdHJpcE1hcmdpbignfCcpKQoKICB2YWwgc2xhQ3N2ID0gU291cmNlLmZyb21TdHJpbmcoCiAgICAiIiJ8QWNjb3VudCBJRCxEYXRlLDA6MzAKICAgICAgIHwxLDIwMTYtMTEtMDEsMC4xCiAgICAgICB8MiwyMDE2LTExLTAxLDAuMQogICAgICAgfDMsMjAxNi0xMS0wMSwwLjIKICAgICAgIHw0LDIwMTYtMTEtMDEsMC4wIiIiLnN0cmlwTWFyZ2luKCd8Jykp</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIGdlbmVyYXRpb25SZXBvc2l0b3J5ID0gbmV3IEdlbmVyYXRpb25Dc3ZSZXBvc2l0b3J5KGdlbmVyYXRpb25Dc3YpCi8vICAgIHZhbCB1c2FnZVJlcG9zaXRvcnkgPSBuZXcgQ29uc3VtcHRpb25Dc3ZSZXBvc2l0b3J5KHVzYWdlQ3N2KQovLyAgICB2YWwgdGFyaWZmUmVwb3NpdG9yeSA9IG5ldyBUYXJpZmZDc3ZSZXBvc2l0b3J5KHRhcmlmZkNzdikKLy8gICAgdmFsIHNsYVJlcG9zaXRvcnkgPSBuZXcgU2xhQ3N2UmVwb3NpdG9yeShzbGFDc3YpCi8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRlID0gCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBqc29uID0gImFzc2lnbm1lbnRzIiAtPiBhc3NpZ25tZW50cy5tYXAgeyBjYXNlIChkYXRlLCBzbG90QXNzaWdubWVudHMpID0+CiAgICAvLyAgICAgICgKICAgIC8vICAgICAgICAoImRhdGUiIC0+IGRhdGVGb3JtYXQuZm9ybWF0KGRhdGUpKSB+CiAgICAvLyAgICAgICAgKCJhbGxvY2F0aW9ucyIgLT4gc2xvdEFzc2lnbm1lbnRzLnRvTGlzdC5tYXAgeyBjYXNlIChjb25zdW1lckFjY291bnQsIGFsbG9jYXRpb25zKSA9PgogICAgLy8gICAgICAgICAgKAogICAgLy8gICAgICAgICAgICAoImNvbnN1bWVyLWFjY291bnQiKSAtPiBjb25zdW1lckFjY291bnQuaWQudG9TdHJpbmcpIH4KICAgIC8vICAgICAgICAgICAgKCJnZW5lcmF0b3ItYXNzaWdubWVudHMiIC0+IGFsbG9jYXRpb25zLm1hcCB7IGNhc2UgKGdlbmVyYXRpb25BY2NvdW50LCBnZW5lcmF0aW9uRGF0ZSwgYXNzaWdubWVudCkgPT4KICAgIC8vICAgICAgICAgICAgICAoCiAgICAvLyAgICAgICAgICAgICAgICAoImdlbmVyYXRvci1hY2NvdW50IiAtPiBnZW5lcmF0aW9uQWNjb3VudC5pZC50b1N0cmluZykgfgogICAgLy8gICAgICAgICAgICAgICAgKCJnZW5lcmF0aW9uLWRhdGUiIC0+IGRhdGVGb3JtYXQuZm9ybWF0KGdlbmVyYXRpb25EYXRlKSkgfgogICAgLy8gICAgICAgICAgICAgICAgKCJwb3dlci1hbGxvY2F0aW9uIiAtPiBhc3NpZ25tZW50LnRvU3RyaW5nKQogICAgLy8gICAgICAgICAgICAgICkKICAgIC8vICAgICAgICAgICAgfSkKICAgIC8vICAgICAgICAgICkKICAgIC8vICAgICAgICB9KQogICAgLy8gICAgICApCiAgICAvLyAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -1475,7 +1482,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
