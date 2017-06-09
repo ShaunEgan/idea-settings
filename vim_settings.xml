@@ -135,6 +135,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/admins.js" timestamp="1497011844138" />
       <file name="$USER_HOME$/dev/helios/src/practices/service/PracticeRepository.js" timestamp="1494759269110">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -179,13 +180,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1496835351274">
-        <mark key="'" line="43" column="66" />
-        <mark key="[" line="134" column="76" />
-        <mark key="]" line="136" column="42" />
-        <mark key="." line="136" column="42" />
-        <mark key="^" line="136" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
@@ -241,6 +235,9 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1497011689238">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1495716921246">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="10" column="0" />
@@ -255,6 +252,11 @@
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/drivers.js" timestamp="1497011777424">
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="38" column="25" />
+        <mark key="." line="38" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
@@ -414,10 +416,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdjb21wb3Nlci5qc29uJykKICBmcy53cml0ZUZpbGUoZmlsZSwgZGF0YSwgeyBlbmNvZGluZzogJ3V0ZjgnIH0sIGVycm9yID0+IHsKICAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogICAgZWxzZSByZXNvbHZlKG5hbWUpCiAgfSkKfSk=</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>PackageJson</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
