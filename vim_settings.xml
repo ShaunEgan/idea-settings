@@ -23,6 +23,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/settings/settings-local.json" timestamp="1496993185050" />
       <file name="$USER_HOME$/dev/helios/src/practices/service/PracticeRepository.js" timestamp="1494759269110">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -115,7 +116,8 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/package.json" timestamp="1496990910306" />
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/package.json" timestamp="1496993214110" />
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/scripts/start.sh" timestamp="1496993250865" />
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="15" column="44" />
