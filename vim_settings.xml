@@ -96,10 +96,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497101502721">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumptionCsvRepository.scala" timestamp="1496056661507">
         <mark key="[" line="6" column="74" />
         <mark key="]" line="6" column="74" />
         <mark key="." line="6" column="74" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/index.html" timestamp="1497101374739">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -124,10 +132,20 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497101448041">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" timestamp="1494934764346">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497101645206">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
@@ -277,6 +295,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497101190752">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="7" column="6" />
+        <mark key="." line="7" column="6" />
+        <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
@@ -432,10 +456,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgIDxoMj5IZWxsbzwvaDI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>./components/Hello</text>
+        <text>embed-frontend</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -444,34 +468,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgIDxoMj5IZWxsbzwvaDI+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbXNnOiAnV2VsY29tZSB0byB5b3VyIFZ1ZS5qcyBBcHAnLAo=</text>
+        <text encoding="base64">ICAgIDxoMT48L2gxPgogICAgPGgyPkVzc2VudGlhbCBMaW5rczwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXR0ZXIuaW0vdnVlanMvdnVlIiB0YXJnZXQ9Il9ibGFuayI+R2l0dGVyIENoYXQ8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vdnVlanMiIHRhcmdldD0iX2JsYW5rIj5Ud2l0dGVyPC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcm91dGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtcm91dGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vdnVleC52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVleDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZS1sb2FkZXIudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">I2FwcCB7CiAgZm9udC1mYW1pbHk6ICdBdmVuaXInLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwogIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGNvbG9yOiAjMmMzZTUwOwogIG1hcmdpbi10b3A6IDYwcHg7Cn0KCmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
+        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQo=</text>
+        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxoMT48L2gxPgogICAgPGgyPkVzc2VudGlhbCBMaW5rczwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXR0ZXIuaW0vdnVlanMvdnVlIiB0YXJnZXQ9Il9ibGFuayI+R2l0dGVyIENoYXQ8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vdnVlanMiIHRhcmdldD0iX2JsYW5rIj5Ud2l0dGVyPC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcm91dGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtcm91dGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vdnVleC52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVleDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZS1sb2FkZXIudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgICAgbXNnOiAnV2VsY29tZSB0byB5b3VyIFZ1ZS5qcyBBcHAnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyByZW5kZXI6IGggPT4gaChBcHApCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7eyBtZXNzYWdlIH19Cg==</text>
+        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
