@@ -96,8 +96,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497101502721">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497103435414">
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumptionCsvRepository.scala" timestamp="1496056661507">
         <mark key="[" line="6" column="74" />
@@ -132,20 +135,21 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497101448041">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497103094351">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" timestamp="1494934764346">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497101645206">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497103463301">
+        <mark key="'" line="3" column="5" />
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
@@ -157,10 +161,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/main.js" timestamp="1497098709889">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/main.js" timestamp="1497102811217">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
         <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494394737902">
@@ -296,10 +300,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497101190752">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="7" column="6" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497103341434">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
         <mark key="^" line="7" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
@@ -327,7 +331,7 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497099244684">
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
         <mark key="." line="8" column="19" />
@@ -353,7 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="1" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" />
       <jump line="9" column="50" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="21" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
@@ -453,62 +456,63 @@
       <jump line="43" column="66" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" />
+      <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxoMj5IZWxsbzwvaDI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, Hello</text>
       </register>
       <register name="-" type="4">
-        <text>embed-frontend</text>
+        <text>, Hello</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b1NlcVw+</text>
+        <text encoding="base64">XDxoZWxsb1w+</text>
       </register>
       <register name="0" type="4">
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMj5IZWxsbzwvaDI+Cg==</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvIGZyb20gJy4vY29tcG9uZW50cy9IZWxsby52dWUnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMT48L2gxPgogICAgPGgyPkVzc2VudGlhbCBMaW5rczwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXR0ZXIuaW0vdnVlanMvdnVlIiB0YXJnZXQ9Il9ibGFuayI+R2l0dGVyIENoYXQ8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vdnVlanMiIHRhcmdldD0iX2JsYW5rIj5Ud2l0dGVyPC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcm91dGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtcm91dGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vdnVleC52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVleDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZS1sb2FkZXIudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIExhbmRpbmcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2FwcCB7CiAgZm9udC1mYW1pbHk6ICdBdmVuaXInLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwogIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGNvbG9yOiAjMmMzZTUwOwogIG1hcmdpbi10b3A6IDYwcHg7Cn0KCmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
+        <text encoding="base64">aW1wb3J0IExhbmRpbmcgZnJvbSAnLi9jb21wb25lbnRzL0xhbmRpbmcudnVlJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIDxoMj5tb3JlIGRpY2tzPC9oMj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxoMT57eyBtc2cgfX08L2gxPgo=</text>
+        <text encoding="base64">ICAgIDxoMj5kaWNrczwvaDI+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbXNnOiAnV2VsY29tZSB0byB5b3VyIFZ1ZS5qcyBBcHAnLAo=</text>
+        <text encoding="base64">ICAgIDxoMj5IZWxsbzwvaDI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIDxoMT48L2gxPgogICAgPGgyPkVzc2VudGlhbCBMaW5rczwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwczovL3Z1ZWpzLm9yZyIgdGFyZ2V0PSJfYmxhbmsiPkNvcmUgRG9jczwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9mb3J1bS52dWVqcy5vcmciIHRhcmdldD0iX2JsYW5rIj5Gb3J1bTwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9naXR0ZXIuaW0vdnVlanMvdnVlIiB0YXJnZXQ9Il9ibGFuayI+R2l0dGVyIENoYXQ8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vdHdpdHRlci5jb20vdnVlanMiIHRhcmdldD0iX2JsYW5rIj5Ud2l0dGVyPC9hPjwvbGk+CiAgICA8L3VsPgogICAgPGgyPkVjb3N5c3RlbTwvaDI+CiAgICA8dWw+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vcm91dGVyLnZ1ZWpzLm9yZy8iIHRhcmdldD0iX2JsYW5rIj52dWUtcm91dGVyPC9hPjwvbGk+CiAgICAgIDxsaT48YSBocmVmPSJodHRwOi8vdnVleC52dWVqcy5vcmcvIiB0YXJnZXQ9Il9ibGFuayI+dnVleDwvYT48L2xpPgogICAgICA8bGk+PGEgaHJlZj0iaHR0cDovL3Z1ZS1sb2FkZXIudnVlanMub3JnLyIgdGFyZ2V0PSJfYmxhbmsiPnZ1ZS1sb2FkZXI8L2E+PC9saT4KICAgICAgPGxpPjxhIGhyZWY9Imh0dHBzOi8vZ2l0aHViLmNvbS92dWVqcy9hd2Vzb21lLXZ1ZSIgdGFyZ2V0PSJfYmxhbmsiPmF3ZXNvbWUtdnVlPC9hPjwvbGk+CiAgICA8L3VsPgogIDwvZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
+        <text encoding="base64">I2FwcCB7CiAgZm9udC1mYW1pbHk6ICdBdmVuaXInLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwogIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGNvbG9yOiAjMmMzZTUwOwogIG1hcmdpbi10b3A6IDYwcHg7Cn0KCmgxLCBoMiB7CiAgZm9udC13ZWlnaHQ6IG5vcm1hbDsKfQoKdWwgewogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICBwYWRkaW5nOiAwOwp9CgpsaSB7CiAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogIG1hcmdpbjogMCAxMHB4Owp9CgphIHsKICBjb2xvcjogIzQyYjk4MzsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQo=</text>
+        <text encoding="base64">ICBkYXRhICgpIHsKICAgIHJldHVybiB7CiAgICAgIG1zZzogJ1dlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwJwogICAgfQogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b1NlcVw+</last-search>
+      <last-search encoding="base64">XDxoZWxsb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b1NlcVw+</last-pattern>
+      <last-pattern encoding="base64">XDxoZWxsb1w+</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -532,6 +536,7 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxvcHRpb25hbFw+</entry>
         <entry encoding="base64">XDx0b1NlcVw+</entry>
+        <entry encoding="base64">XDxoZWxsb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
