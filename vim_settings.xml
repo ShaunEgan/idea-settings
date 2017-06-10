@@ -129,17 +129,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/settings/settings-local.json" timestamp="1497010519861" />
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/admins.js" timestamp="1497011844138" />
       <file name="$USER_HOME$/dev/helios/src/practices/service/PracticeRepository.js" timestamp="1494759269110">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/main.js" timestamp="1497097883861">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="25" />
+        <mark key="." line="5" column="25" />
+        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494394737902">
         <mark key="[" line="8" column="19" />
@@ -293,6 +297,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497098038611">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496837133249">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
@@ -313,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
       <jump line="43" column="1" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Lib/Elasticsearch/Context.php" />
       <jump line="25" column="0" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" />
       <jump line="9" column="50" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
@@ -413,13 +421,14 @@
       <jump line="4" column="0" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/ContextData.scala" />
       <jump line="43" column="66" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" />
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7eyBtZXNzYWdlIH19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b1NlcVw+</text>
@@ -427,35 +436,35 @@
       <register name="0" type="4">
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdjb21wb3Nlci5qc29uJykKICBmcy53cml0ZUZpbGUoZmlsZSwgZGF0YSwgeyBlbmNvZGluZzogJ3V0ZjgnIH0sIGVycm9yID0+IHsKICAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogICAgZWxzZSByZXNvbHZlKG5hbWUpCiAgfSkKfSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB7eyBtZXNzYWdlIH19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bmFtZSA9PiBkYXRhID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICBjb25zdCBmaWxlID0gcGF0aC5qb2luKG5hbWUsICdwYWNrYWdlLmpzb24nKQogIGZzLndyaXRlRmlsZShmaWxlLCBkYXRhLCB7IGVuY29kaW5nOiAndXRmOCcgfSwgZXJyb3IgPT4gewogICAgaWYgKGVycm9yKSByZWplY3QoZXJyb3IpCiAgICBlbHNlIHJlc29sdmUobmFtZSkKICB9KQp9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">PC90ZW1wbGF0ZT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PHRlbXBsYXRlPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgZ2V0Q29tcG9zZXJKc29uID0gKG5hbWUpID0+IGdldEpzb25GaWxlKCdjb21wb3Nlci5qc29uJywgbmFtZSkK</text>
+        <text encoding="base64">ICAgIDxoMj5NeSBWdWUgYXBwPC9oMj4KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvLyAgICB3aGVuUmVhZHkoYWxsb2NhdGlvblNlcnZpY2UuYWxsb2NhdGUoTG9jYWxEYXRlLm9mKDIwMTYsIDExLCAxKSwgMzApLCB0aW1lb3V0KDMwIHNlY29uZHMpKSB7CiAgICAvLyAgICAgIF8gc2hvdWxkIGNvbnRhaW4oZXhwZWN0ZWQpCiAgICAvLyAgICB9Cg==</text>
+        <text encoding="base64">ICByZW5kZXI6IGggPT4gaChBcHApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGdlbmVyYXRpb25SZXBvc2l0b3J5ID0gbmV3IEdlbmVyYXRpb25Dc3ZSZXBvc2l0b3J5KGdlbmVyYXRpb25Dc3YpCi8vICAgIHZhbCB1c2FnZVJlcG9zaXRvcnkgPSBuZXcgQ29uc3VtcHRpb25Dc3ZSZXBvc2l0b3J5KHVzYWdlQ3N2KQovLyAgICB2YWwgdGFyaWZmUmVwb3NpdG9yeSA9IG5ldyBUYXJpZmZDc3ZSZXBvc2l0b3J5KHRhcmlmZkNzdikKLy8gICAgdmFsIHNsYVJlcG9zaXRvcnkgPSBuZXcgU2xhQ3N2UmVwb3NpdG9yeShzbGFDc3YpCi8vCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRlID0gCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
