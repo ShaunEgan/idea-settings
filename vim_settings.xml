@@ -65,11 +65,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497199718780">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="2" column="3" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497202079210">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="20" column="16" />
+        <mark key="." line="20" column="16" />
+        <mark key="^" line="20" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
         <mark key="[" line="4" column="37" />
@@ -267,11 +267,10 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497199460551">
-        <mark key="[" line="61" column="12" />
-        <mark key="]" line="61" column="13" />
-        <mark key="." line="61" column="13" />
-        <mark key="^" line="61" column="13" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497202023363">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -496,8 +495,8 @@
       <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="-" type="4">
         <text>true</text>
@@ -506,38 +505,38 @@
         <text encoding="base64">XDxoZWxsb1w+</text>
       </register>
       <register name="0" type="4">
-        <text>expect(data).toBeAllOfType(Consumer)</text>
+        <text>.VueCarousel-wrapper {
+    overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBhcmVudAo=</text>
+        <text encoding="base64">ICAuVnVlQ2Fyb3VzZWwtd3JhcHBlciB7CiAgICBvdmVyZmxvdy15OiB2aXNpYmxlOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiB2aXNpYmxlOwogICAgZmxvYXQ6cmlnaHQ7Cg==</text>
+        <text encoding="base64">ICAgIC8qYm90dG9tOiAxMTBweDsqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgLyptYXJnaW4tcmlnaHQ6IGF1dG87Ki8K</text>
+        <text encoding="base64">ICAgIC8qb3ZlcmZsb3cteDogdmlzaWJsZTsqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXk6IHZpc2libGU7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>position: absolute;
-    top: -80px;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IGhpZGRlbjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhY3Rpb24tcG9wdXAtdGl0bGUiPgo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93LXg6IGhpZGRlbjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
