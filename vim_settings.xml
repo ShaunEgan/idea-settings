@@ -65,11 +65,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497196317929">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="6" />
-        <mark key="." line="14" column="6" />
-        <mark key="^" line="14" column="13" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497199718780">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
         <mark key="[" line="4" column="37" />
@@ -267,10 +267,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497193157021">
-        <mark key="[" line="10" column="17" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497199460551">
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+        <mark key="^" line="61" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -495,11 +496,11 @@
       <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>active</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>active</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1w+</text>
@@ -508,34 +509,35 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1ldGhvZHM6IHsKICAgICAgc2hvd1BvcHVwOiAoKSA9PiB7CiAgICAgICAgdGhpcy5hY3RpdmUgPSB0cnVlCiAgICAgIH0sCiAgICAgIGhpZGVQb3B1cDogKCkgPT4gewogICAgICAgIHRoaXMuYWN0aXZlID0gZmFsc2UKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnaGlkaW5nJykK</text>
+        <text encoding="base64">ICAgIHBhcmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCgnc2hvd2luZycpCg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMjUwcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8IS0tPGFjdGlvbi0tPsKnZDYKICAgICAgICAgICAgICAgPCEtLXYtZm9yPSIoYWN0aW9uLCBpbmRleCkgaW4gYnJhbmQuYWN0aW9ucyItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDphY3Rpb249ImFjdGlvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppY29uPSJhY3Rpb24uaWNvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppbmRleD0iaW5kZXgiLS0+CiAgICAgICAgICAgICAgIDwhLS12LWJpbmQ6a2V5PSJhY3Rpb24uYWN0aW9uSWQiPi0tPgogICAgICAgICAgIDwhLS08L2FjdGlvbj4tLT4K</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiB2aXNpYmxlOwogICAgZmxvYXQ6cmlnaHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAyMHB4Owo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgLyptYXJnaW4tcmlnaHQ6IGF1dG87Ki8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzbGlkZT5JdGVtIDE8L3NsaWRlPgogICAgICAgICAgPHNsaWRlPkl0ZW0gMjwvc2xpZGU+CiAgICAgICAgICA8c2xpZGU+SXRlbSAzPC9zbGlkZT4KICAgICAgICAgIDxzbGlkZT5JdGVtIDQ8L3NsaWRlPgogICAgICAgICAgPHNsaWRlPkl0ZW0gNTwvc2xpZGU+CiAgICAgICAgICA8c2xpZGU+SXRlbSA2PC9zbGlkZT4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQ2Fyb3VzZWwsCg==</text>
+      <register name="7" type="4">
+        <text>position: absolute;
+    top: -80px;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQ2Fyb3VzZWwgZnJvbSAndnVlLWNhcm91c2VsJwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJhY3Rpb24tcG9wdXAtdGl0bGUiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgU2xpZGUKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
