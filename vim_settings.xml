@@ -65,11 +65,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497191854833">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497193021857">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
         <mark key="[" line="4" column="37" />
@@ -267,11 +267,10 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497191575293">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="47" column="0" />
-        <mark key="^" line="12" column="25" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497193157021">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -338,8 +337,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497183656316">
-        <mark key="[" line="10" column="28" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497192362780">
         <mark key="]" line="10" column="28" />
         <mark key="^" line="24" column="18" />
         <mark key="." line="10" column="28" />
@@ -498,10 +496,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHt7IGFjdGlvbiB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICA8IS0tPGFjdGlvbi0tPsKnZDYKICAgICAgICAgICAgICAgPCEtLXYtZm9yPSIoYWN0aW9uLCBpbmRleCkgaW4gYnJhbmQuYWN0aW9ucyItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDphY3Rpb249ImFjdGlvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppY29uPSJhY3Rpb24uaWNvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppbmRleD0iaW5kZXgiLS0+CiAgICAgICAgICAgICAgIDwhLS12LWJpbmQ6a2V5PSJhY3Rpb24uYWN0aW9uSWQiPi0tPgogICAgICAgICAgIDwhLS08L2FjdGlvbj4tLT4K</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1w+</text>
@@ -510,34 +508,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHt7IGFjdGlvbiB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICA8IS0tPGFjdGlvbi0tPsKnZDYKICAgICAgICAgICAgICAgPCEtLXYtZm9yPSIoYWN0aW9uLCBpbmRleCkgaW4gYnJhbmQuYWN0aW9ucyItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDphY3Rpb249ImFjdGlvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppY29uPSJhY3Rpb24uaWNvbiItLT4KICAgICAgICAgICAgICAgPCEtLXYtYmluZDppbmRleD0iaW5kZXgiLS0+CiAgICAgICAgICAgICAgIDwhLS12LWJpbmQ6a2V5PSJhY3Rpb24uYWN0aW9uSWQiPi0tPgogICAgICAgICAgIDwhLS08L2FjdGlvbj4tLT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEkgYW0gYW4gYWN0aW9uCg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAyMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIDxzbGlkZT5JdGVtIDE8L3NsaWRlPgogICAgICAgICAgPHNsaWRlPkl0ZW0gMjwvc2xpZGU+CiAgICAgICAgICA8c2xpZGU+SXRlbSAzPC9zbGlkZT4KICAgICAgICAgIDxzbGlkZT5JdGVtIDQ8L3NsaWRlPgogICAgICAgICAgPHNsaWRlPkl0ZW0gNTwvc2xpZGU+CiAgICAgICAgICA8c2xpZGU+SXRlbSA2PC9zbGlkZT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uKCkgewogICAgICByZXR1cm4gewogICAgICAgIGljb246ICd0ZXN0JywKICAgICAgICBpdGVtOiB7fQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgQ2Fyb3VzZWwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHBvcnQgZGVmYXVsdCB7CiAgfQo=</text>
+        <text encoding="base64">ICBpbXBvcnQgQ2Fyb3VzZWwgZnJvbSAndnVlLWNhcm91c2VsJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgQWN0aW9uCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgU2xpZGUKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgQWN0aW9uCiAgICB9CiAgfQo8L3NjcmlwdD4KCjxzdHlsZT4KICAucGwtbG9nby1pY29uIHsKICAgIHdpZHRoOiA4MHB4OwogICAgaGVpZ2h0OiA4MHB4OwogIH0KPC9zdHlsZT4K</text>
+        <text encoding="base64">ICAgICAgQ2Fyb3VzZWwsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIHt7IGFjdGlvbiB9fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
+        <text encoding="base64">ICAgIEkgYW0gYW4gYWN0aW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
