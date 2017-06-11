@@ -138,6 +138,12 @@
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/Brand.vue" timestamp="1497187660369">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -153,11 +159,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497183698612">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="18" column="3" />
-        <mark key="." line="18" column="3" />
-        <mark key="^" line="1" column="19" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497187254625">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="6" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
@@ -249,10 +255,21 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497187847510">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/Api.js" timestamp="1497187552149">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="17" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
@@ -467,11 +484,11 @@
       <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgYXBpID0gbmV3IEFwaSgnYWxza2RqYWxza2RqJykKICAgICAgdGhpcy5hY3Rpb25zID0gYXBpLmZldGNoQnJhbmQodGhpcy5icmFuZCkK</text>
       </register>
       <register name="-" type="4">
-        <text>app</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1w+</text>
@@ -480,34 +497,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxoMT5BcHAgcGFnZTwvaDE+Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYXBpID0gbmV3IEFwaSgnYWxza2RqYWxza2RqJykKICAgICAgdGhpcy5hY3Rpb25zID0gYXBpLmZldGNoQnJhbmQodGhpcy5icmFuZCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxoMT5BcHAgcGFnZTwvaDE+Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgQXBpIGZyb20gJy4vQXBpJwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxsYW5kaW5nPjwvbGFuZGluZz4K</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBlbDogJyNhcHAnLAo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgTGFuZGluZwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnQgTGFuZGluZyBmcm9tICcuL2NvbXBvbmVudHMvTGFuZGluZy52dWUnCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGlkPSJhcHAiPgogICAgPGxhbmRpbmc+PC9sYW5kaW5nPgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDYwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdG9yZSwK</text>
+        <text encoding="base64">ICAgIDxoMT5BcHAgcGFnZTwvaDE+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0b3JlIGZyb20gJy4vc3RvcmUnOwo=</text>
+        <text encoding="base64">ICAgIDxoMT5BcHAgcGFnZTwvaDE+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxsYW5kaW5nPjwvbGFuZGluZz4K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
