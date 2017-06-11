@@ -65,6 +65,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497191854833">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="37" />
@@ -261,11 +267,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497189246710">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="38" column="19" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497191575293">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="12" column="25" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -492,10 +498,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiB7eyBicmFuZCB9fQo=</text>
+        <text encoding="base64">ICAgIHt7IGFjdGlvbiB9fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>actions</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoZWxsb1w+</text>
@@ -504,34 +510,34 @@
         <text>expect(data).toBeAllOfType(Consumer)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiB7eyBicmFuZCB9fQo=</text>
+        <text encoding="base64">ICAgIHt7IGFjdGlvbiB9fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBicmFuZDogLAo=</text>
+        <text encoding="base64">ICAgIEkgYW0gYW4gYWN0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBicmFuZDogLAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXBpID0gbmV3IEFwaSgnYWxza2RqYWxza2RqJykKICAgICAgdGhpcy5hY3Rpb25zID0gYXBpLmZldGNoQnJhbmQodGhpcy5icmFuZCkK</text>
+        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uKCkgewogICAgICByZXR1cm4gewogICAgICAgIGljb246ICd0ZXN0JywKICAgICAgICBpdGVtOiB7fQogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpbXBvcnQgQXBpIGZyb20gJy4vQXBpJwoK</text>
+        <text encoding="base64">ICBleHBvcnQgZGVmYXVsdCB7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgQWN0aW9uCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgTGFuZGluZwogICAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgQWN0aW9uCiAgICB9CiAgfQo8L3NjcmlwdD4KCjxzdHlsZT4KICAucGwtbG9nby1pY29uIHsKICAgIHdpZHRoOiA4MHB4OwogICAgaGVpZ2h0OiA4MHB4OwogIH0KPC9zdHlsZT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBvcnQgTGFuZGluZyBmcm9tICcuL2NvbXBvbmVudHMvTGFuZGluZy52dWUnCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDYwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
