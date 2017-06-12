@@ -11,12 +11,6 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497188482085">
-        <mark key="[" line="0" column="29" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
-      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -255,10 +249,10 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1496669304723">
-        <mark key="[" line="2" column="61" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1497283856244">
+        <mark key="[" line="32" column="9" />
+        <mark key="]" line="32" column="9" />
+        <mark key="." line="32" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
         <mark key="[" line="17" column="18" />
@@ -508,10 +502,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">di1iaW5kOmtleT0iYWN0aW9uLnRpdGxlIiA=</text>
+        <text>exception</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">di1iaW5kOmtleT0iYWN0aW9uLnRpdGxlIiA=</text>
+        <text>exception</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY3Rpb25Qb3B1cFw+</text>
