@@ -65,11 +65,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497254208040">
-        <mark key="[" line="23" column="12" />
-        <mark key="]" line="23" column="15" />
-        <mark key="." line="23" column="15" />
-        <mark key="^" line="23" column="15" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497257174393">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1496905268738">
         <mark key="[" line="4" column="37" />
@@ -496,8 +495,8 @@
       <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG92ZXJmbG93OiB2aXNpYmxlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>false</text>
@@ -510,34 +509,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwMHB4Owo=</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiB2aXNpYmxlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogNjAwcHg7Cg==</text>
+        <text encoding="base64">ICAgIC8qYm90dG9tOiAxMjBweDsqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgLnRlc3QgewogICAgaGVpZ2h0OiA1MDBweDsKICB9Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDEwMHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGJvdHRvbTogMTIwcHg7Cg==</text>
+        <text encoding="base64">ICAgIGhlaWdodDogNjAwcHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgLnRlc3QgewogICAgaGVpZ2h0OiA1MDBweDsKICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGJvdHRvbTogMTIwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuVnVlQ2Fyb3VzZWwtd3JhcHBlciB7CiAgICBvdmVyZmxvdy15OiB2aXNpYmxlOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qYm90dG9tOiAxMTBweDsqLwo=</text>
+        <text encoding="base64">ICAuVnVlQ2Fyb3VzZWwtd3JhcHBlciB7CiAgICBvdmVyZmxvdy15OiB2aXNpYmxlOwogIH0K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
