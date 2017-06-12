@@ -266,11 +266,12 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497269457268">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="57" column="24" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497272174382">
+        <mark key="'" line="58" column="47" />
+        <mark key="[" line="63" column="61" />
+        <mark key="]" line="63" column="61" />
+        <mark key="." line="63" column="61" />
+        <mark key="^" line="63" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -342,10 +343,10 @@
         <mark key="^" line="24" column="18" />
         <mark key="." line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/ActionPopup.vue" timestamp="1497265886121">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/ActionPopup.vue" timestamp="1497272068442">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
@@ -398,7 +399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="0" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/ParameterQueryable.php" />
       <jump line="9" column="50" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/Post.php" />
       <jump line="21" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/Elasticsearch/PostRepository.php" />
       <jump line="8" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
@@ -498,59 +498,60 @@
       <jump line="13" column="1" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
       <jump line="31" column="0" filename="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" />
       <jump line="3" column="5" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" />
+      <jump line="58" column="47" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>left</text>
       </register>
       <register name="-" type="4">
-        <text>argv</text>
+        <text>left</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWxsb1w+</text>
+        <text encoding="base64">XDxhY3Rpb25Qb3B1cFw+</text>
       </register>
       <register name="0" type="4">
         <text>.VueCarousel-wrapper {
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qdG9wOiAxMHB4OyovCiAgICAvKmxlZnQ6IDEwcHg7Ki8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIHYtYmluZDpzcmM9ImFjdGlvbi5pY29uIiB2LWJpbmQ6YWx0PSJhY3Rpb24udGl0bGUiIHYtb246bW91c2VvdmVyPSJzaG93UG9wdXAoJGV2ZW50LCBhY3Rpb24pIi8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3B1cFN0eWxlOiB7CiAgICAgICAgICBib3R0b206IDAKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudCkK</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2ID4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvdHRvbTogMTEwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtYmluZDpjbGFzcz0icG9wdXBTdHlsZSI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHotaW5kZXg6IDUwMDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3B1cFN0eWxlOiB7CiAgICAgICAgICBib3R0b206IDAKICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgIGJvdHRvbTogMTEwcHg7CiAgICB6LWluZGV4OiA1MDAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWxsb1w+</last-search>
+      <last-search encoding="base64">XDxhY3Rpb25Qb3B1cFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWxsb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxhY3Rpb25Qb3B1cFw+</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
@@ -579,6 +580,7 @@
         <entry encoding="base64">XDxvcHRpb25hbFw+</entry>
         <entry encoding="base64">XDx0b1NlcVw+</entry>
         <entry encoding="base64">XDxoZWxsb1w+</entry>
+        <entry encoding="base64">XDxhY3Rpb25Qb3B1cFw+</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
