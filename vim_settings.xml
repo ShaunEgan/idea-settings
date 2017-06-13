@@ -138,11 +138,14 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/webpack.config.js" timestamp="1497329912319">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="58" column="5" />
-        <mark key="." line="58" column="5" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/webpack.config.js" timestamp="1497337848866">
+        <mark key="[" line="61" column="3" />
+        <mark key="]" line="61" column="3" />
+        <mark key="." line="61" column="3" />
         <mark key="^" line="58" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/services/PtsiService.js" timestamp="1495529330689">
         <mark key="[" line="49" column="22" />
@@ -509,7 +512,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text encoding="base64">LAogIA==</text>
       </register>
       <register name="-" type="4">
         <text>(</text>
@@ -521,38 +524,38 @@
         <text>.VueCarousel-wrapper {
     overflow:</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">LAogIA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+U2lnbiBpbiBhbmQgc2hhcmUgdG8gc2hvdyB0aGF0IHlvdSB0cnVzdCB0aGlzIGJyYW5kPC9wPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPHA+U2lnbiBpbiBhbmQgc2hhcmUgdG8gc2hvdyB0aGF0IHlvdSB0cnVzdCB0aGlzIGJyYW5kPC9wPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7CiAgICAgIF9fQVBJX186IGFwaUhvc3QKICAgIH0pLAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,
     new webpack.DefinePlugin({
       __API__: apiHost
     }),</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHBvc2l0aW9uID49IDAgPyBwb3NpdGlvblByb3BlcnR5IDogYDAgcHhgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSZXN1bHQ6ICR7cmVzdWx0fWApCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBQb3NpdGlvbjogJHtwb3NpdGlvblByb3BlcnR5fWApCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qdG9wOiAxMHB4OyovCiAgICAvKmxlZnQ6IDEwcHg7Ki8K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIHYtYmluZDpzcmM9ImFjdGlvbi5pY29uIiB2LWJpbmQ6YWx0PSJhY3Rpb24udGl0bGUiIHYtb246bW91c2VvdmVyPSJzaG93UG9wdXAoJGV2ZW50LCBhY3Rpb24pIi8+Cg==</text>
+        <text encoding="base64">ICAgIC8qdG9wOiAxMHB4OyovCiAgICAvKmxlZnQ6IDEwcHg7Ki8K</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
