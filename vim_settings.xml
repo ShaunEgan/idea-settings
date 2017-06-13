@@ -49,11 +49,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497355567198">
-        <mark key="[" line="1" column="3" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="2" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
         <mark key="[" line="12" column="0" />
@@ -523,7 +523,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge3thcGlVcmw6ICosIHVyaTogKiwgYXV0aDoge2ZhY2Vib29rOiB7Y2xpZW50SWQ6ICosIGNsaWVudFNlY3JldDogKiwgY2FsbGJhY2tVcmw6IHN0cmluZ30sIHR3aXR0ZXI6IHtjbGllbnRJZDogKiwgY2xpZW50U2VjcmV0OiAqLCBjYWxsYmFja1VybDogc3RyaW5nfX19fQo=</text>
+        <text encoding="base64">ICAgICAgY2xpZW50U2VjcmV0OiBwcm9jZXNzLmVudi5GQUNFQk9PS19DTElFTlRfU0VDUkVULAogICAgICBjYWxsYmFja1VybDogYCR7cHJvY2Vzcy5lbnYuQVBQX1VSSX0vYXV0aC9mYWNlYm9vay9jYWxsYmFja2AK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -536,34 +536,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge3thcGlVcmw6ICosIHVyaTogKiwgYXV0aDoge2ZhY2Vib29rOiB7Y2xpZW50SWQ6ICosIGNsaWVudFNlY3JldDogKiwgY2FsbGJhY2tVcmw6IHN0cmluZ30sIHR3aXR0ZXI6IHtjbGllbnRJZDogKiwgY2xpZW50U2VjcmV0OiAqLCBjYWxsYmFja1VybDogc3RyaW5nfX19fQo=</text>
+        <text encoding="base64">ICAgICAgY2xpZW50U2VjcmV0OiBwcm9jZXNzLmVudi5GQUNFQk9PS19DTElFTlRfU0VDUkVULAogICAgICBjYWxsYmFja1VybDogYCR7cHJvY2Vzcy5lbnYuQVBQX1VSSX0vYXV0aC9mYWNlYm9vay9jYWxsYmFja2AK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHR5cGUge3thcGlVcmw6ICosIHVyaTogKiwgYXV0aDoge2ZhY2Vib29rOiB7Y2xpZW50SWQ6ICosIGNsaWVudFNlY3JldDogKiwgY2FsbGJhY2tVcmw6IHN0cmluZ30sIHR3aXR0ZXI6IHtjbGllbnRJZDogKiwgY2xpZW50U2VjcmV0OiAqLCBjYWxsYmFja1VybDogc3RyaW5nfX19fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgZW52ID0gcHJvY2Vzcy5lbnYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvaW1hZ2VzL3RydXN0bWFyay5wbmciPjwvaW1nPgo=</text>
+        <text encoding="base64">Y29uc3QgZW52ID0gcHJvY2Vzcy5lbnYK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIDxpbWcgc3JjPSIvaW1hZ2VzL3RydXN0bWFyay5wbmciPjwvaW1nPgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxpbWcgc3JjPSIvaW1hZ2VzL3RydXN0bWFyay5wbmciPjwvaW1nPgo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">LAogIA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHA+U2lnbiBpbiBhbmQgc2hhcmUgdG8gc2hvdyB0aGF0IHlvdSB0cnVzdCB0aGlzIGJyYW5kPC9wPgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7CiAgICAgIF9fQVBJX186IGFwaUhvc3QKICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgPHA+U2lnbiBpbiBhbmQgc2hhcmUgdG8gc2hvdyB0aGF0IHlvdSB0cnVzdCB0aGlzIGJyYW5kPC9wPgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
