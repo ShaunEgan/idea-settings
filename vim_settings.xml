@@ -11,6 +11,9 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497365995958">
+        <mark key="[" line="25" column="54" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -260,10 +263,11 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1497283856244">
-        <mark key="[" line="32" column="9" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1497365985557">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="28" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
         <mark key="[" line="17" column="18" />
@@ -522,11 +526,11 @@
       <jump line="58" column="47" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2xpZW50U2VjcmV0OiBwcm9jZXNzLmVudi5GQUNFQk9PS19DTElFTlRfU0VDUkVULAogICAgICBjYWxsYmFja1VybDogYCR7cHJvY2Vzcy5lbnYuQVBQX1VSSX0vYXV0aC9mYWNlYm9vay9jYWxsYmFja2AK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
