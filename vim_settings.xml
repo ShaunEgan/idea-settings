@@ -170,8 +170,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497269442485">
-        <mark key="[" line="8" column="16" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497289915780">
+        <mark key="[" line="25" column="21" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="7" />
@@ -266,12 +266,12 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497287366447">
-        <mark key="'" line="58" column="47" />
-        <mark key="[" line="65" column="22" />
-        <mark key="]" line="65" column="22" />
-        <mark key="." line="65" column="22" />
-        <mark key="^" line="65" column="21" />
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1497290102328">
+        <mark key="'" line="56" column="47" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -507,8 +507,8 @@
       <jump line="58" column="47" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>__API_roc_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>__API_roc_</text>
@@ -521,37 +521,37 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7CiAgICAgIF9fQVBJX186IGFwaUhvc3QKICAgIH0pLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgPHA+U2lnbiBpbiBhbmQgc2hhcmUgdG8gc2hvdyB0aGF0IHlvdSB0cnVzdCB0aGlzIGJyYW5kPC9wPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG5ldyB3ZWJwYWNrLkRlZmluZVBsdWdpbih7CiAgICAgIF9fQVBJX186IGFwaUhvc3QKICAgIH0pLAo=</text>
+      </register>
+      <register name="4" type="4">
         <text>,
     new webpack.DefinePlugin({
       __API__: apiHost
     }),</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IHBvc2l0aW9uID49IDAgPyBwb3NpdGlvblByb3BlcnR5IDogYDAgcHhgCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBSZXN1bHQ6ICR7cmVzdWx0fWApCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBQb3NpdGlvbjogJHtwb3NpdGlvblByb3BlcnR5fWApCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qdG9wOiAxMHB4OyovCiAgICAvKmxlZnQ6IDEwcHg7Ki8K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIHYtYmluZDpzcmM9ImFjdGlvbi5pY29uIiB2LWJpbmQ6YWx0PSJhY3Rpb24udGl0bGUiIHYtb246bW91c2VvdmVyPSJzaG93UG9wdXAoJGV2ZW50LCBhY3Rpb24pIi8+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwb3B1cFN0eWxlOiB7CiAgICAgICAgICBib3R0b206IDAKICAgICAgICB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW1nIHYtYmluZDpzcmM9ImFjdGlvbi5pY29uIiB2LWJpbmQ6YWx0PSJhY3Rpb24udGl0bGUiIHYtb246bW91c2VvdmVyPSJzaG93UG9wdXAoJGV2ZW50LCBhY3Rpb24pIi8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
