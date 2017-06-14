@@ -80,11 +80,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497455823319">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="16" />
-        <mark key="^" line="56" column="16" />
-        <mark key="." line="56" column="16" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497457161376">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
         <mark key="[" line="0" column="0" />
@@ -254,18 +253,18 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/UserRepository.js" timestamp="1497455773733">
-        <mark key="[" line="9" column="56" />
-        <mark key="]" line="9" column="56" />
-        <mark key="^" line="9" column="40" />
-        <mark key="." line="9" column="56" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/UserRepository.js" timestamp="1497456647072">
+        <mark key="[" line="2" column="37" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496837133249">
         <mark key="[" line="15" column="6" />
         <mark key="]" line="15" column="6" />
         <mark key="." line="15" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-node/passport-auth.js" timestamp="1497455482090">
+      <file name="$USER_HOME$/repositories/poslux-node/passport-auth.js" timestamp="1497456764945">
         <mark key="[" line="43" column="11" />
         <mark key="]" line="41" column="7" />
         <mark key="." line="41" column="7" />
@@ -592,11 +591,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -606,34 +605,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb2ZpbGVQaG90bzogewogICAgICAgICAgICBvcmlnaW5hbFJlbW90ZTogcHJvZmlsZS5waG90b3MubGVuZ3RoID4gMCA/IHByb2ZpbGUucGhvdG9zWzBdLnZhbHVlIDogdW5kZWZpbmVkCiAgICAgICAgICB9LAo=</text>
+        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFNodXRkb3duIGxvZ2ljIC4uLgo=</text>
+        <text encoding="base64">ICAgIC8vIEF1dGhlbnRpY2F0aW9uLmNvbmZpZ3VyZUZhY2Vib29rVG9rZW4oY29uZmlnLCBzZXJ2ZXIsIHVzZXJSZXBvc2l0b3J5KWRkCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gSW4gdGhpcyBleGFtcGxlLCByZWdhcmRsZXNzIG9mIGVycm9yLCB3ZSBtYXJrIHRoZSBzaHV0ZG93biBvcGVyYXRpb24KICAgICAgLy8gY29tcGxldGUuCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">c3RhdGljIGNvbmZpZ3VyZUZhY2Vib29rVG9rZW4oY29uZmlnLCBzZXJ2ZXIsIHVzZXJSZXBvc2l0b3J5KSB7CiAgICBzZXJ2ZXIuZ2V0KGNvbmZpZy5hdXRoLmZhY2Vib29rLnRva2VuUGF0aCwKICAgICAgcGFzc3BvcnQuYXV0aGVudGljYXRlKCdmYWNlYm9vay10b2tlbicpCiAgICApCgogICAgcGFzc3BvcnQudXNlKAogICAgICBuZXcgRmFjZWJvb2tUb2tlblN0cmF0ZWd5KAogICAgICAgIHsKICAgICAgICAgIGNsaWVudElEOiBjb25maWcuYXV0aC5mYWNlYm9vay5hcHBJZCwKICAgICAgICAgIGNsaWVudFNlY3JldDogY29uZmlnLmF1dGguZmFjZWJvb2suYXBwU2VjcmV0CiAgICAgICAgfSwKICAgICAgICAoYWNjZXNzVG9rZW4sIHJlZnJlc2hUb2tlbiwgcHJvZmlsZSwgZG9uZSkgPT4gewogICAgICAgICAgdXNlclJlcG9zaXRvcnkuZmluZE9yQ3JlYXRlKHsgZmFjZWJvb2tJZDogcHJvZmlsZS5pZCB9KQogICAgICAgICAgICAudGhlbih1c2VyID0+IGRvbmUobnVsbCwgewogICAgICAgICAgICAgIHByb2ZpbGUsCiAgICAgICAgICAgICAgYWNjZXNzVG9rZW4KICAgICAgICAgICAgfSkpCiAgICAgICAgICAgIC5jYXRjaChlcnJvciA9PiBkb25lKGVycm9yLCBudWxsKSkKICAgICAgICB9CiAgICAgICkKICAgICkKICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbmNlIHlvdSBhcmUgY2hlY2twb2ludGluZywgb25seSBjYWxsIGNvbXBsZXRlQ2FsbGJhY2sgb25jZSB0aGUgY2hlY2twb2ludAogICAgLy8gb3BlcmF0aW9uIGlzIGNvbXBsZXRlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHByb2ZpbGVQaG90bzogewogICAgICAgICAgICBvcmlnaW5hbFJlbW90ZTogcHJvZmlsZS5waG90b3MubGVuZ3RoID4gMCA/IHByb2ZpbGUucGhvdG9zWzBdLnZhbHVlIDogdW5kZWZpbmVkCiAgICAgICAgICB9LAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFNodXRkb3duIGxvZ2ljIC4uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
+        <text encoding="base64">ICAgICAgLy8gSW4gdGhpcyBleGFtcGxlLCByZWdhcmRsZXNzIG9mIGVycm9yLCB3ZSBtYXJrIHRoZSBzaHV0ZG93biBvcGVyYXRpb24KICAgICAgLy8gY29tcGxldGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFNpbmNlIHlvdSBhcmUgY2hlY2twb2ludGluZywgb25seSBjYWxsIGNvbXBsZXRlQ2FsbGJhY2sgb25jZSB0aGUgY2hlY2twb2ludAogICAgLy8gb3BlcmF0aW9uIGlzIGNvbXBsZXRlLgo=</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
