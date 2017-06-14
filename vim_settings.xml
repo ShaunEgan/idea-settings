@@ -386,11 +386,11 @@
         <mark key="]" line="21" column="131" />
         <mark key="." line="21" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497441799933">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443059015">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="28" column="27" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
         <mark key="[" line="5" column="0" />
@@ -605,13 +605,13 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyZWFtTmFtZSA9ICd0ZXN0LXN0cmVhbScKY29uc3QgaW50ZXJ2YWwgPSA1MDAKY29uc3QgcGFydGl0aW9uS2V5ID0gJ215LWF3ZXNvbWUta2V5Jwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnUHV0dGluZyByZWNvcmQgb24gc3RyZWFtJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">Y29uc3Qgc3RyZWFtTmFtZSA9ICd0ZXN0LXN0cmVhbScKY29uc3QgaW50ZXJ2YWwgPSA1MDAKY29uc3QgcGFydGl0aW9uS2V5ID0gJ215LWF3ZXNvbWUta2V5Jwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
@@ -620,13 +620,13 @@
         <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codHlwZW9mIEtpbmVzaXMpCg==</text>
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2codHlwZW9mIEtpbmVzaXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
