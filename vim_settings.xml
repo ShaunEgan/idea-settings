@@ -386,16 +386,20 @@
         <mark key="]" line="21" column="131" />
         <mark key="." line="21" column="131" />
       </file>
-      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443059015">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/kinesis/consumer/src/index.js" timestamp="1497444939986">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497356306785">
         <mark key="[" line="3" column="46" />
@@ -589,7 +593,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>'eu-west-1'</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -605,28 +609,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnUHV0dGluZyByZWNvcmQgb24gc3RyZWFtJykK</text>
+        <text encoding="base64">ICAgIC8vIFNodXRkb3duIGxvZ2ljIC4uLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gSW4gdGhpcyBleGFtcGxlLCByZWdhcmRsZXNzIG9mIGVycm9yLCB3ZSBtYXJrIHRoZSBzaHV0ZG93biBvcGVyYXRpb24KICAgICAgLy8gY29tcGxldGUuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgc3RyZWFtTmFtZSA9ICd0ZXN0LXN0cmVhbScKY29uc3QgaW50ZXJ2YWwgPSA1MDAKY29uc3QgcGFydGl0aW9uS2V5ID0gJ215LWF3ZXNvbWUta2V5Jwo=</text>
+        <text encoding="base64">ICAgIC8vIFNpbmNlIHlvdSBhcmUgY2hlY2twb2ludGluZywgb25seSBjYWxsIGNvbXBsZXRlQ2FsbGJhY2sgb25jZSB0aGUgY2hlY2twb2ludAogICAgLy8gb3BlcmF0aW9uIGlzIGNvbXBsZXRlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2codHlwZW9mIEtpbmVzaXMpCg==</text>
+        <text encoding="base64">ICAgIERhdGE6IHJlY29yZCwKICAgIFN0cmVhbU5hbWU6IGNvbmZpZy5zdHJlYW1OYW1lLAogICAgUGFydGl0aW9uS2V5OiBjb25maWcucGFydGl0aW9uS2V5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
