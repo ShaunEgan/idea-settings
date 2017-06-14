@@ -264,10 +264,22 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/kinesis/index.html" timestamp="1497432559133">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="361" column="1" />
+        <mark key="^" line="361" column="1" />
+        <mark key="." line="361" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="5" column="21" />
+        <mark key="^" line="5" column="26" />
+        <mark key="." line="5" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
@@ -565,10 +577,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>REGION</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>REGION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
