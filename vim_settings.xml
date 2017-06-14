@@ -32,6 +32,9 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
+        <mark key="[" line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumerRepository.scala" timestamp="1496221665456">
         <mark key="[" line="21" column="129" />
         <mark key="]" line="21" column="129" />
@@ -383,6 +386,12 @@
         <mark key="]" line="21" column="131" />
         <mark key="." line="21" column="131" />
       </file>
+      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497441799933">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -576,11 +585,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>REGION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>REGION</text>
+        <text>'eu-west-1'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -590,34 +599,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgc3RyZWFtTmFtZSA9ICd0ZXN0LXN0cmVhbScKY29uc3QgaW50ZXJ2YWwgPSA1MDAKY29uc3QgcGFydGl0aW9uS2V5ID0gJ215LWF3ZXNvbWUta2V5Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJy4vcGFzc3BvcnQtYXV0aCcpKHNlcnZlciwgdXNlclJlcG9zaXRvcnkpCg==</text>
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ci8vIG1vZHVsZS5leHBvcnRzID0gKHNlcnZlciwgdXNlclJlcG9zaXRvcnkpID0+IHsKLy8gICBzZXJ2ZXIudXNlKHBhc3Nwb3J0LmluaXRpYWxpemUoKSkKLy8gICBzZXJ2ZXIudXNlKHBhc3Nwb3J0LnNlc3Npb24oKSkKLy8KLy8gICBzZXJ2ZXIuZ2V0KGNvbmZpZy5hdXRoLmZhY2Vib29rLmxvZ2luUGF0aCwKLy8gICAgIHBhc3Nwb3J0LmF1dGhlbnRpY2F0ZSgnZmFjZWJvb2snKQovLyAgICkKLy8KLy8gICBzZXJ2ZXIuZ2V0KGNvbmZpZy5hdXRoLmZhY2Vib29rLmNhbGxiYWNrUGF0aCwKLy8gICAgIHBhc3Nwb3J0LmF1dGhlbnRpY2F0ZSgnZmFjZWJvb2snKSwKLy8gICAgIChyZXEsIHJlcywgbmV4dCkgPT4gewovLyAgICAgICByZXMuanNvbih7IGFjY2Vzc1Rva2VuOiByZXEudXNlciB9KQovLyAgICAgICBuZXh0KCkKLy8gICAgIH0KLy8gICApCi8vCi8vICAgc2VydmVyLmdldCgnL2xvZ291dCcsCi8vICAgICAocmVxLCByZXMsIG5leHQpID0+IHsKLy8gICAgICAgcmVxLmxvZ291dCgpCi8vICAgICAgIHJlcy5yZWRpcmVjdCgnL3Rlc3QnLCBuZXh0KQovLyAgICAgfQovLyAgICkKLy8KLy8gICBwYXNzcG9ydC51c2UoCi8vICAgICBuZXcgRmFjZWJvb2tTdHJhdGVneSgKLy8gICAgICAgewovLyAgICAgICAgIGNsaWVudElEOiBjb25maWcuYXV0aC5mYWNlYm9vay5hcHBJZCwKLy8gICAgICAgICBjbGllbnRTZWNyZXQ6IGNvbmZpZy5hdXRoLmZhY2Vib29rLmFwcFNlY3JldCwKLy8gICAgICAgICBjYWxsYmFja1VSTDogYCR7Y29uZmlnLnVyaX0ke2NvbmZpZy5hdXRoLmZhY2Vib29rLmNhbGxiYWNrUGF0aH1gCi8vICAgICAgIH0sCi8vICAgICAgIChhY2Nlc3NUb2tlbiwgcmVmcmVzaFRva2VuLCBwcm9maWxlLCBkb25lKSA9PiB7Ci8vICAgICAgICAgdXNlclJlcG9zaXRvcnkuZmluZE9yQ3JlYXRlKHsgZmFjZWJvb2tJZDogcHJvZmlsZS5pZCB9KQovLyAgICAgICAgICAgLnRoZW4odXNlciA9PiBkb25lKG51bGwsIHVzZXIpKQovLyAgICAgICAgICAgLmNhdGNoKGVycm9yID0+IGRvbmUoZXJyb3IsIG51bGwpKQovLyAgICAgICB9Ci8vICAgICApCi8vICAgKQovLwovLyAgIHBhc3Nwb3J0LnNlcmlhbGl6ZVVzZXIoKHVzZXIsIGNiKSA9PiB7Ci8vICAgICBjYihudWxsLCB1c2VyKQovLyAgIH0pCi8vCi8vICAgcGFzc3BvcnQuZGVzZXJpYWxpemVVc2VyKChvYmosIGNiKSA9PiB7Ci8vICAgICBjYihudWxsLCBvYmopCi8vICAgfSkKLy8KLy8KLy8gICByZXR1cm4gcGFzc3BvcnQKLy8gfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmVnaW9uID0gJ2V1LXdlc3QtMScK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IENvbmZpZyBmcm9tICcuL0NvbmZpZycK</text>
+        <text encoding="base64">Y29uc29sZS5sb2codHlwZW9mIEtpbmVzaXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coRXhhbXBsZS5nZXRNZXNzYWdlKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY29uZmlnID0gQ29uZmlnLmdldENvbmZpZygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
@@ -630,7 +639,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
