@@ -8,11 +8,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497418019112">
-        <mark key="[" line="8" column="30" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497457834142">
+        <mark key="[" line="33" column="24" />
+        <mark key="]" line="31" column="66" />
+        <mark key="." line="31" column="66" />
+        <mark key="^" line="31" column="66" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -80,10 +80,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497457161376">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497459531946">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="57" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
         <mark key="[" line="0" column="0" />
@@ -253,11 +254,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/UserRepository.js" timestamp="1497456647072">
-        <mark key="[" line="2" column="37" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/UserRepository.js" timestamp="1497458746622">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="44" />
+        <mark key="." line="8" column="44" />
+        <mark key="^" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496837133249">
         <mark key="[" line="15" column="6" />
@@ -591,11 +592,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>users</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -605,34 +606,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgRmFjZWJvb2tUb2tlblN0cmF0ZWd5ID0gcmVxdWlyZSgncGFzc3BvcnQtZmFjZWJvb2stdG9rZW4nKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIEF1dGhlbnRpY2F0aW9uLmNvbmZpZ3VyZUZhY2Vib29rVG9rZW4oY29uZmlnLCBzZXJ2ZXIsIHVzZXJSZXBvc2l0b3J5KWRkCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">c3RhdGljIGNvbmZpZ3VyZUZhY2Vib29rVG9rZW4oY29uZmlnLCBzZXJ2ZXIsIHVzZXJSZXBvc2l0b3J5KSB7CiAgICBzZXJ2ZXIuZ2V0KGNvbmZpZy5hdXRoLmZhY2Vib29rLnRva2VuUGF0aCwKICAgICAgcGFzc3BvcnQuYXV0aGVudGljYXRlKCdmYWNlYm9vay10b2tlbicpCiAgICApCgogICAgcGFzc3BvcnQudXNlKAogICAgICBuZXcgRmFjZWJvb2tUb2tlblN0cmF0ZWd5KAogICAgICAgIHsKICAgICAgICAgIGNsaWVudElEOiBjb25maWcuYXV0aC5mYWNlYm9vay5hcHBJZCwKICAgICAgICAgIGNsaWVudFNlY3JldDogY29uZmlnLmF1dGguZmFjZWJvb2suYXBwU2VjcmV0CiAgICAgICAgfSwKICAgICAgICAoYWNjZXNzVG9rZW4sIHJlZnJlc2hUb2tlbiwgcHJvZmlsZSwgZG9uZSkgPT4gewogICAgICAgICAgdXNlclJlcG9zaXRvcnkuZmluZE9yQ3JlYXRlKHsgZmFjZWJvb2tJZDogcHJvZmlsZS5pZCB9KQogICAgICAgICAgICAudGhlbih1c2VyID0+IGRvbmUobnVsbCwgewogICAgICAgICAgICAgIHByb2ZpbGUsCiAgICAgICAgICAgICAgYWNjZXNzVG9rZW4KICAgICAgICAgICAgfSkpCiAgICAgICAgICAgIC5jYXRjaChlcnJvciA9PiBkb25lKGVycm9yLCBudWxsKSkKICAgICAgICB9CiAgICAgICkKICAgICkKICB9</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb2ZpbGVQaG90bzogewogICAgICAgICAgICBvcmlnaW5hbFJlbW90ZTogcHJvZmlsZS5waG90b3MubGVuZ3RoID4gMCA/IHByb2ZpbGUucGhvdG9zWzBdLnZhbHVlIDogdW5kZWZpbmVkCiAgICAgICAgICB9LAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8vIHBhc3Nwb3J0LnNlcmlhbGl6ZVVzZXIoKHVzZXIsIGNiKSA9PiB7CiAgICAvLyAgIGNiKG51bGwsIHVzZXIucHJvdmlkZXJVc2VySWQpCiAgICAvLyB9KQogICAgLy8KICAgIC8vIHBhc3Nwb3J0LmRlc2VyaWFsaXplVXNlcigob2JqLCBjYikgPT4gewogICAgLy8gICB1c2VyUmVwb3NpdG9yeS5maW5kQnlQcm92aWRlclVzZXJJZChvYmopCiAgICAvLyAgICAgLnRoZW4odXNlciA9PiB7CiAgICAvLyAgICAgICBjYihudWxsLCB1c2VyKQogICAgLy8gICAgIH0pCiAgICAvLyAgICAgLmNhdGNoKGVycm9yID0+IHsKICAgIC8vICAgICAgIGNiKGVycm9yLCBudWxsKQogICAgLy8gICAgIH0pCiAgICAvLyB9KQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIHNlcnZlci51c2UocGFzc3BvcnQuc2Vzc2lvbigpKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2IobnVsbCwgb2JqKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIH0pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFNodXRkb3duIGxvZ2ljIC4uLgo=</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5jb2xsZWN0aW9uLmZpbmRPbmUoeyBwcm92aWRlclVzZXJJZCB9LCAoZXJyb3IsIGRvY3VtZW50KSA9PiB7CiAgICAgIC8vICAgaWYgKGRvY3VtZW50KSByZXNvbHZlKGRvY3VtZW50KQogICAgICAvLyAgIGVsc2UgewogICAgICAvLyAgICAgdGhpcy5jb2xsZWN0aW9uLmluc2VydE9uZShhY2NvdW50LCAoaW5zZXJ0RXJyb3IsIGluc2VydERvY3VtZW50KSA9PiB7CiAgICAgIC8vICAgICAgIGlmIChpbnNlcnRFcnJvcikgcmVqZWN0KGluc2VydEVycm9yKQogICAgICAvLyAgICAgICBlbHNlIHJlc29sdmUoaW5zZXJ0RG9jdW1lbnQpCiAgICAgIC8vICAgICB9KQogICAgICAvLyAgIH0KICAgICAgLy8gfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gSW4gdGhpcyBleGFtcGxlLCByZWdhcmRsZXNzIG9mIGVycm9yLCB3ZSBtYXJrIHRoZSBzaHV0ZG93biBvcGVyYXRpb24KICAgICAgLy8gY29tcGxldGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFNpbmNlIHlvdSBhcmUgY2hlY2twb2ludGluZywgb25seSBjYWxsIGNvbXBsZXRlQ2FsbGJhY2sgb25jZSB0aGUgY2hlY2twb2ludAogICAgLy8gb3BlcmF0aW9uIGlzIGNvbXBsZXRlLgo=</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiBuZXcgUHJvbWlzZShkZChyZXNvbHZlLCByZWplY3QpID0+IHsK</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
