@@ -419,11 +419,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497710045847">
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="42" column="63" />
-        <mark key="." line="42" column="63" />
-        <mark key="^" line="61" column="98" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497713583497">
+        <mark key="[" line="17" column="33" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
@@ -636,11 +636,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>i</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAvLyByZXR1cm4gcmVzcG9uc2UoMjAwLCB7IGlkOiBhY2NvdW50LmlkLCBkaXNwbGF5TmFtZTogYWNjb3VudC5kaXNwbGF5TmFtZSB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>password:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -650,34 +650,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBnZW5kZXIsCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAvLyByZXR1cm4gcmVzcG9uc2UoMjAwLCB7IGlkOiBhY2NvdW50LmlkLCBkaXNwbGF5TmFtZTogYWNjb3VudC5kaXNwbGF5TmFtZSB9KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdE5hbWUsCiAgICAgICAgbGFzdE5hbWUsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0cmF0ZWd5ID0gCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2xvY2FsJywgeyB1c2VybmFtZTogZW1haWwsIHBhc3N3b3JkIH0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5kZXIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdE5hbWUsCiAgICAgICAgbGFzdE5hbWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0cmF0ZWd5ID0gbmV3IFN0cmF0ZWd5KCh1c2VybmFtZSwgcGFzc3dvcmQsIGRvbmUpID0+IHsKICAgIC8vICAgYWNjb3VudFJlcG9zaXRvcnkuYXV0aGVudGljYXRlKHVzZXJuYW1lLCBwYXNzd29yZCwgZG9uZSkKICAgIC8vIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0cmF0ZWd5ID0gCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">KGFjY291bnQsIGNhbGxiYWNrKSA9PiB7CiAgICAgIGNhbGxiYWNrKG51bGwsIGFjY291bnQuaWQpCiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGF1dGhSZXF1ZXN0ID0gcGFzc3BvcnQuYXV0aGVudGljYXRlKCdsb2NhbCcsIHsgc2Vzc2lvbjogZmFsc2UsIHNjb3BlOiBbXSB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0cmF0ZWd5ID0gbmV3IFN0cmF0ZWd5KCh1c2VybmFtZSwgcGFzc3dvcmQsIGRvbmUpID0+IHsKICAgIC8vICAgYWNjb3VudFJlcG9zaXRvcnkuYXV0aGVudGljYXRlKHVzZXJuYW1lLCBwYXNzd29yZCwgZG9uZSkKICAgIC8vIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
