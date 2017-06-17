@@ -375,11 +375,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497698588336">
-        <mark key="[" line="3" column="34" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="36" column="24" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497699905079">
+        <mark key="[" line="27" column="11" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
+        <mark key="^" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/blog-examples/authentication/basicScenario.js" timestamp="1497698237362" />
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
