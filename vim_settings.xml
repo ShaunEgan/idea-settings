@@ -8,10 +8,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497706672033">
-        <mark key="]" line="17" column="20" />
-        <mark key="." line="17" column="20" />
-        <mark key="^" line="17" column="20" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497708777485">
+        <mark key="[" line="35" column="56" />
+        <mark key="]" line="35" column="56" />
+        <mark key="." line="35" column="56" />
+        <mark key="^" line="35" column="78" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -138,8 +139,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux-node/routes/api.js" timestamp="1497707239331">
+      <file name="$USER_HOME$/repositories/poslux-node/routes/api.js" timestamp="1497708291128">
         <mark key="[" line="203" column="6" />
+        <mark key="]" line="185" column="27" />
+        <mark key="^" line="185" column="27" />
+        <mark key="." line="185" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
         <mark key="[" line="36" column="5" />
@@ -415,10 +419,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497703306223">
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="29" column="4" />
-        <mark key="." line="29" column="4" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497710045847">
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="42" column="63" />
+        <mark key="." line="42" column="63" />
+        <mark key="^" line="61" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
@@ -631,11 +636,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>var</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -645,34 +650,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZW5kZXIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgY29ycyA9IG5ldyBDb3JzTWlkZGxld2FyZSh7CiAgb3JpZ2luczogWycqJ10KfSkKc2VydmVyLnVzZShjb3JzLmFjdHVhbCkK</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdE5hbWUsCiAgICAgICAgbGFzdE5hbWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEJyYW5kIGZyb20gJy4vbW9kZWxzL0JyYW5kJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0cmF0ZWd5ID0gCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICB9CgogIC8vIGZpbmRPckNyZWF0ZShhY2NvdW50KSB7CiAgLy8gICBjb25zdCB7IHByb3ZpZGVyVXNlcklkIH0gPSBhY2NvdW50CiAgLy8KICAvLyAgIHJldHVybiB0aGlzLmZpbmRCeVByb3ZpZGVyVXNlcklkKHByb3ZpZGVyVXNlcklkKQogIC8vICAgICAudGhlbih1c2VyID0+IHsKICAvLyAgICAgICBpZiAodXNlcikgcmV0dXJuIFByb21pc2UucmVzb2x2ZSh1c2VyKQogIC8vCiAgLy8gICAgICAgcmV0dXJuIHRoaXMuY3JlYXRlKGFjY291bnQpCiAgLy8gICAgIH0pCiAgLy8gfQogIC8vCiAgLy8gZmluZEJ5UHJvdmlkZXJVc2VySWQocHJvdmlkZXJVc2VySWQpIHsKICAvLyAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgLy8gICAgIHRoaXMuY29sbGVjdGlvbi5maW5kT25lKHsgcHJvdmlkZXJVc2VySWQgfSwgKGVycm9yLCBkb2N1bWVudCkgPT4gewogIC8vICAgICAgIGlmIChlcnJvcikgcmVqZWN0KGVycm9yKQogIC8vICAgICAgIGVsc2UgcmVzb2x2ZShkb2N1bWVudCkKICAvLyAgICAgfSkKICAvLyAgIH0pCiAgLy8gfQogIC8vCiAgLy8gY3JlYXRlKGFjY291bnQpIHsKICAvLyAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgLy8gICAgIHRoaXMuY29sbGVjdGlvbi5pbnNlcnRPbmUoYWNjb3VudCwgKGluc2VydEVycm9yLCBpbnNlcnREb2N1bWVudCkgPT4gewogIC8vICAgICAgIGlmIChpbnNlcnRFcnJvcikgcmVqZWN0KGluc2VydEVycm9yKQogIC8vICAgICAgIGVsc2UgcmVzb2x2ZShpbnNlcnREb2N1bWVudCkKICAvLyAgICAgfSkKICAvLyAgIH0pCiAgLy8gfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29sbGVjdGlvbiA9IGRiLmNvbGxlY3Rpb24oJ2FjY291bnRzJykK</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0cmF0ZWd5ID0gbmV3IFN0cmF0ZWd5KCh1c2VybmFtZSwgcGFzc3dvcmQsIGRvbmUpID0+IHsKICAgIC8vICAgYWNjb3VudFJlcG9zaXRvcnkuYXV0aGVudGljYXRlKHVzZXJuYW1lLCBwYXNzd29yZCwgZG9uZSkKICAgIC8vIH0pCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEJyYW5kIGZyb20gJy4uL21vZGVscy9CcmFuZCcK</text>
+      <register name="7" type="4">
+        <text encoding="base64">KGFjY291bnQsIGNhbGxiYWNrKSA9PiB7CiAgICAgIGNhbGxiYWNrKG51bGwsIGFjY291bnQuaWQpCiAgICB9</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAvLyAgIHRoaXMuY29sbGVjdGlvbi5maW5kT25lKHsgc2x1ZyB9LCAoZXJyb3IsIGRvY3VtZW50KSA9PiB7CiAgICAvLyAgICAgaWYgKGVycm9yKSByZWplY3QoZXJyb3IpCiAgICAvLyAgICAgZWxzZSBpZiAoUi5pc05pbChkb2N1bWVudCkpIHJlamVjdChnZXRCcmFuZE5vdEZvdW5kRXJyb3Ioc2x1ZykpCiAgICAvLyAgICAgZWxzZSByZXNvbHZlKGdldEZpZWxkcyhkb2N1bWVudCkpCiAgICAvLyAgIH0pCiAgICAvLyB9KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGF1dGhSZXF1ZXN0ID0gcGFzc3BvcnQuYXV0aGVudGljYXRlKCdsb2NhbCcsIHsgc2Vzc2lvbjogZmFsc2UsIHNjb3BlOiBbXSB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGlmIChzbHVnID09PSAnJykgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBCcmFuZE5vdFNwZWNpZmllZEVycm9yKCkpCiAgICAvLwogICAgLy8gcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgIC8vICAgdGhpcy5jb2xsZWN0aW9uLmZpbmRPbmUoeyBzbHVnIH0sIChlcnJvciwgZG9jdW1lbnQpID0+IHsKICAgIC8vICAgICBpZiAoZXJyb3IpIHJlamVjdChlcnJvcikKICAgIC8vICAgICBlbHNlIGlmIChSLmlzTmlsKGRvY3VtZW50KSkgcmVqZWN0KGdldEJyYW5kTm90Rm91bmRFcnJvcihzbHVnKSkKICAgIC8vICAgICBlbHNlIHJlc29sdmUoZ2V0RmllbGRzKGRvY3VtZW50KSkKICAgIC8vICAgfSkKICAgIC8vIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
