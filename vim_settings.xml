@@ -257,11 +257,10 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1497794821077">
-        <mark key="[" line="49" column="23" />
-        <mark key="]" line="49" column="22" />
-        <mark key="." line="49" column="22" />
-        <mark key="^" line="49" column="22" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1497797766321">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
@@ -466,11 +465,11 @@
         <mark key="." line="35" column="62" />
         <mark key="^" line="35" column="62" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1497794549780">
-        <mark key="[" line="44" column="1" />
-        <mark key="]" line="43" column="85" />
-        <mark key="." line="43" column="85" />
-        <mark key="^" line="43" column="85" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1497797167343">
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
@@ -557,6 +556,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1497344039961">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1497796569929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="778" column="7" />
+        <mark key="." line="778" column="7" />
+        <mark key="^" line="778" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
@@ -696,10 +701,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAvLyBAVE9ETzogc2F2ZSBwaG90byB0byBzMwoK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VydmVyLnVzZShwYXNzcG9ydC5zZXNzaW9uKCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>account</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -709,34 +714,34 @@
     overflow:</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAvLyBAVE9ETzogc2F2ZSBwaG90byB0byBzMwoK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VydmVyLnVzZShwYXNzcG9ydC5zZXNzaW9uKCkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVxdWVzdCkKCiAgICAgIG5leHQoKQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXRlID0gZmFsc2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZW1haWwsCg==</text>
+        <text encoding="base64">ICAgICAgc2Vzc2lvbjogZmFsc2UsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdldEVtYWlsID0gKCkgPT4gcHJvZmlsZS5lbWFpbHMgJiYgcHJvZmlsZS5lbWFpbHMubGVuZ3RoID4gMCA/IHByb2ZpbGUuZW1haWxzWzBdLnZhbHVlIDogdW5kZWZpbmVkCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAvLyBAVE9ETzogc2F2ZSBwaG90byB0byBzMwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVtYWlsID0gZ2V0RW1haWwoKWRkCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVxdWVzdCkKCiAgICAgIG5leHQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZW1haWwsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBnZXRGYWNlYm9va0NhbGxiYWNrQXV0aFJlcXVlc3QoKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdldEVtYWlsID0gKCkgPT4gcHJvZmlsZS5lbWFpbHMgJiYgcHJvZmlsZS5lbWFpbHMubGVuZ3RoID4gMCA/IHByb2ZpbGUuZW1haWxzWzBdLnZhbHVlIDogdW5kZWZpbmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXNzcG9ydC5hdXRoZW50aWNhdGUoJ2ZhY2Vib29rJykKICB9ZDEK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVtYWlsID0gZ2V0RW1haWwoKWRkCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZhY2Vib29rQ2FsbGJhY2tBdXRoUmVxdWVzdCA9IHRoaXMuYXBpQXV0aGVudGljYXRpb24uZ2V0RmFjZWJvb2tDYWxsYmFja0F1dGhSZXF1ZXN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>34</text>
