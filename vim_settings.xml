@@ -8,11 +8,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497708777485">
-        <mark key="[" line="35" column="56" />
-        <mark key="]" line="35" column="56" />
-        <mark key="." line="35" column="56" />
-        <mark key="^" line="35" column="78" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1497779560755">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="12" column="32" />
+        <mark key="." line="12" column="32" />
+        <mark key="^" line="12" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -121,7 +121,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/package.json" timestamp="1497715756544" />
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="29" column="0" />
@@ -226,7 +225,6 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/thuisverpleging-backend/src/Services/Orders/Order.js" timestamp="1497717616767" />
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/ResponseTools.js" timestamp="1495698930779">
         <mark key="[" line="32" column="29" />
         <mark key="]" line="32" column="29" />
@@ -441,10 +439,10 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497713583497">
-        <mark key="[" line="17" column="33" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="24" />
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497779389175">
+        <mark key="[" line="19" column="23" />
+        <mark key="]" line="19" column="23" />
+        <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
@@ -670,11 +668,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAicGx1Z2lucyI6IFsgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiIF0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -742,7 +740,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
