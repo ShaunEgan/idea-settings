@@ -257,7 +257,6 @@
         <mark key="^" line="12" column="10" />
         <mark key="." line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1497851026380" />
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
         <mark key="]" line="110" column="0" />
@@ -461,12 +460,6 @@
         <mark key="]" line="35" column="62" />
         <mark key="." line="35" column="62" />
         <mark key="^" line="35" column="62" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1497851041290">
-        <mark key="[" line="45" column="77" />
-        <mark key="]" line="55" column="46" />
-        <mark key="." line="55" column="46" />
-        <mark key="^" line="56" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
