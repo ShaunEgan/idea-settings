@@ -37,10 +37,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1497873435255">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1497876259446">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/summing/spec/unit/Services/Summer.js" timestamp="1497873495659">
         <mark key="[" line="3" column="35" />
@@ -166,6 +167,11 @@
         <mark key="]" line="36" column="5" />
         <mark key="." line="36" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/README.md" timestamp="1498049052665">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/GeneratorRespository.scala" timestamp="1494420605176">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="10" column="91" />
@@ -238,8 +244,8 @@
         <mark key="^" line="11" column="17" />
         <mark key="." line="11" column="17" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/package.json" timestamp="1497871617714">
-        <mark key="[" line="5" column="14" />
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/package.json" timestamp="1498049322544">
+        <mark key="[" line="6" column="32" />
         <mark key="]" line="6" column="29" />
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
@@ -256,6 +262,9 @@
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Auth.js" timestamp="1497689740819">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/remove.sh" timestamp="1498049275159">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
@@ -329,6 +338,9 @@
         <mark key="^" line="41" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
@@ -405,10 +417,10 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1497872304196">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1498049231940">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497181720670">
         <mark key="[" line="19" column="0" />
@@ -491,6 +503,12 @@
         <mark key="." line="35" column="62" />
         <mark key="^" line="35" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/summing/spec/support/examples/allocations.json" timestamp="1497873891238">
+        <mark key="[" line="35" column="22" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
         <mark key="]" line="5" column="21" />
@@ -503,6 +521,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="31" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/summing/spec/unit/Services/SummerSpec.js" timestamp="1497875940517">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="8" column="6" />
+        <mark key="^" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
@@ -514,17 +538,20 @@
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
       </file>
+      <file name="/JavaScript Console" timestamp="1497875912447">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="15" column="44" />
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1497873527269">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+      <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1497877019380">
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="26" column="16" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
         <mark key="[" line="11" column="35" />
@@ -732,48 +759,61 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWQgPSAnSGVsbG8sIHdvcmxkIScK</text>
+      <register name="&quot;" type="4">
+        <text>There is currently one environmental variable required by the deployment process, which is used to determine the stack
+name. This will have to match the name described in [permissions](#permisions). For example:
+
+```bash
+export AWS_STACK_NAME=shaun-dev
+```
+
+Once these are set up, the deployment of your stack is simply:</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>developers</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>.VueCarousel-wrapper {
-    overflow:</text>
+        <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWQgPSAnSGVsbG8sIHdvcmxkIScK</text>
+      <register name="1" type="4">
+        <text>There is currently one environmental variable required by the deployment process, which is used to determine the stack
+name. This will have to match the name described in [permissions](#permisions). For example:
+
+```bash
+export AWS_STACK_NAME=shaun-dev
+```
+
+Once these are set up, the deployment of your stack is simply:</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">WW91IHdpbGwgbmVlZCBhIGN1c3RvbSBwb2xpY3kgb24geW91ciBhY2NvdW50IHRoYXQgYWxsb3dzIHlvdSB0byBjcmVhdGUgbmFtZWQgcmVzb3VyY2VzLiBUaGlzIHJvbGUgd2lsbCBhbGxvdwp5b3UgdG8gY3JlYXRlIEFXUyByZXNvdXJjZXMgdGhyb3VnaCBgY2xvdWRmb3JtYXRpb25gLiBOb3RlIHRoYXQgdGhlIHN0YWNrIHdpbGwgaGF2ZSB0byBiZSBwcmVmaXhlZCB3aXRoIHlvdXIgYWNjb3VudApuYW1lIGFuZCBgLWRldmAuIEUuZzoKCj4gQWNjb3VudCBuYW1lOiBzaGF1bgoKPiBSZXNvdXJjZXMgcHJlZml4OiBzaGF1bi1kZXYKCj4gRXhhbXBsZSBjbG91ZGZvcm1hdGlvbiBuYW1lOiBzaGF1bi1kZXYtT3JkZXJpbkluLWRyaXZlci1zdGF0dXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB9KQo=</text>
+        <text encoding="base64">I1NUQUNLX05BTUU9b3JkZXJpbi1kcml2ZXItc3RhdHVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnI2dldE1lc3NhZ2UnLCAoKSA9PiB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEV4YW1wbGUgZnJvbSAnLi9TZXJ2aWNlcy9FeGFtcGxlJwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY291bnRzID0gUi5ncm91cEJ5KGFsbG9jYXRpb24gPT4gYWxsb2NhdGlvblsnY29uc3VtZXItYWNjb3VudCddLCBhbGxvY2F0aW9ucykKICAgICAgLm1hcChhY2NvdW50ID0+ICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">UzNfQlVDS0VUPSR7QVdTX1MzX0JVQ0tFVDotZGV2fS1vcmRlcmluLWRyaXZlci1zdGF0dXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiaG9tZXBhZ2UiOiAiaHR0cHM6Ly9naXRodWIuY29tL05vbmEtQ3JlYXRpdmUvb3JkZXJJbi1kcml2ZXItc3RhdHVzI3JlYWRtZSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiYnVncyI6IHsKICAgICJ1cmwiOiAiaHR0cHM6Ly9naXRodWIuY29tL05vbmEtQ3JlYXRpdmUvb3JkZXJJbi1kcml2ZXItc3RhdHVzL2lzc3VlcyIKICB9LAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwQnlBY2NvdW50ID0gCgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
