@@ -32,6 +32,11 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1498128378085">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -124,6 +129,11 @@
         <mark key="]" line="29" column="20" />
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498128938709">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="19" />
+        <mark key="." line="15" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
@@ -232,6 +242,9 @@
         <mark key="]" line="12" column="24" />
         <mark key="." line="12" column="24" />
         <mark key="^" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/somefile.js" timestamp="1498127473924">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
         <mark key="[" line="11" column="0" />
@@ -348,6 +361,12 @@
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.nvmrc" timestamp="1498128857931">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="^" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
@@ -455,6 +474,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498128572219">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
       </file>
@@ -473,6 +497,11 @@
         <mark key="[" line="49" column="22" />
         <mark key="]" line="49" column="23" />
         <mark key="." line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.babelrc" timestamp="1498129010834">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
@@ -589,6 +618,9 @@
       <file name="/Dummy.txt" timestamp="1497704190754">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
         <mark key="[" line="16" column="2" />
         <mark key="]" line="16" column="3" />
@@ -615,6 +647,9 @@
         <mark key="]" line="8" column="42" />
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1498129235818">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
         <mark key="[" line="31" column="5" />
@@ -777,19 +812,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-                &quot;Fn::Join&quot;: [
-                  &quot;&quot;,
-                  [
-                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
-                    &quot;/${aws:username}&quot;
-                  ]
-                ]
-              }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiIF0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>^</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -797,43 +824,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-                &quot;Fn::Join&quot;: [
-                  &quot;&quot;,
-                  [
-                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
-                    &quot;/${aws:username}&quot;
-                  ]
-                ]
-              }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAicGx1Z2lucyI6IFsgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZGVjb3JhdG9ycy1sZWdhY3kiIF0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmlhbTo6Kjp1c2VyLyR7YXdzOnVzZXJuYW1lfSIK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgIkRldmVsb3BlclMzQnVja2V0QWNjZXNzUG9saWN5Ijogewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgUHJvY2Vzc0Fub3RoZXI6CiAgICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgICAgUHJvcGVydGllczoKICAgICAgICBIYW5kbGVyOiBzcmMvcHJvY2Vzc0Fub3RoZXIucHJvY2VzcwogICAgICAgIFJ1bnRpbWU6IG5vZGVqczYuMTAKICAgICAgICBQb2xpY2llczogQVdTTGFtYmRhS2luZXNpc0V4ZWN1dGlvblJvbGU=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">I3BvcGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVjbGFyZSAtYSBDQVBBQklMSVRJRVM9KENBUEFCSUxJVFlfSUFNIENBUEFCSUxJVFlfTkFNRURfSUFNKQo=</text>
+        <text encoding="base64">I3B1c2hkICR7UkVTT1VSQ0VTfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAiT3V0cHV0cyI6IHt9Cg==</text>
+        <text encoding="base64">I3ppcCAuLi8ke0FSQ0hJVkVfTkFNRX0gKgojemlwICR7QVJDSElWRV9OQU1FfSAke1JFU09VUkNFU30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAiTWFwcGluZ3MiOiB7fSwK</text>
+        <text encoding="base64">ICAgICAgQ29kZVVyaTogJy4vc3JjJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
