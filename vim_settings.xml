@@ -371,10 +371,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1496837249889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498116777135">
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498118749903">
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="46" column="26" />
+        <mark key="." line="46" column="26" />
+        <mark key="^" line="46" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
         <mark key="[" line="9" column="47" />
@@ -776,11 +777,19 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>{
+                &quot;Fn::Join&quot;: [
+                  &quot;&quot;,
+                  [
+                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
+                    &quot;/${aws:username}&quot;
+                  ]
+                ]
+              }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q0FQQUJJTElUWV9JQU0g</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -788,35 +797,43 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
+      <register name="1" type="4">
+        <text>{
+                &quot;Fn::Join&quot;: [
+                  &quot;&quot;,
+                  [
+                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
+                    &quot;/${aws:username}&quot;
+                  ]
+                ]
+              }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICJSZXNvdXJjZSI6ICJhcm46YXdzOmlhbTo6Kjp1c2VyLyR7YXdzOnVzZXJuYW1lfSIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZSAtYSBDQVBBQklMSVRJRVM9KENBUEFCSUxJVFlfSUFNIENBUEFCSUxJVFlfTkFNRURfSUFNKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiT3V0cHV0cyI6IHt9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgIkRldmVsb3BlclMzQnVja2V0QWNjZXNzUG9saWN5Ijogewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAiTWFwcGluZ3MiOiB7fSwK</text>
+        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHt9LAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZGVjbGFyZSAtYSBDQVBBQklMSVRJRVM9KENBUEFCSUxJVFlfSUFNIENBUEFCSUxJVFlfTkFNRURfSUFNKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAiT3V0cHV0cyI6IHt9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QUNDT1VOVF9QUkVGSVg9JHtFTlZJUk9OTUVOVH0tJHtBV1NfVVNFUn0K</text>
+        <text encoding="base64">ICAiTWFwcGluZ3MiOiB7fSwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
