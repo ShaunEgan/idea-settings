@@ -109,12 +109,6 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/webpack.config.js" timestamp="1497355675877">
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="58" column="41" />
-        <mark key="." line="58" column="41" />
-        <mark key="^" line="58" column="41" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
@@ -291,12 +285,6 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1497356306785">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="10" />
-        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1498147885008">
         <mark key="[" line="210" column="3" />
