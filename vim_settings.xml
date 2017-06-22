@@ -177,6 +177,9 @@
         <mark key="]" line="10" column="91" />
         <mark key="." line="10" column="91" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498111448336">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationTools/scala.scala" timestamp="1496742536309">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -263,8 +266,11 @@
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Auth.js" timestamp="1497689740819">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/remove.sh" timestamp="1498049275159">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/remove.sh" timestamp="1498111171621">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
@@ -417,10 +423,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1498049231940">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1498111454417">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497181720670">
         <mark key="[" line="19" column="0" />
@@ -759,15 +766,8 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>There is currently one environmental variable required by the deployment process, which is used to determine the stack
-name. This will have to match the name described in [permissions](#permisions). For example:
-
-```bash
-export AWS_STACK_NAME=shaun-dev
-```
-
-Once these are set up, the deployment of your stack is simply:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
       </register>
       <register name="-" type="4">
         <text>developers</text>
@@ -778,7 +778,31 @@ Once these are set up, the deployment of your stack is simply:</text>
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QUNDT1VOVF9QUkVGSVg9JHtFTlZJUk9OTUVOVH0tJHtBV1NfVVNFUn0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QVdTX1VTRVI9JChhd3MgaWFtIGdldC11c2VyIHwgZ3JlcCBVc2VyTmFtZSB8IGF3ayAne3ByaW50ICQyfScgfCBzZWQgJ3MvWyIsXS8vZycpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">RU5WSVJPTk1FTlQ9JHtFTlY6LWRldn0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">U0VSVklDRV9OQU1FPWRyaXZlci1zdGF0dXMK</text>
+      </register>
+      <register name="8" type="4">
         <text>There is currently one environmental variable required by the deployment process, which is used to determine the stack
 name. This will have to match the name described in [permissions](#permisions). For example:
 
@@ -788,32 +812,8 @@ export AWS_STACK_NAME=shaun-dev
 
 Once these are set up, the deployment of your stack is simply:</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text encoding="base64">WW91IHdpbGwgbmVlZCBhIGN1c3RvbSBwb2xpY3kgb24geW91ciBhY2NvdW50IHRoYXQgYWxsb3dzIHlvdSB0byBjcmVhdGUgbmFtZWQgcmVzb3VyY2VzLiBUaGlzIHJvbGUgd2lsbCBhbGxvdwp5b3UgdG8gY3JlYXRlIEFXUyByZXNvdXJjZXMgdGhyb3VnaCBgY2xvdWRmb3JtYXRpb25gLiBOb3RlIHRoYXQgdGhlIHN0YWNrIHdpbGwgaGF2ZSB0byBiZSBwcmVmaXhlZCB3aXRoIHlvdXIgYWNjb3VudApuYW1lIGFuZCBgLWRldmAuIEUuZzoKCj4gQWNjb3VudCBuYW1lOiBzaGF1bgoKPiBSZXNvdXJjZXMgcHJlZml4OiBzaGF1bi1kZXYKCj4gRXhhbXBsZSBjbG91ZGZvcm1hdGlvbiBuYW1lOiBzaGF1bi1kZXYtT3JkZXJpbkluLWRyaXZlci1zdGF0dXMK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I1NUQUNLX05BTUU9b3JkZXJpbi1kcml2ZXItc3RhdHVzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjY291bnRzID0gUi5ncm91cEJ5KGFsbG9jYXRpb24gPT4gYWxsb2NhdGlvblsnY29uc3VtZXItYWNjb3VudCddLCBhbGxvY2F0aW9ucykKICAgICAgLm1hcChhY2NvdW50ID0+ICkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwQnlBY2NvdW50ID0gCgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
