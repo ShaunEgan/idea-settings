@@ -272,6 +272,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1498115928866">
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="9" column="19" />
+        <mark key="." line="9" column="19" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
         <mark key="]" line="21" column="131" />
@@ -365,6 +370,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1496837249889">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498116777135">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
         <mark key="[" line="9" column="47" />
@@ -767,10 +777,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
+        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
       </register>
       <register name="-" type="4">
-        <text>developers</text>
+        <text encoding="base64">Q0FQQUJJTElUWV9JQU0g</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -779,7 +789,7 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
+        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHsKICAgICJEZXZlbG9wZXJTM0J1Y2tldFBhcmFtZXRlciI6IHsKICAgICAgIlR5cGUiOiAiU3RyaW5nIiwKICAgICAgIkRlZmF1bHQiOiAib3JkZXJpbi1kcml2ZXItc3RhdHVzIgogICAgfQogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -788,32 +798,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUNDT1VOVF9QUkVGSVg9JHtFTlZJUk9OTUVOVH0tJHtBV1NfVVNFUn0K</text>
+        <text encoding="base64">ZGVjbGFyZSAtYSBDQVBBQklMSVRJRVM9KENBUEFCSUxJVFlfSUFNIENBUEFCSUxJVFlfTkFNRURfSUFNKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QVdTX1VTRVI9JChhd3MgaWFtIGdldC11c2VyIHwgZ3JlcCBVc2VyTmFtZSB8IGF3ayAne3ByaW50ICQyfScgfCBzZWQgJ3MvWyIsXS8vZycpCg==</text>
+        <text encoding="base64">ICAiT3V0cHV0cyI6IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">RU5WSVJPTk1FTlQ9JHtFTlY6LWRldn0K</text>
+        <text encoding="base64">ICAiTWFwcGluZ3MiOiB7fSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAiUGFyYW1ldGVycyI6IHt9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U0VSVklDRV9OQU1FPWRyaXZlci1zdGF0dXMK</text>
+        <text encoding="base64">U1RBQ0tfTkFNRT0ke0FDQ09VTlRfUFJFRklYfS1vcmRlcmluLSR7U0VSVklDRV9OQU1FfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>There is currently one environmental variable required by the deployment process, which is used to determine the stack
-name. This will have to match the name described in [permissions](#permisions). For example:
-
-```bash
-export AWS_STACK_NAME=shaun-dev
-```
-
-Once these are set up, the deployment of your stack is simply:</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">WW91IHdpbGwgbmVlZCBhIGN1c3RvbSBwb2xpY3kgb24geW91ciBhY2NvdW50IHRoYXQgYWxsb3dzIHlvdSB0byBjcmVhdGUgbmFtZWQgcmVzb3VyY2VzLiBUaGlzIHJvbGUgd2lsbCBhbGxvdwp5b3UgdG8gY3JlYXRlIEFXUyByZXNvdXJjZXMgdGhyb3VnaCBgY2xvdWRmb3JtYXRpb25gLiBOb3RlIHRoYXQgdGhlIHN0YWNrIHdpbGwgaGF2ZSB0byBiZSBwcmVmaXhlZCB3aXRoIHlvdXIgYWNjb3VudApuYW1lIGFuZCBgLWRldmAuIEUuZzoKCj4gQWNjb3VudCBuYW1lOiBzaGF1bgoKPiBSZXNvdXJjZXMgcHJlZml4OiBzaGF1bi1kZXYKCj4gRXhhbXBsZSBjbG91ZGZvcm1hdGlvbiBuYW1lOiBzaGF1bi1kZXYtT3JkZXJpbkluLWRyaXZlci1zdGF0dXMK</text>
+      <register name="9" type="2">
+        <text encoding="base64">QUNDT1VOVF9QUkVGSVg9JHtFTlZJUk9OTUVOVH0tJHtBV1NfVVNFUn0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
