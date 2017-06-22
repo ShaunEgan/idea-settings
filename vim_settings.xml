@@ -486,10 +486,10 @@
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498131675226">
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498135258464">
+        <mark key="[" line="6" column="19" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/passport-auth.js" timestamp="1497417899748">
         <mark key="[" line="56" column="0" />
@@ -816,11 +816,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBDbGVhbiB1cCBhcnRpZmFjdHMKIyBybSAke0FSQ0hJVkVfTkFNRX0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">RGVjb2RlZCA=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">RGVjb2RlZCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
