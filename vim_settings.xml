@@ -32,11 +32,6 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1498132423158">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -130,7 +125,7 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498132124924">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498133810534">
         <mark key="[" line="15" column="4" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -477,11 +472,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498131550386">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
-        <mark key="^" line="6" column="34" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498134614535">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -822,7 +817,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm0gLXJmICR7VFJBTlNQSUxFRF9DT0RFX0RJUkVDVE9SWX0K</text>
+        <text encoding="base64">IyBDbGVhbiB1cCBhcnRpZmFjdHMKIyBybSAke0FSQ0hJVkVfTkFNRX0K</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -834,7 +829,7 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm0gLXJmICR7VFJBTlNQSUxFRF9DT0RFX0RJUkVDVE9SWX0K</text>
+        <text encoding="base64">IyBDbGVhbiB1cCBhcnRpZmFjdHMKIyBybSAke0FSQ0hJVkVfTkFNRX0K</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -843,25 +838,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">VFJBTlNQSUxFRF9DT0RFX0RJUkVDVE9SWT1kaXN0Cg==</text>
+        <text encoding="base64">IyBDcmVhdGUgZGVwbG95bWVudCBhcmNoaXZlCiMgemlwIC1yICR7QVJDSElWRV9OQU1FfSAke1JFU09VUkNFU30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyB0cmFuc3BpbGUgY29kZQpucG0gcnVuIHRyYW5zcGlsZQo=</text>
+        <text encoding="base64">IyBBUkNISVZFX05BTUU9cmVzb3VyY2VzLnppcAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ2ZXJzaW9uIjogIm5vZGUgLS12ZXJzaW9uIiwK</text>
+        <text encoding="base64">cm0gLXJmICR7VFJBTlNQSUxFRF9DT0RFX0RJUkVDVE9SWX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ0cmFuc3BpbGUiOiAid2VicGFjayIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">VFJBTlNQSUxFRF9DT0RFX0RJUkVDVE9SWT1kaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwYXlsb2FkCg==</text>
+        <text encoding="base64">IyB0cmFuc3BpbGUgY29kZQpucG0gcnVuIHRyYW5zcGlsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJ2ZXJzaW9uIjogIm5vZGUgLS12ZXJzaW9uIiwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
