@@ -129,12 +129,6 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498207555737">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="17" />
-        <mark key="." line="11" column="17" />
-        <mark key="^" line="11" column="17" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="8" column="0" />
@@ -317,10 +311,10 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisTools.js" timestamp="1498208367819">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisTools.js" timestamp="1498211839724">
+        <mark key="[" line="11" column="68" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/Account.js" timestamp="1497707129376">
         <mark key="[" line="5" column="0" />
@@ -402,6 +396,9 @@
         <mark key="." line="21" column="129" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1496837249889">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498118749903">
@@ -862,11 +859,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -881,28 +878,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnZGVjb2RlcyBhbiBiYXNlNjQgZW5jb2RlZCBzdHJpbmcnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwoZGVjb2RlZFBheWxvYWQsIEtpbmVzaXNUb29scy5kZWNvZGUoZW5jb2RlZFBheWxvYWQpKQogIH0pCg==</text>
+        <text encoding="base64">ICBpdCgnaXMgYXZhaWxhYmxlJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBLaW5lc2lzVG9vbHMpLnRvLmVxdWFsKCdmdW5jdGlvbicpCiAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbChkZWNvZGVkUGF5bG9hZCwgS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGVjb2RlKGVuY29kZWQpIHsKICAgIHJldHVybiAKICB9Cg==</text>
+        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbCgnZnVuY3Rpb24nLCB0eXBlb2YgS2luZXNpc1Rvb2xzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgPT4gewogICAgLy8gICBjb25zdCBwYXlsb2FkID0gS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKQogICAgLy8gICBjb25zb2xlLmxvZygnRGVjb2RlZCBwYXlsb2FkOicsIHBheWxvYWQpCiAgICAvLyB9KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0xvYWRpbmcgZnVuY3Rpb24nKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBlbmNvZGVkUGF5bG9hZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBpdCgnZGVjb2RlcyBhbiBiYXNlNjQgZW5jb2RlZCBzdHJpbmcnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwoZGVjb2RlZFBheWxvYWQsIEtpbmVzaXNUb29scy5kZWNvZGUoZW5jb2RlZFBheWxvYWQpKQogIH0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZGVjb2RlKGVuY29kZWQpIHsKICAgIHJldHVybiAKICB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGV4cGVjdGVkID0gJ1Rlc3Qgc3RyaW5nJwo=</text>
+        <text encoding="base64">ICAgIC8vIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgPT4gewogICAgLy8gICBjb25zdCBwYXlsb2FkID0gS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKQogICAgLy8gICBjb25zb2xlLmxvZygnRGVjb2RlZCBwYXlsb2FkOicsIHBheWxvYWQpCiAgICAvLyB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
