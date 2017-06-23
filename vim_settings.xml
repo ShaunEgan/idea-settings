@@ -689,8 +689,11 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1498129235818">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1498209910235">
+        <mark key="[" line="5" column="20" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
         <mark key="[" line="31" column="5" />
