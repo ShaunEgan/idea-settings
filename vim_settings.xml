@@ -48,6 +48,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/KinesisTools.js" timestamp="1498208363688">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496218917315">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
@@ -57,6 +62,12 @@
         <mark key="[" line="0" column="38" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1498208327119">
+        <mark key="[" line="4" column="85" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497264808699">
         <mark key="[" line="0" column="10" />
@@ -118,8 +129,8 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498206540222">
-        <mark key="[" line="11" column="18" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498207555737">
+        <mark key="[" line="11" column="19" />
         <mark key="]" line="11" column="17" />
         <mark key="." line="11" column="17" />
         <mark key="^" line="11" column="17" />
@@ -305,6 +316,11 @@
         <mark key="[" line="141" column="65" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisTools.js" timestamp="1498208367819">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/Account.js" timestamp="1497707129376">
         <mark key="[" line="5" column="0" />
@@ -705,6 +721,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisDecoderTest.js" timestamp="1498207890669">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -837,11 +859,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
+        <text>this.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -849,60 +871,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text>,
-  &quot;dependencies&quot;: {
-    &quot;eslint&quot;: &quot;4.0.0&quot;,
-    &quot;eslint-config-airbnb-base&quot;: &quot;11.2.0&quot;,
-    &quot;eslint-plugin-import&quot;: &quot;2.5.0&quot;
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
+        <text encoding="base64">ICBpdCgnZGVjb2RlcyBhbiBiYXNlNjQgZW5jb2RlZCBzdHJpbmcnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwoZGVjb2RlZFBheWxvYWQsIEtpbmVzaXNUb29scy5kZWNvZGUoZW5jb2RlZFBheWxvYWQpKQogIH0pCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>,
-
-      checkState() {
-        if (this.$auth.isAuthenticated()) {
-          alert('Authenticated!')
-        } else {
-          alert('nope bro')
-        }
-      }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGlmICh0aGlzLiRhdXRoLmlzQXV0aGVudGljYXRlZCgpKSB7Ci8vICAgICAgICAgIHRoaXMuJGF1dGgubG9nb3V0KCkKLy8gICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBzdGF0aWMgZGVjb2RlKGVuY29kZWQpIHsKICAgIHJldHVybiAKICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-        if (this.$auth.isAuthenticated()) {
-          alert('Authenticated!')
-        } else {
-          alert('nope bro')
-        }
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgPT4gewogICAgLy8gICBjb25zdCBwYXlsb2FkID0gS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKQogICAgLy8gICBjb25zb2xlLmxvZygnRGVjb2RlZCBwYXlsb2FkOicsIHBheWxvYWQpCiAgICAvLyB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ0xvYWRpbmcgZnVuY3Rpb24nKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBlbmNvZGVkUGF5bG9hZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIHsKICAgICAgICBpZiAodGhpcy4kYXV0aC5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgICAgYWxlcnQoJ0F1dGhlbnRpY2F0ZWQhJykKICAgICAgICB9IGVsc2UgewogICAgICAgICAgYWxlcnQoJ25vcGUgYnJvJykKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>checkState() {
-        if (this.$auth.isAuthenticated()) {
-          alert('Authenticated!')
-        } else {
-          alert('nope bro')
-        }
-      }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGV4cGVjdGVkID0gJ1Rlc3Qgc3RyaW5nJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -915,7 +912,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
