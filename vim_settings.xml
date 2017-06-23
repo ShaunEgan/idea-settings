@@ -109,7 +109,6 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/webpack.config.js" timestamp="1498151906182" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,10 +118,11 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498133810534">
-        <mark key="[" line="15" column="4" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498206540222">
+        <mark key="[" line="11" column="18" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
@@ -368,6 +368,9 @@
       <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
       </file>
@@ -489,8 +492,8 @@
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498135258464">
-        <mark key="[" line="6" column="19" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498205813130">
+        <mark key="[" line="12" column="47" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
@@ -499,6 +502,9 @@
         <mark key="]" line="55" column="28" />
         <mark key="." line="55" column="28" />
         <mark key="^" line="55" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/services/PtsiService.js" timestamp="1495529330689">
         <mark key="[" line="49" column="22" />
@@ -831,11 +837,11 @@
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
       </register>
       <register name="-" type="4">
-        <text>Login failed</text>
+        <text encoding="base64">ZWNobyBcIkVycm9yOiBubyB0ZXN0IHNwZWNpZmllZFwiICYmIGV4aXQgMQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -843,13 +849,21 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
+      <register name="1" type="4">
+        <text>,
+  &quot;dependencies&quot;: {
+    &quot;eslint&quot;: &quot;4.0.0&quot;,
+    &quot;eslint-config-airbnb-base&quot;: &quot;11.2.0&quot;,
+    &quot;eslint-plugin-import&quot;: &quot;2.5.0&quot;
+  }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
+      </register>
+      <register name="3" type="4">
         <text>,
 
       checkState() {
@@ -860,16 +874,16 @@
         }
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8gICAgICAgIGlmICh0aGlzLiRhdXRoLmlzQXV0aGVudGljYXRlZCgpKSB7Ci8vICAgICAgICAgIHRoaXMuJGF1dGgubG9nb3V0KCkKLy8gICAgICAgIH0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>{
         if (this.$auth.isAuthenticated()) {
           alert('Authenticated!')
@@ -878,10 +892,10 @@
         }
       }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIHsKICAgICAgICBpZiAodGhpcy4kYXV0aC5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgICAgYWxlcnQoJ0F1dGhlbnRpY2F0ZWQhJykKICAgICAgICB9IGVsc2UgewogICAgICAgICAgYWxlcnQoJ25vcGUgYnJvJykKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>checkState() {
         if (this.$auth.isAuthenticated()) {
           alert('Authenticated!')
@@ -889,9 +903,6 @@
           alert('nope bro')
         }
       }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcGk6IHByb2Nlc3MuZW52LkFQSV9VUkwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
