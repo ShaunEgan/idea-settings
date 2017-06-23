@@ -109,6 +109,7 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/webpack.config.js" timestamp="1498151906182" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
@@ -240,6 +241,9 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" timestamp="1498153847949">
+        <mark key="[" line="30" column="45" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/Api.js" timestamp="1497187552149">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="17" />
@@ -285,6 +289,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1498153860192">
+        <mark key="[" line="1" column="34" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1498147885008">
         <mark key="[" line="210" column="3" />
@@ -397,6 +406,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/LoginPage.vue" timestamp="1498155441107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="41" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/process.js" timestamp="1497870286839">
         <mark key="[" line="0" column="0" />
@@ -547,6 +562,12 @@
         <mark key="]" line="63" column="3" />
         <mark key="." line="63" column="3" />
         <mark key="^" line="63" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Login.vue" timestamp="1498152050811">
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1498148097240">
         <mark key="[" line="32" column="0" />
@@ -811,10 +832,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>Login failed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -823,34 +844,54 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdi1vbjpjbGljaz0iY2hlY2tTdGF0ZSI+Q2hlY2sgc3RhdGU8L2J1dHRvbj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnN0IGJhc2UgPSAnL2F1dGgnCiAgICAvLyBjb25zdCBwYXRoID0gcm91dGUgPT4gYCR7YmFzZX0ke3JvdXRlfWAKICAgIC8vCiAgICAvLyBjb25zdCByZWdpc3RlclBhdGggPSBwYXRoKCcvcmVnaXN0ZXInKQogICAgLy8gY29uc3QgbG9naW5QYXRoID0gcGF0aCgnL2xvZ2luJykKICAgIC8vIGNvbnN0IGZhY2Vib29rUGF0aCA9IHBhdGgoJy9mYWNlYm9vaycpCiAgICAvLyBjb25zdCBmYWNlYm9va0NhbGxiYWNrUGF0aCA9IHBhdGgoJy9mYWNlYm9vay9jYWxsYmFjaycpCiAgICAvLyBjb25zdCB0d2l0dGVyUGF0aCA9IHBhdGgoJy90d2l0dGVyJykKICAgIC8vIGNvbnN0IHR3aXR0ZXJDYWxsYmFja1BhdGggPSBwYXRoKCcvdHdpdHRlci9jYWxsYmFjaycpCg==</text>
+      <register name="2" type="4">
+        <text>,
+
+      checkState() {
+        if (this.$auth.isAuthenticated()) {
+          alert('Authenticated!')
+        } else {
+          alert('nope bro')
+        }
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGlmICh0aGlzLiRhdXRoLmlzQXV0aGVudGljYXRlZCgpKSB7Ci8vICAgICAgICAgIHRoaXMuJGF1dGgubG9nb3V0KCkKLy8gICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrOiBlbnYuVFdJVFRFUl9DQUxMQkFDS19VUkwgfHwgJy9hdXRoL3R3aXR0ZXIvY2FsbGJhY2snCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNhbGxiYWNrOiBlbnYuRkFDRUJPT0tfQ0FMTEJBQ0tfVVJMIHx8ICcvYXV0aC9mYWNlYm9vay9jYWxsYmFjaycK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyBDbGVhbiB1cCBhcnRpZmFjdHMKIyBybSAke0FSQ0hJVkVfTkFNRX0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">IyBDcmVhdGUgZGVwbG95bWVudCBhcmNoaXZlCiMgemlwIC1yICR7QVJDSElWRV9OQU1FfSAke1JFU09VUkNFU30K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>{
+        if (this.$auth.isAuthenticated()) {
+          alert('Authenticated!')
+        } else {
+          alert('nope bro')
+        }
+      }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tTdGF0ZSgpIHsKICAgICAgICBpZiAodGhpcy4kYXV0aC5pc0F1dGhlbnRpY2F0ZWQoKSkgewogICAgICAgICAgYWxlcnQoJ0F1dGhlbnRpY2F0ZWQhJykKICAgICAgICB9IGVsc2UgewogICAgICAgICAgYWxlcnQoJ25vcGUgYnJvJykKICAgICAgICB9CiAgICAgIH0K</text>
+      </register>
+      <register name="8" type="4">
+        <text>checkState() {
+        if (this.$auth.isAuthenticated()) {
+          alert('Authenticated!')
+        } else {
+          alert('nope bro')
+        }
+      }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBBUkNISVZFX05BTUU9cmVzb3VyY2VzLnppcAo=</text>
+        <text encoding="base64">ICAgICAgICBhcGk6IHByb2Nlc3MuZW52LkFQSV9VUkwK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
