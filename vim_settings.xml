@@ -120,6 +120,11 @@
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
@@ -276,6 +281,7 @@
         <mark key="]" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/src/Example/Service.js" timestamp="1498463365840" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1495716921246">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="10" column="0" />
@@ -295,8 +301,10 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/webpack.config.js" timestamp="1498457935328">
-        <mark key="[" line="5" column="39" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/webpack.config.js" timestamp="1498463459392">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
@@ -542,11 +550,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498461842943">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="15" column="22" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498463747994">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
@@ -896,7 +904,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6IEFXU0xhbWJkYUtpbmVzaXNFeGVjdXRpb25Sb2xlCg==</text>
       </register>
       <register name="-" type="4">
         <text>Example</text>
@@ -908,37 +916,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6IEFXU0xhbWJkYUtpbmVzaXNFeGVjdXRpb25Sb2xlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBQcm9jZXNzOgoK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3M6ICcuL3NyYy9Qcm9jZXNzL0hhbmRsZXIuanMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgIFByb3BlcnRpZXM6CiAgICAgIENvZGVVcmk6IHJlc291cmNlcy56aXAKICAgICAgSGFuZGxlcjogZGlzdC9wcm9jZXNzL2luZGV4LnByb2Nlc3MKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAogICAgICBQb2xpY2llczogQVdTTGFtYmRhS2luZXNpc0V4ZWN1dGlvblJvbGUKICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgRHJpdmVyU3RhdHVzU3RyZWFtOgogICAgVHlwZTogQVdTOjpLaW5lc2lzOjpTdHJlYW0KICAgIFByb3BlcnRpZXM6CiAgICAgIFNoYXJkQ291bnQ6IDEK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWQgPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTm9uYS1DcmVhdGl2ZS9vcmRlckluLWRyaXZlci1zdGF0dXMuZ2l0IgogIH0sCg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>driver-status
-S3_BUCKET=orderin-developers
-
-ENVIRONMENT=${ENV:-dev}</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBQcm9jZXNzOgoK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgIFByb3BlcnRpZXM6CiAgICAgIENvZGVVcmk6IHJlc291cmNlcy56aXAKICAgICAgSGFuZGxlcjogZGlzdC9wcm9jZXNzL2luZGV4LnByb2Nlc3MKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAogICAgICBQb2xpY2llczogQVdTTGFtYmRhS2luZXNpc0V4ZWN1dGlvblJvbGUKICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpdCgnaXMgYXZhaWxhYmxlJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBLaW5lc2lzVG9vbHMpLnRvLmVxdWFsKCdmdW5jdGlvbicpCiAgfSkK</text>
+        <text encoding="base64">CiAgRHJpdmVyU3RhdHVzU3RyZWFtOgogICAgVHlwZTogQVdTOjpLaW5lc2lzOjpTdHJlYW0KICAgIFByb3BlcnRpZXM6CiAgICAgIFNoYXJkQ291bnQ6IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbChkZWNvZGVkUGF5bG9hZCwgS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKSkK</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTm9uYS1DcmVhdGl2ZS9vcmRlckluLWRyaXZlci1zdGF0dXMuZ2l0IgogIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
