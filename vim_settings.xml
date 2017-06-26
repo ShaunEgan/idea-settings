@@ -550,11 +550,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498463747994">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498465183325">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
@@ -904,10 +903,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6IEFXU0xhbWJkYUtpbmVzaXNFeGVjdXRpb25Sb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Example</text>
+        <text>!GetAtt Example.RootResourceId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -916,34 +915,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6IEFXU0xhbWJkYUtpbmVzaXNFeGVjdXRpb25Sb2xlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2Nlc3M6ICcuL3NyYy9Qcm9jZXNzL0hhbmRsZXIuanMnLAo=</text>
+        <text encoding="base64">T3V0cHV0czoKICBHZXRNZXNzYWdlQXBpOgogICAgRGVzY3JpcHRpb246ICdHZXRzIGEgbWVzc2FnZSBmcm9tIHRoZSBFeGFtcGxlIFNlcnZpY2UnCiAgICBWYWx1ZTogJ0JsYWggYmxhaCcKIyAgICBWYWx1ZTogIUdldEF0dCBFeGFtcGxlLlJvb3RSZXNvdXJjZUlkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6IEFXU0xhbWJkYUtpbmVzaXNFeGVjdXRpb25Sb2xlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWQgPSAK</text>
+        <text encoding="base64">ICAgIHByb2Nlc3M6ICcuL3NyYy9Qcm9jZXNzL0hhbmRsZXIuanMnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBQcm9jZXNzOgoK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZXhwZWN0ZWQgPSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgIFByb3BlcnRpZXM6CiAgICAgIENvZGVVcmk6IHJlc291cmNlcy56aXAKICAgICAgSGFuZGxlcjogZGlzdC9wcm9jZXNzL2luZGV4LnByb2Nlc3MKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAogICAgICBQb2xpY2llczogQVdTTGFtYmRhS2luZXNpc0V4ZWN1dGlvblJvbGUKICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgRHJpdmVyU3RhdHVzU3RyZWFtOgogICAgVHlwZTogQVdTOjpLaW5lc2lzOjpTdHJlYW0KICAgIFByb3BlcnRpZXM6CiAgICAgIFNoYXJkQ291bnQ6IDEK</text>
+        <text encoding="base64">ICBQcm9jZXNzOgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTm9uYS1DcmVhdGl2ZS9vcmRlckluLWRyaXZlci1zdGF0dXMuZ2l0IgogIH0sCg==</text>
+        <text encoding="base64">ICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgIFByb3BlcnRpZXM6CiAgICAgIENvZGVVcmk6IHJlc291cmNlcy56aXAKICAgICAgSGFuZGxlcjogZGlzdC9wcm9jZXNzL2luZGV4LnByb2Nlc3MKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAogICAgICBQb2xpY2llczogQVdTTGFtYmRhS2luZXNpc0V4ZWN1dGlvblJvbGUKICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -956,7 +955,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
