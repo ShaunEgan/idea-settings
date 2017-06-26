@@ -139,6 +139,9 @@
         <mark key="." line="29" column="20" />
         <mark key="^" line="29" column="20" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/samples/driver-status.json" timestamp="1498473775741">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
         <mark key="]" line="8" column="0" />
@@ -714,7 +717,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497704190754">
+      <file name="/Dummy.txt" timestamp="1498473809865">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
