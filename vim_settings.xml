@@ -139,6 +139,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/README.md" timestamp="1498456902887">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="29" column="0" />
@@ -539,6 +544,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/bin/config.sh" timestamp="1498456188470">
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497338866989">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -732,6 +743,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="10" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1498456593130">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -865,10 +881,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>You will need to be part of the `OrderInDevelopers` group on AWS.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>You will need to be part of the `OrderInDevelopers` group on AWS.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
@@ -877,34 +893,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAicmVwb3NpdG9yeSI6IHsKICAgICJ0eXBlIjogImdpdCIsCiAgICAidXJsIjogImdpdCtodHRwczovL2dpdGh1Yi5jb20vTm9uYS1DcmVhdGl2ZS9vcmRlckluLWRyaXZlci1zdGF0dXMuZ2l0IgogIH0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBpdCgnaXMgYXZhaWxhYmxlJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBLaW5lc2lzVG9vbHMpLnRvLmVxdWFsKCdmdW5jdGlvbicpCiAgfSkK</text>
+      <register name="2" type="4">
+        <text>driver-status
+S3_BUCKET=orderin-developers
+
+ENVIRONMENT=${ENV:-dev}</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbChkZWNvZGVkUGF5bG9hZCwgS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbCgnZnVuY3Rpb24nLCB0eXBlb2YgS2luZXNpc1Rvb2xzKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBpdCgnaXMgYXZhaWxhYmxlJywgKCkgPT4gewogICAgZXhwZWN0KHR5cGVvZiBLaW5lc2lzVG9vbHMpLnRvLmVxdWFsKCdmdW5jdGlvbicpCiAgfSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbChkZWNvZGVkUGF5bG9hZCwgS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKSkK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdCgnZGVjb2RlcyBhbiBiYXNlNjQgZW5jb2RlZCBzdHJpbmcnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwoZGVjb2RlZFBheWxvYWQsIEtpbmVzaXNUb29scy5kZWNvZGUoZW5jb2RlZFBheWxvYWQpKQogIH0pCg==</text>
+        <text encoding="base64">ICAgIC8vIGFzc2VydC5lcXVhbCgnZnVuY3Rpb24nLCB0eXBlb2YgS2luZXNpc1Rvb2xzKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgZGVjb2RlKGVuY29kZWQpIHsKICAgIHJldHVybiAKICB9Cg==</text>
+        <text encoding="base64">ICBpdCgnZGVjb2RlcyBhbiBiYXNlNjQgZW5jb2RlZCBzdHJpbmcnLCAoKSA9PiB7CiAgICBhc3NlcnQuZXF1YWwoZGVjb2RlZFBheWxvYWQsIEtpbmVzaXNUb29scy5kZWNvZGUoZW5jb2RlZFBheWxvYWQpKQogIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHJlY29yZHMuZm9yRWFjaChyZWNvcmQgPT4gewogICAgLy8gICBjb25zdCBwYXlsb2FkID0gS2luZXNpc1Rvb2xzLmdldFBheWxvYWQocmVjb3JkKQogICAgLy8gICBjb25zb2xlLmxvZygnRGVjb2RlZCBwYXlsb2FkOicsIHBheWxvYWQpCiAgICAvLyB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -917,7 +936,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
