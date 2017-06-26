@@ -295,6 +295,9 @@
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/webpack.config.js" timestamp="1498457935328">
+        <mark key="[" line="5" column="39" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
         <mark key="]" line="21" column="131" />
@@ -539,6 +542,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498457967215">
+        <mark key="[" line="16" column="42" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -641,6 +647,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1497875912447">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/src/Example/Handler.js" timestamp="1498457910492">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
         <mark key="[" line="17" column="18" />
@@ -881,10 +893,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>You will need to be part of the `OrderInDevelopers` group on AWS.</text>
+        <text>Example</text>
       </register>
       <register name="-" type="4">
-        <text>You will need to be part of the `OrderInDevelopers` group on AWS.</text>
+        <text>Example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxfX0FQSV9yb2NfXD4=</text>
