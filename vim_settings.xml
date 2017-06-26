@@ -800,11 +800,11 @@
         <mark key="." line="8" column="19" />
         <mark key="^" line="13" column="8" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/setShellScriptVariable.js" timestamp="1498470028064">
-        <mark key="[" line="22" column="13" />
-        <mark key="]" line="22" column="12" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="22" column="12" />
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/setShellScriptVariable.js" timestamp="1498471335571">
+        <mark key="[" line="16" column="17" />
+        <mark key="]" line="16" column="17" />
+        <mark key="^" line="16" column="17" />
+        <mark key="." line="16" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple.json" timestamp="1494253864196">
         <mark key="[" line="0" column="0" />
@@ -933,10 +933,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>module.exports</text>
+        <text>value</text>
       </register>
       <register name="-" type="4">
-        <text>module.exports</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -945,34 +945,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBmaWxlUGF0aCA9IHBhdGguam9pbihfX2Rpcm5hbWUsIHJlbGF0aXZlUGF0aCkK</text>
+        <text encoding="base64">ICAgIAogICAgcmVzb2x2ZSh1cGRhdGVkRmlsZUNvbnRlbnRzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
+        <text encoding="base64">ICBjb25zdCBmaWxlUGF0aCA9IHBhdGguam9pbihfX2Rpcm5hbWUsIHJlbGF0aXZlUGF0aCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">YXdzIGFwaWdhdGV3YXkgZ2V0LXJlc291cmNlcyAtLXJlc3QtYXBpLWlkICR7QVBJX0lEfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXdzIGFwaWdhdGV3YXkgZ2V0LXJlc291cmNlcyAtLXJlc3QtYXBpLWlkICR7QVBJX0lEfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QVBJX0lEPWtwaXVhZ2dmOTQKCiNhd3MgYXBpZ2F0ZXdheSBnZXQtcmVzb3VyY2VzIFwKIyAgLS1yZXN0LWFwaS1pZCAke0FQSV9JRH0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXdzIGFwaWdhdGV3YXkgZ2V0LXJlc3QtYXBpIFwK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">QVBJX0lEPWtwaXVhZ2dmOTQKCiNhd3MgYXBpZ2F0ZXdheSBnZXQtcmVzb3VyY2VzIFwKIyAgLS1yZXN0LWFwaS1pZCAke0FQSV9JRH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXdzIGFwaWdhdGV3YXkgZ2V0LXJlc3QtYXBpIFwK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">T3V0cHV0czoKICBHZXRNZXNzYWdlQXBpOgogICAgRGVzY3JpcHRpb246ICdHZXRzIGEgbWVzc2FnZSBmcm9tIHRoZSBFeGFtcGxlIFNlcnZpY2UnCiAgICBWYWx1ZTogJ0JsYWggYmxhaCcKIyAgICBWYWx1ZTogIUdldEF0dCBFeGFtcGxlLlJvb3RSZXNvdXJjZUlkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
