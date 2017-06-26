@@ -290,8 +290,8 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1498115928866">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1498460370166">
+        <mark key="[" line="10" column="0" />
         <mark key="]" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
@@ -414,11 +414,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498118749903">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
-        <mark key="^" line="46" column="26" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498460544722">
+        <mark key="[" line="111" column="26" />
+        <mark key="]" line="111" column="57" />
+        <mark key="." line="111" column="57" />
+        <mark key="^" line="111" column="57" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
         <mark key="[" line="9" column="47" />
@@ -542,8 +542,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498457967215">
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498460100899">
         <mark key="[" line="16" column="42" />
+        <mark key="]" line="30" column="22" />
+        <mark key="^" line="30" column="22" />
+        <mark key="." line="30" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
