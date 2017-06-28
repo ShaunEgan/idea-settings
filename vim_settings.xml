@@ -66,11 +66,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1498642299455">
-        <mark key="[" line="5" column="34" />
-        <mark key="]" line="5" column="35" />
-        <mark key="." line="5" column="35" />
-        <mark key="^" line="9" column="33" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1498645134411">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="4" />
+        <mark key="." line="10" column="4" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497264808699">
         <mark key="[" line="0" column="10" />
@@ -124,6 +124,9 @@
         <mark key="[" line="95" column="4" />
         <mark key="]" line="95" column="4" />
         <mark key="." line="95" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/dynamodb.js" timestamp="1498643816250">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
         <mark key="[" line="6" column="0" />
@@ -236,6 +239,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="6" column="28" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/test-svc/bin/config.sh" timestamp="1498469235988" />
       <file name="$USER_HOME$/workspace/thuisverpleging-backend/.babelrc" timestamp="1497716490253">
@@ -544,11 +550,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498641540445">
-        <mark key="[" line="71" column="54" />
-        <mark key="]" line="71" column="5" />
-        <mark key="." line="71" column="5" />
-        <mark key="^" line="71" column="5" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498645114076">
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+        <mark key="^" line="82" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -702,11 +708,6 @@
         <mark key="." line="15" column="44" />
         <mark key="^" line="15" column="44" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/bin/get-api-url.sh" timestamp="1498467443900">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1497877019380">
         <mark key="[" line="23" column="35" />
         <mark key="]" line="26" column="16" />
@@ -802,11 +803,6 @@
         <mark key="]" line="12" column="10" />
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1498467708137">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
@@ -946,11 +942,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAKCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y29uc3QgcGF5bG9hZHMgPSA=</text>
       </register>
       <register name="-" type="4">
-        <text>CreateLogsPolicy</text>
+        <text encoding="base64">Y29uc3QgcGF5bG9hZHMgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -959,39 +955,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQYXlsb2FkcycpCiAgICBjb25zb2xlLmxvZyhwYXlsb2FkcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUGF0aDogJy9jaS9yb2xlcy9kcml2ZXItc3RhdHVzLycK</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CgogIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgUGF0aDogJy9jaS9yb2xlcy9kcml2ZXItc3RhdHVzLycK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGRkICAK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>Policies:
         - Ref: PublishLogsPolicy
         - Ref: ProcessKinesisEventsPolicy
         - Ref: DriverStatusPutPolicy</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgRHJpdmVyU3RhdHVzUHV0UG9saWN5OgogICAgVHlwZTogQVdTOjpJQU06Ok1hbmFnZWRQb2xpY3kKICAgIFByb3BlcnRpZXM6CiAgICAgIERlc2NyaXB0aW9uOiAnQWxsb3dzIHVzZXJzIHRvIHB1dCBpdGVtcyBpbnRvIHRoZSBEcml2ZXJTdGF0dXMgRHluYW1vREIgdGFibGUnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgUHJvY2Vzc0tpbmVzaXNFdmVudHNQb2xpY3k6CiAgICBUeXBlOiBBV1M6OklBTTo6TWFuYWdlZFBvbGljeQogICAgUHJvcGVydGllczoKICAgICAgRGVzY3JpcHRpb246ICdBbGxvd3MgTGFtYmRhIHRvIHByb2Nlc3MgZXZlbnRzIGZyb20gdGhlIERyaXZlclN0YXR1cyBLaW5lc2lzIHN0cmVhbScKICAgICAg</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgUHVibGlzaExvZ3NQb2xpY3k6CiAgICBUeXBlOiBBV1M6OklBTTo6TWFuYWdlZFBvbGljeQogICAgUHJvcGVydGllczoKICAgICAgRGVzY3JpcHRpb246ICdBbGxvd3MgdXNlcnMgdG8gcHVibGlzaCBsb2dzIHRvIENsb3VkV2F0Y2gnCiAgICAgIA==</text>
-      </register>
       <register name="9" type="4">
-        <text>- logs:CreateLogGroup
-              - logs:CreateLogStream
-              -</text>
+        <text encoding="base64">CiAgUHJvY2Vzc0tpbmVzaXNFdmVudHNQb2xpY3k6CiAgICBUeXBlOiBBV1M6OklBTTo6TWFuYWdlZFBvbGljeQogICAgUHJvcGVydGllczoKICAgICAgRGVzY3JpcHRpb246ICdBbGxvd3MgTGFtYmRhIHRvIHByb2Nlc3MgZXZlbnRzIGZyb20gdGhlIERyaXZlclN0YXR1cyBLaW5lc2lzIHN0cmVhbScKICAgICAg</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
