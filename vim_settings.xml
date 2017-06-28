@@ -451,11 +451,11 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498477223510">
-        <mark key="[" line="119" column="6" />
-        <mark key="]" line="111" column="57" />
-        <mark key="." line="111" column="57" />
-        <mark key="^" line="111" column="57" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498627405640">
+        <mark key="[" line="121" column="38" />
+        <mark key="]" line="121" column="42" />
+        <mark key="." line="121" column="42" />
+        <mark key="^" line="121" column="42" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
         <mark key="[" line="9" column="47" />
@@ -546,11 +546,10 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498136065386">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="7" column="34" />
-        <mark key="." line="7" column="34" />
-        <mark key="^" line="7" column="34" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498627250203">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -949,10 +948,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eyBtZXNzYWdlOiAnRGVjb2RlZCEnIH0</text>
+        <text>stream</text>
       </register>
       <register name="-" type="4">
-        <text>eyBtZXNzYWdlOiAnRGVjb2RlZCEnIH0</text>
+        <text>stream</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -961,34 +960,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CmVjaG8gJERBVEEK</text>
+        <text encoding="base64">ICAgICAgVGFibGVOYW1lOiBEcml2ZXJTdGF0dXMK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmVjaG8gJERBVEEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAkU1RSRUFNX05BTUUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U1RSRUFNX05BTUU9J2Rldi1zaGF1bi1kZXYtb3JkZXJpbi1kcml2ZXItc3RhdHVzLURyaXZlclN0YXR1c1N0cmVhbS0xNEpDS1BTSjFZVEs2Jwo=</text>
+        <text encoding="base64">ZWNobyAkU1RSRUFNX05BTUUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgLS1yZWdpb24gJHtSRUdJT059IFwK</text>
+        <text encoding="base64">U1RSRUFNX05BTUU9J2Rldi1zaGF1bi1kZXYtb3JkZXJpbi1kcml2ZXItc3RhdHVzLURyaXZlclN0YXR1c1N0cmVhbS0xNEpDS1BTSjFZVEs2Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgLS1xdWVyeSAiU3RyZWFtTmFtZXNbP3N0YXJ0c193aXRoKEAsICdkZXYtc2hhdW4tZGV2JyldIgo=</text>
+        <text encoding="base64">IyAgLS1yZWdpb24gJHtSRUdJT059IFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgLS1xdWVyeSAiU3RyZWFtTmFtZXNbP2NvbnRhaW5zKEAsICdkZXYtc2hhdW4tZGV2LW9yZGVyaW4tZHJpdmVyLXN0YXR1cy1Ecml2ZXJTdGF0dXNTdHJlYW0nKV0iCg==</text>
+        <text encoding="base64">IyAgLS1xdWVyeSAiU3RyZWFtTmFtZXNbP3N0YXJ0c193aXRoKEAsICdkZXYtc2hhdW4tZGV2JyldIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">UVVFUlk9IlN0cmVhbU5hbWVzWz9jb250YWlucyhALCAnZGV2LXNoYXVuLWRldi1vcmRlcmluLWRyaXZlci1zdGF0dXMtRHJpdmVyU3RhdHVzU3RyZWFtJyldIgo=</text>
+        <text encoding="base64">IyAgLS1xdWVyeSAiU3RyZWFtTmFtZXNbP2NvbnRhaW5zKEAsICdkZXYtc2hhdW4tZGV2LW9yZGVyaW4tZHJpdmVyLXN0YXR1cy1Ecml2ZXJTdGF0dXNTdHJlYW0nKV0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UVVFUlk9IlN0cmVhbU5hbWVzWz9jb250YWlucyhALCAnZGV2LXNoYXVuLWRldicpID09ICd0cnVlJ10iCg==</text>
+        <text encoding="base64">UVVFUlk9IlN0cmVhbU5hbWVzWz9jb250YWlucyhALCAnZGV2LXNoYXVuLWRldi1vcmRlcmluLWRyaXZlci1zdGF0dXMtRHJpdmVyU3RhdHVzU3RyZWFtJyldIgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
