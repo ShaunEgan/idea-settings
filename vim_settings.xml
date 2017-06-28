@@ -318,10 +318,11 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1498477372533">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1498636733171">
         <mark key="[" line="9" column="39" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/webpack.config.js" timestamp="1498463459392">
         <mark key="[" line="5" column="0" />
@@ -540,7 +541,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498634086075">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498636655939">
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="20" />
@@ -943,10 +944,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
