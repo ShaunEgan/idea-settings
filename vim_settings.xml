@@ -14,11 +14,11 @@
         <mark key="." line="49" column="49" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1498652700085">
-        <mark key="[" line="21" column="32" />
-        <mark key="]" line="21" column="31" />
-        <mark key="." line="21" column="31" />
-        <mark key="^" line="21" column="30" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1498654583748">
+        <mark key="[" line="26" column="41" />
+        <mark key="]" line="26" column="41" />
+        <mark key="^" line="27" column="9" />
+        <mark key="." line="26" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -125,8 +125,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1498649464124">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1498654403048">
+        <mark key="[" line="1" column="45" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
         <mark key="[" line="95" column="4" />
@@ -1001,10 +1001,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>calledOnce</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>calledOnce</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1013,7 +1013,7 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ3Npbm9uJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1022,22 +1022,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnaGFzIGEgUmVwb3NpdG9yeSBpbnN0YW5jZScsICgpID0+IHsKICAgIGV4cGVjdChEcml2ZXJTdGF0dXNTZXJ2aWNlLmRyaXZlclN0YXR1c1JlcG9zaXRvcnkpLnRvLmJlLmFuLmluc3RhbmNlT2YoUmVwb3NpdG9yeUNsYXNzKQogIH0pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGVmYXVsdCBhcyBSZXBvc2l0b3J5Q2xhc3MgfSBmcm9tICcuLi8uLi8uLi9zcmMvbGliL1JlcG9zaXRvcnknCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBtZW1iZXI6ICR7dGhpcy5kcml2ZXJTdGF0dXNSZXBvc2l0b3J5fWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBwYXJhbWV0ZXI6ICR7ZHJpdmVyU3RhdHVzUmVwb3NpdG9yeX1gKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGV4cGVjdChLaW5lc2lzVG9vbHMuZ2V0UGF5bG9hZChyZWNvcmQpKS50by5kZWVwLmVxdWFsKGRlY29kZWRQYXlsb2FkKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ3Npbm9uJwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
