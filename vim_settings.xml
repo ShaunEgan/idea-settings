@@ -179,6 +179,9 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="22" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1499159857032">
+        <mark key="[" line="0" column="27" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="29" column="0" />
@@ -817,8 +820,8 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1498209910235">
-        <mark key="[" line="5" column="20" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1499160070744">
+        <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="34" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="34" />
@@ -890,7 +893,7 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/README.md" timestamp="1497288957248">
         <mark key="[" line="13" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1496822895999">
+      <file name="/fragment.java" timestamp="1499159786270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/package.json" timestamp="1497339292294">
