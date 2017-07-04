@@ -14,11 +14,10 @@
         <mark key="." line="49" column="49" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1498654583748">
-        <mark key="[" line="26" column="41" />
-        <mark key="]" line="26" column="41" />
-        <mark key="^" line="27" column="9" />
-        <mark key="." line="26" column="41" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1499147339774">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -40,6 +39,9 @@
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/create.js" timestamp="1498468713644">
         <mark key="[" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1499146913015">
+        <mark key="[" line="10" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
         <mark key="[" line="2" column="0" />
@@ -99,6 +101,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/bin/deploy.sh" timestamp="1498465801783" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Clients/SampleClient.scala" timestamp="1494394151805">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -156,7 +159,7 @@
         <mark key="^" line="0" column="116" />
         <mark key="." line="0" column="116" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1498476908725">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1499146890948">
         <mark key="[" line="7" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
@@ -261,6 +264,7 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/test-svc/bin/config.sh" timestamp="1498469235988" />
       <file name="$USER_HOME$/workspace/thuisverpleging-backend/.babelrc" timestamp="1497716490253">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="2" column="0" />
@@ -326,6 +330,7 @@
         <mark key="]" line="32" column="29" />
         <mark key="." line="32" column="29" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/src/Example/Service.js" timestamp="1498463365840" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/build.sbt" timestamp="1495716921246">
         <mark key="[" line="7" column="52" />
         <mark key="]" line="10" column="0" />
@@ -579,7 +584,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1498645114076">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499146827066">
         <mark key="[" line="82" column="36" />
         <mark key="]" line="82" column="35" />
         <mark key="." line="82" column="35" />
@@ -604,6 +609,7 @@
         <mark key="." line="55" column="28" />
         <mark key="^" line="55" column="28" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/node_modules/sinon/lib/sinon/spy.js" timestamp="1499147092333" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
         <mark key="[" line="0" column="0" />
       </file>
@@ -846,6 +852,7 @@
         <mark key="." line="778" column="7" />
         <mark key="^" line="778" column="7" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/remove.sh" timestamp="1498474630980" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
         <mark key="]" line="15" column="0" />
@@ -1001,10 +1008,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>calledOnce</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>calledOnce</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1013,34 +1020,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZVNweS5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZCgpCiAgICAgICAgICAvLyBhc3NlcnQoY3JlYXRlU3B5LmNhbGxlZE9uY2UpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ3Npbm9uJwo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ3Npbm9uJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
