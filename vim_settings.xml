@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496221211196">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1498147946630">
         <mark key="[" line="38" column="65" />
         <mark key="]" line="49" column="49" />
@@ -20,19 +15,6 @@
         <mark key="." line="37" column="21" />
         <mark key="^" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/thuisverpleging-backend/.gitignore" timestamp="1497716614562">
-        <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1496829291687">
-        <mark key="[" line="16" column="83" />
-        <mark key="]" line="16" column="84" />
-        <mark key="." line="16" column="84" />
-      </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/example/Hello.scala" timestamp="1494408124510">
         <mark key="[" line="28" column="63" />
         <mark key="]" line="33" column="35" />
@@ -40,14 +22,6 @@
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/create.js" timestamp="1498468713644">
         <mark key="[" line="13" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1499146913015">
-        <mark key="[" line="10" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1497876259446">
         <mark key="[" line="5" column="6" />
@@ -59,37 +33,6 @@
         <mark key="[" line="3" column="35" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/KinesisTools.js" timestamp="1498646225522">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496218917315">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/ControllerProxy.js" timestamp="1495690528100">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1499155251258">
-        <mark key="[" line="6" column="23" />
-        <mark key="]" line="6" column="24" />
-        <mark key="." line="6" column="24" />
-        <mark key="^" line="6" column="58" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497264808699">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1498147710050">
-        <mark key="[" line="24" column="60" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/index.js" timestamp="1498470016412">
         <mark key="[" line="11" column="64" />
@@ -108,36 +51,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1495522316533">
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/Complex.scala" timestamp="1494408940178">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497689829255">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthController.js" timestamp="1497781868040">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1498654403048">
-        <mark key="[" line="1" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
-        <mark key="[" line="95" column="4" />
-        <mark key="]" line="95" column="4" />
-        <mark key="." line="95" column="4" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/dynamodb.js" timestamp="1498643816250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
@@ -147,12 +61,6 @@
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/Brand.vue" timestamp="1497187660369">
-        <mark key="[" line="30" column="41" />
-        <mark key="]" line="29" column="20" />
-        <mark key="." line="29" column="20" />
-        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/samples/driver-status.json" timestamp="1498479720812">
         <mark key="[" line="0" column="0" />
@@ -168,24 +76,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" timestamp="1494934764346">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/README.md" timestamp="1498467972441">
         <mark key="[" line="0" column="2" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="22" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1499159857032">
-        <mark key="[" line="0" column="27" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/practices/service/PracticeRepository.js" timestamp="1494759269110">
         <mark key="[" line="6" column="0" />
@@ -214,19 +109,6 @@
         <mark key="^" line="185" column="27" />
         <mark key="." line="185" column="27" />
       </file>
-      <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="36" column="5" />
-        <mark key="." line="36" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/GeneratorRespository.scala" timestamp="1494420605176">
-        <mark key="[" line="10" column="91" />
-        <mark key="]" line="10" column="91" />
-        <mark key="." line="10" column="91" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationTools/scala.scala" timestamp="1496742536309">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -254,11 +136,6 @@
         <mark key="]" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/setShellVariable.js" timestamp="1498469785556">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -267,12 +144,6 @@
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/test-svc/bin/config.sh" timestamp="1498469235988" />
-      <file name="$USER_HOME$/workspace/thuisverpleging-backend/.babelrc" timestamp="1497716490253">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/client-samples/single-client-2-day-vector-format.js" timestamp="1492687073431">
         <mark key="[" line="107" column="15" />
@@ -288,26 +159,6 @@
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.gitignore" timestamp="1498132532431">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1495531849532">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1497850546112">
-        <mark key="[" line="35" column="3" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="32" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/somefile.js" timestamp="1498127473924">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
-        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/Brand.js" timestamp="1497705437594">
         <mark key="[" line="27" column="20" />
@@ -355,6 +206,418 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1498147885008">
+        <mark key="[" line="210" column="3" />
+        <mark key="]" line="215" column="0" />
+        <mark key="^" line="215" column="0" />
+        <mark key="." line="215" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisTools.js" timestamp="1498625813991">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Services/Example.js" timestamp="1493183870178">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496837133249">
+        <mark key="[" line="15" column="6" />
+        <mark key="]" line="15" column="6" />
+        <mark key="." line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux-node/passport-auth.js" timestamp="1497850492997">
+        <mark key="[" line="54" column="7" />
+        <mark key="]" line="41" column="7" />
+        <mark key="." line="41" column="7" />
+        <mark key="^" line="41" column="7" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/Repository.js" timestamp="1498650313786">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="6" />
+        <mark key="." line="4" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusService.js" timestamp="1499059960943">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498642127665">
+        <mark key="[" line="107" column="14" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/LoginPage.vue" timestamp="1498155441107">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="41" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/process.js" timestamp="1497870286839">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Process/Handler.js" timestamp="1499164179273">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="15" column="17" />
+        <mark key="." line="15" column="17" />
+        <mark key="^" line="15" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/src/patients/service/PatientRepository.js" timestamp="1492589740963">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/User.js" timestamp="1497707050879">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="3" column="25" />
+        <mark key="^" line="3" column="29" />
+        <mark key="." line="3" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/thuisverpleging-backend/serverless.yml" timestamp="1497716765595">
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1498112270168">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="15" />
+        <mark key="." line="2" column="15" />
+        <mark key="^" line="2" column="15" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499146827066">
+        <mark key="[" line="82" column="36" />
+        <mark key="]" line="82" column="35" />
+        <mark key="." line="82" column="35" />
+        <mark key="^" line="82" column="35" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498205813130">
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="6" column="19" />
+        <mark key="." line="6" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/passport-auth.js" timestamp="1497417899748">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="55" column="28" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/node_modules/sinon/lib/sinon/spy.js" timestamp="1499147092333" />
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/services/PtsiService.js" timestamp="1495529330689">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="49" column="23" />
+        <mark key="." line="49" column="23" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.babelrc" timestamp="1498129010834">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498465183325">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494394737902">
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1497782678253">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497783712856">
+        <mark key="[" line="34" column="46" />
+        <mark key="]" line="35" column="62" />
+        <mark key="." line="35" column="62" />
+        <mark key="^" line="35" column="62" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1498650744887">
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1498148097240">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="44" column="115" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/sam.yaml" timestamp="1497871271223">
+        <mark key="[" line="4" column="26" />
+        <mark key="]" line="4" column="26" />
+        <mark key="^" line="4" column="26" />
+        <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/src/Example/Handler.js" timestamp="1498457910492">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="15" column="44" />
+        <mark key="." line="15" column="44" />
+        <mark key="^" line="15" column="44" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/index.js" timestamp="1498650231712">
+        <mark key="[" line="0" column="69" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1499154170277">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
+        <mark key="[" line="16" column="2" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/package.json" timestamp="1495090657439">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/workspace/thuisverpleging-backend/package.json" timestamp="1497717682505">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="15" column="31" />
+        <mark key="." line="15" column="31" />
+        <mark key="^" line="15" column="31" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/components/Hello.vue" timestamp="1497099648740">
+        <mark key="[" line="8" column="46" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1499160070744">
+        <mark key="[" line="5" column="29" />
+        <mark key="]" line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
+        <mark key="[" line="31" column="5" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/kinesis/consumer/src/index.js" timestamp="1497507662360">
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1497344039961">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/remove.sh" timestamp="1498474630980" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisDecoderTest.js" timestamp="1498207890669">
+        <mark key="[" line="12" column="10" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="/fragment.java" timestamp="1499159786270">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/MetaClient.scala" timestamp="1496221211196">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/thuisverpleging-backend/.gitignore" timestamp="1497716614562">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1496829291687">
+        <mark key="[" line="16" column="83" />
+        <mark key="]" line="16" column="84" />
+        <mark key="." line="16" column="84" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1499146913015">
+        <mark key="[" line="10" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/KinesisTools.js" timestamp="1498646225522">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Resources/Consumers/repositories/ConsumerJsonRepository.js" timestamp="1496218917315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/lib/ControllerProxy.js" timestamp="1495690528100">
+        <mark key="[" line="0" column="38" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1499155251258">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="58" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/KinesisTools.js" timestamp="1499163448905">
+        <mark key="[" line="4" column="51" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497264808699">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1498147710050">
+        <mark key="[" line="24" column="60" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1495522316533">
+        <mark key="[" line="5" column="22" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/Complex.scala" timestamp="1494408940178">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497689829255">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthController.js" timestamp="1497781868040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1498654403048">
+        <mark key="[" line="1" column="45" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
+        <mark key="[" line="95" column="4" />
+        <mark key="]" line="95" column="4" />
+        <mark key="." line="95" column="4" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/dynamodb.js" timestamp="1498643816250">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/Brand.vue" timestamp="1497187660369">
+        <mark key="[" line="30" column="41" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="20" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.scala" timestamp="1494934764346">
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1499159857032">
+        <mark key="[" line="0" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/DriverStatusStreamProcessor.js" timestamp="1499163687310" />
+      <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="36" column="5" />
+        <mark key="." line="36" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/GeneratorRespository.scala" timestamp="1494420605176">
+        <mark key="[" line="10" column="91" />
+        <mark key="]" line="10" column="91" />
+        <mark key="." line="10" column="91" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/nonacli/nonacli/test-svc/bin/config.sh" timestamp="1498469235988" />
+      <file name="$USER_HOME$/workspace/thuisverpleging-backend/.babelrc" timestamp="1497716490253">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.gitignore" timestamp="1498132532431">
+        <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/lib/Client/PtsiClient.js" timestamp="1495531849532">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1497850546112">
+        <mark key="[" line="35" column="3" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="32" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/somefile.js" timestamp="1498127473924">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1496835090531">
+        <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/RecordProcessor.js" timestamp="1499163224342">
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="22" />
+        <mark key="." line="14" column="23" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/webpack.config.js" timestamp="1498463459392">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -365,32 +628,15 @@
         <mark key="]" line="21" column="131" />
         <mark key="." line="21" column="131" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/main.js" timestamp="1498153860192">
         <mark key="[" line="1" column="34" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/ApiAuthentication.js" timestamp="1498147885008">
-        <mark key="[" line="210" column="3" />
-        <mark key="]" line="215" column="0" />
-        <mark key="^" line="215" column="0" />
-        <mark key="." line="215" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisTools.js" timestamp="1498625813991">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="11" column="52" />
-        <mark key="." line="11" column="52" />
-        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/Account.js" timestamp="1497707129376">
         <mark key="[" line="5" column="0" />
@@ -403,11 +649,6 @@
         <mark key="]" line="54" column="11" />
         <mark key="." line="54" column="11" />
         <mark key="^" line="54" column="11" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Services/Example.js" timestamp="1493183870178">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/service/DiabeticRetinopathyRepository.js" timestamp="1494759205333">
         <mark key="[" line="6" column="0" />
@@ -431,41 +672,17 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/AllocationService.scala" timestamp="1496837133249">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux-node/passport-auth.js" timestamp="1497850492997">
-        <mark key="[" line="54" column="7" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
-      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.nvmrc" timestamp="1498128857931">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="^" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/Repository.js" timestamp="1498650313786">
-        <mark key="[" line="4" column="7" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="6" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusService.js" timestamp="1499059960943">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
@@ -496,33 +713,10 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1498642127665">
-        <mark key="[" line="107" column="14" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/config.js" timestamp="1497358270318">
-        <mark key="[" line="9" column="47" />
-        <mark key="]" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/races/service/RaceRepository.js" timestamp="1494759282833">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/LoginPage.vue" timestamp="1498155441107">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="41" column="6" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/process.js" timestamp="1497870286839">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux-node/schema.js" timestamp="1497707150792">
         <mark key="[" line="84" column="2" />
@@ -545,33 +739,10 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/helios/src/patients/service/PatientRepository.js" timestamp="1492589740963">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1496831686081">
         <mark key="[" line="0" column="502" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/User.js" timestamp="1497707050879">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="3" column="25" />
-        <mark key="^" line="3" column="29" />
-        <mark key="." line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/thuisverpleging-backend/serverless.yml" timestamp="1497716765595">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/deploy.sh" timestamp="1498112270168">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="15" />
-        <mark key="." line="2" column="15" />
-        <mark key="^" line="2" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497181720670">
         <mark key="[" line="19" column="0" />
@@ -588,54 +759,16 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499146827066">
-        <mark key="[" line="82" column="36" />
-        <mark key="]" line="82" column="35" />
-        <mark key="." line="82" column="35" />
-        <mark key="^" line="82" column="35" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
-        <mark key="[" line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/scala-test/build.sbt" timestamp="1494255658808">
         <mark key="[" line="8" column="48" />
         <mark key="]" line="8" column="48" />
         <mark key="." line="8" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/process.js" timestamp="1498205813130">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="6" column="19" />
-        <mark key="." line="6" column="19" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/passport-auth.js" timestamp="1497417899748">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="55" column="28" />
-        <mark key="." line="55" column="28" />
-        <mark key="^" line="55" column="28" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/node_modules/sinon/lib/sinon/spy.js" timestamp="1499147092333" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1499162461973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/services/PtsiService.js" timestamp="1495529330689">
-        <mark key="[" line="49" column="22" />
-        <mark key="]" line="49" column="23" />
-        <mark key="." line="49" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.babelrc" timestamp="1498129010834">
-        <mark key="[" line="1" column="26" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498465183325">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/bin/config.sh" timestamp="1498467465192">
         <mark key="[" line="10" column="52" />
@@ -660,11 +793,6 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="42" column="54" />
       </file>
-      <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494394737902">
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux-node/circle.yml" timestamp="1493192302936">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -673,22 +801,10 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1497793996392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1497782678253">
-        <mark key="[" line="52" column="11" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/KinesisTools.js" timestamp="1498649504372">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/lib/Authentication.js" timestamp="1497783712856">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="35" column="62" />
-        <mark key="." line="35" column="62" />
-        <mark key="^" line="35" column="62" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/KinesisTools.js" timestamp="1499164394687">
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="4" />
+        <mark key="." line="11" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/summing/spec/support/examples/allocations.json" timestamp="1497873891238">
         <mark key="[" line="35" column="22" />
@@ -696,23 +812,11 @@
         <mark key="." line="63" column="3" />
         <mark key="^" line="63" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1498650744887">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Login.vue" timestamp="1498152050811">
         <mark key="[" line="10" column="9" />
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="23" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthenticationController.js" timestamp="1498148097240">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="44" column="115" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/kinesis-example.js" timestamp="1497432640149">
         <mark key="[" line="5" column="21" />
@@ -737,26 +841,8 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/sam.yaml" timestamp="1497871271223">
-        <mark key="[" line="4" column="26" />
-        <mark key="]" line="4" column="26" />
-        <mark key="^" line="4" column="26" />
-        <mark key="." line="4" column="26" />
-      </file>
       <file name="/JavaScript Console" timestamp="1498652033771">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/src/Example/Handler.js" timestamp="1498457910492">
-        <mark key="[" line="2" column="6" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/writeJson.js" timestamp="1496905112237">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="15" column="44" />
-        <mark key="." line="15" column="44" />
-        <mark key="^" line="15" column="44" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/bin/get-api-url.sh" timestamp="1498467443900">
         <mark key="[" line="6" column="0" />
@@ -769,14 +855,6 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/index.js" timestamp="1498650231712">
-        <mark key="[" line="0" column="69" />
-      </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-meta/src/Config.js" timestamp="1495543028899">
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/index.js" timestamp="1493878075088">
         <mark key="[" line="26" column="46" />
         <mark key="]" line="26" column="46" />
@@ -787,54 +865,10 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499154170277">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-done.md" timestamp="1493707869363">
-        <mark key="[" line="16" column="2" />
-        <mark key="]" line="16" column="3" />
-        <mark key="." line="16" column="3" />
-      </file>
-      <file name="$USER_HOME$/repositories/nonacli/nona-node-logging/package.json" timestamp="1495090657439">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/thuisverpleging-backend/package.json" timestamp="1497717682505">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="15" column="31" />
-        <mark key="." line="15" column="31" />
-        <mark key="^" line="15" column="31" />
-      </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/drivers.js" timestamp="1497011777424">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="25" />
         <mark key="." line="38" column="25" />
-      </file>
-      <file name="$USER_HOME$/repositories/poslux/hello-vue/src/components/Hello.vue" timestamp="1497099648740">
-        <mark key="[" line="8" column="46" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="42" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/webpack.config.js" timestamp="1499160070744">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-      </file>
-      <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/kinesis/consumer/src/index.js" timestamp="1497507662360">
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1498651022000">
         <mark key="[" line="2" column="17" />
@@ -847,26 +881,16 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1497344039961">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.json" timestamp="1497796569929">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="778" column="7" />
         <mark key="." line="778" column="7" />
         <mark key="^" line="778" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/remove.sh" timestamp="1498474630980" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Process/KinesisDecoderTest.js" timestamp="1498207890669">
-        <mark key="[" line="12" column="10" />
-        <mark key="]" line="12" column="10" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1498467708137">
         <mark key="[" line="7" column="38" />
@@ -892,9 +916,6 @@
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/README.md" timestamp="1497288957248">
         <mark key="[" line="13" column="40" />
-      </file>
-      <file name="/fragment.java" timestamp="1499159786270">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/package.json" timestamp="1497339292294">
         <mark key="[" line="8" column="77" />
@@ -1011,11 +1032,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZW4oRHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUuYmluZChEcml2ZXJTdGF0dXNTZXJ2aWNlKSkgLy8gdGhpcyBtaWdodCBuZWVkIGJpbmRpbmcK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1024,34 +1045,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gLnRoZW4oRHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUuYmluZChEcml2ZXJTdGF0dXNTZXJ2aWNlKSkgLy8gdGhpcyBtaWdodCBuZWVkIGJpbmRpbmcK</text>
+        <text encoding="base64">ICAgIC50aGVuKGNvbXBsZXRlQ2FsbGJhY2spCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZVNweS5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZCgpCiAgICAgICAgICAvLyBhc3NlcnQoY3JlYXRlU3B5LmNhbGxlZE9uY2UpCg==</text>
+        <text encoding="base64">ICAgIC50aGVuKCgpID0+IHsKICAgICAgY29uc29sZS5sb2coJ0NvbXBsZXRlZCBwcm9jZXNzaW5nIHBheWxvYWRzJykKICAgICAgY2FsbGJhY2sobnVsbCwgJ0NvbXBsZXRlZCcpCiAgICB9KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLy8gLnRoZW4oRHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUuYmluZChEcml2ZXJTdGF0dXNTZXJ2aWNlKSkgLy8gdGhpcyBtaWdodCBuZWVkIGJpbmRpbmcK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZVNweS5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZCgpCiAgICAgICAgICAvLyBhc3NlcnQoY3JlYXRlU3B5LmNhbGxlZE9uY2UpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
