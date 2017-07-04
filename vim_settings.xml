@@ -14,10 +14,11 @@
         <mark key="." line="49" column="49" />
         <mark key="^" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1499147339774">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/DriverStatusService.js" timestamp="1499154351786">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="37" column="21" />
+        <mark key="." line="37" column="21" />
+        <mark key="^" line="37" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/spec/unit/Services/ExampleSpec.js" timestamp="1493183918943">
         <mark key="[" line="0" column="0" />
@@ -74,11 +75,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1498647113911">
-        <mark key="[" line="6" column="32" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1499155251258">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="24" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="58" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Action.vue" timestamp="1497264808699">
         <mark key="[" line="0" column="10" />
@@ -194,10 +195,10 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/index.js" timestamp="1498651053821">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/index.js" timestamp="1499155219209">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/ExcessPowerCalculator.scala" timestamp="1494937526781">
         <mark key="[" line="2" column="34" />
@@ -783,7 +784,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498473809865">
+      <file name="/Dummy.txt" timestamp="1499154170277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
@@ -1007,11 +1008,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gLnRoZW4oRHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUuYmluZChEcml2ZXJTdGF0dXNTZXJ2aWNlKSkgLy8gdGhpcyBtaWdodCBuZWVkIGJpbmRpbmcK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1020,34 +1021,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZVNweS5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZCgpCiAgICAgICAgICAvLyBhc3NlcnQoY3JlYXRlU3B5LmNhbGxlZE9uY2UpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gLnRoZW4oRHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUuYmluZChEcml2ZXJTdGF0dXNTZXJ2aWNlKSkgLy8gdGhpcyBtaWdodCBuZWVkIGJpbmRpbmcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGNyZWF0ZVNweS5zaG91bGQuaGF2ZS5iZWVuLmNhbGxlZCgpCiAgICAgICAgICAvLyBhc3NlcnQoY3JlYXRlU3B5LmNhbGxlZE9uY2UpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc29sZS5sb2coc2VydmljZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbW9jayB9IGZyb20gJ3Npbm9uJwo=</text>
+        <text encoding="base64">ICAgICAgLy8gcmVwb3NpdG9yeU1vY2suZXhwZWN0cygnY3JlYXRlJykub25jZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
