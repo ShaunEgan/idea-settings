@@ -922,11 +922,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1499245343853">
-        <mark key="[" line="28" column="33" />
-        <mark key="]" line="28" column="34" />
-        <mark key="." line="28" column="34" />
-      </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="19" />
@@ -1062,11 +1057,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWlsJywgKCkgPT4gewogICAgZXhwZWN0KGZhbHNlKS50by5lcXVhbCh0cnVlKQogIH0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>4.0.0&quot;,</text>
       </register>
       <register name="-" type="4">
-        <text>webpack</text>
+        <text>4.0.0&quot;,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
