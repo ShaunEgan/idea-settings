@@ -72,8 +72,10 @@
         <mark key="^" line="0" column="116" />
         <mark key="." line="0" column="116" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1499146890948">
-        <mark key="[" line="7" column="38" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1499239824890">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="5" />
+        <mark key="." line="9" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
@@ -307,10 +309,10 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499146827066">
-        <mark key="[" line="82" column="36" />
-        <mark key="]" line="82" column="35" />
-        <mark key="." line="82" column="35" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499238047338">
+        <mark key="[" line="77" column="20" />
+        <mark key="]" line="77" column="20" />
+        <mark key="." line="77" column="20" />
         <mark key="^" line="82" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
@@ -320,6 +322,9 @@
         <mark key="[" line="12" column="47" />
         <mark key="]" line="6" column="19" />
         <mark key="." line="6" column="19" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.txt" timestamp="1499238907063">
+        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/passport-auth.js" timestamp="1497417899748">
         <mark key="[" line="56" column="0" />
@@ -514,6 +519,9 @@
         <mark key="[" line="0" column="10" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1499238381318">
+        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Config.js" timestamp="1498147710050">
         <mark key="[" line="24" column="60" />
@@ -1048,11 +1056,11 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>transpile</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>transpile</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1061,34 +1069,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
+        <text encoding="base64">ICAgICJzaW5vbiI6ICIyLjMuNSIsCiAgICAic2lub24tY2hhaSI6ICIyLjExLjAiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNzcuMCIsCiAgICAiYmFiZWwtY2xpIjogIjYuMjQuMSIsCiAgICAiY2hhaS1hcy1wcm9taXNlZCI6ICI3LjAuMCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlU3B5ID0gc3B5KCgpID0+IFByb21pc2UucmVzb2x2ZSgpKQogICAgICByZXBvc2l0b3J5LmNyZWF0ZS5jYWxsc0Zha2UoY3JlYXRlU3B5KQo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCgo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiNy4xLjAiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkK</text>
+        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gKCkgPT4gUHJvbWlzZS5yZXNvbHZlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlID0gKCkgPT4gCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlU3B5ID0gc3B5KCgpID0+IFByb21pc2UucmVzb2x2ZSgpKQogICAgICByZXBvc2l0b3J5LmNyZWF0ZS5jYWxsc0Zha2UoY3JlYXRlU3B5KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgCgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
@@ -1101,11 +1109,10 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.createdAt</entry>
         <entry>1.0.4</entry>
         <entry>/\n//g</entry>
         <entry encoding="base64">XDxnZXRcPg==</entry>
