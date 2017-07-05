@@ -104,6 +104,9 @@
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/cirlce.yml" timestamp="1499243839104">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/ExcessPowerCalculator.scala" timestamp="1494937526781">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="3" column="0" />
@@ -828,10 +831,10 @@
         <mark key="]" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/DriverStatusStreamProcessor.js" timestamp="1499167848368">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/DriverStatusStreamProcessor.js" timestamp="1499243531403">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/spec/support/examples/allocations.json" timestamp="1497873891238">
         <mark key="[" line="35" column="22" />
@@ -919,11 +922,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1499241231582">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="14" />
-        <mark key="." line="9" column="14" />
-        <mark key="^" line="9" column="9" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1499243825302">
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="34" />
+        <mark key="." line="27" column="34" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
@@ -1060,8 +1062,8 @@
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>webpack</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWlsJywgKCkgPT4gewogICAgZXhwZWN0KGZhbHNlKS50by5lcXVhbCh0cnVlKQogIH0pCg==</text>
       </register>
       <register name="-" type="4">
         <text>webpack</text>
@@ -1073,34 +1075,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzaW5vbiI6ICIyLjMuNSIsCiAgICAic2lub24tY2hhaSI6ICIyLjExLjAiLAo=</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWlsJywgKCkgPT4gewogICAgZXhwZWN0KGZhbHNlKS50by5lcXVhbCh0cnVlKQogIH0pCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNzcuMCIsCiAgICAiYmFiZWwtY2xpIjogIjYuMjQuMSIsCiAgICAiY2hhaS1hcy1wcm9taXNlZCI6ICI3LjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICJzaW5vbiI6ICIyLjMuNSIsCiAgICAic2lub24tY2hhaSI6ICIyLjExLjAiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNzcuMCIsCiAgICAiYmFiZWwtY2xpIjogIjYuMjQuMSIsCiAgICAiY2hhaS1hcy1wcm9taXNlZCI6ICI3LjAuMCIsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiNy4xLjAiLAo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiNy4xLjAiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlU3B5ID0gc3B5KCgpID0+IFByb21pc2UucmVzb2x2ZSgpKQogICAgICByZXBvc2l0b3J5LmNyZWF0ZS5jYWxsc0Zha2UoY3JlYXRlU3B5KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgCgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlU3B5ID0gc3B5KCgpID0+IFByb21pc2UucmVzb2x2ZSgpKQogICAgICByZXBvc2l0b3J5LmNyZWF0ZS5jYWxsc0Zha2UoY3JlYXRlU3B5KQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
