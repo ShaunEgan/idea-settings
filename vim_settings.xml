@@ -342,10 +342,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1498465183325">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/sam.yaml" timestamp="1499241029040">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/.gitignore" timestamp="1493183806228">
         <mark key="[" line="1" column="0" />
@@ -916,10 +916,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1498467708137">
-        <mark key="[" line="7" column="38" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/package.json" timestamp="1499241231582">
+        <mark key="[" line="9" column="14" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="^" line="9" column="9" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/hello-vue/src/App.vue" timestamp="1497103323629">
         <mark key="[" line="8" column="19" />
@@ -1057,10 +1058,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>transpile</text>
+        <text>webpack</text>
       </register>
       <register name="-" type="4">
-        <text>transpile</text>
+        <text>webpack</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
