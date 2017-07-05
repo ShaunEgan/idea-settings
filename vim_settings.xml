@@ -312,6 +312,12 @@
         <mark key="." line="2" column="15" />
         <mark key="^" line="2" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation.json" timestamp="1499250677236">
+        <mark key="'" line="28246" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499238047338">
         <mark key="[" line="77" column="20" />
         <mark key="]" line="77" column="20" />
@@ -588,6 +594,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/DriverStatusStreamProcessor.js" timestamp="1499168132342">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation-corrected.json" timestamp="1499251830489">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/pink-team/README.md" timestamp="1493707800997">
         <mark key="[" line="36" column="5" />
         <mark key="]" line="36" column="5" />
@@ -600,6 +611,14 @@
       </file>
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" timestamp="1499251980003">
+        <mark key="a" line="27" column="22" />
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="30" column="24" />
+        <mark key="]" line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+        <mark key="." line="30" column="24" />
       </file>
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
         <mark key="[" line="3" column="0" />
@@ -724,6 +743,11 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1498468587186">
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation.json" timestamp="1499250752802">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/ConsumerRepository.scala" timestamp="1496221665456">
         <mark key="[" line="21" column="129" />
         <mark key="]" line="21" column="129" />
@@ -801,6 +825,12 @@
         <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/src/index.js" timestamp="1499251515294">
+        <mark key="[" line="9" column="34" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497338866989">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -825,6 +855,11 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1497793996392">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation-corrected.json" timestamp="1499251851739">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/KinesisTools.js" timestamp="1499164744772">
         <mark key="[" line="11" column="4" />
@@ -955,11 +990,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="2" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
-      <jump line="140" column="26" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/tests/Nona/ElasticsearchTools/Repositories/Concretions/RepositoryTest.php" />
-      <jump line="14" column="16" filename="$USER_HOME$/repositories/nona-elasticsearch-tools/src/Nona/ElasticsearchTools/Repositories/Concretions/Repository.php" />
-      <jump line="54" column="0" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
-      <jump line="21" column="51" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Repositories/PostRepository.php" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/svc-auth/src/authorize/index.js" />
       <jump line="2" column="13" filename="$USER_HOME$/dev/svc-auth/src/authorize/public/index.html" />
       <jump line="3" column="6" filename="$USER_HOME$/dev/svc-auth/src/authenticate/index.js" />
@@ -1055,13 +1085,18 @@
       <jump line="58" column="47" filename="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand.vue" />
       <jump line="29" column="61" filename="$USER_HOME$/repositories/poslux/embed-api/src/index.js" />
       <jump line="15" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" />
+      <jump line="28248" column="0" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation.json" />
+      <jump line="28254" column="0" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation.json" />
+      <jump line="31246" column="1" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" />
+      <jump line="30" column="24" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>4.0.0&quot;,</text>
+        <text>hermes</text>
       </register>
       <register name="-" type="4">
-        <text>4.0.0&quot;,</text>
+        <text>hermes</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
@@ -1070,34 +1105,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWlsJywgKCkgPT4gewogICAgZXhwZWN0KGZhbHNlKS50by5lcXVhbCh0cnVlKQogIH0pCg==</text>
+        <text encoding="base64">ICB7CiAgICAiVGltZXN0YW1wIjogIjIwMTctMDMtMDFUMDA6MDA6MDAiLAogICAgIkRhdGFMaXN0IjogWwogICAgICB7CiAgICAgICAgIklkZW50aWZpZXIiOiAiR1BfQ29lZ2FfVHVyYmluZSIsCiAgICAgICAgIlZhbHVlIjogODYwLjAKICAgICAgfSwKICAgICAgewogICAgICAgICJJZGVudGlmaWVyIjogIkdQX01lcmlub19IeWRybyIsCiAgICAgICAgIlZhbHVlIjogbnVsbAogICAgICB9LAogICAgICB7CiAgICAgICAgIklkZW50aWZpZXIiOiAiR1BfUmFuZ2Vyc19QViIsCiAgICAgICAgIlZhbHVlIjogMC4wMjUKICAgICAgfSwKICAgICAgewogICAgICAgICJJZGVudGlmaWVyIjogIkdQX1RTQl9NYWxlbGFuZSIsCiAgICAgICAgIlZhbHVlIjogMC4wCiAgICAgIH0KICAgIF0KICB9LAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzaW5vbiI6ICIyLjMuNSIsCiAgICAic2lub24tY2hhaSI6ICIyLjExLjAiLAo=</text>
+        <text encoding="base64">ICB7CiAgICAiVGltZXN0YW1wIjogIjIwMTctMDItMDFUMDA6MDA6MDAiLAogICAgIkRhdGFMaXN0IjogWwogICAgICB7CiAgICAgICAgIklkZW50aWZpZXIiOiAiR1BfQ29lZ2FfVHVyYmluZSIsCiAgICAgICAgIlZhbHVlIjogODAuMAogICAgICB9LAogICAgICB7CiAgICAgICAgIklkZW50aWZpZXIiOiAiR1BfTWVyaW5vX0h5ZHJvIiwKICAgICAgICAiVmFsdWUiOiBudWxsCiAgICAgIH0sCiAgICAgIHsKICAgICAgICAiSWRlbnRpZmllciI6ICJHUF9SYW5nZXJzX1BWIiwKICAgICAgICAiVmFsdWUiOiAwLjAyNQogICAgICB9LAogICAgICB7CiAgICAgICAgIklkZW50aWZpZXIiOiAiR1BfVFNCX01hbGVsYW5lIiwKICAgICAgICAiVmFsdWUiOiAwLjAKICAgICAgfQogICAgXQogIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNzcuMCIsCiAgICAiYmFiZWwtY2xpIjogIjYuMjQuMSIsCiAgICAiY2hhaS1hcy1wcm9taXNlZCI6ICI3LjAuMCIsCg==</text>
+        <text encoding="base64">ICAgICAgfQogICAgXQogIH0sCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtZGEnCgpleHBvcnRzLnJ1biA9IGRhdGEgPT4gewogIGNvbnN0IGdldERhdGFMaXN0ID0gUi5wcm9wKCdEYXRhTGlzdCcpCiAgY29uc3QgZ2V0R2VuZXJhdGlvbkFycmF5ID0gUi5jb21wb3NlKFIuZmxhdHRlbiwgUi5tYXAoZ2V0RGF0YUxpc3QpKQoKICBjb25zdCBnZW5lcmF0aW9uID0gZ2V0R2VuZXJhdGlvbkFycmF5KGRhdGEpCiAgY29uc29sZS5sb2coZ2VuZXJhdGlvbikKfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIjMuMC4wIgo=</text>
+        <text encoding="base64">SFRUUC8xLjEgMjAwIE9LCkNvbnRlbnQtTGVuZ3RoOiA2MTM3MDUKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04ClNlcnZlcjogTWljcm9zb2Z0LUlJUy83LjUKWC1Qb3dlcmVkLUJ5OiBBU1AuTkVUCkRhdGU6IFdlZCwgMDUgSnVsIDIwMTcgMTA6MzE6MzAgR01UCkNvbm5lY3Rpb246IGNsb3NlCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1sb2FkZXIiOiAiNy4xLjAiLAo=</text>
+        <text encoding="base64">SFRUUC8xLjEgMjAwIE9LCkNvbnRlbnQtTGVuZ3RoOiA1NTQ0MzYKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04ClNlcnZlcjogTWljcm9zb2Z0LUlJUy83LjUKWC1Qb3dlcmVkLUJ5OiBBU1AuTkVUCkRhdGU6IFdlZCwgMDUgSnVsIDIwMTcgMTA6Mjc6MjQgR01UCkNvbm5lY3Rpb246IGNsb3NlCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQHR5cGUge0RyaXZlclN0YXR1c1NlcnZpY2V9Cg==</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBmYWlsJywgKCkgPT4gewogICAgZXhwZWN0KGZhbHNlKS50by5lcXVhbCh0cnVlKQogIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzaW5vbiI6ICIyLjMuNSIsCiAgICAic2lub24tY2hhaSI6ICIyLjExLjAiLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY3JlYXRlU3B5ID0gc3B5KCgpID0+IFByb21pc2UucmVzb2x2ZSgpKQogICAgICByZXBvc2l0b3J5LmNyZWF0ZS5jYWxsc0Zha2UoY3JlYXRlU3B5KQo=</text>
+        <text encoding="base64">ICAgICJhd3Mtc2RrIjogIjIuNzcuMCIsCiAgICAiYmFiZWwtY2xpIjogIjYuMjQuMSIsCiAgICAiY2hhaS1hcy1wcm9taXNlZCI6ICI3LjAuMCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
