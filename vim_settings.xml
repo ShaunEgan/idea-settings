@@ -484,6 +484,9 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1499146913015">
         <mark key="[" line="10" column="27" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/circle.yml" timestamp="1499242262217">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
