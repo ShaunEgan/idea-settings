@@ -50,6 +50,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.txt" timestamp="1499343597749">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
         <mark key="[" line="0" column="0" />
       </file>
@@ -267,7 +272,12 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1499342346186" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1499344706235">
+        <mark key="[" line="19" column="58" />
+        <mark key="]" line="17" column="74" />
+        <mark key="^" line="17" column="74" />
+        <mark key="." line="17" column="74" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusService.js" timestamp="1499059960943">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -645,13 +655,13 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" timestamp="1499341799236">
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" timestamp="1499343906756">
         <mark key="a" line="36" column="22" />
         <mark key="'" line="39" column="24" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="69" column="19" />
-        <mark key="^" line="69" column="18" />
-        <mark key="." line="69" column="19" />
+        <mark key="[" line="9" column="88" />
+        <mark key="]" line="10" column="87" />
+        <mark key="^" line="10" column="87" />
+        <mark key="." line="10" column="87" />
       </file>
       <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation-ptsi.json" timestamp="1499327939261">
         <mark key="'" line="28246" column="0" />
@@ -774,6 +784,7 @@
       <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499345458925" />
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
       </file>
@@ -1159,10 +1170,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>March</text>
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>March</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
