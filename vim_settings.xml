@@ -160,8 +160,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1499336907973">
-        <mark key="[" line="129" column="40" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1499342938893">
+        <mark key="[" line="69" column="36" />
+        <mark key="]" line="69" column="38" />
+        <mark key="^" line="69" column="38" />
+        <mark key="." line="69" column="38" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/support/ptsi/client-samples/single-client-2-day-vector-format.js" timestamp="1492687073431">
         <mark key="[" line="107" column="15" />
@@ -264,6 +267,7 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1499342346186" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusService.js" timestamp="1499059960943">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
