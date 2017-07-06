@@ -641,13 +641,13 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" timestamp="1499337613414">
-        <mark key="a" line="34" column="22" />
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="0" column="35" />
-        <mark key="]" line="24" column="4" />
-        <mark key="^" line="24" column="4" />
-        <mark key="." line="24" column="4" />
+      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/unit/IndexSpec.js" timestamp="1499341799236">
+        <mark key="a" line="36" column="22" />
+        <mark key="'" line="39" column="24" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="19" />
+        <mark key="^" line="69" column="18" />
+        <mark key="." line="69" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation-ptsi.json" timestamp="1499327939261">
         <mark key="'" line="28246" column="0" />
@@ -1154,11 +1154,11 @@
       <jump line="12" column="63" filename="$USER_HOME$/workspace/summing/src/Services/TotalSummer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>March</text>
       </register>
       <register name="-" type="4">
-        <text>april</text>
+        <text>March</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPcmRlckluXD4=</text>
