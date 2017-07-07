@@ -516,10 +516,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="286037" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1496829291687">
-        <mark key="[" line="16" column="83" />
-        <mark key="]" line="16" column="84" />
-        <mark key="." line="16" column="84" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1499414473716">
+        <mark key="[" line="57" column="6" />
+        <mark key="]" line="57" column="7" />
+        <mark key="." line="57" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/controllers/PtsiControllerSpec.js" timestamp="1499258758906">
         <mark key="[" line="14" column="8" />
@@ -555,6 +555,9 @@
         <mark key="[" line="0" column="38" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1499414853219">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Handler.js" timestamp="1499155251258">
         <mark key="[" line="6" column="23" />
@@ -784,7 +787,11 @@
       <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499345458925" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499415761539">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
       </file>
@@ -1169,8 +1176,8 @@
       <jump line="12" column="63" filename="$USER_HOME$/workspace/summing/src/Services/TotalSummer.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBwb29sID0gZ2VuZXJhdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -1182,37 +1189,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAK</text>
+        <text encoding="base64">ICAgIHZhciBwb29sID0gZ2VuZXJhdGlvbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBnZXRQb3dlckFsbG9jYXRpb25BcnJheSA9IFIubWFwKGdldFBvd2VyQWxsb2NhdGlvbikK</text>
+        <text encoding="base64">cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBnZXRHZW5lcmF0b3JBc3NpZ25tZW50cyA9IAo=</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICBjb25zdCBnZXRQb3dlckFsbG9jYXRpb25BcnJheSA9IFIubWFwKGdldFBvd2VyQWxsb2NhdGlvbikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCBnZXRHZW5lcmF0b3JBc3NpZ25tZW50cyA9IAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zdCBydW4gPSAKICBjb25zb2xlLmxvZyhydW4oZGF0YSkpCiAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>const run = 
   console.log(run(data))
   
   return R</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Ly8gY29uc3QgdG90YWxOb25Ub3UgPSB0b3RhbFN1bW1lcihub25Ub3VBbGxvY2F0aW9uRGF0YSkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">SFRUUC8xLjEgMjAwIE9LCkNvbnRlbnQtTGVuZ3RoOiA1OTg3NzgKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uOyBjaGFyc2V0PXV0Zi04ClNlcnZlcjogTWljcm9zb2Z0LUlJUy83LjUKWC1Qb3dlcmVkLUJ5OiBBU1AuTkVUCkRhdGU6IFRodSwgMDYgSnVsIDIwMTcgMDg6MjQ6MzYgR01UCkNvbm5lY3Rpb246IGNsb3NlCgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">SFRUUC8xLjEgMjAwIE9LCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgpDb250ZW50LUxlbmd0aDogMjc4Nzg4CkRhdGU6IFRodSwgMDYgSnVsIDIwMTcgMDg6MjM6MjEgR01UCkNvbm5lY3Rpb246IGNsb3NlCgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
