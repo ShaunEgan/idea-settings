@@ -42,6 +42,11 @@
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Auth.js" timestamp="1497689740819">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/GetCurrentTime.js" timestamp="1499672781348">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,11 +152,19 @@
         <mark key="[" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/go2africa/search/Indexer/PostTypes/PostTypeIndexerInterface.php" timestamp="1499667875333" />
+      <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/Handler.js" timestamp="1499673249477">
+        <mark key="[" line="9" column="11" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1497875551958">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/ListCalendarEvents.js" timestamp="1499674051233">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499510707737">
         <mark key="[" line="44" column="136" />
@@ -189,6 +202,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/Services/GoogleAuthentication.js" timestamp="1499674038670" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1499168573391">
         <mark key="[" line="0" column="0" />
       </file>
@@ -322,11 +336,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-non-tou-generation-capacity-corrected.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGdvb2dsZUF1dGggZnJvbSAnLi9TZXJ2aWNlcy9Hb29nbGVBdXRoZW50aWNhdGlvbicK</text>
       </register>
       <register name="-" type="4">
-        <text>Error</text>
+        <text>Message</text>
       </register>
       <register name="/" type="4">
         <text>got</text>
@@ -335,34 +349,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGdvb2dsZUF1dGggZnJvbSAnLi9TZXJ2aWNlcy9Hb29nbGVBdXRoZW50aWNhdGlvbicK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBoYW5kbGVFcnJvcihlcnJvci5tZXNzYWdlKQogICAgICAgIC50aGVuKGVycm9yTWVzc2FnZSA9PiB7CiAgICAgICAgICAKICAgICAgICB9KQogICAgfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="3" type="4">
+        <text>callback(null, {
+    statusCode: 200,
+    body: errorMessage
+  })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgbWVzc2FnZSA9ICcnCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICBjb25zdCBzZW5kRXJyb3JNZXNzYWdlID0gZXJyb3JNZXNzYWdlID0+IGNhbGxiYWNrKG51bGwsIHsKICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgIGJvZHk6IGVycm9yTWVzc2FnZQogIH0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYnJlYWsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBoYW5kbGVFcnJvcihlcnJvci5tZXNzYWdlKQogICAgICAgIC50aGVuKGVycm9yTWVzc2FnZSA9PiB7CiAgICAgICAgICAKICAgICAgICB9KQogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">bGV0IHggPSAxCgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZXZlbnREYXRhID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgewogICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICBib2R5OiBldmVudERhdGEKICAgICAgfSkKICAgIH0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">Ly8gY29uc3QgZ2V0Q3VycmVudFRpbWUgPSB0aW1lID0+IHsKLy8gICBjb25zdCBjdXJyZW50VGltZVpvbmUgPSBtb21lbnQudXRjKCkuYWRkKDIsICdob3VycycpCi8vICAgY29uc3QgYWRkVG9DdXJyZW50VGltZSA9IGN1cnJlbnRUaW1lWm9uZS5hZGQodGltZSwgJ21pbnV0ZXMnKQovLwovLyAgIHJldHVybiBhZGRUb0N1cnJlbnRUaW1lLnRvSVNPU3RyaW5nKCkuc3BsaXQoJy4nKVswXQovLyB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogICAgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
