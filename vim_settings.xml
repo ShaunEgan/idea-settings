@@ -107,7 +107,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="286037" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1499684203947">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1499684410082">
         <mark key="[" line="73" column="9" />
         <mark key="]" line="72" column="22" />
         <mark key="." line="72" column="22" />
@@ -180,11 +180,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499678753196">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-        <mark key="." line="36" column="35" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouEnergyAssignmentService.scala" timestamp="1499685558430">
+        <mark key="[" line="55" column="22" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="50" column="36" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
@@ -369,10 +369,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LCBidXQgZ290IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBidXQgZ290IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>, but</text>
@@ -381,37 +381,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Uwo=</text>
+        <text encoding="base64">ICAgICAgdmFsIHRlc3QgPSBuZXdseUFzc2lnbmVkLnRvTGlzdAogICAgICB2YWwgb3RoZXJUZXN0ID0gYXNzaWduZWQudG9MaXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Uwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGRkIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgNCwgMCwgMzApIC0+IE1hcCgKICAgICAgICBBY2NvdW50SWQoNCkgLT4gU2VxKAogICAgICAgICAgKEFjY291bnRJZCgyKSwgTG9jYWxEYXRlVGltZS5vZigyMDE3LCAxLCAxNiwgMCwgMCksIDMpLAogICAgICAgICAgKEFjY291bnRJZCgzKSwgTG9jYWxEYXRlVGltZS5vZigyMDE3LCAxLCAxNywgMCwgMCksIDEpCiAgICAgICAgKQogICAgICApLAogICAgICBMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDMsIDAsIDMwKSAtPiBNYXAoCiAgICAgICAgQWNjb3VudElkKDMpIC0+IFNlcSgKICAgICAgICAgIChBY2NvdW50SWQoMyksIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMTcsIDAsIDApLCAyKSwKICAgICAgICAgIChBY2NvdW50SWQoMSksIExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMTUsIDAsIDApLCAxKQogICAgICAgICkKICAgICAgKSwKICAgICAgTG9jYWxEYXRlVGltZS5vZigyMDE3LCAxLCAyLCAwLCAzMCkgLT4gTWFwKAogICAgICAgIEFjY291bnRJZCgyKSAtPiBTZXEoCiAgICAgICAgICAoQWNjb3VudElkKDQpLCBMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDE4LCAwLCAwKSwgMSksCiAgICAgICAgICAoQWNjb3VudElkKDUpLCBMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDE5LCAwLCAwKSwgMSkKICAgICAgICApCiAgICAgICks</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgR2VuZXJhdGlvbkVudHJ5KExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMTYsIDAsIDApLCBBY2NvdW50SWQoMiksIDMpLAogICAgICBHZW5lcmF0aW9uRW50cnkoTG9jYWxEYXRlVGltZS5vZigyMDE3LCAxLCAxNywgMCwgMCksIEFjY291bnRJZCgzKSwgMyksCiAgICAgIEdlbmVyYXRpb25FbnRyeShMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDE4LCAwLCAwKSwgQWNjb3VudElkKDQpLCAxKSwKICAgICAgR2VuZXJhdGlvbkVudHJ5KExvY2FsRGF0ZVRpbWUub2YoMjAxNywgMSwgMTksIDAsIDApLCBBY2NvdW50SWQoNSksIDEpLAogICAgICBHZW5lcmF0aW9uRW50cnkoTG9jYWxEYXRlVGltZS5vZigyMDE3LCAxLCAyMCwgMCwgMCksIEFjY291bnRJZCg2KSwgMSkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgQ29uc3VtcHRpb25FbnRyeShMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDMsIDAsIDMwKSwgQWNjb3VudElkKDMpLCAzLCAwLCAwLCAzKSwKICAgICAgQ29uc3VtcHRpb25FbnRyeShMb2NhbERhdGVUaW1lLm9mKDIwMTcsIDEsIDQsIDAsIDMwKSwgQWNjb3VudElkKDQpLCA0LCAwLCAwLCA0KQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICBwcmludGxuKHMiQ29uc3VtZXJzIGVtcHR5OiAke2NvbnN1bWVycy5pc0VtcHR5fSIpCiAgICBwcmludGxuKHMiR2VuZXJhdG9ycyBlbXB0eTogJHtnZW5lcmF0b3JzLmlzRW1wdHl9IikK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGdvb2dsZUF1dGggZnJvbSAnLi9TZXJ2aWNlcy9Hb29nbGVBdXRoZW50aWNhdGlvbicK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBoYW5kbGVFcnJvcihlcnJvci5tZXNzYWdlKQogICAgICAgIC50aGVuKGVycm9yTWVzc2FnZSA9PiB7CiAgICAgICAgICAKICAgICAgICB9KQogICAgfQ==</text>
-      </register>
       <register name="9" type="4">
-        <text>callback(null, {
-    statusCode: 200,
-    body: errorMessage
-  })</text>
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICBoYW5kbGVFcnJvcihlcnJvci5tZXNzYWdlKQogICAgICAgIC50aGVuKGVycm9yTWVzc2FnZSA9PiB7CiAgICAgICAgICAKICAgICAgICB9KQogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
