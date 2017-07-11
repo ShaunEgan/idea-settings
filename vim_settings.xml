@@ -510,10 +510,10 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499764939772">
-        <mark key="[" line="50" column="54" />
-        <mark key="]" line="85" column="49" />
-        <mark key="." line="85" column="49" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499774106964">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -684,6 +684,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1499772860915" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/ActionPopup.vue" timestamp="1497272068442">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -819,7 +820,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Process</text>
@@ -831,34 +832,40 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IFBvbGljeU5hbWU6IFByb2Nlc3NLaW5lc2lzUG9saWN5CiAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAtIFBvbGljeU5hbWU6IFB1Ymxpc2hMb2dzUG9saWN5CiAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBQcm9jZXNzS2luZXNpc1BvbGljeToKICAgIFR5cGU6IEFXUzo6SUFNOjpNYW5hZ2VkUG9saWN5CiAgICBQcm9wZXJ0aWVzOgogICAgICBEZXNjcmlwdGlvbjogJ0FsbG93cyBmdW5jdGlvbnMgdG8gcHJvY2VzcyBLaW5lc2lzIHN0cmVhbSBldmVudHMnCiAgICAgIFJvbGVzOgogICAgICAgIC0gUmVmOiBEeW5hbW9EYlN5bmNFeGVjdXRpb25Sb2xlCiAgICAgICAgLSBSZWY6IE1ldGVvclN5bmNFeGVjdXRpb25Sb2xlCiAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICB2YWwgbmV3bHlBc3NpZ25lZCA9ICBNYXAoY3VycmVudC5kYXRlIC0+IE1hcChjdXJyZW50LmFjY291bnQgLT4gYXNzaWdubWVudFJlc3VsdC5fMikpCi8vICAgICAgdmFsIG5ld0Fzc2lnbm1lbnRzID0gKGFzc2lnbmVkLnRvTGlzdCArKyBuZXdseUFzc2lnbmVkLnRvTGlzdCkuZ3JvdXBCeShfLl8xKS5tYXBWYWx1ZXMoXy5mbGF0TWFwKF8uXzIpLnRvTWFwKQoK</text>
+        <text encoding="base64">CiAgCiAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAvLyBmb3IgZGVidWdnaW5nCiAgZGVmIGNhbGNBc3NpZ25tZW50KGFzc2lnbm1lbnQ6IE1hcFtMb2NhbERhdGVUaW1lLCBNYXBbQWNjb3VudElkLCBTZXFbKEFjY291bnRJZCwgTG9jYWxEYXRlVGltZSwgQmlnRGVjaW1hbCldXV0pID0gewogICAgYXNzaWdubWVudC5tYXAgeyBjYXNlIChkYXRlLCBzbG90QXNzaWdubWVudHMpID0+CiAgICAgIHNsb3RBc3NpZ25tZW50cy5tYXAgeyBjYXNlIChhY2NvdW50LCBhc3NpZ25tZW50cykgPT4KICAgICAgICAgIGFzc2lnbm1lbnRzLm1hcChfLl8zKS5zdW0KICAgICAgfS5zdW0KICAgIH0uc3VtCiAgfQoK</text>
+      <register name="6" type="4">
+        <text>PublishLogsPolicy:
+    Type: AWS::IAM::ManagedPolicy
+    Properties:
+      Description: 'Allows functions to publish logs'
+      Roles:
+        - Ref: DynamoDbSyncExecutionRole
+        - Ref: MeteorSyncExecutionRole</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgYXNzaWdubWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIGZvciBkZWJ1Z2dpbmcKICAgIHZhbCBjYXBhY2l0eSA9IGdlbmVyYXRvcnMubWFwKF8udmFsdWUpLnN1bQogICAgdmFsIGFsbG9jYXRlZCA9IGNvbnN1bWVycy5tYXAoXy5hbGxvY2F0aW9uKS5zdW0KICAgIHZhbCBhc3NpZ25lZCA9IGNhbGNBc3NpZ25tZW50KGFzc2lnbm1lbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFN0YXRlbWVudDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Uwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3Jwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
