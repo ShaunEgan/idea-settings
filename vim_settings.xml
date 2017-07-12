@@ -448,9 +448,9 @@
         <mark key="[" line="5" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1499842039234">
-        <mark key="[" line="149" column="13" />
-        <mark key="]" line="149" column="13" />
-        <mark key="." line="149" column="13" />
+        <mark key="[" line="151" column="13" />
+        <mark key="]" line="151" column="13" />
+        <mark key="." line="151" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
         <mark key="[" line="12" column="0" />
@@ -512,10 +512,10 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499842771883">
-        <mark key="[" line="133" column="21" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499846765690">
+        <mark key="[" line="146" column="2" />
+        <mark key="]" line="146" column="2" />
+        <mark key="." line="146" column="2" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -821,8 +821,8 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgQWxpYXNBdHRyaWJ1dGVzOgogICAgICAgIC0gJ2VtYWlsJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIFNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZURhdGFUeXBlOiBTdHJpbmcKICAgICAgICAgIE5hbWU6IEVtYWlsCiAgICAgICAgICBSZXF1aXJlZDogdHJ1ZQ==</text>
       </register>
       <register name="-" type="4">
         <text>'OrderIn'</text>
@@ -833,13 +833,16 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgQWxpYXNBdHRyaWJ1dGVzOgogICAgICAgIC0gJ2VtYWlsJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIFNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZURhdGFUeXBlOiBTdHJpbmcKICAgICAgICAgIE5hbWU6IEVtYWlsCiAgICAgICAgICBSZXF1aXJlZDogdHJ1ZQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgQWxpYXNBdHRyaWJ1dGVzOgogICAgICAgIC0gJ2VtYWlsJwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>,
             {
               &quot;Effect&quot;: &quot;Allow&quot;,
@@ -849,22 +852,22 @@
               &quot;Resource&quot;: &quot;&quot;
             }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICBQcm9jZXNzS2luZXNpc1BvbGljeToKICAgIFR5cGU6IEFXUzo6SUFNOjpNYW5hZ2VkUG9saWN5CiAgICBQcm9wZXJ0aWVzOgogICAgICBEZXNjcmlwdGlvbjogJ0FsbG93cyBmdW5jdGlvbnMgdG8gcHJvY2VzcyBLaW5lc2lzIHN0cmVhbSBldmVudHMnCiAgICAgIFJvbGVzOgogICAgICAgIC0gUmVmOiBEeW5hbW9EYlN5bmNFeGVjdXRpb25Sb2xlCiAgICAgICAgLSBSZWY6IE1ldGVvclN5bmNFeGVjdXRpb25Sb2xlCiAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgCiAgICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>PublishLogsPolicy:
     Type: AWS::IAM::ManagedPolicy
     Properties:
@@ -872,9 +875,6 @@
       Roles:
         - Ref: DynamoDbSyncExecutionRole
         - Ref: MeteorSyncExecutionRole</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
