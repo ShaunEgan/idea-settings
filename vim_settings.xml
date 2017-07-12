@@ -129,6 +129,12 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1499169200868">
         <mark key="[" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
+        <mark key="[" line="2" column="20" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
       </file>
@@ -513,11 +519,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499857471462">
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="178" column="1" />
-        <mark key="." line="178" column="1" />
-        <mark key="^" line="178" column="1" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499861045255">
+        <mark key="[" line="130" column="30" />
+        <mark key="]" line="130" column="30" />
+        <mark key="." line="130" column="30" />
+        <mark key="^" line="130" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -566,6 +572,9 @@
         <mark key="]" line="33" column="16" />
         <mark key="." line="33" column="16" />
         <mark key="^" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/get-api-url.sh" timestamp="1499861234607">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/App.vue" timestamp="1497338866989">
         <mark key="[" line="2" column="0" />
@@ -824,10 +833,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Service</text>
+        <text>Message</text>
       </register>
       <register name="-" type="4">
-        <text>Service</text>
+        <text>Message</text>
       </register>
       <register name="/" type="4">
         <text>, but</text>
