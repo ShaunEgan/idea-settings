@@ -448,9 +448,9 @@
         <mark key="[" line="5" column="64" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1499842039234">
-        <mark key="[" line="151" column="13" />
-        <mark key="]" line="151" column="13" />
-        <mark key="." line="151" column="13" />
+        <mark key="[" line="153" column="13" />
+        <mark key="]" line="153" column="13" />
+        <mark key="." line="153" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
         <mark key="[" line="12" column="0" />
