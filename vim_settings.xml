@@ -513,11 +513,10 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499852226161">
-        <mark key="[" line="133" column="21" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
-        <mark key="^" line="125" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499853670121">
+        <mark key="[" line="138" column="24" />
+        <mark key="]" line="138" column="0" />
+        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -824,7 +823,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>CreateUserPool</text>
@@ -836,15 +835,18 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFJlcXVpcmVkOiB0cnVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CiAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAKCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>AdminUserPoolGroup:
     Type: AWS::Cognito::UserPoolGroup
     Properties:
@@ -872,23 +874,20 @@
       UserPoolId:
         Ref: OrderInUserPool</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Iwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBdLAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJjb2duaXRvLWlkcDpEZWxldGVVc2VyUG9vbCIsCiAgICAgICAgICAgICAgICAiY29nbml0by1pZHA6VXBkYXRlVXNlclBvb2wiLAogICAgICAgICAgICAgICAgImNvZ25pdG8taWRwOkNyZWF0ZUdyb3VwIiwKICAgICAgICAgICAgICAgICJjb2duaXRvLWlkcDpEZWxldGVHcm91cCIsCiAgICAgICAgICAgICAgICAiY29nbml0by1pZHA6Q3JlYXRlVXNlclBvb2xDbGllbnQiLAogICAgICAgICAgICAgICAgImNvZ25pdG8taWRwOkRlbGV0ZVVzZXJQb29sQ2xpZW50Igo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgRXhwbGljaXRBdXRoRmxvd3M6CiAgICAgICAgLSBBRE1JTl9OT19TUlBfQVVUSAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIFNjaGVtYToKICAgICAgICAtIEF0dHJpYnV0ZURhdGFUeXBlOiBTdHJpbmcKICAgICAgICAgIE5hbWU6IEVtYWlsCiAgICAgICAgICBSZXF1aXJlZDogdHJ1ZQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgQWxpYXNBdHRyaWJ1dGVzOgogICAgICAgIC0gJ2VtYWlsJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
