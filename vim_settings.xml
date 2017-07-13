@@ -455,8 +455,8 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1499932496147">
-        <mark key="[" line="159" column="22" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1499933604581">
+        <mark key="[" line="199" column="13" />
         <mark key="]" line="218" column="17" />
         <mark key="." line="218" column="17" />
         <mark key="^" line="218" column="17" />
