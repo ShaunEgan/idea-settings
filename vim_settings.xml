@@ -458,10 +458,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1499937237706">
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1499939365833">
+        <mark key="[" line="135" column="26" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -845,7 +846,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -857,30 +858,33 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIGVzb3VyY2U6IGFybjphd3M6ZXhlY3V0ZS1hcGk6KjoqOiovKi8qCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>- Effect: Deny
             Action:
             - execute-api:Invoke
             R</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBhcm46YXdzOnMzOjo6Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQWN0aW9uOgogICAgICAgICAgICAtIGV4ZWN1dGUtYXBpOkludm9rZQogICAgICAgICAgICBSZXNvdXJjZTogYXJuOmF3czpleGVjdXRlLWFwaToqOio6Ki8qLyoK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QVdTVGVtcGxhdGVWZXJzaW9uOiAnJwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>---
 AWSTemplateFormatVersion: '2010-09-09'
 Description: OrderIn Cognito Definition
@@ -1000,11 +1004,8 @@ Description: Cognito User Pool ID
 Value:
 Ref: OrderInUserPool</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVhZEF0dHJpYnV0ZXMiOiBbCiAgICAgICAgICAiZW1haWwiLAogICAgICAgICAgInByb2ZpbGUiCiAgICAgICAgXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVmcmVzaFRva2VuVmFsaWRpdHkiOiAzMCwK</text>
+        <text encoding="base64">ICAgICAgICAiUmVhZEF0dHJpYnV0ZXMiOiBbCiAgICAgICAgICAiZW1haWwiLAogICAgICAgICAgInByb2ZpbGUiCiAgICAgICAgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
