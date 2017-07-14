@@ -458,11 +458,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1499950726243">
-        <mark key="[" line="149" column="26" />
-        <mark key="]" line="137" column="19" />
-        <mark key="." line="137" column="19" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500007959020">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="137" column="19" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -846,10 +846,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>, but</text>
@@ -858,154 +858,57 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>Policies:
+      - PolicyName: CognitoAuthenticatedRolePolicy
+        PolicyDocument:
+          Version: '2012-10-17'
+          Statement:
+          - Effect: Allow
+            Action:
+            - cognito-sync:*
+            - cognito-identity:*
+            Resource: &quot;*&quot;
+          - Effect: Allow
+            Action:
+            - s3:ListBucket
+            Resource:
+            - arn:aws:s3:::shaunegan-test
+          - Effect: Allow
+            Action:
+            - s3:PutObject
+            - s3:GetObject
+            Resource:
+            - arn:aws:s3:::shaunegan-test/</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGVzb3VyY2U6IGFybjphd3M6ZXhlY3V0ZS1hcGk6KjoqOiovKi8qCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>- Effect: Deny
             Action:
             - execute-api:Invoke
             R</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLSBhcm46YXdzOnMzOjo6Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQWN0aW9uOgogICAgICAgICAgICAtIGV4ZWN1dGUtYXBpOkludm9rZQogICAgICAgICAgICBSZXNvdXJjZTogYXJuOmF3czpleGVjdXRlLWFwaToqOio6Ki8qLyoK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">QVdTVGVtcGxhdGVWZXJzaW9uOiAnJwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>---
-AWSTemplateFormatVersion: '2010-09-09'
-Description: OrderIn Cognito Definition
-Metadata: {}
-Conditions: {}
-Resources:
-AuthenticatedRole:
-Type: AWS::IAM::Role
-Properties:
-AssumeRolePolicyDocument:
-Version: '2012-10-17'
-Statement:
-- Effect: Allow
-Action:
-- sts:AssumeRole
-Principal:
-Federated:
-- cognito-identity.amazonaws.com
-Policies:
-- PolicyName: CognitoAuthenticatedPolicy
-PolicyDocument:
-Version: '2012-10-17'
-Statement:
-- Effect: Allow
-Action:
-- execute-api:Invoke
-Resource: arn:aws:execute-api:*:*:*/*/*
-UnAuthenticatedRole:
-Type: AWS::IAM::Role
-Properties:
-AssumeRolePolicyDocument:
-Version: '2012-10-17'
-Statement:
-- Effect: Allow
-Action:
-- sts:AssumeRole
-Principal:
-Federated:
-- cognito-identity.amazonaws.com
-Policies:
-- PolicyName: CognitoUnAuthenticatedPolicy
-PolicyDocument:
-Version: '2012-10-17'
-Statement:
-- Effect: Deny
-Action:
-- execute-api:Invoke
-Resource: arn:aws:execute-api:*:*:*/*/*
-OrderInUserPool:
-Type: AWS::Cognito::UserPool
-Properties:
-UserPoolName:
-Fn::Join:
-- &quot;-&quot;
-- - Ref: AWS::StackName
-- OrderIn
-Schema:
-- Name: email
-Required: true
-- Name: name
-Required: true
-AliasAttributes:
-- email
-AdminCreateUserConfig:
-AllowAdminCreateUserOnly: true
-UnusedAccountValidityDays: 7
-AutoVerifiedAttributes:
-- email
-MfaConfiguration: 'OFF'
-Policies:
-PasswordPolicy:
-MinimumLength: 8
-RequireLowercase: false
-RequireUppercase: false
-RequireNumbers: false
-RequireSymbols: false
-DevelopmentUserPoolClient:
-Type: AWS::Cognito::UserPoolClient
-Properties:
-ClientName: Development
-GenerateSecret: false
-UserPoolId:
-Ref: OrderInUserPool
-OrderInIdentityPool:
-Type: AWS::Cognito::IdentityPool
-Properties:
-IdentityPoolName: OrderIn
-AllowUnauthenticatedIdentities: true
-CognitoIdentityProviders:
-- ClientId:
-Ref: DevelopmentUserPoolClient
-ProviderName:
-Fn::GetAtt:
-- OrderInUserPool
-- ProviderName
-OrderInIndentityPoolRoleAttachment:
-Type: AWS::Cognito::IdentityPoolRoleAttachment
-Properties:
-IdentityPoolId:
-Ref: OrderInIdentityPool
-Roles:
-authenticated:
-Fn::GetAtt:
-- AuthenticatedRole
-- Arn
-unauthenticated:
-Fn::GetAtt:
-- UnAuthenticatedRole
-- Arn
-Outputs:
-IdentityPoolId:
-Description: Cognito Identity Pool ID
-Value:
-Ref: OrderInIdentityPool
-UserPoolId:
-Description: Cognito User Pool ID
-Value:
-Ref: OrderInUserPool</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiUmVhZEF0dHJpYnV0ZXMiOiBbCiAgICAgICAgICAiZW1haWwiLAogICAgICAgICAgInByb2ZpbGUiCiAgICAgICAgXQo=</text>
+        <text encoding="base64">QVdTVGVtcGxhdGVWZXJzaW9uOiAnJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
