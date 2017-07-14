@@ -458,10 +458,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500011846808">
-        <mark key="[" line="117" column="44" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500034920596">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -845,10 +845,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Join</text>
       </register>
       <register name="/" type="4">
         <text>, but</text>
@@ -857,57 +857,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb2xpY2llczoK</text>
+        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB7ICJGbjo6U3ViIjogWyAiY29nbml0by1pZHAuJHtSZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfToke0FwcENsaWVudElkfSIsIHsgUmVnaW9uOiB7ICJSZWYiOiAiQVdTOjpSZWdpb24iIH0sIFVzZXJQb29sSWQ6IHsgIlJlZiI6ICJPcmRlckluVXNlclBvb2wiIH0sIEFwcENsaWVudElkOiB7ICJSZWYiOiAiRGV2ZWxvcG1lbnRVc2VyUG9vbENsaWVudCIgfSB9IF0gfToKICAgICAgICAgICAgewogICAgICAgICAgICAgICJUeXBlIjogIlRva2VuIiwKICAgICAgICAgICAgICAiQW1iaWd1b3VzUm9sZVJlc29sdXRpb24iOiAiRGVueSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Policies:
-      - PolicyName: CognitoAuthenticatedRolePolicy
-        PolicyDocument:
-          Version: '2012-10-17'
-          Statement:
-          - Effect: Allow
-            Action:
-            - cognito-sync:*
-            - cognito-identity:*
-            Resource: &quot;*&quot;
-          - Effect: Allow
-            Action:
-            - s3:ListBucket
-            Resource:
-            - arn:aws:s3:::shaunegan-test
-          - Effect: Allow
-            Action:
-            - s3:PutObject
-            - s3:GetObject
-            Resource:
-            - arn:aws:s3:::shaunegan-test/</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBJZGVudGl0eVBvb2xJZDoKICAgIERlc2NyaXB0aW9uOiBDb2duaXRvIElkZW50aXR5IFBvb2wgSUQKICAgIFZhbHVlOgogICAgICBSZWY6IE9yZGVySW5JZGVudGl0eVBvb2wK</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVzb3VyY2U6IGFybjphd3M6ZXhlY3V0ZS1hcGk6KjoqOiovKi8qCg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>- Effect: Deny
-            Action:
-            - execute-api:Invoke
-            R</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSBhcm46YXdzOnMzOjo6Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
@@ -963,10 +940,10 @@
         <entry>1584</entry>
         <entry>11</entry>
         <entry>34</entry>
-        <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
         <entry>wq</entry>
         <entry>NERDTree</entry>
         <entry>130</entry>
+        <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
