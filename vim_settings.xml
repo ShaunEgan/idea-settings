@@ -458,10 +458,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500034920596">
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500048857006">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -742,7 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="18" filename="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy-repository.js" />
       <jump line="67" column="31" filename="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" />
       <jump line="45" column="0" filename="$USER_HOME$/dev/helios/services/common/sql-tools.js" />
       <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
@@ -842,10 +841,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" />
       <jump line="118" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
+      <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>Join</text>
@@ -857,34 +857,40 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
+      <register name="2" type="4">
+        <text>{
+          { &quot;Fn::Join&quot;: [ &quot;&quot;, [ &quot;cognito-idp.&quot;, &quot;.amazonaws.com/&quot; ] ] }:
+           {
+              &quot;Type&quot;: &quot;Token&quot;,
+              &quot;AmbiguousRoleResolution&quot;: &quot;Deny&quot;
+           }
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB7ICJGbjo6U3ViIjogWyAiY29nbml0by1pZHAuJHtSZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfToke0FwcENsaWVudElkfSIsIHsgUmVnaW9uOiB7ICJSZWYiOiAiQVdTOjpSZWdpb24iIH0sIFVzZXJQb29sSWQ6IHsgIlJlZiI6ICJPcmRlckluVXNlclBvb2wiIH0sIEFwcENsaWVudElkOiB7ICJSZWYiOiAiRGV2ZWxvcG1lbnRVc2VyUG9vbENsaWVudCIgfSB9IF0gfToKICAgICAgICAgICAgewogICAgICAgICAgICAgICJUeXBlIjogIlRva2VuIiwKICAgICAgICAgICAgICAiQW1iaWd1b3VzUm9sZVJlc29sdXRpb24iOiAiRGVueSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB7ICJGbjo6U3ViIjogWyAiY29nbml0by1pZHAuJHtSZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfToke0FwcENsaWVudElkfSIsIHsgUmVnaW9uOiB7ICJSZWYiOiAiQVdTOjpSZWdpb24iIH0sIFVzZXJQb29sSWQ6IHsgIlJlZiI6ICJPcmRlckluVXNlclBvb2wiIH0sIEFwcENsaWVudElkOiB7ICJSZWYiOiAiRGV2ZWxvcG1lbnRVc2VyUG9vbENsaWVudCIgfSB9IF0gfToKICAgICAgICAgICAgewogICAgICAgICAgICAgICJUeXBlIjogIlRva2VuIiwKICAgICAgICAgICAgICAiQW1iaWd1b3VzUm9sZVJlc29sdXRpb24iOiAiRGVueSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIHsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoK</text>
+        <text encoding="base64">ICAgICAgICAtIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAtIAo=</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
