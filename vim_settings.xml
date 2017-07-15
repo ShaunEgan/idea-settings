@@ -122,7 +122,12 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1499169200868">
         <mark key="[" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.template" timestamp="1500131216219" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.template" timestamp="1500131786957">
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="28" column="34" />
+        <mark key="." line="28" column="34" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="4" column="9" />
@@ -518,7 +523,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1499936962197">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500131757960">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="0" />
         <mark key="." line="126" column="0" />
@@ -851,7 +856,7 @@
         <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
       </register>
       <register name=":" type="4">
-        <text>130</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -892,7 +897,6 @@
         <entry>22:19</entry>
         <entry>30</entry>
         <entry>102</entry>
-        <entry>w</entry>
         <entry>22683</entry>
         <entry>10000</entry>
         <entry>5000</entry>
@@ -909,6 +913,7 @@
         <entry>NERDTree</entry>
         <entry>130</entry>
         <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
