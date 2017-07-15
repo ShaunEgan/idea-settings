@@ -131,10 +131,10 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1499923045892">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500137422286">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
@@ -445,11 +445,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500134352316">
-        <mark key="[" line="221" column="4" />
-        <mark key="]" line="217" column="3" />
-        <mark key="." line="217" column="3" />
-        <mark key="^" line="217" column="3" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500138687305">
+        <mark key="]" line="63" column="22" />
+        <mark key="^" line="63" column="22" />
+        <mark key="." line="63" column="22" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -520,10 +519,11 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500131757960">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500138561811">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="18" column="50" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -808,10 +808,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Development</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>Development</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -820,43 +820,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoKICAgICAgICAgIFR5cGU6IFRva2VuCiAgICAgICAgICBBbWJpZ3VvdXNSb2xlUmVzb2x1dGlvbjogRGVueQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dAogICAgICAgICAgICAtIERyaXZlclN0YXR1c1N0cmVhbQogICAgICAgICAgICAtIEFybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgUm9sZTogIUdldEF0dCBNaW5pbXVtTG9nZ2luZ1JvbGUuQXJuCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAjIGxhbWJkYSB0byBjcmVhdGUgbWFwIGRhdGF0eXBlcyB3aXRoIGR5bmFtaWMga2V5cyAjCiAgIyBpbnB1dCBmb3JtYXQ6ICAgICAgICAgICAgICAgICAgIG91dHB1dCBmb3JtYXQ6CiAgIyAgIEF0dHJpYnV0ZU5hbWU6IE15S2V5ICAgICAgLT4gICAgeyAKICAjICAgRW50cmllczogICAgICAgICAgICAgICAgICAgICAgICAgICJNeUtleSI6IHsKICAjICAgICAtIEtleTogS2V5MSAgICAgICAgICAgICAgICAgICAgICAgIktleTEiOiA8dmFsdWUxPgogICMgICAgICAgVmFsdWU6IDx2YWx1ZTE+ICAgICAgICAgICAgICAgICAiS2V5MiI6IDx2YWx1ZTI+CiAgIyAgICAgLSBLZXk6IEtleTIgICAgICAgICAgICAgICAgICAgICB9CiAgIyAgICAgICBWYWx1ZTogPHZhbHVlMj4gICAgICAgICAgICAgfQogICMKICAjICB0byByZXRyaWV2ZSBqdXN0IHRoZSBtYXAgb2JqZWN0LCB1c2U6ICFHZXRBdHQgUmVzb3VyY2VOYW1lLk15S2V5Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfTkFNRURfSUFNCg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtLWNhcGFiaWxpdGllcyBDQVBBQklMSVRZX05BTUVEX0lBTQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-          { &quot;Fn::Join&quot;: [ &quot;&quot;, [ &quot;cognito-idp.&quot;, &quot;.amazonaws.com/&quot; ] ] }:
-           {
-              &quot;Type&quot;: &quot;Token&quot;,
-              &quot;AmbiguousRoleResolution&quot;: &quot;Deny&quot;
-           }
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtLWNhcGFiaWxpdGllcyBDQVBBQklMSVRZX05BTUVEX0lBTQo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
+        <text encoding="base64">ICAgIC0tcHJvZmlsZSBzaGF1biBcCiAgICAtLXJlZ2lvbiBldS13ZXN0LTEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
@@ -866,7 +860,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -914,6 +908,7 @@
         <entry>130</entry>
         <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
