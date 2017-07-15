@@ -445,11 +445,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500132327985">
-        <mark key="[" line="107" column="19" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="97" column="21" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500134352316">
+        <mark key="[" line="221" column="4" />
+        <mark key="]" line="217" column="3" />
+        <mark key="." line="217" column="3" />
+        <mark key="^" line="217" column="3" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -807,11 +807,11 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoKICAgICAgICAgIFR5cGU6IFRva2VuCiAgICAgICAgICBBbWJpZ3VvdXNSb2xlUmVzb2x1dGlvbjogRGVueQo=</text>
+      <register name="&quot;" type="4">
+        <text>Development</text>
       </register>
       <register name="-" type="4">
-        <text>ops-utils-dynamic-map-transform-arn</text>
+        <text>Development</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
