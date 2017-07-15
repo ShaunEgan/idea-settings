@@ -445,10 +445,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500138687305">
-        <mark key="]" line="63" column="22" />
-        <mark key="^" line="63" column="22" />
-        <mark key="." line="63" column="22" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500140266183">
+        <mark key="[" line="194" column="24" />
+        <mark key="]" line="194" column="33" />
+        <mark key="." line="194" column="33" />
+        <mark key="^" line="194" column="33" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -519,7 +520,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500138782897">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500140194871">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="8" />
         <mark key="^" line="20" column="50" />
@@ -681,6 +682,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1497344039961">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/test.template" timestamp="1500139876641">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
         <mark key="[" line="26" column="18" />
         <mark key="]" line="15" column="0" />
@@ -808,10 +814,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DriverGroupRole-R9J66TF8ZB0V</text>
+        <text>User Group</text>
       </register>
       <register name="-" type="4">
-        <text>DriverGroupRole-R9J66TF8ZB0V</text>
+        <text>User Group</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -820,34 +826,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dAogICAgICAgICAgICAtIERyaXZlclN0YXR1c1N0cmVhbQogICAgICAgICAgICAtIEFybgo=</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtLWNhcGFiaWxpdGllcyBDQVBBQklMSVRZX05BTUVEX0lBTQoK</text>
+        <text encoding="base64">ICAiUmVzb3VyY2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCiAgICAtLWNhcGFiaWxpdGllcyBDQVBBQklMSVRZX05BTUVEX0lBTQo9PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0tcHJvZmlsZSBzaGF1biBcCiAgICAtLXJlZ2lvbiBldS13ZXN0LTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dAogICAgICAgICAgICAtIERyaXZlclN0YXR1c1N0cmVhbQogICAgICAgICAgICAtIEFybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
