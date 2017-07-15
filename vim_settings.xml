@@ -16,13 +16,6 @@
       <file name="$USER_HOME$/workspace/thuisverpleging-backend/.gitignore" timestamp="1497716614562">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation-hermes.json" timestamp="1499327483000">
-        <mark key="'" line="0" column="286037" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="286037" />
-      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1499687533094">
         <mark key="[" line="70" column="49" />
         <mark key="]" line="70" column="8" />
@@ -129,6 +122,7 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1499169200868">
         <mark key="[" line="9" column="2" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.template" timestamp="1500131216219" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="4" column="9" />
@@ -150,6 +144,11 @@
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/dynamodb.js" timestamp="1498643816250">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/deploy.sh" timestamp="1500129846066">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
         <mark key="[" line="6" column="0" />
@@ -242,13 +241,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation-ptsi.json" timestamp="1499327939261">
-        <mark key="'" line="28246" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="28246" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" timestamp="1499950718527">
         <mark key="[" line="0" column="0" />
       </file>
@@ -290,13 +282,6 @@
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" timestamp="1499687406727">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/getJsonFile.js" timestamp="1496904997107">
         <mark key="[" line="5" column="29" />
@@ -458,10 +443,11 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500048857006">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500131640794">
+        <mark key="[" line="107" column="19" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="97" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
@@ -606,27 +592,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" timestamp="1497793996392">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation-ptsi.json" timestamp="1499327808127">
-        <mark key="'" line="31270" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="31270" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/april-generation-ptsi.json" timestamp="1499329511229">
-        <mark key="'" line="30262" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="30262" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/april-generation-hermes.json" timestamp="1499329426229">
-        <mark key="'" line="0" column="278787" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="278787" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/march-generation-corrected.json" timestamp="1499251851739">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -641,13 +606,6 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.txt" timestamp="1499684296726">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
@@ -845,24 +803,39 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoKICAgICAgICAgIFR5cGU6IFRva2VuCiAgICAgICAgICBBbWJpZ3VvdXNSb2xlUmVzb2x1dGlvbjogRGVueQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Join</text>
+        <text>ops-utils-dynamic-map-transform-arn</text>
       </register>
       <register name="/" type="4">
-        <text>, but</text>
+        <text encoding="base64">XDxDb2duaXRvXD4=</text>
       </register>
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAnY29nbml0by1pZHAuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vZXUtd2VzdC0xX0U1bkJ1azdJTTplODJuMW5rNnRmajJjYmkwdDJtcWF1aGsyJzoKICAgICAgICAgIFR5cGU6IFRva2VuCiAgICAgICAgICBBbWJpZ3VvdXNSb2xlUmVzb2x1dGlvbjogRGVueQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgUm9sZTogIUdldEF0dCBNaW5pbXVtTG9nZ2luZ1JvbGUuQXJuCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAjIGxhbWJkYSB0byBjcmVhdGUgbWFwIGRhdGF0eXBlcyB3aXRoIGR5bmFtaWMga2V5cyAjCiAgIyBpbnB1dCBmb3JtYXQ6ICAgICAgICAgICAgICAgICAgIG91dHB1dCBmb3JtYXQ6CiAgIyAgIEF0dHJpYnV0ZU5hbWU6IE15S2V5ICAgICAgLT4gICAgeyAKICAjICAgRW50cmllczogICAgICAgICAgICAgICAgICAgICAgICAgICJNeUtleSI6IHsKICAjICAgICAtIEtleTogS2V5MSAgICAgICAgICAgICAgICAgICAgICAgIktleTEiOiA8dmFsdWUxPgogICMgICAgICAgVmFsdWU6IDx2YWx1ZTE+ICAgICAgICAgICAgICAgICAiS2V5MiI6IDx2YWx1ZTI+CiAgIyAgICAgLSBLZXk6IEtleTIgICAgICAgICAgICAgICAgICAgICB9CiAgIyAgICAgICBWYWx1ZTogPHZhbHVlMj4gICAgICAgICAgICAgfQogICMKICAjICB0byByZXRyaWV2ZSBqdXN0IHRoZSBtYXAgb2JqZWN0LCB1c2U6ICFHZXRBdHQgUmVzb3VyY2VOYW1lLk15S2V5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfTkFNRURfSUFNCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="4">
         <text>{
           { &quot;Fn::Join&quot;: [ &quot;&quot;, [ &quot;cognito-idp.&quot;, &quot;.amazonaws.com/&quot; ] ] }:
            {
@@ -871,39 +844,24 @@
            }
         }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAhU3ViICdjb2duaXRvLWlkcC5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9ldS13ZXN0LTFfRTVuQnVrN0lNOmU4Mm4xbms2dGZqMmNiaTB0Mm1xYXVoazInOgo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB7ICJGbjo6U3ViIjogWyAiY29nbml0by1pZHAuJHtSZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfToke0FwcENsaWVudElkfSIsIHsgUmVnaW9uOiB7ICJSZWYiOiAiQVdTOjpSZWdpb24iIH0sIFVzZXJQb29sSWQ6IHsgIlJlZiI6ICJPcmRlckluVXNlclBvb2wiIH0sIEFwcENsaWVudElkOiB7ICJSZWYiOiAiRGV2ZWxvcG1lbnRVc2VyUG9vbENsaWVudCIgfSB9IF0gfToKICAgICAgICAgICAgewogICAgICAgICAgICAgICJUeXBlIjogIlRva2VuIiwKICAgICAgICAgICAgICAiQW1iaWd1b3VzUm9sZVJlc29sdXRpb24iOiAiRGVueSIKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsKICAgICAgICAgICAgCiAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtIHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtIAo=</text>
+        <text encoding="base64">ICAgICAgICAhSm9pbiBbICcnLCBbICdjb2duaXRvLWlkcC4nLCAhUmVmICdBV1M6OlJlZ2lvbicsICcuYW1hem9uYXdzLmNvbS8nLCAhUmVmIE9yZGVySW5Vc2VyUG9vbCwgJzonLCAhUmVmIERldmVsb3BtZW50VXNlclBvb2xDbGllbnQgXSBdOgo=</text>
       </register>
       <register name=":" type="4">
         <text>130</text>
       </register>
     </registers>
     <search>
-      <last-search>, but</last-search>
+      <last-search encoding="base64">XDxDb2duaXRvXD4=</last-search>
       <last-offset />
-      <last-pattern>, but</last-pattern>
+      <last-pattern encoding="base64">XDxDb2duaXRvXD4=</last-pattern>
       <last-replace />
       <last-substitute>\^</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -927,6 +885,7 @@
         <entry>git</entry>
         <entry>got</entry>
         <entry>, but</entry>
+        <entry encoding="base64">XDxDb2duaXRvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
