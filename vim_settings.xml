@@ -149,10 +149,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/dynamodb.js" timestamp="1498643816250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/deploy.sh" timestamp="1500129846066">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/deploy.sh" timestamp="1500271448898">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
         <mark key="[" line="6" column="0" />
@@ -807,11 +807,11 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LS0tCg==</text>
+      <register name="&quot;" type="4">
+        <text>template</text>
       </register>
       <register name="-" type="4">
-        <text>User Group</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
