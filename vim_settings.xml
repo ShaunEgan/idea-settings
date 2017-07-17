@@ -133,10 +133,11 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500273733139">
-        <mark key="[" line="9" column="39" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500280576559">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
