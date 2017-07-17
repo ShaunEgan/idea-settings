@@ -122,8 +122,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/support/setup.js" timestamp="1499169200868">
         <mark key="[" line="9" column="2" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.template" timestamp="1500131786957">
-        <mark key="[" line="17" column="34" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.template" timestamp="1500270575548">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
         <mark key="[" line="2" column="20" />
@@ -805,8 +807,8 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>User Group</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="-" type="4">
         <text>User Group</text>
@@ -818,34 +820,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAiUmVzb3VyY2UK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">LS0tCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAiUmVzb3VyY2UK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LS0tCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dAogICAgICAgICAgICAtIERyaXZlclN0YXR1c1N0cmVhbQogICAgICAgICAgICAtIEFybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgRm46OkdldEF0dAogICAgICAgICAgICAtIERyaXZlclN0YXR1c1N0cmVhbQogICAgICAgICAgICAtIEFybgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
