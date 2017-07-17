@@ -362,6 +362,12 @@
       <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/Handler.js" timestamp="1499673249477">
         <mark key="[" line="9" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/test.js" timestamp="1500276020843">
+        <mark key="[" line="17" column="6" />
+        <mark key="]" line="23" column="21" />
+        <mark key="." line="23" column="21" />
+        <mark key="^" line="23" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/diabetic-retinopathy/service/DiabeticRetinopathyRepository.js" timestamp="1494759205333">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -828,11 +834,11 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${ACCOUNT_PREFIX}-orderin-${SERVICE_NAME}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGRkfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>${ACCOUNT_PREFIX}-orderin-${SERVICE_NAME}</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -841,34 +847,35 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIEdldFJlc291cmNlOgogICAgICAgICAgVHlwZTogQXBpCiAgICAgICAgICBQcm9wZXJ0aWVzOgogICAgICAgICAgICBQYXRoOiAvCiAgICAgICAgICAgIE1ldGhvZDogZ2V0Cg==</text>
+        <text encoding="base64">ICAgIGRkfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgLnRoZW4oc2VuZE5leHQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QVdTVGVtcGxhdGVGb3JtYXRWZXJzaW9uOiAnMjAxMC0wOS0wOScK</text>
+        <text encoding="base64">ICAgIG5leHQoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgLmNhdGNoKG5vSGl0cyA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ewo=</text>
+      <register name="5" type="4">
+        <text>console.error(noHits)
+        res.send(noHits)</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICBuZXh0KCkKICAgICAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiUmVzb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICAgICAgfSkgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
