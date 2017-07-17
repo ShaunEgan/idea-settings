@@ -131,10 +131,10 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500137422286">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500268647116">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
@@ -445,12 +445,6 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" timestamp="1500140266183">
-        <mark key="[" line="194" column="24" />
-        <mark key="]" line="194" column="33" />
-        <mark key="." line="194" column="33" />
-        <mark key="^" line="194" column="33" />
-      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
       </file>
@@ -520,7 +514,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500140194871">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500140325633">
         <mark key="[" line="18" column="8" />
         <mark key="]" line="18" column="8" />
         <mark key="^" line="20" column="50" />
@@ -673,7 +667,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1499772860915" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/ActionPopup.vue" timestamp="1497272068442">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -692,7 +685,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/ServiceStreamProcessor.js" timestamp="1499777539106" />
       <file name="$USER_HOME$/repositories/scala-test/src/main/resources/simple.json" timestamp="1494253864196">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -870,7 +862,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxKc1ZhbHVlXD4=</entry>
         <entry>39</entry>
         <entry>password</entry>
         <entry encoding="base64">XDxub3RcPg==</entry>
@@ -893,8 +884,6 @@
         <entry encoding="base64">XDxDb2duaXRvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>77</entry>
-        <entry>22:19</entry>
         <entry>30</entry>
         <entry>102</entry>
         <entry>22683</entry>
