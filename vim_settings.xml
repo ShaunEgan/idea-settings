@@ -287,6 +287,12 @@
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-meta/consumer-accounts.json" timestamp="1500291994186">
+        <mark key="[" line="127" column="11" />
+        <mark key="]" line="279" column="14" />
+        <mark key="." line="279" column="14" />
+        <mark key="^" line="279" column="14" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/lib/getJsonFile.js" timestamp="1496904997107">
         <mark key="[" line="5" column="29" />
         <mark key="]" line="5" column="29" />
@@ -847,10 +853,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>template</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>template</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
