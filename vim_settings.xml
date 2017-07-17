@@ -172,11 +172,11 @@
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500277023160">
-        <mark key="[" line="0" column="41" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500278791332">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
@@ -323,6 +323,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/lib/cfn-response.js" timestamp="1500277795762">
+        <mark key="[" line="41" column="33" />
+        <mark key="]" line="41" column="33" />
+        <mark key="^" line="41" column="53" />
+        <mark key="." line="41" column="33" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Auth.js" timestamp="1497689740819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -456,6 +462,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/entriesToMap.js" timestamp="1500278745951">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
@@ -837,11 +846,11 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -849,36 +858,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y29uc3QgcmVzdWx0ID0ge30KCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZW50cmllcy5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cmllc1tpXQogICAgICAgIGlmIChLZXkpIHsKICAgICAgICAgIHJlc3VsdFtLZXldID0gVmFsdWUKICAgICAgICB9CiAgICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgeyBzZW5kLCBTVUNDRVNTLCBFUlJPUiB9ID0gcmVxdWlyZSgnY2ZuLXJlc3BvbnNlJykK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzdWx0ID0gZW50cmllcy5tYXAoZW50cnkgPT4gewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cnkKICAgICAgICBpZiAoS2V5KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oc2VuZE5leHQpCg==</text>
+        <text encoding="base64">ICAgICAgc2VuZChldmVudCwgY29udGV4dCwgU1VDQ0VTUykKICAgICAgYnJlYWsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG5leHQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmNhdGNoKG5vSGl0cyA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
+        <text encoding="base64">CiAgdmFyIGh0dHBzID0gcmVxdWlyZSgnaHR0cHMnKTsKICB2YXIgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>console.error(noHits)
-        res.send(noHits)</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICAgICAgICBuZXh0KCkKICAgICAgICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgeyBzZW5kLCBTVUNDRVNTLCBFUlJPUiB9ID0gcmVxdWlyZSgnY2ZuLXJlc3BvbnNlJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICAgICAgfSkgIAo=</text>
+        <text encoding="base64">ICAgIGRkfQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
