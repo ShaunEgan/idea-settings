@@ -337,6 +337,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/deploy.sh" timestamp="1500280248939">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/GeneratorRespository.scala" timestamp="1496056687675">
         <mark key="[" line="21" column="131" />
         <mark key="]" line="21" column="131" />
@@ -469,12 +474,6 @@
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/config.js" timestamp="1498468691690">
         <mark key="[" line="5" column="64" />
-      </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" timestamp="1500139608823">
-        <mark key="[" line="145" column="68" />
-        <mark key="]" line="145" column="68" />
-        <mark key="^" line="152" column="25" />
-        <mark key="." line="145" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/HermesRepository.scala" timestamp="1494841543270">
         <mark key="[" line="12" column="0" />
@@ -744,8 +743,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="31" filename="$USER_HOME$/dev/helios/services/diabetic-retinopathy/diabetic-retinopathy.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/helios/services/common/sql-tools.js" />
       <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
       <jump line="37" column="0" filename="$USER_HOME$/repositories/poslux-node/gulpfile.js" />
       <jump line="26" column="33" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
@@ -844,13 +841,15 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.txt" />
       <jump line="118" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
+      <jump line="17" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
+      <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>template</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -859,34 +858,234 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y29uc3QgcmVzdWx0ID0ge30KCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZW50cmllcy5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cmllc1tpXQogICAgICAgIGlmIChLZXkpIHsKICAgICAgICAgIHJlc3VsdFtLZXldID0gVmFsdWUKICAgICAgICB9CiAgICAgIH0=</text>
+        <text>{
+  &quot;AWSTemplateFormatVersion&quot;: &quot;2010-09-09&quot;,
+  &quot;Description&quot;: &quot;OrderIn Developer resources&quot;,
+  &quot;Metadata&quot;: {},
+  &quot;Conditions&quot;: {},
+  &quot;Resources&quot;: {
+    &quot;DeveloperS3Bucket&quot;: {
+      &quot;Type&quot;: &quot;AWS::S3::Bucket&quot;,
+      &quot;Properties&quot;: {
+        &quot;BucketName&quot;: &quot;orderin-developers&quot;
+      }
+    },
+    &quot;DeveloperS3BucketAccessPolicy&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
+      &quot;Properties&quot;: {
+        &quot;Description&quot;: &quot;Allows developers to use their own directory on the Developer S3 bucket&quot;,
+        &quot;PolicyDocument&quot;: {
+          &quot;Statement&quot;: [
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;s3:*&quot;,
+              &quot;Resource&quot;: {
+                &quot;Fn::Join&quot;: [
+                  &quot;&quot;,
+                  [
+                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
+                    &quot;/dev-${aws:username}/*&quot;
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    &quot;GetUsernamePolicy&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
+      &quot;Properties&quot;: {
+        &quot;Description&quot;: &quot;Allows users to get their username&quot;,
+        &quot;PolicyDocument&quot;: {
+          &quot;Version&quot;: &quot;2012-10-17&quot;,
+          &quot;Statement&quot;: [
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;iam:GetUser&quot;,
+              &quot;Resource&quot;: &quot;arn:aws:iam::*:user/${aws:username}&quot;
+            }
+          ]
+        }
+      }
+    },
+    &quot;DeployDevelopmentStackPolicy&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
+      &quot;Properties&quot;: {
+        &quot;Description&quot;: &quot;Allows developers to deploy their personal AWS SAM stacks&quot;,
+        &quot;PolicyDocument&quot;: {
+          &quot;Version&quot;: &quot;2012-10-17&quot;,
+          &quot;Statement&quot;: [
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;cloudformation:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:cloudformation:*:*:stack/dev-${aws:username}-*&quot;,
+                &quot;arn:aws:cloudformation:*:*:stack/dev-${aws:username}-*/*&quot;,
+                &quot;arn:aws:cloudformation:*:aws:transform/Serverless-2016-10-31&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;kinesis:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:kinesis:*:*:stream/dev-${aws:username}-*&quot;,
+                &quot;arn:aws:kinesis:*:*:stream/dev-${aws:username}-*/*&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: [
+                &quot;iam:CreateRole&quot;,
+                &quot;iam:DeleteRole&quot;,
+                &quot;iam:PassRole&quot;,
+                &quot;iam:AttachRolePolicy&quot;,
+                &quot;iam:DetachRolePolicy&quot;
+              ],
+              &quot;Resource&quot;: &quot;arn:aws:iam::*:role/dev-${aws:username}-*&quot;
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;iam:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:iam::*:policy/dev-${aws:username}-*&quot;,
+                &quot;arn:aws:iam::*:role/dev-${aws:username}-*&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;iam:GetRole&quot;,
+              &quot;Resource&quot;: &quot;*&quot;
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;lambda:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:lambda:*:*:function:dev-${aws:username}-*&quot;,
+                &quot;arn:aws:lambda:*:*:event-source-mapping:*&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: [
+                &quot;lambda:ListTags&quot;,
+                &quot;lambda:TagResource&quot;,
+                &quot;lambda:UntagResource&quot;
+              ],
+              &quot;Resource&quot;: &quot;*&quot;
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: [
+                &quot;lambda:CreateEventSourceMapping&quot;,
+                &quot;lambda:GetEventSourceMapping&quot;
+              ],
+              &quot;Resource&quot;: &quot;*&quot;
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;apigateway:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:apigateway:*::/restapis&quot;,
+                &quot;arn:aws:apigateway:*::/restapis/*&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;dynamodb:*&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:dynamodb:*:*:table/dev-${aws:username}-*&quot;,
+                &quot;arn:aws:dynamodb:*:*:table/dev-${aws:username}-*/*&quot;
+              ]
+            },
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;iam:AttachRolePolicy&quot;,
+              &quot;Resource&quot;: [
+                &quot;arn:aws:iam::*:role/OrderIn-AWS-Cognito-*&quot;
+              ]
+            }
+          ]
+        }
+      }
+    },
+    &quot;ListKinesisStreamsPolicy&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
+      &quot;Properties&quot;: {
+        &quot;Description&quot;: &quot;Allows developers to list kinesis streams&quot;,
+        &quot;PolicyDocument&quot;: {
+          &quot;Version&quot;: &quot;2012-10-17&quot;,
+          &quot;Statement&quot;: [
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: &quot;kinesis:ListStreams&quot;,
+              &quot;Resource&quot;: &quot;*&quot;
+            }
+          ]
+        }
+      }
+    },
+    &quot;DeployCognitoPolicy&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
+      &quot;Properties&quot;: {
+        &quot;Description&quot;: &quot;Allows Developers to deploy their personal AWS Cognito stacks&quot;,
+        &quot;PolicyDocument&quot;: {
+          &quot;Version&quot;: &quot;2012-10-17&quot;,
+          &quot;Statement&quot;: [
+            {
+              &quot;Effect&quot;: &quot;Allow&quot;,
+              &quot;Action&quot;: [
+                &quot;cognito-idp:*&quot;,
+                &quot;cognito-identity:*&quot;
+              ],
+              &quot;Resource&quot;: &quot;*&quot;
+            }
+          ]
+        }
+      }
+    },
+    &quot;DeveloperUserGroup&quot;: {
+      &quot;Type&quot;: &quot;AWS::IAM::Group&quot;,
+      &quot;Properties&quot;: {
+        &quot;GroupName&quot;: &quot;Developers&quot;,
+        &quot;ManagedPolicyArns&quot;: [
+          { &quot;Ref&quot;: &quot;DeveloperS3BucketAccessPolicy&quot; },
+          { &quot;Ref&quot;: &quot;GetUsernamePolicy&quot; },
+          { &quot;Ref&quot;: &quot;DeployDevelopmentStackPolicy&quot; },
+          { &quot;Ref&quot;: &quot;ListKinesisStreamsPolicy&quot;},
+          { &quot;Ref&quot;: &quot;DeployCognitoPolicy&quot; }
+        ]
+      }
+    }
+  }
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICJWZXJzaW9uIjogIjIwMTItMTAtMTciCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzdWx0ID0gZW50cmllcy5tYXAoZW50cnkgPT4gewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cnkKICAgICAgICBpZiAoS2V5KQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y29uc3QgcmVzdWx0ID0ge30KCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZW50cmllcy5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cmllc1tpXQogICAgICAgIGlmIChLZXkpIHsKICAgICAgICAgIHJlc3VsdFtLZXldID0gVmFsdWUKICAgICAgICB9CiAgICAgIH0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2VuZChldmVudCwgY29udGV4dCwgU1VDQ0VTUykKICAgICAgYnJlYWsK</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgcmVzdWx0ID0gZW50cmllcy5tYXAoZW50cnkgPT4gewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cnkKICAgICAgICBpZiAoS2V5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgdmFyIGh0dHBzID0gcmVxdWlyZSgnaHR0cHMnKTsKICB2YXIgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VuZChldmVudCwgY29udGV4dCwgU1VDQ0VTUykKICAgICAgYnJlYWsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBzZW5kLCBTVUNDRVNTLCBFUlJPUiB9ID0gcmVxdWlyZSgnY2ZuLXJlc3BvbnNlJykK</text>
+        <text encoding="base64">CiAgdmFyIGh0dHBzID0gcmVxdWlyZSgnaHR0cHMnKTsKICB2YXIgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRkfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
