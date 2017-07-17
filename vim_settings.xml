@@ -172,11 +172,11 @@
         <mark key="]" line="9" column="5" />
         <mark key="." line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500272251049">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500277023160">
+        <mark key="[" line="0" column="41" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/index.html" timestamp="1497182645982">
         <mark key="[" line="7" column="24" />
@@ -372,6 +372,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/cfn-response.js" timestamp="1500277015808">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-ready.md" timestamp="1493707950710">
         <mark key="[" line="14" column="0" />
@@ -835,7 +838,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -847,35 +850,35 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oc2VuZE5leHQpCg==</text>
+        <text encoding="base64">Y29uc3QgeyBzZW5kLCBTVUNDRVNTLCBFUlJPUiB9ID0gcmVxdWlyZSgnY2ZuLXJlc3BvbnNlJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5leHQoKQo=</text>
+        <text encoding="base64">ICAgIGRkfQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oc2VuZE5leHQpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG5leHQoKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLmNhdGNoKG5vSGl0cyA9PiB7CiAgICAgICAgCiAgICAgIH0pCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>console.error(noHits)
         res.send(noHits)</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">KCkgPT4gewogICAgICAgICAgICBuZXh0KCkKICAgICAgICAgIH0=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICAgICAgfSkgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChlcnJvciA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKQogICAgICAgICAgfSkgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
