@@ -108,6 +108,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/index.js" timestamp="1501494403556">
+        <mark key="[" line="23" column="6" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="21" column="37" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497689829255">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -164,6 +170,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501494597810">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
@@ -393,6 +405,9 @@
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/cfn-response.js" timestamp="1500277015808">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/config.js" timestamp="1501493303574">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/pink-team/doc/definition-of-ready.md" timestamp="1493707950710">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -565,6 +580,9 @@
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/README.md" timestamp="1500132241610">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/.gitignore" timestamp="1501494463361">
+        <mark key="[" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1499168573391">
         <mark key="[" line="0" column="0" />
@@ -851,8 +869,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>feb</text>
@@ -863,235 +881,37 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-  &quot;AWSTemplateFormatVersion&quot;: &quot;2010-09-09&quot;,
-  &quot;Description&quot;: &quot;OrderIn Developer resources&quot;,
-  &quot;Metadata&quot;: {},
-  &quot;Conditions&quot;: {},
-  &quot;Resources&quot;: {
-    &quot;DeveloperS3Bucket&quot;: {
-      &quot;Type&quot;: &quot;AWS::S3::Bucket&quot;,
-      &quot;Properties&quot;: {
-        &quot;BucketName&quot;: &quot;orderin-developers&quot;
-      }
-    },
-    &quot;DeveloperS3BucketAccessPolicy&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
-      &quot;Properties&quot;: {
-        &quot;Description&quot;: &quot;Allows developers to use their own directory on the Developer S3 bucket&quot;,
-        &quot;PolicyDocument&quot;: {
-          &quot;Statement&quot;: [
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;s3:*&quot;,
-              &quot;Resource&quot;: {
-                &quot;Fn::Join&quot;: [
-                  &quot;&quot;,
-                  [
-                    { &quot;Fn::GetAtt&quot;: [ &quot;DeveloperS3Bucket&quot;, &quot;Arn&quot; ] },
-                    &quot;/dev-${aws:username}/*&quot;
-                  ]
-                ]
-              }
-            }
-          ]
-        }
-      }
-    },
-    &quot;GetUsernamePolicy&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
-      &quot;Properties&quot;: {
-        &quot;Description&quot;: &quot;Allows users to get their username&quot;,
-        &quot;PolicyDocument&quot;: {
-          &quot;Version&quot;: &quot;2012-10-17&quot;,
-          &quot;Statement&quot;: [
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;iam:GetUser&quot;,
-              &quot;Resource&quot;: &quot;arn:aws:iam::*:user/${aws:username}&quot;
-            }
-          ]
-        }
-      }
-    },
-    &quot;DeployDevelopmentStackPolicy&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
-      &quot;Properties&quot;: {
-        &quot;Description&quot;: &quot;Allows developers to deploy their personal AWS SAM stacks&quot;,
-        &quot;PolicyDocument&quot;: {
-          &quot;Version&quot;: &quot;2012-10-17&quot;,
-          &quot;Statement&quot;: [
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;cloudformation:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:cloudformation:*:*:stack/dev-${aws:username}-*&quot;,
-                &quot;arn:aws:cloudformation:*:*:stack/dev-${aws:username}-*/*&quot;,
-                &quot;arn:aws:cloudformation:*:aws:transform/Serverless-2016-10-31&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;kinesis:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:kinesis:*:*:stream/dev-${aws:username}-*&quot;,
-                &quot;arn:aws:kinesis:*:*:stream/dev-${aws:username}-*/*&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: [
-                &quot;iam:CreateRole&quot;,
-                &quot;iam:DeleteRole&quot;,
-                &quot;iam:PassRole&quot;,
-                &quot;iam:AttachRolePolicy&quot;,
-                &quot;iam:DetachRolePolicy&quot;
-              ],
-              &quot;Resource&quot;: &quot;arn:aws:iam::*:role/dev-${aws:username}-*&quot;
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;iam:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:iam::*:policy/dev-${aws:username}-*&quot;,
-                &quot;arn:aws:iam::*:role/dev-${aws:username}-*&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;iam:GetRole&quot;,
-              &quot;Resource&quot;: &quot;*&quot;
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;lambda:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:lambda:*:*:function:dev-${aws:username}-*&quot;,
-                &quot;arn:aws:lambda:*:*:event-source-mapping:*&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: [
-                &quot;lambda:ListTags&quot;,
-                &quot;lambda:TagResource&quot;,
-                &quot;lambda:UntagResource&quot;
-              ],
-              &quot;Resource&quot;: &quot;*&quot;
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: [
-                &quot;lambda:CreateEventSourceMapping&quot;,
-                &quot;lambda:GetEventSourceMapping&quot;
-              ],
-              &quot;Resource&quot;: &quot;*&quot;
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;apigateway:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:apigateway:*::/restapis&quot;,
-                &quot;arn:aws:apigateway:*::/restapis/*&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;dynamodb:*&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:dynamodb:*:*:table/dev-${aws:username}-*&quot;,
-                &quot;arn:aws:dynamodb:*:*:table/dev-${aws:username}-*/*&quot;
-              ]
-            },
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;iam:AttachRolePolicy&quot;,
-              &quot;Resource&quot;: [
-                &quot;arn:aws:iam::*:role/OrderIn-AWS-Cognito-*&quot;
-              ]
-            }
-          ]
-        }
-      }
-    },
-    &quot;ListKinesisStreamsPolicy&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
-      &quot;Properties&quot;: {
-        &quot;Description&quot;: &quot;Allows developers to list kinesis streams&quot;,
-        &quot;PolicyDocument&quot;: {
-          &quot;Version&quot;: &quot;2012-10-17&quot;,
-          &quot;Statement&quot;: [
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: &quot;kinesis:ListStreams&quot;,
-              &quot;Resource&quot;: &quot;*&quot;
-            }
-          ]
-        }
-      }
-    },
-    &quot;DeployCognitoPolicy&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::ManagedPolicy&quot;,
-      &quot;Properties&quot;: {
-        &quot;Description&quot;: &quot;Allows Developers to deploy their personal AWS Cognito stacks&quot;,
-        &quot;PolicyDocument&quot;: {
-          &quot;Version&quot;: &quot;2012-10-17&quot;,
-          &quot;Statement&quot;: [
-            {
-              &quot;Effect&quot;: &quot;Allow&quot;,
-              &quot;Action&quot;: [
-                &quot;cognito-idp:*&quot;,
-                &quot;cognito-identity:*&quot;
-              ],
-              &quot;Resource&quot;: &quot;*&quot;
-            }
-          ]
-        }
-      }
-    },
-    &quot;DeveloperUserGroup&quot;: {
-      &quot;Type&quot;: &quot;AWS::IAM::Group&quot;,
-      &quot;Properties&quot;: {
-        &quot;GroupName&quot;: &quot;Developers&quot;,
-        &quot;ManagedPolicyArns&quot;: [
-          { &quot;Ref&quot;: &quot;DeveloperS3BucketAccessPolicy&quot; },
-          { &quot;Ref&quot;: &quot;GetUsernamePolicy&quot; },
-          { &quot;Ref&quot;: &quot;DeployDevelopmentStackPolicy&quot; },
-          { &quot;Ref&quot;: &quot;ListKinesisStreamsPolicy&quot;},
-          { &quot;Ref&quot;: &quot;DeployCognitoPolicy&quot; }
-        ]
-      }
-    }
-  }
-}</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICJWZXJzaW9uIjogIjIwMTItMTAtMTciCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Y29uc3QgcmVzdWx0ID0ge30KCiAgICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZW50cmllcy5sZW5ndGg7IGkrKykgewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cmllc1tpXQogICAgICAgIGlmIChLZXkpIHsKICAgICAgICAgIHJlc3VsdFtLZXldID0gVmFsdWUKICAgICAgICB9CiAgICAgIH0=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBJRCBUb2tlbjogJHtpZFRva2VufWApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBTdWNjZXNzZnVsIGxvZ2luLCB0b2tlbjogJHthY2Nlc3NUb2tlbn1gKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzdWx0ID0gZW50cmllcy5tYXAoZW50cnkgPT4gewogICAgICAgIGNvbnN0IHsgS2V5LCBWYWx1ZSB9ID0gZW50cnkKICAgICAgICBpZiAoS2V5KQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gcmVzdWx0LmdldEFjY2Vzc1Rva2VuKCkuZ2V0Snd0VG9rZW4oKQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2VuZChldmVudCwgY29udGV4dCwgU1VDQ0VTUykKICAgICAgYnJlYWsK</text>
+      <register name="6" type="4">
+        <text>: {
+        'cognito-idp.eu-west-1.amazonaws.com/eu-west-1_GF5j7a0Uc': idToken
+      }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgdmFyIGh0dHBzID0gcmVxdWlyZSgnaHR0cHMnKTsKICB2YXIgdXJsID0gcmVxdWlyZSgndXJsJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci8vIGNvbnN0IFVzZXJuYW1lID0gJ3NoYXVuJwovLyBjb25zdCBQYXNzd29yZCA9ICc3SGZRWk0sZScKLy8gY29uc3QgbmV3UGFzc3dvcmQgPSAndGhpc2lzbXlwYXNzd29yZCcKLy8gY29uc3QgUGFzc3dvcmQgPSBuZXdQYXNzd29yZAo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
