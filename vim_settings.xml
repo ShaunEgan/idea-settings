@@ -30,7 +30,6 @@
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/create.js" timestamp="1498468713644">
         <mark key="[" line="13" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/TimeSlotAllocatorImpl.scala" timestamp="1500293763038" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1499510004411">
         <mark key="[" line="10" column="27" />
       </file>
@@ -169,11 +168,6 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1499509928402">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="5" />
-      </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500278791332">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -222,7 +216,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/cloudformation.yaml" timestamp="1500279692357" />
       <file name="$USER_HOME$/workspace/powerx/pxresearch/spec/support/data/feb-generation-corrected.json" timestamp="1499251830489">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
