@@ -108,11 +108,10 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/index.js" timestamp="1501502419670">
-        <mark key="[" line="42" column="36" />
-        <mark key="]" line="48" column="23" />
-        <mark key="." line="48" column="23" />
-        <mark key="^" line="48" column="23" />
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/index.js" timestamp="1501505142686">
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497689829255">
         <mark key="[" line="7" column="0" />
@@ -171,11 +170,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501502156198">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="4" column="28" />
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501504097674">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
@@ -454,6 +453,12 @@
         <mark key="^" line="17" column="74" />
         <mark key="." line="17" column="74" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/UserInput.js" timestamp="1501504829720">
+        <mark key="[" line="12" column="3" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/DriverStatusService.js" timestamp="1499059960943">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -652,8 +657,10 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js.dist" timestamp="1501501711253">
-        <mark key="[" line="28" column="7" />
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js.dist" timestamp="1501504147133">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="13" column="6" />
+        <mark key="." line="13" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
@@ -874,10 +881,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>aws</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -886,36 +893,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHMzID0gbmV3IEFXUy5TMygpCgogICAgY29uc3QgcGFyYW1zID0gewogICAgICBCdWNrZXQ6ICdzaGF1bmVnYW4tdGVzdCcsCiAgICAgIEtleTogJ3Rlc3QnLAogICAgICBCb2R5OiAndGVzdCcKICAgIH0KCiAgICBzMy5wdXRPYmplY3QocGFyYW1zLCAoZXJyb3IsIGRhdGEpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcikKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgIH0p</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJvbXB0LmdldChbJ1VzZXJuYW1lJywgJ1Bhc3N3b3JkJ10sIChlcnJvciwgY3JlZHMpID0+IHsKICAKfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBJRCBUb2tlbjogJHtpZFRva2VufWApCg==</text>
+        <text encoding="base64">cHJvbXB0LnN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBTdWNjZXNzZnVsIGxvZ2luLCB0b2tlbjogJHthY2Nlc3NUb2tlbn1gKQo=</text>
+        <text encoding="base64">aW1wb3J0IHByb21wdCBmcm9tICdwcm9tcHQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gcmVzdWx0LmdldEFjY2Vzc1Rva2VuKCkuZ2V0Snd0VG9rZW4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>: {
-        'cognito-idp.eu-west-1.amazonaws.com/eu-west-1_GF5j7a0Uc': idToken
-      }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAga2luZXNpcy5wdXRSZWNvcmQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
