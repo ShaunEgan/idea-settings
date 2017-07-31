@@ -108,11 +108,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/index.js" timestamp="1501498261637">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="21" column="37" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/index.js" timestamp="1501502419670">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="48" column="23" />
+        <mark key="." line="48" column="23" />
+        <mark key="^" line="48" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Authentication.js" timestamp="1497689829255">
         <mark key="[" line="7" column="0" />
@@ -171,11 +171,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501494597810">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501502156198">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="4" column="28" />
       </file>
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
@@ -526,7 +526,7 @@
         <mark key="." line="37" column="38" />
         <mark key="^" line="37" column="38" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" timestamp="1499510055511">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" timestamp="1501501942393">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -556,8 +556,8 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1500140325633">
-        <mark key="[" line="18" column="8" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1501501927635">
+        <mark key="[" line="140" column="0" />
         <mark key="]" line="18" column="8" />
         <mark key="^" line="20" column="50" />
         <mark key="." line="18" column="8" />
@@ -651,6 +651,9 @@
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js.dist" timestamp="1501501711253">
+        <mark key="[" line="28" column="7" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/VectorService.scala" timestamp="1495799185161">
         <mark key="[" line="3" column="15" />
@@ -874,7 +877,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>feb</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -888,31 +891,31 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbnN0IHMzID0gbmV3IEFXUy5TMygpCgogICAgY29uc3QgcGFyYW1zID0gewogICAgICBCdWNrZXQ6ICdzaGF1bmVnYW4tdGVzdCcsCiAgICAgIEtleTogJ3Rlc3QnLAogICAgICBCb2R5OiAndGVzdCcKICAgIH0KCiAgICBzMy5wdXRPYmplY3QocGFyYW1zLCAoZXJyb3IsIGRhdGEpID0+IHsKICAgICAgaWYgKGVycm9yKSB7CiAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcikKICAgICAgICByZXR1cm4KICAgICAgfQoKICAgICAgY29uc29sZS5sb2coZGF0YSkKICAgIH0p</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBJRCBUb2tlbjogJHtpZFRva2VufWApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBTdWNjZXNzZnVsIGxvZ2luLCB0b2tlbjogJHthY2Nlc3NUb2tlbn1gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBJRCBUb2tlbjogJHtpZFRva2VufWApCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGBTdWNjZXNzZnVsIGxvZ2luLCB0b2tlbjogJHthY2Nlc3NUb2tlbn1gKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gcmVzdWx0LmdldEFjY2Vzc1Rva2VuKCkuZ2V0Snd0VG9rZW4oKQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>: {
         'cognito-idp.eu-west-1.amazonaws.com/eu-west-1_GF5j7a0Uc': idToken
       }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vIGNvbnN0IFVzZXJuYW1lID0gJ3NoYXVuJwovLyBjb25zdCBQYXNzd29yZCA9ICc3SGZRWk0sZScKLy8gY29uc3QgbmV3UGFzc3dvcmQgPSAndGhpc2lzbXlwYXNzd29yZCcKLy8gY29uc3QgUGFzc3dvcmQgPSBuZXdQYXNzd29yZAo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
