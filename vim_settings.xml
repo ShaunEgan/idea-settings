@@ -41,10 +41,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501582607466">
+      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501589714698">
         <mark key="[" line="3" column="15" />
         <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+        <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/summing/spec/unit/Services/Summer.js" timestamp="1497873495659">
@@ -307,7 +307,7 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1501582333770">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1501589705417">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
@@ -466,11 +466,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1501587292878">
-        <mark key="[" line="19" column="32" />
-        <mark key="]" line="19" column="32" />
-        <mark key="^" line="19" column="33" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1501589246851">
+        <mark key="[" line="90" column="75" />
+        <mark key="]" line="90" column="75" />
+        <mark key="." line="90" column="75" />
+        <mark key="^" line="85" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/UserInput.js" timestamp="1501504829720">
         <mark key="[" line="12" column="3" />
@@ -906,10 +906,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VectorServiceImpl.this.allocationService.timeSlotAllocator.AccountAssociation</text>
+        <text>march</text>
       </register>
       <register name="-" type="4">
-        <text>VectorServiceImpl.this.allocationService.timeSlotAllocator.AccountAssociation</text>
+        <text>march</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -918,34 +918,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhlbiBpbiBub24tdG91IGFsbG9jYXRpb25zIHVzZSB0aGF0IGRhdGEgdG8gbGVzc2VuIGFsbG9jYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgaGVyZSB3ZSBjb3VsZCBpbnRlcmxlYXZlIHRoZSBleGlzdGluZyBhbGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VG91QWNjb3VudHM6IExpc3RbQWNjb3VudF0gPSBhY2NvdW50cy5maWx0ZXIoYWNjb3VudCA9PiBhY2NvdW50LnRvdSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzZW5kLXN0YXR1cy11cGRhdGUiOiAiLi9iaW4vc2VuZC1zdGF0dXMtdXBkYXRlLnNoIiwK</text>
+        <text encoding="base64">ICAgICAgICAgdGhlbiBpbiBub24tdG91IGFsbG9jYXRpb25zIHVzZSB0aGF0IGRhdGEgdG8gbGVzc2VuIGFsbG9jYXRpb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgIC0gTmFtZTogbmFtZQojICAgICAgICBSZXF1aXJlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgaGVyZSB3ZSBjb3VsZCBpbnRlcmxlYXZlIHRoZSBleGlzdGluZyBhbGxvY2F0aW9ucwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBOb2RlSlMgVGVtcGxhdGUKClRoaXMgcmVwb3NpdG9yeSBpcyB1c2VkIGJ5IHRoZSBgbm9uYWNsaWAgdG8gY3JlYXRlIGBub2RlanNgIGFwcGxpY2F0aW9ucy4KCiMjIENvZGUgQ292ZXJhZ2UKClRoZSB0ZW1wbGF0ZSBpcyBhbHJlYWR5IGNvbmZpZ3VyZWQgdG8gZ2VuZXJhdGUgY292ZXJhZ2UgZm9yIENvZGFjeS4gSWYgeW91IHdpc2ggdG8gcHVibGlzaCBjb3ZlcmFnZSB5b3Ugd2lsbCBuZWVkIHRvIApjb25maWd1cmUgY2lyY2xlLWNpIHRvIHB1Ymxpc2ggdGhlIGNvdmVyYWdlIHJlcG9ydC4KCkFkZCB0aGUgZm9sbG93aW5nIHRvIHlvdXIgYGNpcmNsZS55bWxgIGNvbmZpZ3VyYXRpb246CgpgYGB5YW1sCnRlc3Q6CiAgcG9zdDoKICAgIC0gbnBtIHJ1biBjb3ZlcmFnZQogICAgLSBucG0gcnVuIHB1Ymxpc2gtY292ZXJhZ2UKYGBgCgpBZGQgYSBgQ09EQUNZX1BST0pFQ1RfVE9LRU5gIGVudmlyb25tZW50IHZhcmlhYmxlIHRvIHRoZSBjaXJjbGUtY2kgY29uZmlndXJhdGlvbiBmb3IgeW91ciBhcHBsaWNhdGlvbi4gVGhpcyB0b2tlbiBpcyAKYXZhaWxhYmxlIGZyb20gY29kYWN5IHZpYTogCgpzZWxlY3QgcHJvamVjdCAtPiBzZXR0aW5ncyAtPiBpbnRlZ3JhdGlvbnMgLT4gYWRkIGludGVncmF0aW9uIC0+IFByb2plY3QgQVBJCgpUaGUgdG9rZW4gdGhpcyBnZW5lcmF0ZXMgaXMgdGhlIGBDT0RBQ1lfUFJPSkVDVF9UT0tFTmAgdGhhdCB5b3UgbmVlZC4KCiMjIExvZ2dpbmcKClRoZSB0ZW1wbGF0ZSBoYXMgcHJvcGVyIGxvZ2dpbmcgYnVpbHQgaW4sIHNlZSBbdGhlIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9Ob25hLUNyZWF0aXZlL25vbmEtbm9kZS1sb2dnaW5nKSBmb3IgdXNhZ2UgZGV0YWlscy4K</text>
+        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VG91QWNjb3VudHM6IExpc3RbQWNjb3VudF0gPSBhY2NvdW50cy5maWx0ZXIoYWNjb3VudCA9PiBhY2NvdW50LnRvdSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
+        <text encoding="base64">ICAgICJzZW5kLXN0YXR1cy11cGRhdGUiOiAiLi9iaW4vc2VuZC1zdGF0dXMtdXBkYXRlLnNoIiwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIAo=</text>
+        <text encoding="base64">IyAgICAgIC0gTmFtZTogbmFtZQojICAgICAgICBSZXF1aXJlZDogdHJ1ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBOb2RlSlMgVGVtcGxhdGUKClRoaXMgcmVwb3NpdG9yeSBpcyB1c2VkIGJ5IHRoZSBgbm9uYWNsaWAgdG8gY3JlYXRlIGBub2RlanNgIGFwcGxpY2F0aW9ucy4KCiMjIENvZGUgQ292ZXJhZ2UKClRoZSB0ZW1wbGF0ZSBpcyBhbHJlYWR5IGNvbmZpZ3VyZWQgdG8gZ2VuZXJhdGUgY292ZXJhZ2UgZm9yIENvZGFjeS4gSWYgeW91IHdpc2ggdG8gcHVibGlzaCBjb3ZlcmFnZSB5b3Ugd2lsbCBuZWVkIHRvIApjb25maWd1cmUgY2lyY2xlLWNpIHRvIHB1Ymxpc2ggdGhlIGNvdmVyYWdlIHJlcG9ydC4KCkFkZCB0aGUgZm9sbG93aW5nIHRvIHlvdXIgYGNpcmNsZS55bWxgIGNvbmZpZ3VyYXRpb246CgpgYGB5YW1sCnRlc3Q6CiAgcG9zdDoKICAgIC0gbnBtIHJ1biBjb3ZlcmFnZQogICAgLSBucG0gcnVuIHB1Ymxpc2gtY292ZXJhZ2UKYGBgCgpBZGQgYSBgQ09EQUNZX1BST0pFQ1RfVE9LRU5gIGVudmlyb25tZW50IHZhcmlhYmxlIHRvIHRoZSBjaXJjbGUtY2kgY29uZmlndXJhdGlvbiBmb3IgeW91ciBhcHBsaWNhdGlvbi4gVGhpcyB0b2tlbiBpcyAKYXZhaWxhYmxlIGZyb20gY29kYWN5IHZpYTogCgpzZWxlY3QgcHJvamVjdCAtPiBzZXR0aW5ncyAtPiBpbnRlZ3JhdGlvbnMgLT4gYWRkIGludGVncmF0aW9uIC0+IFByb2plY3QgQVBJCgpUaGUgdG9rZW4gdGhpcyBnZW5lcmF0ZXMgaXMgdGhlIGBDT0RBQ1lfUFJPSkVDVF9UT0tFTmAgdGhhdCB5b3UgbmVlZC4KCiMjIExvZ2dpbmcKClRoZSB0ZW1wbGF0ZSBoYXMgcHJvcGVyIGxvZ2dpbmcgYnVpbHQgaW4sIHNlZSBbdGhlIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9Ob25hLUNyZWF0aXZlL25vbmEtbm9kZS1sb2dnaW5nKSBmb3IgdXNhZ2UgZGV0YWlscy4K</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
