@@ -118,6 +118,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/README.md" timestamp="1501565040767">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/AuthController.js" timestamp="1497781868040">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,7 +175,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501504097674">
+      <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Config.js" timestamp="1501564989780">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="12" column="12" />
         <mark key="." line="12" column="12" />
@@ -881,7 +886,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
+        <text encoding="base64">IyBOb2RlSlMgVGVtcGxhdGUKClRoaXMgcmVwb3NpdG9yeSBpcyB1c2VkIGJ5IHRoZSBgbm9uYWNsaWAgdG8gY3JlYXRlIGBub2RlanNgIGFwcGxpY2F0aW9ucy4KCiMjIENvZGUgQ292ZXJhZ2UKClRoZSB0ZW1wbGF0ZSBpcyBhbHJlYWR5IGNvbmZpZ3VyZWQgdG8gZ2VuZXJhdGUgY292ZXJhZ2UgZm9yIENvZGFjeS4gSWYgeW91IHdpc2ggdG8gcHVibGlzaCBjb3ZlcmFnZSB5b3Ugd2lsbCBuZWVkIHRvIApjb25maWd1cmUgY2lyY2xlLWNpIHRvIHB1Ymxpc2ggdGhlIGNvdmVyYWdlIHJlcG9ydC4KCkFkZCB0aGUgZm9sbG93aW5nIHRvIHlvdXIgYGNpcmNsZS55bWxgIGNvbmZpZ3VyYXRpb246CgpgYGB5YW1sCnRlc3Q6CiAgcG9zdDoKICAgIC0gbnBtIHJ1biBjb3ZlcmFnZQogICAgLSBucG0gcnVuIHB1Ymxpc2gtY292ZXJhZ2UKYGBgCgpBZGQgYSBgQ09EQUNZX1BST0pFQ1RfVE9LRU5gIGVudmlyb25tZW50IHZhcmlhYmxlIHRvIHRoZSBjaXJjbGUtY2kgY29uZmlndXJhdGlvbiBmb3IgeW91ciBhcHBsaWNhdGlvbi4gVGhpcyB0b2tlbiBpcyAKYXZhaWxhYmxlIGZyb20gY29kYWN5IHZpYTogCgpzZWxlY3QgcHJvamVjdCAtPiBzZXR0aW5ncyAtPiBpbnRlZ3JhdGlvbnMgLT4gYWRkIGludGVncmF0aW9uIC0+IFByb2plY3QgQVBJCgpUaGUgdG9rZW4gdGhpcyBnZW5lcmF0ZXMgaXMgdGhlIGBDT0RBQ1lfUFJPSkVDVF9UT0tFTmAgdGhhdCB5b3UgbmVlZC4KCiMjIExvZ2dpbmcKClRoZSB0ZW1wbGF0ZSBoYXMgcHJvcGVyIGxvZ2dpbmcgYnVpbHQgaW4sIHNlZSBbdGhlIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9Ob25hLUNyZWF0aXZlL25vbmEtbm9kZS1sb2dnaW5nKSBmb3IgdXNhZ2UgZGV0YWlscy4K</text>
       </register>
       <register name="-" type="4">
         <text>aws</text>
@@ -893,34 +898,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
+        <text encoding="base64">IyBOb2RlSlMgVGVtcGxhdGUKClRoaXMgcmVwb3NpdG9yeSBpcyB1c2VkIGJ5IHRoZSBgbm9uYWNsaWAgdG8gY3JlYXRlIGBub2RlanNgIGFwcGxpY2F0aW9ucy4KCiMjIENvZGUgQ292ZXJhZ2UKClRoZSB0ZW1wbGF0ZSBpcyBhbHJlYWR5IGNvbmZpZ3VyZWQgdG8gZ2VuZXJhdGUgY292ZXJhZ2UgZm9yIENvZGFjeS4gSWYgeW91IHdpc2ggdG8gcHVibGlzaCBjb3ZlcmFnZSB5b3Ugd2lsbCBuZWVkIHRvIApjb25maWd1cmUgY2lyY2xlLWNpIHRvIHB1Ymxpc2ggdGhlIGNvdmVyYWdlIHJlcG9ydC4KCkFkZCB0aGUgZm9sbG93aW5nIHRvIHlvdXIgYGNpcmNsZS55bWxgIGNvbmZpZ3VyYXRpb246CgpgYGB5YW1sCnRlc3Q6CiAgcG9zdDoKICAgIC0gbnBtIHJ1biBjb3ZlcmFnZQogICAgLSBucG0gcnVuIHB1Ymxpc2gtY292ZXJhZ2UKYGBgCgpBZGQgYSBgQ09EQUNZX1BST0pFQ1RfVE9LRU5gIGVudmlyb25tZW50IHZhcmlhYmxlIHRvIHRoZSBjaXJjbGUtY2kgY29uZmlndXJhdGlvbiBmb3IgeW91ciBhcHBsaWNhdGlvbi4gVGhpcyB0b2tlbiBpcyAKYXZhaWxhYmxlIGZyb20gY29kYWN5IHZpYTogCgpzZWxlY3QgcHJvamVjdCAtPiBzZXR0aW5ncyAtPiBpbnRlZ3JhdGlvbnMgLT4gYWRkIGludGVncmF0aW9uIC0+IFByb2plY3QgQVBJCgpUaGUgdG9rZW4gdGhpcyBnZW5lcmF0ZXMgaXMgdGhlIGBDT0RBQ1lfUFJPSkVDVF9UT0tFTmAgdGhhdCB5b3UgbmVlZC4KCiMjIExvZ2dpbmcKClRoZSB0ZW1wbGF0ZSBoYXMgcHJvcGVyIGxvZ2dpbmcgYnVpbHQgaW4sIHNlZSBbdGhlIHJlcG9zaXRvcnldKGh0dHBzOi8vZ2l0aHViLmNvbS9Ob25hLUNyZWF0aXZlL25vbmEtbm9kZS1sb2dnaW5nKSBmb3IgdXNhZ2UgZGV0YWlscy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcm9tcHQuZ2V0KFsnbmV3UGFzc3dvcmQnXSwgKGVycm9yLCBwcm9tcHRSZXN1bHQpID0+CiAgICAgICAgLy8gICBjb2duaXRvVXNlci5jb21wbGV0ZU5ld1Bhc3N3b3JkQ2hhbGxlbmdlKHByb21wdFJlc3VsdC5uZXdQYXNzd29yZCwgcmVxdWlyZWRBdHRyaWJ1dGVzLCB0aGlzKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJvbXB0LmdldChbJ1VzZXJuYW1lJywgJ1Bhc3N3b3JkJ10sIChlcnJvciwgY3JlZHMpID0+IHsKICAKfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJvbXB0LnN0YXJ0KCkK</text>
+        <text encoding="base64">cHJvbXB0LmdldChbJ1VzZXJuYW1lJywgJ1Bhc3N3b3JkJ10sIChlcnJvciwgY3JlZHMpID0+IHsKICAKfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHByb21wdCBmcm9tICdwcm9tcHQnCg==</text>
+        <text encoding="base64">cHJvbXB0LnN0YXJ0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHByb21wdCBmcm9tICdwcm9tcHQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAga2luZXNpcy5wdXRSZWNvcmQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAga2luZXNpcy5wdXRSZWNvcmQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
