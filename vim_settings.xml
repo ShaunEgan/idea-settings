@@ -99,6 +99,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/DynamoDbSync/Handler.js" timestamp="1501660977269">
+        <mark key="[" line="21" column="67" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/Clients/SampleClient.scala" timestamp="1494394151805">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -787,6 +790,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/ServiceStreamProcessor.js" timestamp="1501660964457">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/MeteorSync/Handler.js" timestamp="1501659391246" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/README.md" timestamp="1500272025945">
         <mark key="[" line="11" column="0" />
@@ -914,8 +922,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>feb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>feb</text>
@@ -927,34 +935,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3VycmVudC51c2FnZSBzaG91bGQgcHJvYmFibHkgLSBjdXJyZW50LmFsbG9jYXRlZAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
+        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8gY3VycmVudC51c2FnZSBzaG91bGQgcHJvYmFibHkgLSBjdXJyZW50LmFsbG9jYXRlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhlbiBpbiBub24tdG91IGFsbG9jYXRpb25zIHVzZSB0aGF0IGRhdGEgdG8gbGVzc2VuIGFsbG9jYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgaGVyZSB3ZSBjb3VsZCBpbnRlcmxlYXZlIHRoZSBleGlzdGluZyBhbGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
