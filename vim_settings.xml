@@ -27,6 +27,12 @@
         <mark key="]" line="33" column="35" />
         <mark key="." line="33" column="35" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouAllocationSpec.scala" timestamp="1501652779622">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="6" />
+        <mark key="." line="25" column="6" />
+        <mark key="^" line="22" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/commands/create.js" timestamp="1498468713644">
         <mark key="[" line="13" column="3" />
       </file>
@@ -287,10 +293,10 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1501587205282">
-        <mark key="[" line="132" column="25" />
-        <mark key="]" line="132" column="17" />
-        <mark key="." line="132" column="17" />
-        <mark key="^" line="132" column="15" />
+        <mark key="[" line="131" column="25" />
+        <mark key="]" line="131" column="17" />
+        <mark key="." line="131" column="17" />
+        <mark key="^" line="131" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Date/Tools.scala" timestamp="1500295442987">
         <mark key="[" line="60" column="71" />
@@ -382,6 +388,9 @@
         <mark key="]" line="21" column="131" />
         <mark key="." line="21" column="131" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.txt" timestamp="1501652817990">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/errors/BrandNotFoundError.js" timestamp="1496665271735">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -466,11 +475,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1501590586651">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="84" column="87" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/NonTouAllocation.scala" timestamp="1501652772988">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="83" column="87" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/UserInput.js" timestamp="1501504829720">
         <mark key="[" line="12" column="3" />
@@ -793,7 +802,7 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/README.md" timestamp="1497288957248">
         <mark key="[" line="13" column="40" />
       </file>
-      <file name="/fragment.java" timestamp="1500272483742">
+      <file name="/fragment.java" timestamp="1501651760142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/Simple.scala" timestamp="1494308001381">
@@ -905,11 +914,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
+      <register name="&quot;" type="4">
+        <text>LocalDateTime.of(2017, 1, 1, 1, 0)</text>
       </register>
       <register name="-" type="4">
-        <text>march</text>
+        <text>LocalDateTime.of(2017, 1, 1, 1, 0)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -918,34 +927,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3VycmVudC51c2FnZSBzaG91bGQgcHJvYmFibHkgLSBjdXJyZW50LmFsbG9jYXRlZAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
+        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgLy8gY3VycmVudC51c2FnZSBzaG91bGQgcHJvYmFibHkgLSBjdXJyZW50LmFsbG9jYXRlZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgdGhlbiBpbiBub24tdG91IGFsbG9jYXRpb25zIHVzZSB0aGF0IGRhdGEgdG8gbGVzc2VuIGFsbG9jYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgaGVyZSB3ZSBjb3VsZCBpbnRlcmxlYXZlIHRoZSBleGlzdGluZyBhbGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgZ2V0VG91QWNjb3VudHM6IExpc3RbQWNjb3VudF0gPSBhY2NvdW50cy5maWx0ZXIoYWNjb3VudCA9PiBhY2NvdW50LnRvdSkK</text>
+        <text encoding="base64">ICAgICAgICAgdGhlbiBpbiBub24tdG91IGFsbG9jYXRpb25zIHVzZSB0aGF0IGRhdGEgdG8gbGVzc2VuIGFsbG9jYXRpb25zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzZW5kLXN0YXR1cy11cGRhdGUiOiAiLi9iaW4vc2VuZC1zdGF0dXMtdXBkYXRlLnNoIiwK</text>
+        <text encoding="base64">ICAgICAgICAgaGVyZSB3ZSBjb3VsZCBpbnRlcmxlYXZlIHRoZSBleGlzdGluZyBhbGxvY2F0aW9ucwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
