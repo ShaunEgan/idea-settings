@@ -47,8 +47,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501657053790">
-        <mark key="[" line="3" column="15" />
+      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501743835038">
+        <mark key="[" line="27" column="0" />
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="15" />
@@ -598,6 +598,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
+      <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501744181075" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1501677137419">
         <mark key="[" line="145" column="25" />
         <mark key="]" line="152" column="0" />
@@ -703,7 +704,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501654561738">
+      <file name="/JavaScript Console" timestamp="1501744125632">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/sam.yaml" timestamp="1500279653887">
@@ -718,6 +719,12 @@
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/deploy.sh" timestamp="1500272529002">
         <mark key="[" line="26" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1501744214259">
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="^" line="36" column="50" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/index.js" timestamp="1498650231712">
         <mark key="[" line="0" column="69" />
@@ -934,10 +941,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>assignmentData</text>
+        <text>pickGeneratorAssignments</text>
       </register>
       <register name="-" type="4">
-        <text>assignmentData</text>
+        <text>pickGeneratorAssignments</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -946,7 +953,7 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQ6CiAgICAgICAgVmFpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbGxvY2F0aW9ucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -955,25 +962,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFsbG9jYXRpb25zID0gUi5mbGF0dGVuKGRheXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRheXMgPSBkYXRhLmFzc2lnbm1lbnRzLm1hcChpdGVtID0+IGl0ZW0uYWxsb2NhdGlvbnMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQ6CiAgICAgICAgVmFpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gIG92ZXJyaWRlIGRlZiBnZXRUb3VBY2NvdW50czogTGlzdFtBY2NvdW50XSA9IGFjY291bnRzLmZpbHRlcihhY2NvdW50ID0+IGFjY291bnQudG91KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY3VycmVudC51c2FnZSBzaG91bGQgcHJvYmFibHkgLSBjdXJyZW50LmFsbG9jYXRlZAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhbCBhbHJlYWR5QWxsb2NhdGVkID0gdG91QWxsb2NhdGlvbiAK</text>
+        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
