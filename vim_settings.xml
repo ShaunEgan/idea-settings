@@ -47,11 +47,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501743835038">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="3" column="15" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="15" />
+      <file name="$USER_HOME$/workspace/summing/src/index.js" timestamp="1501746507878">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="37" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/spec/unit/Services/Summer.js" timestamp="1497873495659">
         <mark key="[" line="3" column="35" />
@@ -472,7 +472,7 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Brand/index.vue" timestamp="1497183889634">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1497875551958">
+      <file name="/fragment.js" timestamp="1501745248474">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.eslintrc.js" timestamp="1498205423539">
@@ -598,7 +598,7 @@
         <mark key="]" line="4" column="11" />
         <mark key="." line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501744181075" />
+      <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501745058439" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1501677137419">
         <mark key="[" line="145" column="25" />
         <mark key="]" line="152" column="0" />
@@ -704,7 +704,7 @@
         <mark key="]" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/JavaScript Console" timestamp="1501744125632">
+      <file name="/JavaScript Console" timestamp="1501746013200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/sam.yaml" timestamp="1500279653887">
@@ -720,11 +720,11 @@
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/deploy.sh" timestamp="1500272529002">
         <mark key="[" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1501744214259">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="36" column="50" />
-        <mark key="." line="36" column="50" />
-        <mark key="^" line="36" column="50" />
+      <file name="$USER_HOME$/workspace/summing/src/Services/Summer.js" timestamp="1501745958755">
+        <mark key="[" line="37" column="21" />
+        <mark key="]" line="35" column="35" />
+        <mark key="." line="35" column="35" />
+        <mark key="^" line="35" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/DriverStatusService/index.js" timestamp="1498650231712">
         <mark key="[" line="0" column="69" />
@@ -940,11 +940,11 @@
       <jump line="13" column="2" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pickGeneratorAssignments</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ0Nvc3QnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pickGeneratorAssignments</text>
+        <text>allocations</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -953,34 +953,46 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbGxvY2F0aW9ucwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0Nvc3QnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdGVzdCA9IG5vblRvdUFsbG9jYXRpb25EYXRhLmFzc2lnbm1lbnRzLmxlbmd0aAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGFsbG9jYXRpb25zID0gUi5mbGF0dGVuKGRheXMpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGFzc2lnbm1lbnRzID0gZGF0YS5hc3NpZ25tZW50cwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGRheXMgPSBkYXRhLmFzc2lnbm1lbnRzLm1hcChpdGVtID0+IGl0ZW0uYWxsb2NhdGlvbnMpCg==</text>
+      <register name="4" type="4">
+        <text>const pickAllocations = R.prop('allocations')
+    const getAllAllocations = R.map(pickAllocations)
+
+    const pickAssignments = R.prop('generator-assignments')
+    const getAllAssignments = R.map(pickAssignments)
+
+    const pickCost = R.prop('cost')
+    const getAllCosts = R.map(pickCost)
+
+    // const calculate = R.compose(getAllCosts, getAllAssignments, R.flatten, getAllAllocations)
+    const calculate = R.compose(getAllCosts, R.flatten, getAllAssignments, R.flatten, getAllAllocations)
+
+    return calculate(data.assignments)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRW52aXJvbm1lbnQ6CiAgICAgICAgVmFpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGRheXMgPSBkYXRhLmFzc2lnbm1lbnRzLm1hcChpdGVtID0+IGl0ZW0uYWxsb2NhdGlvbnMpCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAvLyBjb25zdCBhbGxvY2F0aW9ucyA9IFIuZmxhdHRlbihkYXlzKQogICAgLy8KICAgIC8vIGNvbnN0IGdldEFzc2lnbm1lbnRzID0gUi5tYXAoUi5wcm9wKCdnZW5lcmF0b3ItYXNzaWdubWVudHMnKSkKICAgIC8vCiAgICAvLyByZXR1cm4gZ2V0QXNzaWdubWVudHMoYWxsb2NhdGlvbnMp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhbGxvY2F0aW9ucyA9IEFycmF5KCkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBhbGxvY2F0aW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgc2hhdW5lZ2FuIG9uIDIwMTcvMDgvMDIuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
