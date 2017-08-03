@@ -296,8 +296,8 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1501587205282">
-        <mark key="[" line="131" column="25" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/services/VectorServiceImpl.scala" timestamp="1501741281188">
+        <mark key="[" line="123" column="64" />
         <mark key="]" line="131" column="17" />
         <mark key="." line="131" column="17" />
         <mark key="^" line="131" column="15" />
@@ -317,7 +317,7 @@
         <mark key="]" line="107" column="15" />
         <mark key="." line="107" column="15" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1501738732441">
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/Vector.scala" timestamp="1501741840839">
         <mark key="[" line="12" column="35" />
         <mark key="]" line="12" column="36" />
         <mark key="." line="12" column="36" />
@@ -561,11 +561,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1499427674728">
-        <mark key="[" line="37" column="93" />
-        <mark key="]" line="37" column="38" />
-        <mark key="." line="37" column="38" />
-        <mark key="^" line="37" column="38" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" timestamp="1501741835895">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="29" column="51" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/send-status-update.sh" timestamp="1501565954108">
         <mark key="[" line="8" column="0" />
@@ -830,8 +831,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="24" filename="$USER_HOME$/dev/helios/services/races/race-repository.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/repositories/poslux-node/gulpfile.js" />
       <jump line="26" column="33" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
       <jump line="43" column="111" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
       <jump line="5" column="59" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" />
@@ -930,13 +929,15 @@
       <jump line="103" column="12" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.template" />
       <jump line="17" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
       <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
+      <jump line="29" column="48" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
+      <jump line="13" column="2" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'Ok'</text>
+        <text>assignmentData</text>
       </register>
       <register name="-" type="4">
-        <text>'Ok'</text>
+        <text>assignmentData</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
