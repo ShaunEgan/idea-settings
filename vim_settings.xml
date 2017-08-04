@@ -264,8 +264,10 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1501835534044">
-        <mark key="^" line="201" column="12" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1501837595979">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationTools/scala.scala" timestamp="1496742536309">
         <mark key="[" line="2" column="0" />
@@ -935,7 +937,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQ29nbml0b1VuQXV0aGVudGljYXRlZFJvbGVQb2xpY3kKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgLSBjb2duaXRvLXN5bmM6KgogICAgICAgICAgICBSZXNvdXJjZTogIioiCg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQ29nbml0b0F1dGhlbnRpY2F0ZWRSb2xlUG9saWN5CiAgICAgICAgUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgICBWZXJzaW9uOiAnMjAxMi0xMC0xNycKICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgICBBY3Rpb246CiAgICAgICAgICAgIC0gY29nbml0by1zeW5jOioKICAgICAgICAgICAgLSBjb2duaXRvLWlkZW50aXR5OioKICAgICAgICAgICAgUmVzb3VyY2U6ICIqIgo=</text>
       </register>
       <register name="-" type="4">
         <text>tou</text>
@@ -947,21 +949,24 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQ29nbml0b1VuQXV0aGVudGljYXRlZFJvbGVQb2xpY3kKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgLSBjb2duaXRvLXN5bmM6KgogICAgICAgICAgICBSZXNvdXJjZTogIioiCg==</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQ29nbml0b0F1dGhlbnRpY2F0ZWRSb2xlUG9saWN5CiAgICAgICAgUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgICBWZXJzaW9uOiAnMjAxMi0xMC0xNycKICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgICBBY3Rpb246CiAgICAgICAgICAgIC0gY29nbml0by1zeW5jOioKICAgICAgICAgICAgLSBjb2duaXRvLWlkZW50aXR5OioKICAgICAgICAgICAgUmVzb3VyY2U6ICIqIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ0Nvc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQ29nbml0b1VuQXV0aGVudGljYXRlZFJvbGVQb2xpY3kKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgLSBjb2duaXRvLXN5bmM6KgogICAgICAgICAgICBSZXNvdXJjZTogIioiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgdGVzdCA9IG5vblRvdUFsbG9jYXRpb25EYXRhLmFzc2lnbm1lbnRzLmxlbmd0aAo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ0Nvc3QnKQo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgdGVzdCA9IG5vblRvdUFsbG9jYXRpb25EYXRhLmFzc2lnbm1lbnRzLmxlbmd0aAo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGFzc2lnbm1lbnRzID0gZGF0YS5hc3NpZ25tZW50cwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>const pickAllocations = R.prop('allocations')
     const getAllAllocations = R.map(pickAllocations)
 
@@ -976,20 +981,17 @@
 
     return calculate(data.assignments)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIGNvbnN0IGRheXMgPSBkYXRhLmFzc2lnbm1lbnRzLm1hcChpdGVtID0+IGl0ZW0uYWxsb2NhdGlvbnMpCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAvLyBjb25zdCBhbGxvY2F0aW9ucyA9IFIuZmxhdHRlbihkYXlzKQogICAgLy8KICAgIC8vIGNvbnN0IGdldEFzc2lnbm1lbnRzID0gUi5tYXAoUi5wcm9wKCdnZW5lcmF0b3ItYXNzaWdubWVudHMnKSkKICAgIC8vCiAgICAvLyByZXR1cm4gZ2V0QXNzaWdubWVudHMoYWxsb2NhdGlvbnMp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbGxvY2F0aW9ucwo=</text>
-      </register>
       <register name=":" type="4">
-        <text>nohl</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1043,8 +1045,8 @@
         <entry>NERDTree</entry>
         <entry>130</entry>
         <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
-        <entry>w</entry>
         <entry>nohl</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
