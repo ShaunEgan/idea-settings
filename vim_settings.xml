@@ -49,6 +49,9 @@
         <mark key="." line="3" column="32" />
         <mark key="^" line="3" column="32" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.txt" timestamp="1502184454294">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/nonacli/aws-sam-template/test/Example/Service.js" timestamp="1498463400010">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
