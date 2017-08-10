@@ -192,11 +192,11 @@
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/README.md" timestamp="1500272028933">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" timestamp="1502361762193">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" timestamp="1502364777233">
+        <mark key="'" line="5" column="17" />
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Services/Example.js" timestamp="1493183870178">
         <mark key="[" line="0" column="0" />
@@ -282,10 +282,10 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501745058439" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502362740370">
-        <mark key="[" line="30" column="18" />
-        <mark key="]" line="26" column="19" />
-        <mark key="." line="26" column="19" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502364627448">
+        <mark key="[" line="32" column="10" />
+        <mark key="]" line="32" column="10" />
+        <mark key="." line="32" column="10" />
         <mark key="^" line="26" column="19" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
@@ -365,11 +365,10 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1501824905215" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502362743816">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="14" column="24" />
-        <mark key="." line="14" column="24" />
-        <mark key="^" line="14" column="24" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502364633135">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
@@ -861,7 +860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="33" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
       <jump line="43" column="111" filename="$USER_HOME$/repositories/powerx/simulator/src/main/scala/library/MonthlyDataGenerator.scala" />
       <jump line="5" column="59" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient.js" />
@@ -961,13 +959,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.template" />
       <jump line="29" column="48" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
       <jump line="13" column="2" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
+      <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>issuerUrl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -975,35 +974,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoIHJlc3BvbnNlJykKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGF1dGhSZXNwb25zZSwgbnVsbCwgMikpCgo=</text>
+        <text encoding="base64">Ly8gVGhpcyBpcyBnbG9iYWwgc28gdGhhdCBpdCBpcyBvbmx5IGZldGNoZWQgb24gY29sZCBzdGFydC4KLy8gRG9uJ3QgcmVmZXJlbmNlIGRpcmVjdGx5LCB1c2UgdGhlIGBmZXRjaFNlY3JldHNgIHByb21pc2UgcmVzdWx0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgCgo=</text>
+        <text encoding="base64">CiAgY29uc29sZS5sb2coYEV4cGVjdGVkICR7aXNzfWApCiAgY29uc29sZS5sb2coYEdvdCAke2RlY29kZWRUb2tlbi5wYXlsb2FkLmlzc31gKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAogIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoIHJlc3BvbnNlJykKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGF1dGhSZXNwb25zZSwgbnVsbCwgMikpCgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGdyb3VwcyA9IGRhdGFbJ2NvZ25pdG86Z3JvdXBzJ10K</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjb250ZXh0ID0geyB1c2VyIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnUEVNJykKICBjb25zb2xlLmxvZyhwZW0pCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
