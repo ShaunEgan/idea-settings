@@ -192,11 +192,11 @@
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/README.md" timestamp="1500272028933">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" timestamp="1502364777233">
-        <mark key="'" line="5" column="17" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" timestamp="1502366538795">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Services/Example.js" timestamp="1493183870178">
         <mark key="[" line="0" column="0" />
@@ -365,10 +365,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1501824905215" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502364633135">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502366204319">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="12" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
@@ -962,11 +963,11 @@
       <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgZmV0Y2hpbmcga2V5cycpCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQoK</text>
       </register>
       <register name="-" type="4">
-        <text>issuerUrl</text>
+        <text>jwkToPem({ kty: key.kty, n: key.n, e: key.e })</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -974,35 +975,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgZmV0Y2hpbmcga2V5cycpCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gVGhpcyBpcyBnbG9iYWwgc28gdGhhdCBpdCBpcyBvbmx5IGZldGNoZWQgb24gY29sZCBzdGFydC4KLy8gRG9uJ3QgcmVmZXJlbmNlIGRpcmVjdGx5LCB1c2UgdGhlIGBmZXRjaFNlY3JldHNgIHByb21pc2UgcmVzdWx0Lgo=</text>
+        <text encoding="base64">CiAgCiAgc3RhdGljIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coYEV4cGVjdGVkICR7aXNzfWApCiAgY29uc29sZS5sb2coYEdvdCAke2RlY29kZWRUb2tlbi5wYXlsb2FkLmlzc31gKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gc2VjcmV0cyA9IHt9CiAgICAgICAgICAgIC8vIHNlY3JldHMua2V5cyA9IGtleXMKICAgICAgICAgICAgLy8gc2VjcmV0cy5wZW1zID0gQ29nbml0b1NlY3JldHMua2V5c1RvUGVtKGtleXMpCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGp3a1RvUGVtIGZyb20gJ2p3ay10by1wZW0nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBdXRoIHJlc3BvbnNlJykKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGF1dGhSZXNwb25zZSwgbnVsbCwgMikpCgo=</text>
+        <text encoding="base64">ICBjb25zdCB7IGtpZCB9ID0gZGVjb2RlZFRva2VuLmhlYWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgCgo=</text>
+        <text encoding="base64">ICBjb25zdCBrZXkgPSBzZWNyZXRzLmtleXMuZmlsdGVyKHNlY3JldCA9PiBzZWNyZXQua2lkID09PSBraWQpWzBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc2VjcmV0cywgbnVsbCwgMikpCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHt7fX0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
