@@ -365,11 +365,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1501824905215" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502366204319">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="12" column="44" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502369648030">
+        <mark key="[" line="21" column="44" />
+        <mark key="]" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="^" line="20" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
@@ -806,6 +806,11 @@
       <file name="/Scala Console" timestamp="1499677413142">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/TokenValidator.js" timestamp="1502368818932">
+        <mark key="[" line="7" column="64" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/drivers.js" timestamp="1497011777424">
         <mark key="[" line="38" column="25" />
         <mark key="]" line="38" column="25" />
@@ -963,11 +968,11 @@
       <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgZmV0Y2hpbmcga2V5cycpCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQoK</text>
+      <register name="&quot;" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>jwkToPem({ kty: key.kty, n: key.n, e: key.e })</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -976,37 +981,37 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgZmV0Y2hpbmcga2V5cycpCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQoK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoYFJlY2VpdmVkIHVuaGFuZGxlZCBlcnJvcjogJHtlcnJvcn1gKQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgCiAgc3RhdGljIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgZXJyb3IgJHtlcnJvcn1gKQogICAgICAgIGNvbnNvbGUubG9nKCdkYXRhJykKICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShkYXRhLCBudWxsLCAxKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gc2VjcmV0cyA9IHt9CiAgICAgICAgICAgIC8vIHNlY3JldHMua2V5cyA9IGtleXMKICAgICAgICAgICAgLy8gc2VjcmV0cy5wZW1zID0gQ29nbml0b1NlY3JldHMua2V5c1RvUGVtKGtleXMpCgo=</text>
+        <text encoding="base64">Ly8gY29uc3QgdmFsaWRhdGUgPSB0b2tlbiA9PiBzZWNyZXRzID0+IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAvLyBjb25zdCBkZWNvZGVkVG9rZW4gPSBqd3QuZGVjb2RlKHRva2VuLCB7IGNvbXBsZXRlOiB0cnVlIH0pCiAgLy8gY29uc3QgcGVtID0gc2VjcmV0cy5wZW1zW2RlY29kZWRUb2tlbi5oZWFkZXIua2lkXQogIC8vIGNvbnN0IG9wdGlvbnMgPSB7IGlzc3VlcjogaXNzIH0KICAvLwogIC8vIGp3dC52ZXJpZnkodG9rZW4sIHBlbSwgb3B0aW9ucywgKGVycm9yLCBkYXRhKSA9PiB7CiAgLy8gICBpZiAoZXJyb3IpIHsKICAvLyAgICAgY29uc29sZS5lcnJvcignRXJyb3IgdmVyaWZ5aW5nIHRva2VuJykKICAvLyAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQogIC8vCiAgLy8gICAgIHJldHVybiByZWplY3QoZXJyb3IpCiAgLy8gICB9CiAgLy8gICBlbHNlIHJlc29sdmUoZGF0YSkKICAvLyB9KQovLyB9KQoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGp3a1RvUGVtIGZyb20gJ2p3ay10by1wZW0nCg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGtpZCB9ID0gZGVjb2RlZFRva2VuLmhlYWRlcgo=</text>
+        <text encoding="base64">aW1wb3J0IGp3dCBmcm9tICdqc29ud2VidG9rZW4nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBrZXkgPSBzZWNyZXRzLmtleXMuZmlsdGVyKHNlY3JldCA9PiBzZWNyZXQua2lkID09PSBraWQpWzBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoc2VjcmV0cywgbnVsbCwgMikpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ0Vycm9yIHZlcmlmeWluZyB0b2tlbicpCiAgICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShlcnJvciwgbnVsbCwgMikpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHt7fX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcignRXJyb3IgZmV0Y2hpbmcga2V5cycpCiAgICAgICAgICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQoK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">SVNTVUVSX1VSTDoKICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgIC0gJy8nCiAgICAgICAgICAgIC0gLSAhSW1wb3J0VmFsdWUgT3JkZXJJblVzZXJQb29sUHJvdmlkZXJVcmwKICAgICAgICAgICAgICAtICcud2VsbC1rbm93bicKICAgICAgICAgICAgICAtICdqd2tzLmpzb24nCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgCiAgc3RhdGljIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>nohl</text>
       </register>
     </registers>
     <search>
@@ -1060,8 +1065,8 @@
         <entry>NERDTree</entry>
         <entry>130</entry>
         <entry encoding="base64">JzwsJz5ORVJEVHJlZQ==</entry>
-        <entry>nohl</entry>
         <entry>w</entry>
+        <entry>nohl</entry>
       </history-cmd>
       <history-expr />
       <history-input />
