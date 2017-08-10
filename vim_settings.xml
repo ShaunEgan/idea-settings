@@ -353,11 +353,10 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1501824905215" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502358660774">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="23" />
-        <mark key="^" line="48" column="16" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502360203966">
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="27" />
+        <mark key="." line="56" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
@@ -959,10 +958,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key</text>
+        <text>{ user }</text>
       </register>
       <register name="-" type="4">
-        <text>key</text>
+        <text>{ user }</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -971,36 +970,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQo=</text>
+        <text encoding="base64">ICBjb25zdCBjb250ZXh0ID0geyB1c2VyIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBpZiAodG9rZW4gPT09ICdBbGxvdycpIHJlc29sdmUodHJ1ZSkKICAvLyBlbHNlIHJlamVjdCgpCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnUEVNJykKICBjb25zb2xlLmxvZyhwZW0pCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZWplY3QoKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnVXNpbmcga2V5JykKICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShrZXksIG51bGwsIDIpKQoK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">KCkgPT4gewogICAgICBzd2l0Y2ggKHRva2VuLnRvTG93ZXJDYXNlKCkpIHsKICAgICAgICBjYXNlICdhbGxvdyc6CiAgICAgICAgICBjYWxsYmFjayhudWxsLCBnZW5lcmF0ZVBvbGljeSgndXNlcicsICdBbGxvdycsIGV2ZW50Lm1ldGhvZEFybikpCiAgICAgICAgICBicmVhawogICAgICAgIGNhc2UgJ2RlbnknOgogICAgICAgICAgY2FsbGJhY2sobnVsbCwgZ2VuZXJhdGVQb2xpY3koJ3VzZXInLCAnRGVueScsIGV2ZW50Lm1ldGhvZEFybikpCiAgICAgICAgICBicmVhawogICAgICAgIGNhc2UgJ3VuYXV0aG9yaXplZCc6CiAgICAgICAgICBjYWxsYmFjaygnVW5hdXRob3JpemVkJykgICAvLyBSZXR1cm4gYSA0MDEgVW5hdXRob3JpemVkIHJlc3BvbnNlCiAgICAgICAgICBicmVhawogICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICBjYWxsYmFjaygnRXJyb3I6IEludmFsaWQgdG9rZW4nKQogICAgICB9CiAgICB9KQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRGVjb2RlZCB0b2tlbicpCiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZGVjb2RlZFRva2VuLCBudWxsLCAyKSkKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB0b2tlbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgZGF0YS5zdWIsCiAgICAgIGRhdGEuCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-  jwt.verify(token, secrets.kid)
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGF0YS5zdWIsCiAgICAgIGRhdGEuCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coa2V5cykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZXJyb3IoSlNPTi5zdHJpbmdpZnkoZXJyb3IsIG51bGwsIDIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoIXNlY3JldHMpIHsKICAgIC8vIGZldGNoIHNlY3JldHMgZnJvbSBjb2duaXRvCiAgfQo=</text>
+        <text encoding="base64">ICAvLyBpZiAodG9rZW4gPT09ICdBbGxvdycpIHJlc29sdmUodHJ1ZSkKICAvLyBlbHNlIHJlamVjdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZWplY3QoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
