@@ -270,10 +270,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501745058439" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502194244668">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502349555398">
+        <mark key="[" line="23" column="15" />
+        <mark key="]" line="23" column="15" />
+        <mark key="." line="23" column="15" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -352,6 +353,12 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1501824905215" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502350252919">
+        <mark key="[" line="25" column="67" />
+        <mark key="]" line="28" column="75" />
+        <mark key="^" line="28" column="75" />
+        <mark key="." line="28" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
         <mark key="]" line="10" column="11" />
@@ -948,11 +955,11 @@
       <jump line="13" column="2" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -960,48 +967,43 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBEcml2ZXJTdGF0dXNTdHJlYW06CiAgICBUeXBlOiBBV1M6OktpbmVzaXM6OlN0cmVhbQogICAgUHJvcGVydGllczoKICAgICAgU2hhcmRDb3VudDogMQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gZXhlY3V0ZS1hcGk6SW52b2tlCiAgICAgICAgICBSZXNvdXJjZToKICAgICAgICAgIC0gYXJuOmF3czpleGVjdXRlLWFwaTpldS13ZXN0LTE6Kjp1MWU4eWl6a2IwLyovUE9TVC9zdGF0dXMKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gbGFtYmRhOkludm9rZUZ1bmN0aW9uCiAgICAgICAgICBSZXNvdXJjZTogIUdldEF0dCBTdGF0dXNVcGRhdGUuQXJuCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IEFjdGlvbiA9ICcKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnN0IFZlcnNpb24gPSAK</text>
       </register>
-      <register name="4" type="4">
-        <text>DriverGroupRole:
-    Description: Driver group role
-    Value:
-      Ref: DriverGroupRole
-    Export:
-      Name: DriverGroupRole</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBhdXRoUmVzcG9uc2UucHJpbmNpcGFsSWQgPSBwcmluY2lwYWxJZAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>IdentityPoolId:
-    Description: Cognito Identity Pool ID
-    Value:
-      Ref: OrderInIdentityPool</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb250ZXh0LnN0cmluZ0tleSA9ICdzdHJpbmd2YWwnCiAgY29udGV4dC5udW1iZXJLZXkgPSAxMjMKICBjb250ZXh0LmJvb2xlYW5LZXkgPSB0cnVlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUmVmOiBPcmRlckluSWRlbnRpdHlQb29sCg==</text>
+        <text encoding="base64">ICAvLyBDYW4gb3B0aW9uYWxseSByZXR1cm4gYSBjb250ZXh0IG9iamVjdCBvZiB5b3VyIGNob29zaW5nLgogIGF1dGhSZXNwb25zZS5jb250ZXh0ID0ge30KICBhdXRoUmVzcG9uc2UuY29udGV4dC5zdHJpbmdLZXkgPSAnc3RyaW5ndmFsJwogIGF1dGhSZXNwb25zZS5jb250ZXh0Lm51bWJlcktleSA9IDEyMwogIGF1dGhSZXNwb25zZS5jb250ZXh0LmJvb2xlYW5LZXkgPSB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text>DriverGroupRole:
-    Description: Driver group role
-    Value:
-      Ref: DriverGroupRole
-    Export:
-      Name: DriverGroupRole</text>
+        <text>// const policyDocument = {};
+    // policyDocument.Version = '2012-10-17'; // default version
+    // policyDocument.Statement = [];
+    // const statementOne = {};
+    // statementOne.Action = 'execute-api:Invoke'; // default action
+    // statementOne.Effect = effect;
+    // statementOne.Resource = resource;
+    // policyDocument.Statement[0] = statementOne;
+    // authResponse.policyDocument = policyDocument;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
