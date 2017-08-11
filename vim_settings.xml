@@ -183,11 +183,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/StatusUpdate/Handler.js" timestamp="1501846433207">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="29" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/StatusUpdate/Handler.js" timestamp="1502445420629">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/README.md" timestamp="1500272028933">
         <mark key="[" line="11" column="0" />
@@ -552,7 +552,11 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502438586532" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502445083431">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -583,11 +587,10 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/.gitignore" timestamp="1499337346086">
         <mark key="[" line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoUserData.js" timestamp="1502430543879">
-        <mark key="[" line="22" column="71" />
-        <mark key="]" line="20" column="59" />
-        <mark key="^" line="20" column="59" />
-        <mark key="." line="20" column="59" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoUserData.js" timestamp="1502444901906">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/Models/ConsumerResponse.scala" timestamp="1501584207644">
         <mark key="[" line="5" column="120" />
@@ -996,28 +999,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">T3V0cHV0czoKICBEcml2ZXJTdGF0dXNTdHJlYW1OYW1lOgogICAgRGVzY3JpcHRpb246IE5hbWUgb2YgdGhlIERyaXZlciBTdGF0dXMgU3RyZWFtCiAgICBWYWx1ZTogIVJlZiBEcml2ZXJTdGF0dXNTdHJlYW0K</text>
+        <text encoding="base64">CiAgVW5BdXRoZW50aWNhdGVkUm9sZToKICAgIFR5cGU6IEFXUzo6SUFNOjpSb2xlCiAgICBQcm9wZXJ0aWVzOgogICAgICBBc3N1bWVSb2xlUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgVmVyc2lvbjogJzIwMTItMTAtMTcnCiAgICAgICAgU3RhdGVtZW50OgogICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgQWN0aW9uOgogICAgICAgICAgLSBzdHM6QXNzdW1lUm9sZVdpdGhXZWJJZGVudGl0eQogICAgICAgICAgUHJpbmNpcGFsOgogICAgICAgICAgICBGZWRlcmF0ZWQ6CiAgICAgICAgICAgIC0gY29nbml0by1pZGVudGl0eS5hbWF6b25hd3MuY29tCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
+        <text encoding="base64">ICBBdXRoZW50aWNhdGVkUm9sZToKICAgIFR5cGU6IEFXUzo6SUFNOjpSb2xlCiAgICBQcm9wZXJ0aWVzOgogICAgICBBc3N1bWVSb2xlUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgVmVyc2lvbjogJzIwMTItMTAtMTcnCiAgICAgICAgU3RhdGVtZW50OgogICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgQWN0aW9uOgogICAgICAgICAgLSBzdHM6QXNzdW1lUm9sZVdpdGhXZWJJZGVudGl0eQogICAgICAgICAgUHJpbmNpcGFsOgogICAgICAgICAgICBGZWRlcmF0ZWQ6CiAgICAgICAgICAgIC0gY29nbml0by1pZGVudGl0eS5hbWF6b25hd3MuY29tCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAtIFBvbGljeU5hbWU6IFByb2Nlc3NLaW5lc2lzUG9saWN5CiAgICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgICAgVmVyc2lvbjogJzIwMTItMTAtMTcnCiAgICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgICAgICAgLSBraW5lc2lzOkRlc2NyaWJlU3RyZWFtCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpHZXRSZWNvcmRzCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpHZXRTaGFyZEl0ZXJhdG9yCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpMaXN0U3RyZWFtcwogICAgICAgICAgICAgICAgUmVzb3VyY2U6ICFHZXRBdHQgRHJpdmVyU3RhdHVzU3RyZWFtLkFybgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdXNlckdyb3VwcyA9IHRva2VuUGF5bG9hZFtJTkRFWF9HUk9VUF0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtIFBvbGljeU5hbWU6IFByb2Nlc3NLaW5lc2lzUG9saWN5CiAgICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgICAgVmVyc2lvbjogJzIwMTItMTAtMTcnCiAgICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgICAgICAgLSBraW5lc2lzOkRlc2NyaWJlU3RyZWFtCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpHZXRSZWNvcmRzCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpHZXRTaGFyZEl0ZXJhdG9yCiAgICAgICAgICAgICAgICAgIC0ga2luZXNpczpMaXN0U3RyZWFtcwogICAgICAgICAgICAgICAgUmVzb3VyY2U6ICFHZXRBdHQgRHJpdmVyU3RhdHVzU3RyZWFtLkFybgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBEcml2ZXJTdGF0dXNTdHJlYW06CiAgICBUeXBlOiBBV1M6OktpbmVzaXM6OlN0cmVhbQogICAgUHJvcGVydGllczoKICAgICAgU2hhcmRDb3VudDogMQoKCg==</text>
+        <text encoding="base64">T3V0cHV0czoKICBEcml2ZXJTdGF0dXNTdHJlYW1OYW1lOgogICAgRGVzY3JpcHRpb246IE5hbWUgb2YgdGhlIERyaXZlciBTdGF0dXMgU3RyZWFtCiAgICBWYWx1ZTogIVJlZiBEcml2ZXJTdGF0dXNTdHJlYW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgRHJpdmVyU3RhdHVzVXBkYXRlTWFuYWdlZFBvbGljeToKIyAgICBUeXBlOiBBV1M6OklBTTo6TWFuYWdlZFBvbGljeQojICAgIFByb3BlcnRpZXM6CiMgICAgICBEZXNjcmlwdGlvbjogQWxsb3dzIGRyaXZlcnMgdG8gcHV0IHJlY29yZHMgb250byB0aGUgRHJpdmVyU3RhdHVzU3RyZWFtCiMgICAgICBSb2xlczoKIyAgICAgIC0gIUltcG9ydFZhbHVlIERyaXZlckdyb3VwUm9sZQojICAgICAgUG9saWN5RG9jdW1lbnQ6CiMgICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwojICAgICAgICBTdGF0ZW1lbnQ6CiMgICAgICAgIC0gRWZmZWN0OiBBbGxvdwojICAgICAgICAgIEFjdGlvbjoKIyAgICAgICAgICAtIGtpbmVzaXM6UHV0UmVjb3JkCiMgICAgICAgICAgUmVzb3VyY2U6ICFHZXRBdHQgRHJpdmVyU3RhdHVzU3RyZWFtLkFybgo=</text>
+        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBPcGVyYXRvckdyb3VwUm9sZToKICAgIERlc2NyaXB0aW9uOiBPcGVyYXRvciBncm91cCByb2xlCiAgICBWYWx1ZToKICAgICAgUmVmOiBPcGVyYXRvckdyb3VwUm9sZQogICAgRXhwb3J0OgogICAgICBOYW1lOiBPcGVyYXRvckdyb3VwUm9sZQo=</text>
+        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIFN0cmVhbToKICAgICAgICAgIFR5cGU6IEtpbmVzaXMKICAgICAgICAgIFByb3BlcnRpZXM6CiAgICAgICAgICAgIFN0cmVhbTogIUdldEF0dCBEcml2ZXJTdGF0dXNTdHJlYW0uQXJuCiAgICAgICAgICAgIEJhdGNoU2l6ZTogMTAwCiAgICAgICAgICAgIFN0YXJ0aW5nUG9zaXRpb246IFRSSU1fSE9SSVpPTgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
