@@ -553,12 +553,6 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502430942946">
-        <mark key="[" line="159" column="4" />
-        <mark key="]" line="159" column="4" />
-        <mark key="." line="159" column="4" />
-        <mark key="^" line="159" column="4" />
-      </file>
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
