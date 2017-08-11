@@ -43,7 +43,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.json" timestamp="1497455940890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1500280576559">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1502438292654">
         <mark key="[" line="3" column="29" />
         <mark key="]" line="3" column="32" />
         <mark key="." line="3" column="32" />
@@ -553,6 +553,7 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502438586532" />
       <file name="$USER_HOME$/dev/helios/src/lib/aws/LambdaProxyRequest.js" timestamp="1492588365398">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
