@@ -210,11 +210,11 @@
         <mark key="." line="23" column="21" />
         <mark key="^" line="23" column="21" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/swagger.yml" timestamp="1502452315480">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="17" column="30" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/swagger.yml" timestamp="1502452999316">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/config.js" timestamp="1501493303574">
         <mark key="[" line="0" column="0" />
@@ -289,10 +289,11 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501745058439" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502451794806">
-        <mark key="[" line="141" column="25" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502452956676">
+        <mark key="[" line="150" column="25" />
+        <mark key="]" line="150" column="25" />
+        <mark key="." line="150" column="25" />
+        <mark key="^" line="150" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -986,11 +987,11 @@
       <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgdHlwZTogaHR0cAojICAgICAgICByZXNwb25zZXM6CiMgICAgICAgICAgZGVmYXVsdDoKIyAgICAgICAgICAgIHN0YXR1c0NvZGU6ICcyMDAnCiMgICAgICAgIGh0dHBNZXRob2Q6IFBPU1QKIyAgICAgICAgdXJpOiBodHRwczovL2dvb2dsZS5jb20K</text>
+      <register name="&quot;" type="4">
+        <text>API for</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>API for</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
