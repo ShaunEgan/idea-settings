@@ -22,8 +22,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/svc-cognito/.gitlab-ci.yml" timestamp="1502624911192">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/dev/svc-cognito/.gitlab-ci.yml" timestamp="1502625572855">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaCsvRepository.scala" timestamp="1494842891205">
         <mark key="[" line="6" column="0" />
@@ -1010,8 +1013,8 @@
       <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>r</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtIGV4cG9ydCBFTlY9c3RhZ2luZwo=</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -1023,34 +1026,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UmVxdWlyZXMgYSBgRU5WYCBlbnZpcm9ubWVudGFsIHZhcmlhYmxlIHRvIHVzZSBhcyBwYXJ0IG9mIHlvdXIgc3RhY2sgbmFtZS4gVGhlbiBpdCBpcyBzaW1wbHkKCg==</text>
+        <text encoding="base64">ICAtIGV4cG9ydCBFTlY9c3RhZ2luZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tcmVnaW9uIGV1LXdlc3QtMQo=</text>
+        <text encoding="base64">UmVxdWlyZXMgYSBgRU5WYCBlbnZpcm9ubWVudGFsIHZhcmlhYmxlIHRvIHVzZSBhcyBwYXJ0IG9mIHlvdXIgc3RhY2sgbmFtZS4gVGhlbiBpdCBpcyBzaW1wbHkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tcHJvZmlsZSBoZWxpb3MgXAo=</text>
+        <text encoding="base64">ICAgIC0tcmVnaW9uIGV1LXdlc3QtMQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBTdGF0dXNVcGRhdGUK</text>
+        <text encoding="base64">ICAgIC0tcHJvZmlsZSBoZWxpb3MgXAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBTdGF0dXNVcGRhdGUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgIERlZmluaXRpb25Vcmk6IHN3YWdnZXIueWFtbAojICAgICAgVmFyaWFibGVzOgojICAgICAgICBTdGF0dXNVcGRhdGVGbjogIVJlZiBTdGF0dXNVcGRhdGUKIyAgICAgICAgQXV0aG9yaXplckZuTmFtZTogIUdldEF0dCBEcml2ZXJTdGF0dXNBdXRob3JpemVyLkFybgo=</text>
+        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBTdGF0dXNVcGRhdGUK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">IyAgICAgIERlZmluaXRpb25Vcmk6IHN3YWdnZXIueWFtbAojICAgICAgVmFyaWFibGVzOgojICAgICAgICBTdGF0dXNVcGRhdGVGbjogIVJlZiBTdGF0dXNVcGRhdGUKIyAgICAgICAgQXV0aG9yaXplckZuTmFtZTogIUdldEF0dCBEcml2ZXJTdGF0dXNBdXRob3JpemVyLkFybgo=</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IyAgICAgICAgRm46OlRyYW5zZm9ybToKIyAgICAgICAgICBOYW1lOiBBV1M6OkluY2x1ZGUKIyAgICAgICAgICBQYXJhbWV0ZXJzOgojICAgICAgICAgICAgTG9jYXRpb246IHMzOi8vb3JkZXJpbi1kZXZlbG9wZXJzL2Rldi1zaGF1bi1kZXYvZHJpdmVyLXN0YXR1cy9zd2FnZ2VyLnlhbWwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICAgIEZuOjpTdWI6</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBTdGF0dXNVcGRhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
