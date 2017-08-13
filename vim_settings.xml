@@ -235,6 +235,9 @@
         <mark key="." line="1" column="64" />
         <mark key="^" line="1" column="64" />
       </file>
+      <file name="$USER_HOME$/dev/svc-cognito/.gitignore" timestamp="1502620802041">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/Repository.js" timestamp="1498650313786">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="6" />
@@ -291,6 +294,12 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/summing/allocations/march/non-tou-allocations.json" timestamp="1501745058439" />
+      <file name="$USER_HOME$/dev/svc-cognito/README.md" timestamp="1502621005192">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502456398050">
         <mark key="[" line="142" column="0" />
         <mark key="]" line="142" column="0" />
@@ -309,6 +318,12 @@
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/README.md" timestamp="1500132241610">
         <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/svc-cognito/cloudformation.yaml" timestamp="1502621310238">
+        <mark key="[" line="29" column="28" />
+        <mark key="]" line="31" column="28" />
+        <mark key="^" line="31" column="28" />
+        <mark key="." line="29" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/services/PtsiService.js" timestamp="1495529330689">
         <mark key="[" line="49" column="22" />
@@ -558,7 +573,7 @@
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/bin/config.sh" timestamp="1498112045700">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502445083431">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/cloudformation.yaml" timestamp="1502621300563">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
