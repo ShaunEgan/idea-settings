@@ -310,12 +310,7 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502693963116">
-        <mark key="[" line="161" column="103" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502695519531" />
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
       </file>
@@ -1011,7 +1006,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBEcml2ZXJTdGF0dXNBdXRob3JpemVyCg==</text>
+        <text encoding="base64">Ck91dHB1dHM6CiAgVGVzdDoKICAgIERlc2NyaXB0aW9uOiBTdGF0dXMgVXBkYXRlIEFSTgogICAgVmFsdWU6ICFHZXRBdHQgU3RhdHVzVXBkYXRlLkFybgo=</text>
       </register>
       <register name="-" type="4">
         <text>arn:aws:lambda:eu-west-1:493927664786:function:dev-shaun-dev-orderin-drive-DriverStatusAuthorizer-1L9ES0OKUXF6D</text>
@@ -1023,34 +1018,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBEcml2ZXJTdGF0dXNBdXRob3JpemVyCg==</text>
+        <text encoding="base64">Ck91dHB1dHM6CiAgVGVzdDoKICAgIERlc2NyaXB0aW9uOiBTdGF0dXMgVXBkYXRlIEFSTgogICAgVmFsdWU6ICFHZXRBdHQgU3RhdHVzVXBkYXRlLkFybgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBEcml2ZXJTdGF0dXNBdXRob3JpemVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBQcmFjdGl0aW9uZXJHcm91cFJvbGU6CiAgICBUeXBlOiBBV1M6OklBTTo6Um9sZQogICAgUHJvcGVydGllczoKICAgICAgQXNzdW1lUm9sZVBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gc3RzOkFzc3VtZVJvbGVXaXRoV2ViSWRlbnRpdHkKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgRmVkZXJhdGVkOgogICAgICAgICAgICAtIGNvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">LSBidWlsZAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBQcmFjdGl0aW9uZXJHcm91cFJvbGU6CiAgICBUeXBlOiBBV1M6OklBTTo6Um9sZQogICAgUHJvcGVydGllczoKICAgICAgQXNzdW1lUm9sZVBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gc3RzOkFzc3VtZVJvbGVXaXRoV2ViSWRlbnRpdHkKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgRmVkZXJhdGVkOgogICAgICAgICAgICAtIGNvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzY3JpcHQ6Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LSBidWlsZAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">YnVpbGQ6CiAgc3RhZ2U6IGJ1aWxkCiAgaW1hZ2U6CiAgLSBweXRob246bGF0ZXN0CiAgc2NyaXB0OgogIC0gcGlwIGluc3RhbGwgYXdzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAtIGV4cG9ydCBFTlY9c3RhZ2luZwo=</text>
+        <text encoding="base64">YnVpbGQ6CiAgc3RhZ2U6IGJ1aWxkCiAgaW1hZ2U6CiAgLSBweXRob246bGF0ZXN0CiAgc2NyaXB0OgogIC0gcGlwIGluc3RhbGwgYXdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">UmVxdWlyZXMgYSBgRU5WYCBlbnZpcm9ubWVudGFsIHZhcmlhYmxlIHRvIHVzZSBhcyBwYXJ0IG9mIHlvdXIgc3RhY2sgbmFtZS4gVGhlbiBpdCBpcyBzaW1wbHkKCg==</text>
+        <text encoding="base64">ICAtIGV4cG9ydCBFTlY9c3RhZ2luZwo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
