@@ -310,11 +310,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502699123359">
-        <mark key="[" line="162" column="74" />
-        <mark key="]" line="162" column="57" />
-        <mark key="^" line="162" column="30" />
-        <mark key="." line="162" column="57" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502701947874">
+        <mark key="[" line="179" column="17" />
+        <mark key="]" line="179" column="17" />
+        <mark key="." line="179" column="17" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -618,6 +617,12 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" timestamp="1502700678410">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="33" column="38" />
+        <mark key="]" line="33" column="38" />
+        <mark key="." line="33" column="38" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/somefile.js" timestamp="1498127473924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -915,7 +920,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="59" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/config.js" />
       <jump line="28" column="0" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient.js" />
       <jump line="10" column="19" filename="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/lib/PtsiClient/index.js" />
       <jump line="42" column="29" filename="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" />
@@ -1015,13 +1019,14 @@
       <jump line="13" column="2" filename="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputFormatter.scala" />
       <jump line="5" column="17" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/CognitoSecrets.js" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" />
+      <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IngtYW1hem9uLWFwaWdhdGV3YXktYXV0aCIgOiB7CiJ0eXBlIjogIm5vbmUiCn0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>Driver Status API</text>
       </register>
       <register name="-" type="4">
-        <text>arn:aws:lambda:eu-west-1:493927664786:function:dev-shaun-dev-orderin-drive-DriverStatusAuthorizer-1L9ES0OKUXF6D</text>
+        <text>Driver Status API</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1030,34 +1035,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IngtYW1hem9uLWFwaWdhdGV3YXktYXV0aCIgOiB7CiJ0eXBlIjogIm5vbmUiCn0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiBEcml2ZXIgU3RhdHVzIEFQSQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ck91dHB1dHM6CiAgVGVzdDoKICAgIERlc2NyaXB0aW9uOiBTdGF0dXMgVXBkYXRlIEFSTgogICAgVmFsdWU6ICFHZXRBdHQgU3RhdHVzVXBkYXRlLkFybgo=</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgYXV0aG9yaXplckNyZWRlbnRpYWxzOiAhR2V0QXR0IEludm9rZUF1dGhvcml6ZXJMYW1iZGFQZXJtaXNzaW9uLkFybgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBEcml2ZXJTdGF0dXNBdXRob3JpemVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyAgICAgIC0gUG9saWN5TmFtZTogSW52b2tlQXV0aG9yaXplclBvbGljeQojICAgICAgICBQb2xpY3lEb2N1bWVudDoKIyAgICAgICAgICBWZXJzaW9uOiAnMjAxMi0xMC0xNycKIyAgICAgICAgICBTdGF0ZW1lbnQ6CiMgICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiMgICAgICAgICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgojICAgICAgICAgICAgUmVzb3VyY2U6ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBQcmFjdGl0aW9uZXJHcm91cFJvbGU6CiAgICBUeXBlOiBBV1M6OklBTTo6Um9sZQogICAgUHJvcGVydGllczoKICAgICAgQXNzdW1lUm9sZVBvbGljeURvY3VtZW50OgogICAgICAgIFZlcnNpb246ICcyMDEyLTEwLTE3JwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gc3RzOkFzc3VtZVJvbGVXaXRoV2ViSWRlbnRpdHkKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgRmVkZXJhdGVkOgogICAgICAgICAgICAtIGNvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbQo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIDwKICAgICAgICAgICAgISEtLS0KICAgICAgICAgICAgaW5zdGVhZAogICAgICAgICAgICBvZgogICAgICAgICAgICBmdW5jdGlvbm5hbWUKICAgICAgICAgICAgaW5zZXJ0CiAgICAgICAgICAgIHlvdXIKICAgICAgICAgICAgZnVuY3Rpb24KICAgICAgICAgICAgbmFtZQ==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBzY3JpcHQ6Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICA8CiAgICAgICAgICAgICEhLS0tCiAgICAgICAgICAgIGluc3RlYWQKICAgICAgICAgICAgb2YKICAgICAgICAgICAgKgogICAgICAgICAgICBpbnNlcnQKICAgICAgICAgICAgeW91cgogICAgICAgICAgICBhcm4KICAgICAgICAgICAgcGFydCwKICAgICAgICAgICAgZS5nLgogICAgICAgICAgICB4YTQyY3JjYWdlLyovUE9TVC9zb21ldGhpb25nL2NyZWF0ZQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LSBidWlsZAo=</text>
+        <text encoding="base64">IngtYW1hem9uLWFwaWdhdGV3YXktYXV0aCIgOiB7CiJ0eXBlIjogIm5vbmUiCn0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ck91dHB1dHM6CiAgVGVzdDoKICAgIERlc2NyaXB0aW9uOiBTdGF0dXMgVXBkYXRlIEFSTgogICAgVmFsdWU6ICFHZXRBdHQgU3RhdHVzVXBkYXRlLkFybgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YnVpbGQ6CiAgc3RhZ2U6IGJ1aWxkCiAgaW1hZ2U6CiAgLSBweXRob246bGF0ZXN0CiAgc2NyaXB0OgogIC0gcGlwIGluc3RhbGwgYXdzCg==</text>
+        <text encoding="base64">ICAgICAgRnVuY3Rpb25OYW1lOiBEcml2ZXJTdGF0dXNBdXRob3JpemVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
