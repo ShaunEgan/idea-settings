@@ -97,6 +97,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/config.js" timestamp="1502793426956" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/index.js" timestamp="1499155219209">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="12" />
@@ -321,10 +322,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502791586238">
-        <mark key="[" line="261" column="29" />
-        <mark key="]" line="261" column="29" />
-        <mark key="." line="261" column="29" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502793446161">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -431,6 +433,12 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.js" timestamp="1497344039961">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/AuthorizerData.js" timestamp="1502792765213">
+        <mark key="[" line="4" column="46" />
+        <mark key="]" line="9" column="19" />
+        <mark key="^" line="9" column="19" />
+        <mark key="." line="9" column="19" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.json" timestamp="1502697968656">
         <mark key="'" line="18" column="0" />
@@ -718,8 +726,11 @@
       <file name="$USER_HOME$/workspace/kinesis/producer/src/config.js" timestamp="1497441392141">
         <mark key="[" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DynamoDb.js" timestamp="1502789874178">
-        <mark key="[" line="1" column="7" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DynamoDb.js" timestamp="1502793095062">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+        <mark key="." line="10" column="46" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/README.md" timestamp="1498468587186">
         <mark key="[" line="16" column="0" />
@@ -1061,10 +1072,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Device battery level expressed as a point between 0 and 1</text>
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>Device battery level expressed as a point between 0 and 1</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
