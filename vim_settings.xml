@@ -309,10 +309,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502714407575">
-        <mark key="[" line="157" column="10" />
-        <mark key="]" line="157" column="10" />
-        <mark key="." line="157" column="10" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502776420594">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="^" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -664,6 +665,9 @@
         <mark key="[" line="141" column="65" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.yml" timestamp="1502774961592">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/nonabot-v2/src/WhereIs/Handler.js" timestamp="1499673249477">
         <mark key="[" line="9" column="11" />
@@ -1024,11 +1028,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1037,34 +1041,74 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtYW1hem9uLWFwaWdhdGV3YXktcmVxdWVzdC12YWxpZGF0b3I6IFZhbGlkYXRlIGJvZHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y2VzOgogICAgICAgICAgICAgICAgLSBhcHBsaWNhdGlvbi9qc29uCg==</text>
+        <text encoding="base64">IyAgRHluYW1vRGJTeW5jOgojICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KIyAgICBQcm9wZXJ0aWVzOgojICAgICAgQ29kZVVyaTogcmVzb3VyY2VzLnppcAojICAgICAgSGFuZGxlcjogZGlzdC9SZXNvdXJjZXMvRHluYW1vRGJTeW5jL0hhbmRsZXIucHJvY2VzcwojICAgICAgUnVudGltZTogbm9kZWpzNi4xMAojICAgICAgUm9sZTogIUdldEF0dCBEeW5hbW9EYlN5bmNFeGVjdXRpb25Sb2xlLkFybgojICAgICAgRW52aXJvbm1lbnQ6CiMgICAgICAgIFZhcmlhYmxlczoKIyAgICAgICAgICBEWU5BTU9EQl9UQUJMRV9OQU1FOiAhUmVmIERyaXZlclN0YXR1c0R5bmFtb0RiVGFibGUKIwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShldmVudCwgbnVsbCwgMSkpCgo=</text>
+      <register name="3" type="4">
+        <text>#  DynamoDbSyncExecutionRole:
+#    Type: AWS::IAM::Role
+#    Properties:
+#      AssumeRolePolicyDocument:
+#        Version: '2012-10-17'
+#        Statement:
+#          - Effect: Allow
+#            Action:
+#              - 'sts:AssumeRole'
+#            Principal:
+#              Service:
+#                - 'lambda.amazonaws.com'
+#      Policies:
+#        - PolicyName: PublishLogsPolicy
+#          PolicyDocument:
+#            Version: '2012-10-17'
+#            Statement:
+#              - Effect: Allow
+#                Action:
+#                  - logs:CreateLogGroup
+#                  - logs:CreateLogStream
+#                  - logs:PutLogEvents
+#                Resource: '*'
+#        - PolicyName: PutDriverStatusRecordPolicy
+#          PolicyDocument:
+#            Version: '2012-10-17'
+#            Statement:
+#              - Effect: Allow
+#                Action:
+#                  - dynamodb:PutItem
+#                Resource:
+#                  Fn::Join:
+#                    - '/'
+#                    - - Fn::Join:
+#                        - ':'
+#                        - - 'arn:aws:dynamodb'
+#                          - Ref: 'AWS::Region'
+#                          - Ref: 'AWS::AccountId'
+#                          - 'table'
+#                      - Ref: DriverStatusDynamoDbTable
+#</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgZm9ybWF0OiBkb3VibGUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCByZWNvcmQgPSB7IHVzZXIsIGJvZHkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN1bWVzOgogICAgICAgICAgICAgICAgLSBhcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiBEcml2ZXIgU3RhdHVzIEFQSQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtYW1hem9uLWFwaWdhdGV3YXktcmVxdWVzdC12YWxpZGF0b3I6IGFsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgYXV0aG9yaXplckNyZWRlbnRpYWxzOiAhR2V0QXR0IEludm9rZUF1dGhvcml6ZXJMYW1iZGFQZXJtaXNzaW9uLkFybgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHgtYW1hem9uLWFwaWdhdGV3YXktcmVxdWVzdC12YWxpZGF0b3I6IFZhbGlkYXRlIGJvZHkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByb2R1Y2VzOgogICAgICAgICAgICAgICAgLSBhcHBsaWNhdGlvbi9qc29uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgIC0gUG9saWN5TmFtZTogSW52b2tlQXV0aG9yaXplclBvbGljeQojICAgICAgICBQb2xpY3lEb2N1bWVudDoKIyAgICAgICAgICBWZXJzaW9uOiAnMjAxMi0xMC0xNycKIyAgICAgICAgICBTdGF0ZW1lbnQ6CiMgICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiMgICAgICAgICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgojICAgICAgICAgICAgUmVzb3VyY2U6ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShldmVudCwgbnVsbCwgMSkpCgo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
