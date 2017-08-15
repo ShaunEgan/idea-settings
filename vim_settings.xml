@@ -321,10 +321,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502781588323">
-        <mark key="[" line="271" column="41" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502791586238">
+        <mark key="[" line="261" column="29" />
+        <mark key="]" line="261" column="29" />
+        <mark key="." line="261" column="29" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -413,6 +413,11 @@
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="15" column="27" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1502791405819">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/bin/config.sh" timestamp="1500272435361">
         <mark key="[" line="10" column="11" />
@@ -1055,11 +1060,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gCg==</text>
+      <register name="&quot;" type="4">
+        <text>Device battery level expressed as a point between 0 and 1</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>Device battery level expressed as a point between 0 and 1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1068,34 +1073,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBib2R5ID0gCg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IGRhdGEgPSAnZXlKdFpYTnpZV2RsSWpvaVpHVmpiMlJsWkNFaWZRPT0nCiAgICAvLyBjb25zdCBraW5lc2lzID0geyBkYXRhIH0KICAgIC8vIGNvbnN0IHJlY29yZCA9IHsga2luZXNpcyB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnRmllbGRzOicpCiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZmllbGRzLCBudWxsLCAyKSkKCg==</text>
+        <text encoding="base64">ICBjb25zdCBib2R5ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRmllbGRzOicpCiAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZmllbGRzLCBudWxsLCAyKSkKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnQm9keTonKQogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHksIG51bGwsIDIpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKICByZXR1cm4gcmVjb3JkCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnQm9keTonKQogIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KGJvZHksIG51bGwsIDIpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICByZXR1cm4gcmVjb3JkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBQcm9jZXNzZXMgYSBzaW5nbGUgZHJpdmVyIHN0YXR1cyB1cGRhdGUgcmVjb3JkCiAgICoKICAgKiBAcGFyYW0gcmVjb3JkIE9iamVjdCBBIEtpbmVzaXMgcmVjb3JkCiAgICovCiAgcHJvY2Vzc1JlY29yZChyZWNvcmQpIHsKICAgIGNvbnN0IHBheWxvYWQgPSBLaW5lc2lzVG9vbHMuZ2V0UGF5bG9hZChyZWNvcmQpCgogICAgcmV0dXJuIHRoaXMuZHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUocGF5bG9hZCkKICB9CgogIC8qKgogICAqIFByb2Nlc3NlcyBtdWx0aXBsZSBkcml2ZXIgc3RhdHVzIHVwZGF0ZSByZWNvcmRzCiAgICoKICAgKiBAcGFyYW0gcmVjb3JkcyBbT2JqZWN0XSBBbiBhcnJheSBvZiBLaW5lc2lzIHJlY29yZHMKICAgKi8KICBwcm9jZXNzUmVjb3JkcyhyZWNvcmRzKSB7CiAgICByZXR1cm4gcmVjb3Jkcy5tYXAocmVjb3JkID0+IHRoaXMucHJvY2Vzc1JlY29yZChyZWNvcmQpKQogIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBQcm9jZXNzZXMgYSBzaW5nbGUgZHJpdmVyIHN0YXR1cyB1cGRhdGUgcmVjb3JkCiAgICoKICAgKiBAcGFyYW0gcmVjb3JkIE9iamVjdCBBIEtpbmVzaXMgcmVjb3JkCiAgICovCiAgcHJvY2Vzc1JlY29yZChyZWNvcmQpIHsKICAgIGNvbnN0IHBheWxvYWQgPSBLaW5lc2lzVG9vbHMuZ2V0UGF5bG9hZChyZWNvcmQpCgogICAgcmV0dXJuIHRoaXMuZHJpdmVyU3RhdHVzU2VydmljZS51cGRhdGUocGF5bG9hZCkKICB9CgogIC8qKgogICAqIFByb2Nlc3NlcyBtdWx0aXBsZSBkcml2ZXIgc3RhdHVzIHVwZGF0ZSByZWNvcmRzCiAgICoKICAgKiBAcGFyYW0gcmVjb3JkcyBbT2JqZWN0XSBBbiBhcnJheSBvZiBLaW5lc2lzIHJlY29yZHMKICAgKi8KICBwcm9jZXNzUmVjb3JkcyhyZWNvcmRzKSB7CiAgICByZXR1cm4gcmVjb3Jkcy5tYXAocmVjb3JkID0+IHRoaXMucHJvY2Vzc1JlY29yZChyZWNvcmQpKQogIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEtpbmVzaXNUb29scyBmcm9tICcuLi9saWIvS2luZXNpc1Rvb2xzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
