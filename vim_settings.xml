@@ -314,10 +314,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502885903098">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="." line="158" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502888040092">
+        <mark key="[" line="374" column="95" />
+        <mark key="]" line="374" column="95" />
+        <mark key="." line="374" column="95" />
+        <mark key="^" line="372" column="14" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -1062,11 +1063,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">eAo=</text>
+      <register name="&quot;" type="4">
+        <text>StatusUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>StatusUpdate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1074,35 +1075,42 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">eAo=</text>
+      <register name="1" type="4">
+        <text>x-amazon-apigateway-integration:
+                type: aws_proxy
+                httpMethod: POST
+                credentials: !GetAtt ApiGatewayLambdaInvokeRole.Arn
+                uri: !Sub arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${GetDriverStatus.Arn}/invocations
+                passthroughBehavoir: NEVER
+              security:
+              - DriverGroupAuthorizer: []</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">eAo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CiAgSW52b2tlR2V0U3RhdHVzTGFtYmRhUGVybWlzc2lvbjoKICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgogICAgICBTb3VyY2VBcm46ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoKICAgICAgRnVuY3Rpb25OYW1lOiAhR2V0QXR0IEdldERyaXZlclN0YXR1cy5Bcm4KICAgICAgUHJpbmNpcGFsOiBhcGlnYXRld2F5LmFtYXpvbmF3cy5jb20=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZCcK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">IyAgICAgICAgICAtIGFybjphd3M6bGFtYmRhOio6KjpmdW5jdGlvbjpkZXYtJHthd3M6dXNlcm5hbWV9LSoKIyAgICAgICAgICAtIGFybjphd3M6bGFtYmRhOio6KjpldmVudC1zb3VyY2UtbWFwcGluZzoqCiMgICAgICAgIC0gRWZmZWN0OiBBbGxvdwojICAgICAgICAgIEFjdGlvbjoKIyAgICAgICAgICAtIGxhbWJkYTpMaXN0VGFncwojICAgICAgICAgIC0gbGFtYmRhOlRhZ1Jlc291cmNlCiMgICAgICAgICAgLSBsYW1iZGE6VW50YWdSZXNvdXJjZQojICAgICAgICAgIFJlc291cmNlOiAiKiIKIyAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiMgICAgICAgICAgQWN0aW9uOgojICAgICAgICAgIC0gbGFtYmRhOkNyZWF0ZUV2ZW50U291cmNlTWFwcGluZwojICAgICAgICAgIC0gbGFtYmRhOkdldEV2ZW50U291cmNlTWFwcGluZwojICAgICAgICAgIFJlc291cmNlOiAiKiIK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWQ6IHV1aWQudjEoKSwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CiAgICBBUElfVkVSQj0iUE9TVCIKICAgIEFQSV9QUk9UT0NPTD0iaHR0cCIKICAgIEFQSV9IT1NUPSJwcml2YXRlLWZkYjBkLXBvbGxzYXBpNzIuYXBpYXJ5LW1vY2suY29tIgogICAgQVBJX1BBVEg9Ii9kcml2ZXItc3RhdHVzIgogICAgQVBJX1BPUlQ9IjgwIgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFQSV9IT1NUPSJtZXBtZXAiCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">IyMgUHJvZHVjdGlvbgoKUHJvZHVjdGlvbiBpcyBkZXBsb3llZCBhdXRvbWF0aWNhbGx5IHZpYSBDSSB3aGVuZXZlciBjaGFuZ2VzIGFyZSBtZXJnZWQgaW50byBtYXN0ZXIuIFRoaXMgaXMgYWxyZWFkeSBjb25maWd1cmVkIGFuZApzaG91bGQgbm90IG5lZWQgY2hhbmdpbmcuCgpJZiB5b3UgbmVlZCB0byByZS1jb25maWd1cmUgQ0kgZGVwbG95bWVudCwgdGhlIGZvbGxvd2luZyBzdGVwcyBhcmUgcmVxdWlyZWQ6CgojIyMgRW52aXJvbm1lbnRhbCB2YXJpYWJsZXMKClRoZSBmb2xsb3dpbmcgZW52aXJvbm1lbnRhbCB2YXJpYWIK</text>
+        <text encoding="base64">ICAgIEFQSV9IT1NUPSJtZXBtZXAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
