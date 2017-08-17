@@ -111,6 +111,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/MeteorSync/README.md" timestamp="1502787904622">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="46" />
+        <mark key="." line="2" column="46" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Allocation/traits/AllocationTools/scala.scala" timestamp="1496742536309">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -124,10 +129,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository.js" timestamp="1502880541530">
-        <mark key="[" line="36" column="3" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository.js" timestamp="1502947198118">
+        <mark key="[" line="47" column="33" />
+        <mark key="]" line="42" column="35" />
+        <mark key="." line="42" column="35" />
+        <mark key="^" line="42" column="35" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Process/Repository.js" timestamp="1498643765250">
         <mark key="[" line="0" column="0" />
@@ -268,8 +274,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1502882722823">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1502947472062">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/FrontEndStreamProcessor.js" timestamp="1502788080005">
         <mark key="[" line="31" column="41" />
@@ -314,11 +322,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502888040092">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502946180566">
         <mark key="[" line="374" column="95" />
-        <mark key="]" line="374" column="95" />
-        <mark key="." line="374" column="95" />
-        <mark key="^" line="372" column="14" />
+        <mark key="]" line="329" column="27" />
+        <mark key="." line="329" column="27" />
+        <mark key="^" line="329" column="27" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -382,7 +390,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502788258900">
+      <file name="/Dummy.txt" timestamp="1502947759976">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
@@ -1063,11 +1071,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>StatusUpdate</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>StatusUpdate</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1075,7 +1083,28 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Jlc3VsdDogJykKICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZHJpdmVyU3RhdHVzLCBudWxsLCAyKSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0R5bmFtb0RCIHJldHVybmVkIHRoZSBmb2xsb3dpbmcgZGF0YScpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coYEZldGNoaW5nIHN0YXR1cyBvZiBkcml2ZXIgJHtkcml2ZXJJZH1gKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkKCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgY2FsbGJhY2sobnVsbCwgewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoZXZlbnQsIG51bGwsIDIpCiAgfSkK</text>
+      </register>
+      <register name="7" type="4">
         <text>x-amazon-apigateway-integration:
                 type: aws_proxy
                 httpMethod: POST
@@ -1085,32 +1114,11 @@
               security:
               - DriverGroupAuthorizer: []</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">eAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgSW52b2tlR2V0U3RhdHVzTGFtYmRhUGVybWlzc2lvbjoKICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgogICAgICBTb3VyY2VBcm46ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoKICAgICAgRnVuY3Rpb25OYW1lOiAhR2V0QXR0IEdldERyaXZlclN0YXR1cy5Bcm4KICAgICAgUHJpbmNpcGFsOiBhcGlnYXRld2F5LmFtYXpvbmF3cy5jb20=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHV1aWQgZnJvbSAndXVpZCcK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAtIGFybjphd3M6bGFtYmRhOio6KjpmdW5jdGlvbjpkZXYtJHthd3M6dXNlcm5hbWV9LSoKIyAgICAgICAgICAtIGFybjphd3M6bGFtYmRhOio6KjpldmVudC1zb3VyY2UtbWFwcGluZzoqCiMgICAgICAgIC0gRWZmZWN0OiBBbGxvdwojICAgICAgICAgIEFjdGlvbjoKIyAgICAgICAgICAtIGxhbWJkYTpMaXN0VGFncwojICAgICAgICAgIC0gbGFtYmRhOlRhZ1Jlc291cmNlCiMgICAgICAgICAgLSBsYW1iZGE6VW50YWdSZXNvdXJjZQojICAgICAgICAgIFJlc291cmNlOiAiKiIKIyAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiMgICAgICAgICAgQWN0aW9uOgojICAgICAgICAgIC0gbGFtYmRhOkNyZWF0ZUV2ZW50U291cmNlTWFwcGluZwojICAgICAgICAgIC0gbGFtYmRhOkdldEV2ZW50U291cmNlTWFwcGluZwojICAgICAgICAgIFJlc291cmNlOiAiKiIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6IHV1aWQudjEoKSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICBBUElfVkVSQj0iUE9TVCIKICAgIEFQSV9QUk9UT0NPTD0iaHR0cCIKICAgIEFQSV9IT1NUPSJwcml2YXRlLWZkYjBkLXBvbGxzYXBpNzIuYXBpYXJ5LW1vY2suY29tIgogICAgQVBJX1BBVEg9Ii9kcml2ZXItc3RhdHVzIgogICAgQVBJX1BPUlQ9IjgwIgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEFQSV9IT1NUPSJtZXBtZXAiCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
