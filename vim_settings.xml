@@ -338,11 +338,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502953146117">
-        <mark key="[" line="257" column="7" />
-        <mark key="]" line="320" column="27" />
-        <mark key="." line="320" column="27" />
-        <mark key="^" line="320" column="27" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502955555681">
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -1091,8 +1090,8 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ZHJpdmVyU3RhdHVzID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgewogICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkcml2ZXJTdGF0dXMpCiAgICAgIH0pCiAgICB9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -1103,42 +1102,36 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ZHJpdmVyU3RhdHVzID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgewogICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkcml2ZXJTdGF0dXMpCiAgICAgIH0pCiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZXJyb3IgPT4gewogICAgICAKICAgIH0=</text>
+        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQWNjZXNzRHJpdmVyU3RhdHVzRGJTdHJlYW0KICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246IDIwMTItMTAtMTcKICAgICAgICAgIFN0YXRlbWVudDo=</text>
       </register>
-      <register name="3" type="4">
-        <text>if (error instanceof NotFoundError) {
-        callback(null, {
-          statusCode: 404,
-          body: JSON.stringify({ message: `Driver not found ${driverId}` })
-        })
-      } else {
-        callback(error)
-      }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tYnVpbHRpbi1leHRlbmQiCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IFBvbGljaWVzOgogICAgICAtIFBvbGljeU5hbWU6IFB1dERyaXZlclN0YXR1c1JlY29yZFBvbGljeQogICAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgICAgVmVyc2lvbjogMjAxMi0xMC0xNwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgICAtIGR5bmFtb2RiOlB1dEl0ZW0KICAgICAgICAgICAgUmVzb3VyY2U6CiAgICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgLSAnLycKICAgICAgICAgICAgICAtIC0gRm46OkpvaW46CiAgICAgICAgICAgICAgICAgIC0gJzonCiAgICAgICAgICAgICAgICAgIC0gLSAnYXJuOmF3czpkeW5hbW9kYicKICAgICAgICAgICAgICAgICAgICAtIFJlZjogJ0FXUzo6UmVnaW9uJwogICAgICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpBY2NvdW50SWQnCiAgICAgICAgICAgICAgICAgICAgLSAndGFibGUnCiAgICAgICAgICAgICAgICAtIFJlZjogRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnJvcikKCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>Policies:
+      - PolicyName: GetDriverStatusRecordPolicy</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Jlc3VsdDogJykKICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZHJpdmVyU3RhdHVzLCBudWxsLCAyKSkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgIC0gUG9saWN5TmFtZTogUHVibGlzaExvZ3NQb2xpY3kKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246IDIwMTItMTAtMTcKICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgICBBY3Rpb246CiAgICAgICAgICAgIC0gbG9nczpDcmVhdGVMb2dHcm91cAogICAgICAgICAgICAtIGxvZ3M6Q3JlYXRlTG9nU3RyZWFtCiAgICAgICAgICAgIC0gbG9nczpQdXRMb2dFdmVudHMKICAgICAgICAgICAgUmVzb3VyY2U6ICcqJw==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0R5bmFtb0RCIHJldHVybmVkIHRoZSBmb2xsb3dpbmcgZGF0YScpCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgIC0gUG9saWN5TmFtZTogUHVibGlzaExvZ3NQb2xpY3kKICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246IDIwMTItMTAtMTcKICAgICAgICAgIFN0YXRlbWVudDoKICAgICAgICAgIC0gRWZmZWN0OiBBbGxvdwogICAgICAgICAgICBBY3Rpb246CiAgICAgICAgICAgIC0gbG9nczpDcmVhdGVMb2dHcm91cAogICAgICAgICAgICAtIGxvZ3M6Q3JlYXRlTG9nU3RyZWFtCiAgICAgICAgICAgIC0gbG9nczpQdXRMb2dFdmVudHMKICAgICAgICAgICAgUmVzb3VyY2U6ICcqJw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coYEZldGNoaW5nIHN0YXR1cyBvZiBkcml2ZXIgJHtkcml2ZXJJZH1gKQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgIFBvbGljaWVzOgogICAgICAtIFBvbGljeU5hbWU6IFB1Ymxpc2hMb2dzUG9saWN5CiAgICAgICAgUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgICBWZXJzaW9uOiAyMDEyLTEwLTE3CiAgICAgICAgICBTdGF0ZW1lbnQ6CiAgICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgICAgQWN0aW9uOgogICAgICAgICAgICAtIGxvZ3M6Q3JlYXRlTG9nR3JvdXAKICAgICAgICAgICAgLSBsb2dzOkNyZWF0ZUxvZ1N0cmVhbQogICAgICAgICAgICAtIGxvZ3M6UHV0TG9nRXZlbnRzCiAgICAgICAgICAgIFJlc291cmNlOiAnKic=</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
