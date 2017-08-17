@@ -27,6 +27,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/Errors/NotFoundError.js" timestamp="1502948778711">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/SlaCsvRepository.scala" timestamp="1494842891205">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -76,10 +79,10 @@
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/config.js" timestamp="1497337835016">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1502797809591">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="9" column="59" />
-        <mark key="." line="9" column="59" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/package.json" timestamp="1502950149139">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/src/DynamicMapTransformer/Handler.js" timestamp="1500278791332">
         <mark key="[" line="1" column="25" />
@@ -182,6 +185,9 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/index.js" timestamp="1502949603663">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/Auth.js" timestamp="1497689740819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -203,6 +209,9 @@
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/README.md" timestamp="1500272028933">
         <mark key="[" line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/Errors/ExtendableError.js" timestamp="1502948735372">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/src/Services/Example.js" timestamp="1493183870178">
         <mark key="[" line="0" column="0" />
@@ -274,10 +283,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1502947472062">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1502950853891">
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="10" />
+        <mark key="." line="30" column="10" />
+        <mark key="^" line="30" column="26" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/FrontEndStreamProcessor.js" timestamp="1502788080005">
         <mark key="[" line="31" column="41" />
@@ -390,7 +400,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502947759976">
+      <file name="/Dummy.txt" timestamp="1502948975799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
@@ -661,6 +671,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1502950136927" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/Models/ConsumerResponse.scala" timestamp="1501584207644">
         <mark key="[" line="5" column="120" />
       </file>
@@ -948,6 +959,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/Repository.js" timestamp="1502950609348">
+        <mark key="[" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/README.md" timestamp="1500272025945">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="10" column="14" />
@@ -1071,11 +1085,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ZHJpdmVyU3RhdHVzID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgewogICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkcml2ZXJTdGF0dXMpCiAgICAgIH0pCiAgICB9</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1083,42 +1097,42 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ZHJpdmVyU3RhdHVzID0+IHsKICAgICAgY2FsbGJhY2sobnVsbCwgewogICAgICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeShkcml2ZXJTdGF0dXMpCiAgICAgIH0pCiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Jlc3VsdDogJykKICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZHJpdmVyU3RhdHVzLCBudWxsLCAyKSkK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZXJyb3IgPT4gewogICAgICAKICAgIH0=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0R5bmFtb0RCIHJldHVybmVkIHRoZSBmb2xsb3dpbmcgZGF0YScpCg==</text>
+      <register name="3" type="4">
+        <text>if (error instanceof NotFoundError) {
+        callback(null, {
+          statusCode: 404,
+          body: JSON.stringify({ message: `Driver not found ${driverId}` })
+        })
+      } else {
+        callback(error)
+      }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgY29uc29sZS5sb2coYEZldGNoaW5nIHN0YXR1cyBvZiBkcml2ZXIgJHtkcml2ZXJJZH1gKQo=</text>
+        <text encoding="base64">ICAgICAgImJhYmVsLXBsdWdpbi10cmFuc2Zvcm0tYnVpbHRpbi1leHRlbmQiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudCkKCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5lcnJvcihlcnJvcikKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgY2FsbGJhY2sobnVsbCwgewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoZXZlbnQsIG51bGwsIDIpCiAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>x-amazon-apigateway-integration:
-                type: aws_proxy
-                httpMethod: POST
-                credentials: !GetAtt ApiGatewayLambdaInvokeRole.Arn
-                uri: !Sub arn:aws:apigateway:${AWS::Region}:lambda:path/2015-03-31/functions/${GetDriverStatus.Arn}/invocations
-                passthroughBehavoir: NEVER
-              security:
-              - DriverGroupAuthorizer: []</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1Jlc3VsdDogJykKICAgICAgY29uc29sZS5sb2coSlNPTi5zdHJpbmdpZnkoZHJpdmVyU3RhdHVzLCBudWxsLCAyKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">eAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0R5bmFtb0RCIHJldHVybmVkIHRoZSBmb2xsb3dpbmcgZGF0YScpCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgSW52b2tlR2V0U3RhdHVzTGFtYmRhUGVybWlzc2lvbjoKICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgogICAgICBTb3VyY2VBcm46ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoKICAgICAgRnVuY3Rpb25OYW1lOiAhR2V0QXR0IEdldERyaXZlclN0YXR1cy5Bcm4KICAgICAgUHJpbmNpcGFsOiBhcGlnYXRld2F5LmFtYXpvbmF3cy5jb20=</text>
+      <register name="9" type="2">
+        <text encoding="base64">CiAgY29uc29sZS5sb2coYEZldGNoaW5nIHN0YXR1cyBvZiBkcml2ZXIgJHtkcml2ZXJJZH1gKQo=</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
