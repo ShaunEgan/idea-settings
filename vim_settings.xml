@@ -405,7 +405,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502948975799">
+      <file name="/Dummy.txt" timestamp="1502964173709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/.idea/.npmrc" timestamp="1498128880363">
@@ -628,6 +628,11 @@
         <mark key="]" line="36" column="5" />
         <mark key="." line="36" column="5" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/FrontEndApiClient/index.js" timestamp="1502965088062">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/SampleRepository/traits/GeneratorRespository.scala" timestamp="1494420605176">
         <mark key="[" line="10" column="91" />
         <mark key="]" line="10" column="91" />
@@ -704,6 +709,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Services/DriverStatusService/DriverStatusService.js" timestamp="1502963944658">
+        <mark key="[" line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
         <mark key="]" line="110" column="0" />
@@ -775,11 +783,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1496837249889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/FrontEndService/FrontEndService.js" timestamp="1502786467118">
-        <mark key="[" line="26" column="10" />
-        <mark key="]" line="26" column="10" />
-        <mark key="^" line="26" column="50" />
-        <mark key="." line="26" column="10" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/FrontEndService/FrontEndService.js" timestamp="1502964641176">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="16" column="4" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
@@ -1094,10 +1102,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>§</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1106,34 +1114,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlcnJvcikKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU2VudCBkYXRhIHRvIGZyb250IGVuZCcpCiAgICAgICAgY29uc29sZS5sb2coZGF0YSkKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gT2JqZWN0LmFzc2lnbihmaWVsZHMsIHsKICAgIGRyaXZlcklkOiB1c2VyLnN1YgogIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBKU09OLnN0cmluZ2lmeShwYXlsb2FkLCBudWxsLCAyKQogICAgY29uc3QgcmVxdWVzdCA9IGh0dHAucmVxdWVzdCh0aGlzLnBhcmFtcywgcmVzcG9uc2UgPT4gSlNPTi5zdHJpbmdpZnkocmVzcG9uc2UuaGVhZGVycykpCgogICAgcmVxdWVzdC5vbignZXJyb3InLCBlcnJvciA9PiBQcm9taXNlLnJlamVjdChlcnJvci5tZXNzYWdlKSkKCiAgICByZXF1ZXN0LndyaXRlKGRhdGEpCiAgICByZXF1ZXN0LmVuZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBleHRyYWN0IHVzZXIgaW5mb3JtYXRpb24KICBjb25zdCB1c2VyID0gQXV0aG9yaXplckRhdGEuZXh0cmFjdChldmVudCkKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIC0tLSBSZXNvdXJjZXMKCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHRoaXMucGFyYW1zID0gewogICAgICBwcm90b2NvbDogY29uZmlnLnByb3RvY29sLAogICAgICBob3N0bmFtZTogY29uZmlnLmhvc3RuYW1lLAogICAgICBwb3J0OiBjb25maWcucG9ydCwKICAgICAgcGF0aDogY29uZmlnLnBhdGgsCiAgICAgIG1ldGhvZDogY29uZmlnLm1ldGhvZCwKICAgICAgaGVhZGVyczogeyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KICAgIH0KICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGh0dHAgZnJvbSAnaHR0cCcKaW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogQWNjZXNzRHJpdmVyU3RhdHVzRGJTdHJlYW0KICAgICAgICBQb2xpY3lEb2N1bWVudDoKICAgICAgICAgIFZlcnNpb246IDIwMTItMTAtMTcKICAgICAgICAgIFN0YXRlbWVudDo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdTZW5kaW5nIHBheWxvYWQ6JykKICAgIGNvbnNvbGUubG9nKGRhdGEpCgo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFBvbGljaWVzOgogICAgICAtIFBvbGljeU5hbWU6IFB1dERyaXZlclN0YXR1c1JlY29yZFBvbGljeQogICAgICAgIFBvbGljeURvY3VtZW50OgogICAgICAgICAgVmVyc2lvbjogMjAxMi0xMC0xNwogICAgICAgICAgU3RhdGVtZW50OgogICAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiAgICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgICAgICAtIGR5bmFtb2RiOlB1dEl0ZW0KICAgICAgICAgICAgUmVzb3VyY2U6CiAgICAgICAgICAgICAgRm46OkpvaW46CiAgICAgICAgICAgICAgLSAnLycKICAgICAgICAgICAgICAtIC0gRm46OkpvaW46CiAgICAgICAgICAgICAgICAgIC0gJzonCiAgICAgICAgICAgICAgICAgIC0gLSAnYXJuOmF3czpkeW5hbW9kYicKICAgICAgICAgICAgICAgICAgICAtIFJlZjogJ0FXUzo6UmVnaW9uJwogICAgICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpBY2NvdW50SWQnCiAgICAgICAgICAgICAgICAgICAgLSAndGFibGUnCiAgICAgICAgICAgICAgICAtIFJlZjogRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>72</text>
