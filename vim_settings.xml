@@ -602,8 +602,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1501578317202">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1502959206399">
+        <mark key="[" line="12" column="49" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
@@ -965,8 +965,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/Repository.js" timestamp="1502950609348">
-        <mark key="[" line="38" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/Repository/Repository.js" timestamp="1502959133956">
+        <mark key="[" line="48" column="6" />
+        <mark key="]" line="48" column="6" />
+        <mark key="^" line="48" column="10" />
+        <mark key="." line="48" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Ops-Utils/README.md" timestamp="1500272025945">
         <mark key="[" line="11" column="0" />
@@ -1091,11 +1094,11 @@
       <jump line="39" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAjIC0tLSBSZXNvdXJjZXMKCg==</text>
+      <register name="&quot;" type="4">
+        <text>drivwrId</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>drivwrId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
