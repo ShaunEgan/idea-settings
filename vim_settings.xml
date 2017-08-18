@@ -106,7 +106,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/config.js" timestamp="1502796323320" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/index.js" timestamp="1499155219209">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="12" />
@@ -337,11 +336,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1502958694233">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="26" column="16" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1503038564930">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -436,12 +434,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1502797627013" />
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1502787727905">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1503038687024">
+        <mark key="[" line="3" column="49" />
+        <mark key="]" line="8" column="27" />
+        <mark key="." line="8" column="27" />
+        <mark key="^" line="8" column="68" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/EventProcessors/FrontEndStreamProcessor.js" timestamp="1503035912042">
         <mark key="[" line="35" column="44" />
@@ -468,7 +465,6 @@
         <mark key="^" line="9" column="19" />
         <mark key="." line="9" column="19" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/remove.sh" timestamp="1502797646614" />
       <file name="/fragment.java" timestamp="1502361554438">
         <mark key="[" line="0" column="0" />
       </file>
@@ -687,7 +683,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/package.json" timestamp="1502958855902" />
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/AccountRepository/Meta/Models/ConsumerResponse.scala" timestamp="1501584207644">
         <mark key="[" line="5" column="120" />
       </file>
@@ -964,6 +959,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/config.js" timestamp="1503038638290">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/repositories/CachingAccountRepository.scala" timestamp="1501750412780">
         <mark key="[" line="22" column="82" />
         <mark key="]" line="22" column="82" />
@@ -1109,10 +1107,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">UHJvbWlzZS5hbGwocHJvY2Vzc29yLnByb2Nlc3NSZWNvcmRzKFtyZWNvcmQsIHJlY29yZF0pKQogICAgICAudGhlbigoKSA9PiBleHBlY3QodXBkYXRlU3B5LmNhbGxlZFR3aWNlKSk=</text>
+        <text>process.env.COGNITO_AUTHORIZED_GROUPS || ''</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>process.env.COGNITO_AUTHORIZED_GROUPS || ''</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1120,35 +1118,35 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">UHJvbWlzZS5hbGwocHJvY2Vzc29yLnByb2Nlc3NSZWNvcmRzKFtyZWNvcmQsIHJlY29yZF0pKQogICAgICAudGhlbigoKSA9PiBleHBlY3QodXBkYXRlU3B5LmNhbGxlZFR3aWNlKSk=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0gU29tZU90aGVyR3JvdXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">UHJvbWlzZS5hbGwocHJvY2Vzc29yLnByb2Nlc3NSZWNvcmRzKFtyZWNvcmRdKSkKICAgICAgLnRoZW4oKCkgPT4gZXhwZWN0KHVwZGF0ZVNweS5jYWxsZWRPbmNlKSkp</text>
+      <register name="2" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUG9vbEVuZHBvaW50Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gZGVjb2RlZC5zcGxpdCgnLCcpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQb29sRW5kcG9pbnQgPSBgY29nbml0by1pZHAuJHtyZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfWAK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhgR290IHN0cmluZyAke2VuY29kZWR9YCkKCiAgY29uc3QgZGVjb2RlZCA9IAogIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyUG9vbEVuZHBvaW50Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">UHJvbWlzZS5hbGwocHJvY2Vzc29yLnByb2Nlc3NSZWNvcmRzKFtyZWNvcmQsIHJlY29yZF0pKQogICAgICAudGhlbigoKSA9PiBleHBlY3QodXBkYXRlU3B5LmNhbGxlZFR3aWNlKSk=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQb29sRW5kcG9pbnQgPSBgY29nbml0by1pZHAuJHtyZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfWAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">UHJvbWlzZS5hbGwocHJvY2Vzc29yLnByb2Nlc3NSZWNvcmRzKFtyZWNvcmRdKSkKICAgICAgLnRoZW4oKCkgPT4gZXhwZWN0KHVwZGF0ZVNweS5jYWxsZWRPbmNlKSkp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyUG9vbEVuZHBvaW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFXUyBmcm9tICdhd3Mtc2RrJwovLyBpbXBvcnQgeyBBdXRoZW50aWNhdGlvbkRldGFpbHMsIENvZ25pdG9Vc2VyLCBDb2duaXRvVXNlclBvb2wgfSBmcm9tICdhbWF6b24tY29nbml0by1pZGVudGl0eS1qcycKLy8gaW1wb3J0IGNvbmZpZyBmcm9tICcuL0NvbmZpZycKLy8gaW1wb3J0IFVzZXJJbnB1dCBmcm9tICcuL1VzZXJJbnB1dCcKLy8KLy8gY29uc3QgeyBVc2VyUG9vbElkLCBDbGllbnRJZCwgcmVnaW9uLCB1c2VyUG9vbEVuZHBvaW50IH0gPSBjb25maWcuY29nbml0bwovLwovLyBBV1MuY29uZmlnLnJlZ2lvbiA9IHJlZ2lvbgovLwovLyBVc2VySW5wdXQuZ2V0VXNlcm5hbWVBbmRQYXNzd29yZCgpCi8vICAgLnRoZW4oY3JlZHMgPT4gewovLyAgICAgY29uc3QgeyBVc2VybmFtZSwgUGFzc3dvcmQgfSA9IGNyZWRzCi8vCi8vICAgICBjb25zdCBhdXRoZW50aWNhdGlvbkRldGFpbHMgPSBuZXcgQXV0aGVudGljYXRpb25EZXRhaWxzKHsgVXNlcm5hbWUsIFBhc3N3b3JkIH0pCi8vICAgICBjb25zdCB1c2VyUG9vbCA9IG5ldyBDb2duaXRvVXNlclBvb2woeyBVc2VyUG9vbElkLCBDbGllbnRJZCB9KQovLyAgICAgY29uc3QgY29nbml0b1VzZXIgPSBuZXcgQ29nbml0b1VzZXIoeyBVc2VybmFtZSwgUG9vbDogdXNlclBvb2wgfSkKLy8KLy8gICAgIGNvZ25pdG9Vc2VyLmF1dGhlbnRpY2F0ZVVzZXIoYXV0aGVudGljYXRpb25EZXRhaWxzLCB7Ci8vICAgICAgIG5ld1Bhc3N3b3JkUmVxdWlyZWQ6IGZ1bmN0aW9uICh1c2VyQXR0cmlidXRlcywgcmVxdWlyZWRBdHRyaWJ1dGVzKSB7Ci8vICAgICAgICAgY29uc3QgdXBkYXRlUGFzc3dvcmQgPSByZXN1bHQgPT4KLy8gICAgICAgICAgIGNvZ25pdG9Vc2VyLmNvbXBsZXRlTmV3UGFzc3dvcmRDaGFsbGVuZ2UocmVzdWx0Lm5ld1Bhc3N3b3JkLCByZXF1aXJlZEF0dHJpYnV0ZXMsIHRoaXMpCi8vCi8vICAgICAgICAgVXNlcklucHV0LmdldE5ld1Bhc3N3b3JkKCkKLy8gICAgICAgICAgIC50aGVuKHVwZGF0ZVBhc3N3b3JkKQovLyAgICAgICB9LAovLwovLyAgICAgICBvblN1Y2Nlc3M6IHJlc3VsdCA9PiB7Ci8vICAgICAgICAgY29uc3QgaWRUb2tlbiA9IHJlc3VsdC5nZXRJZFRva2VuKCkuZ2V0Snd0VG9rZW4oKQovLyAgICAgICAgIGNvbnN0IExvZ2lucyA9IHt9Ci8vICAgICAgICAgTG9naW5zW3VzZXJQb29sRW5kcG9pbnRdID0gaWRUb2tlbgovLwovLyAgICAgICAgIGNvbnNvbGUubG9nKCdcbj09PT09PSBJRCBUb2tlbiA9PT09PT09XG4nKQovLyAgICAgICAgIGNvbnNvbGUubG9nKGAke2lkVG9rZW59XG5gKQovLyAgICAgICB9LAovLwovLyAgICAgICBvbkZhaWx1cmU6IGNvbnNvbGUuZXJyb3IKLy8gICAgIH0pCi8vICAgfSkK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVzZXJQb29sRW5kcG9pbnQgPSBgY29nbml0by1pZHAuJHtyZWdpb259LmFtYXpvbmF3cy5jb20vJHtVc2VyUG9vbElkfWAK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">dGhlbihpZFRva2VuID0+IHsKICAgIAogIH0p</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB1c2VyUG9vbEVuZHBvaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -1187,10 +1185,6 @@
         <entry encoding="base64">XDxDb2duaXRvXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>30</entry>
-        <entry>102</entry>
-        <entry>22683</entry>
-        <entry>10000</entry>
         <entry>5000</entry>
         <entry>4935</entry>
         <entry>2500</entry>
