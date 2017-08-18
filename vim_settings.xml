@@ -299,8 +299,8 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/PolicyGenerator.js" timestamp="1502787602377">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/PolicyGenerator.js" timestamp="1503043968471">
+        <mark key="[" line="33" column="5" />
         <mark key="]" line="15" column="18" />
         <mark key="." line="15" column="18" />
         <mark key="^" line="27" column="34" />
@@ -434,8 +434,8 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1503039867454">
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1503043482921">
+        <mark key="[" line="29" column="58" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="7" column="0" />
