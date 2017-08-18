@@ -498,8 +498,10 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/circle.yml" timestamp="1503051459166">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/circle.yml" timestamp="1503053111481">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/traits/NonTouAllocationService.scala" timestamp="1496312171027">
         <mark key="[" line="2" column="0" />
@@ -1113,11 +1115,11 @@
       <jump line="4" column="21" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Resources/Authorizer/AWS/CoginitoUserData.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1126,34 +1128,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gdG9rZW5QYXlsb2FkCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQogICAgYnJhbmNoOiBkZXYKPj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgKiBAcGFyYW0gdG9rZW5QYXlsb2FkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YSgpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YShbJ3Rlc3QnLCAndXNlciddKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YShbJ3VzZXInXSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YSgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YShbJ2FkbWluJ10pCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YShbJ3Rlc3QnLCAndXNlciddKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdXNlciA9IHt9Cgo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YShbJ3VzZXInXSkK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
