@@ -336,11 +336,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1503299274239">
-        <mark key="[" line="238" column="46" />
-        <mark key="]" line="239" column="7" />
-        <mark key="." line="239" column="7" />
-        <mark key="^" line="239" column="7" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1503302395078">
+        <mark key="[" line="80" column="25" />
+        <mark key="]" line="77" column="0" />
+        <mark key="^" line="90" column="32" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -1117,7 +1117,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQo=</text>
+        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gTWV0ZW9yU3luY0V4ZWN1dGlvblJvbGUKICAgIC0gQWNjZXNzRHJpdmVyU3RhdHVzVGFibGVQb2xpY3kKICAgIC0gRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQo=</text>
       </register>
       <register name="-" type="4">
         <text>DriverStatusDynamoDbTable</text>
@@ -1129,34 +1129,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQo=</text>
+        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gTWV0ZW9yU3luY0V4ZWN1dGlvblJvbGUKICAgIC0gQWNjZXNzRHJpdmVyU3RhdHVzVGFibGVQb2xpY3kKICAgIC0gRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC0gZHluYW1vZGI6Kgo=</text>
+        <text encoding="base64">ICAgICAgLSAhUmVmIE1ldGVvclN5bmNFeGVjdXRpb25Sb2xlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gU3RhdHVzVXBkYXRlRXhlY3V0aW9uUm9sZQogICAgLSBBY2Nlc3NEcml2ZXJTdGF0dXNUYWJsZVBvbGljeQogICAgLSBEcml2ZXJTdGF0dXNEeW5hbW9EYlRhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgLSAhUmVmIE1ldGVvclN5bmNFeGVjdXRpb25Sb2xlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQogICAgYnJhbmNoOiBkZXYKPj4+Pj4+PiBtYXN0ZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAcGFyYW0gdG9rZW5QYXlsb2FkCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBNZXRlb3JTeW5jRXhlY3V0aW9uUm9sZToKICAgIFR5cGU6IEFXUzo6SUFNOjpSb2xlCiAgICBQcm9wZXJ0aWVzOgogICAgICBBc3N1bWVSb2xlUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgVmVyc2lvbjogMjAxMi0xMC0xNwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gc3RzOkFzc3VtZVJvbGUKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgU2VydmljZToKICAgICAgICAgICAgLSBsYW1iZGEuYW1hem9uYXdzLmNvbQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">IyAgICAgICAgLSBFZmZlY3Q6IEFsbG93CiMgICAgICAgICAgQWN0aW9uOgojICAgICAgICAgIC0gZHluYW1vZGI6UHV0SXRlbQojICAgICAgICAgIC0gZHluYW1vZGI6UXVlcnkKIyAgICAgICAgICBSZXNvdXJjZToKIyAgICAgICAgICAgIEZuOjpKb2luOgojICAgICAgICAgICAgLSAnLycKIyAgICAgICAgICAgIC0gLSBGbjo6Sm9pbjoKIyAgICAgICAgICAgICAgICAtICc6JwojICAgICAgICAgICAgICAgIC0gLSAnYXJuOmF3czpkeW5hbW9kYicKIyAgICAgICAgICAgICAgICAgIC0gUmVmOiAnQVdTOjpSZWdpb24nCiMgICAgICAgICAgICAgICAgICAtIFJlZjogJ0FXUzo6QWNjb3VudElkJwojICAgICAgICAgICAgICAgICAgLSAndGFibGUnCiMgICAgICAgICAgICAgIC0gUmVmOiBEcml2ZXJTdGF0dXNEeW5hbW9EYlRhYmxlCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyAgICAgIFJvbGU6ICFHZXRBdHQgTWV0ZW9yU3luY0V4ZWN1dGlvblJvbGUuQXJuCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBQb2xpY3lEb2N1bWVudDoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgY29nbml0b1VzZXJEYXRhID0gbmV3IENvZ25pdG9Vc2VyRGF0YSgpCg==</text>
+        <text encoding="base64">ICAgIERlcGVuZHNPbjoKICAgIC0gRHJpdmVyU3RhdHVzRHluYW1vRGJUYWJsZQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
