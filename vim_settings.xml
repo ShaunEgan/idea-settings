@@ -483,11 +483,11 @@
       <file name="$USER_HOME$/workspace/thuisverpleging-backend/.gitignore" timestamp="1497716614562">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/FrontEndApiClient/FrontEndApiClient.js" timestamp="1503309495283">
-        <mark key="[" line="22" column="5" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="19" column="50" />
-        <mark key="." line="22" column="5" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/FrontEndApiClient/FrontEndApiClient.js" timestamp="1503310652044">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="31" column="1" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/test/scala/services/NonTouEnergyAssignmentServiceSpec.scala" timestamp="1499687533094">
         <mark key="[" line="70" column="49" />
@@ -802,11 +802,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1496837249889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/FrontEndService/FrontEndService.js" timestamp="1503036081024">
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="8" column="16" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/FrontEndService/FrontEndService.js" timestamp="1503310715949">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="12" />
         <mark key="^" line="8" column="16" />
-        <mark key="." line="8" column="16" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/mocha.opts" timestamp="1498210995854">
         <mark key="[" line="0" column="0" />
@@ -1131,8 +1131,8 @@
       <jump line="14" column="44" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/FrontEndApiClient/FrontEndApiClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgZGVzY3JpYmUoJyNzZW5kU3RhdHVzVXBkYXRlJywgKCkgPT4gewo=</text>
       </register>
       <register name="-" type="4">
         <text>http</text>
@@ -1143,26 +1143,26 @@
       <register name="0" type="4">
         <text>&quot;allocations&quot;: []</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">J3NlbmRzIGEgc3RhdHVzIHVwZGF0ZScsICgpID0+IHsKICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgZGVzY3JpYmUoJyNzZW5kU3RhdHVzVXBkYXRlJywgKCkgPT4gewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNsaWVudCA9IG5ldyBGcm9udEVuZEFwaUNsaWVudChodHRwLCBjb25maWcpCg==</text>
+        <text encoding="base64">CiAgfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnd29ya3MnLCAoKSA9PiB7CiAgICBleHBlY3QodHJ1ZSkudG8uZXF1YWwodHJ1ZSkKICB9KQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">J3NlbmRzIGEgc3RhdHVzIHVwZGF0ZScsICgpID0+IHsKICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3Qgewpjb25zdCBoZWFkZXJzID0geyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KY29uc3QgcGFyYW1zID0geyBwcm90b2NvbCwgaG9zdG5hbWUsIHBvcnQsIHBhdGgsIG1ldGhvZCwgaGVhZGVycyB9CgpjbGFzcyBGcm9udEVuZEFwaUNsaWVudCB7CiAgc3RhdGljIHNlbmRTdGF0dXNVcGRhdGUocGF5bG9hZCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgY29uc3QgZGF0YSA9IEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpCiAgICAgIGNvbnN0IHJlcXVlc3QgPSBodHRwLnJlcXVlc3QocGFyYW1zLCByZXNwb25zZSA9PiBKU09OLnN0cmluZ2lmeShyZXNwb25zZS5oZWFkZXJzKSkKCiAgICAgIHJlcXVlc3Qub24oJ2RhdGEnLCAoKSA9PiByZXNvbHZlKCkpCiAgICAgIHJlcXVlc3Qub24oJ2Vycm9yJywgZXJyb3IgPT4gcmVqZWN0KGVycm9yKSkKCiAgICAgIHJlcXVlc3Qud3JpdGUoZGF0YSkKICAgICAgcmVxdWVzdC5lbmQoKQogICAgfSkKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IEZyb250RW5kQXBpQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNsaWVudCA9IG5ldyBGcm9udEVuZEFwaUNsaWVudChodHRwLCBjb25maWcpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpdCgnd29ya3MnLCAoKSA9PiB7CiAgICBleHBlY3QodHJ1ZSkudG8uZXF1YWwodHJ1ZSkKICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3Qgewpjb25zdCBoZWFkZXJzID0geyAnQ29udGVudC1UeXBlJzogJ2FwcGxpY2F0aW9uL2pzb24nIH0KY29uc3QgcGFyYW1zID0geyBwcm90b2NvbCwgaG9zdG5hbWUsIHBvcnQsIHBhdGgsIG1ldGhvZCwgaGVhZGVycyB9CgpjbGFzcyBGcm9udEVuZEFwaUNsaWVudCB7CiAgc3RhdGljIHNlbmRTdGF0dXNVcGRhdGUocGF5bG9hZCkgewogICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgY29uc3QgZGF0YSA9IEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpCiAgICAgIGNvbnN0IHJlcXVlc3QgPSBodHRwLnJlcXVlc3QocGFyYW1zLCByZXNwb25zZSA9PiBKU09OLnN0cmluZ2lmeShyZXNwb25zZS5oZWFkZXJzKSkKCiAgICAgIHJlcXVlc3Qub24oJ2RhdGEnLCAoKSA9PiByZXNvbHZlKCkpCiAgICAgIHJlcXVlc3Qub24oJ2Vycm9yJywgZXJyb3IgPT4gcmVqZWN0KGVycm9yKSkKCiAgICAgIHJlcXVlc3Qud3JpdGUoZGF0YSkKICAgICAgcmVxdWVzdC5lbmQoKQogICAgfSkKICB9Cn0KCmV4cG9ydCBkZWZhdWx0IEZyb250RW5kQXBpQ2xpZW50Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1171,7 +1171,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
