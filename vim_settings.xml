@@ -388,11 +388,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/README.md" timestamp="1502871065011">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="43" column="33" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/README.md" timestamp="1503316949579">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+        <mark key="^" line="75" column="1" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Authenticate.js" timestamp="1502974141015">
         <mark key="[" line="5" column="36" />
@@ -1130,11 +1130,11 @@
       <jump line="14" column="44" filename="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/FrontEndApiClient/FrontEndApiClient.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUoJyNzZW5kU3RhdHVzVXBkYXRlJywgKCkgPT4gewo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>http</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
