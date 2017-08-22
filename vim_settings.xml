@@ -173,6 +173,12 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503378934109">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="28" column="5" />
+        <mark key="^" line="28" column="5" />
+        <mark key="." line="28" column="5" />
+      </file>
       <file name="$USER_HOME$/repositories/poslux/embed-api/src/models/Brand.js" timestamp="1497705437594">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="26" column="0" />
@@ -1131,10 +1137,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>MultiPoint</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>MultiPoint</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
