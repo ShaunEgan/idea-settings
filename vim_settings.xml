@@ -123,8 +123,8 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/MeteorSync/README.md" timestamp="1502787904622">
-        <mark key="[" line="2" column="46" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/MeteorSync/README.md" timestamp="1503390619820">
+        <mark key="[" line="2" column="89" />
         <mark key="]" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
@@ -176,7 +176,7 @@
         <mark key="]" line="5" column="29" />
         <mark key="." line="5" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503380916801">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.json" timestamp="1503389315656">
         <mark key="[" line="64" column="9" />
         <mark key="]" line="49" column="21" />
         <mark key="^" line="49" column="8" />
@@ -398,11 +398,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/README.md" timestamp="1503318986809">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="70" column="1" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/README.md" timestamp="1503390104070">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="71" column="6" />
+        <mark key="." line="71" column="6" />
+        <mark key="^" line="71" column="6" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Authenticate.js" timestamp="1502974141015">
         <mark key="[" line="5" column="36" />
@@ -1138,7 +1138,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NlbmRpbmcgcmVxdWVzdCBib2R5JykKICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">KiBIVFRQIE1ldGhvZDogUE9TVAoqIEhlYWRlcnM6CiAgKiBDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KICAqIEF1dGhvcml6YXRpb246ICpJRCBUb2tlbioKICAK</text>
       </register>
       <register name="-" type="4">
         <text>payload</text>
@@ -1150,34 +1150,41 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NlbmRpbmcgcmVxdWVzdCBib2R5JykKICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+        <text encoding="base64">KiBIVFRQIE1ldGhvZDogUE9TVAoqIEhlYWRlcnM6CiAgKiBDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KICAqIEF1dGhvcml6YXRpb246ICpJRCBUb2tlbioKICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW4oc3RhdHVzID0+IHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHN0YXR1cykKICAgICAgfSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQYXlsb2FkJykKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWFwcGVkIHRvJykKICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzdGF0dXMsIG51bGwsIDIpKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmcm9udEVuZEFwaUNsaWVudC5zZW5kU3RhdHVzVXBkYXRlKHBheWxvYWQpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">UE9TVCBodHRwczovLzxBcGlJRD4uZXhlY3V0ZS1hcGkuZXUtd2VzdC0xLmFtYXpvbmF3cy5jb20vcHJvZC9zdGF0dXMKCkhFQURFUlM6IApDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KQXV0aG9yaXphdGlvbjogPElEIFRva2VuPgoKQk9EWQ==</text>
+      </register>
+      <register name="4" type="4">
+        <text>{
+  &quot;geoLocation&quot;: {
+    &quot;latitude&quot;: -33.924860,
+    &quot;longitude&quot;: 18.448198
+  },
+  &quot;signalStrength&quot;: 0.8,
+  &quot;batteryLevel&quot;: 0.51
+}</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NlbmRpbmcgcmVxdWVzdCBib2R5JykKICAgICAgY29uc29sZS5sb2coZGF0YSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW4oc3RhdHVzID0+IHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKHN0YXR1cykKICAgICAgfSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkcml2ZXJTdGF0dXMucHJvcGVydGllcy51c2VybmFtZSA9IHVzZXJuYW1lCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQYXlsb2FkJykKICAgIGNvbnNvbGUubG9nKEpTT04uc3RyaW5naWZ5KHBheWxvYWQsIG51bGwsIDIpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcm9wZXJ0aWVzLnVzZXJuYW1lID0gdXNlcm5hbWUK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbWFwcGVkIHRvJykKICAgICAgICBjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShzdGF0dXMsIG51bGwsIDIpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdCBkcml2ZXJJZCA9IHBpY2tEcml2ZXJJZChyZWNvcmQpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmcm9udEVuZEFwaUNsaWVudC5zZW5kU3RhdHVzVXBkYXRlKHBheWxvYWQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
