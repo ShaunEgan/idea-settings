@@ -312,10 +312,10 @@
         <mark key="." line="31" column="48" />
         <mark key="^" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/package.json" timestamp="1503470965855">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/package.json" timestamp="1503491969150">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="6" column="21" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/AWS/PolicyGenerator.js" timestamp="1503043968471">
         <mark key="[" line="33" column="5" />
@@ -409,6 +409,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/bin/deploy.sh" timestamp="1503492028626">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Authenticate.js" timestamp="1502974141015">
         <mark key="[" line="5" column="36" />
@@ -614,10 +619,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503488078903">
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503492446126">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
         <mark key="[" line="95" column="4" />
@@ -640,7 +646,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/src/Resources/ZonesMock/Handler.js" timestamp="1503485696982">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/src/Resources/ZonesMock/Handler.js" timestamp="1503489836036">
         <mark key="[" line="56" column="23" />
         <mark key="]" line="57" column="24" />
         <mark key="." line="57" column="24" />
@@ -1150,10 +1156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgeC1hbWF6b24tYXBpZ2F0ZXdheS1pbnRlZ3JhdGlvbjoKIyAgICAgICAgICAgICAgICB0eXBlOiBhd3NfcHJveHkKIyAgICAgICAgICAgICAgICBodHRwTWV0aG9kOiBQT1NUCiMgICAgICAgICAgICAgICAgY3JlZGVudGlhbHM6ICFHZXRBdHQgQXBpR2F0ZXdheUxhbWJkYUludm9rZVJvbGUuQXJuCiMgICAgICAgICAgICAgICAgdXJpOiAhU3ViIGFybjphd3M6YXBpZ2F0ZXdheToke0FXUzo6UmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke0xpc3Rab25lcy5Bcm59L2ludm9jYXRpb25zCiMgICAgICAgICAgICAgICAgcGFzc3Rocm91Z2hCZWhhdm9pcjogTkVWRVIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Feature</text>
+        <text encoding="base64">bnBtIHJ1biBidWlsZCAmJiA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1162,34 +1168,67 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgeC1hbWF6b24tYXBpZ2F0ZXdheS1pbnRlZ3JhdGlvbjoKIyAgICAgICAgICAgICAgICB0eXBlOiBhd3NfcHJveHkKIyAgICAgICAgICAgICAgICBodHRwTWV0aG9kOiBQT1NUCiMgICAgICAgICAgICAgICAgY3JlZGVudGlhbHM6ICFHZXRBdHQgQXBpR2F0ZXdheUxhbWJkYUludm9rZVJvbGUuQXJuCiMgICAgICAgICAgICAgICAgdXJpOiAhU3ViIGFybjphd3M6YXBpZ2F0ZXdheToke0FXUzo6UmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke0xpc3Rab25lcy5Bcm59L2ludm9jYXRpb25zCiMgICAgICAgICAgICAgICAgcGFzc3Rocm91Z2hCZWhhdm9pcjogTkVWRVIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIFpvbmU6CiAgICAgICAgICAgIHRpdGxlOiBab25lIGFzIEdlb0pTT04KICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgIHJlcXVpcmVkOgogICAgICAgICAgICAtIHR5cGUKICAgICAgICAgICAgLSBmZWF0dXJlcwogICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgIHR5cGU6CiAgICAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgICAgICAgIGVudW06IFsgJ0ZlYXR1cmVDb2xsZWN0aW9uJyBdCiAgICAgICAgICAgICAgZmVhdHVyZXM6CiAgICAgICAgICAgICAgICB0eXBlOiBhcnJheQogICAgICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL0ZlYXR1cmUnCg==</text>
+        <text encoding="base64">IyBDcmVhdGUgZGVwbG95bWVudCBhcmNoaXZlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0cyA9IHsgbGlzdCwgY3JlYXRlLCBnZXQsIHVwZGF0ZSwgZGVzdHJveSB9Cg==</text>
+        <text encoding="base64">emlwIC1yICR7QVJDSElWRV9OQU1FfSAke1JFU09VUkNFU30K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cm0gJHtBUkNISVZFX05BTUV9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7CiAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICBib2R5OiB6b25lCiAgfSkKfQo=</text>
+        <text encoding="base64">ICBBcGlHYXRld2F5TGFtYmRhSW52b2tlUm9sZToKICAgIFR5cGU6IEFXUzo6SUFNOjpSb2xlCiAgICBQcm9wZXJ0aWVzOgogICAgICBBc3N1bWVSb2xlUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgVmVyc2lvbjogMjAxMi0xMC0xNwogICAgICAgIFN0YXRlbWVudDoKICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgIEFjdGlvbjoKICAgICAgICAgIC0gc3RzOkFzc3VtZVJvbGUKICAgICAgICAgIFByaW5jaXBhbDoKICAgICAgICAgICAgU2VydmljZToKICAgICAgICAgICAgLSBhcGlnYXRld2F5LmFtYXpvbmF3cy5jb20KICAgICAgUG9saWNpZXM6CiAgICAgIC0gUG9saWN5TmFtZTogSW52b2tlTGFtYmRhUG9saWN5CiAgICAgICAgUG9saWN5RG9jdW1lbnQ6CiAgICAgICAgICBWZXJzaW9uOiAyMDEyLTEwLTE3CiAgICAgICAgICBTdGF0ZW1lbnQ6CiAgICAgICAgICAtIEVmZmVjdDogQWxsb3cKICAgICAgICAgICAgQWN0aW9uOiBsYW1iZGE6SW52b2tlRnVuY3Rpb24KICAgICAgICAgICAgUmVzb3VyY2U6CiAgICAgICAgICAgIC0gIUdldEF0dCBMaXN0Wm9uZXMuQXJuCiAgICAgICAgICAgIC0gIUdldEF0dCBDcmVhdGVab25lLkFybgogICAgICAgICAgICAtICFHZXRBdHQgR2V0Wm9uZS5Bcm4KICAgICAgICAgICAgLSAhR2V0QXR0IFVwZGF0ZVpvbmUuQXJuCiAgICAgICAgICAgIC0gIUdldEF0dCBEZXN0cm95Wm9uZS5Bcm4KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBMaXN0Wm9uZXM6CiAgICBUeXBlOiBBV1M6OlNlcnZlcmxlc3M6OkZ1bmN0aW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBDb2RlVXJpOiByZXNvdXJjZXMuemlwCiAgICAgIEhhbmRsZXI6IGRpc3QvUmVzb3VyY2VzL1pvbmVzTW9jay9IYW5kbGVyLmxpc3QKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAoKICBDcmVhdGVab25lOgogICAgVHlwZTogQVdTOjpTZXJ2ZXJsZXNzOjpGdW5jdGlvbgogICAgUHJvcGVydGllczoKICAgICAgQ29kZVVyaTogcmVzb3VyY2VzLnppcAogICAgICBIYW5kbGVyOiBkaXN0L1Jlc291cmNlcy9ab25lc01vY2svSGFuZGxlci5jcmVhdGUKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAoKICBHZXRab25lOgogICAgVHlwZTogQVdTOjpTZXJ2ZXJsZXNzOjpGdW5jdGlvbgogICAgUHJvcGVydGllczoKICAgICAgQ29kZVVyaTogcmVzb3VyY2VzLnppcAogICAgICBIYW5kbGVyOiBkaXN0L1Jlc291cmNlcy9ab25lc01vY2svSGFuZGxlci5nZXQKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAoKICBVcGRhdGVab25lOgogICAgVHlwZTogQVdTOjpTZXJ2ZXJsZXNzOjpGdW5jdGlvbgogICAgUHJvcGVydGllczoKICAgICAgQ29kZVVyaTogcmVzb3VyY2VzLnppcAogICAgICBIYW5kbGVyOiBkaXN0L1Jlc291cmNlcy9ab25lc01vY2svSGFuZGxlci51cGRhdGUKICAgICAgUnVudGltZTogbm9kZWpzNi4xMAoKICBEZXN0cm95Wm9uZToKICAgIFR5cGU6IEFXUzo6U2VydmVybGVzczo6RnVuY3Rpb24KICAgIFByb3BlcnRpZXM6CiAgICAgIENvZGVVcmk6IHJlc291cmNlcy56aXAKICAgICAgSGFuZGxlcjogZGlzdC9SZXNvdXJjZXMvWm9uZXNNb2NrL0hhbmRsZXIuZGVzdHJveQogICAgICBSdW50aW1lOiBub2RlanM2LjEwCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7CiAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh6b25lKQogIH0pCg==</text>
+        <text encoding="base64">ICBpc3Rab25lczoK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">CiAgY2FsbGJhY2sobnVsbCwgewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoem9uZSkKICB9KQp9</text>
+        <text>ListZones:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: resources.zip
+      Handler: dist/Resources/ZonesMock/Handler.list
+      Runtime: nodejs6.10
+
+  CreateZone:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: resources.zip
+      Handler: dist/Resources/ZonesMock/Handler.create
+      Runtime: nodejs6.10
+
+  GetZone:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: resources.zip
+      Handler: dist/Resources/ZonesMock/Handler.get
+      Runtime: nodejs6.10
+
+  UpdateZone:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: resources.zip
+      Handler: dist/Resources/ZonesMock/Handler.update
+      Runtime: nodejs6.10
+
+  DestroyZone:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: resources.zip
+      Handler: dist/Resources/ZonesMock/Handler.destroy
+      Runtime: nodejs6.10</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7Cg==</text>
+        <text encoding="base64">IyAgICAgICAgICAgICAgeC1hbWF6b24tYXBpZ2F0ZXdheS1pbnRlZ3JhdGlvbjoKIyAgICAgICAgICAgICAgICB0eXBlOiBhd3NfcHJveHkKIyAgICAgICAgICAgICAgICBodHRwTWV0aG9kOiBQT1NUCiMgICAgICAgICAgICAgICAgY3JlZGVudGlhbHM6ICFHZXRBdHQgQXBpR2F0ZXdheUxhbWJkYUludm9rZVJvbGUuQXJuCiMgICAgICAgICAgICAgICAgdXJpOiAhU3ViIGFybjphd3M6YXBpZ2F0ZXdheToke0FXUzo6UmVnaW9ufTpsYW1iZGE6cGF0aC8yMDE1LTAzLTMxL2Z1bmN0aW9ucy8ke0xpc3Rab25lcy5Bcm59L2ludm9jYXRpb25zCiMgICAgICAgICAgICAgICAgcGFzc3Rocm91Z2hCZWhhdm9pcjogTkVWRVIK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
