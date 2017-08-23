@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/index.js" timestamp="1503480196968" />
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/example/Hello.scala" timestamp="1494408124510">
         <mark key="[" line="28" column="63" />
         <mark key="]" line="33" column="35" />
@@ -110,7 +109,6 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/config.js" timestamp="1503309371139" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/lib/DriverStatusService/index.js" timestamp="1499155219209">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="12" />
@@ -412,7 +410,6 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/repositories/BrandRepository.js" timestamp="1503479938584" />
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/src/Authenticate.js" timestamp="1502974141015">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -617,11 +614,10 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503476998544">
-        <mark key="[" line="180" column="12" />
-        <mark key="]" line="180" column="12" />
-        <mark key="." line="180" column="12" />
-        <mark key="^" line="180" column="11" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503486094563">
+        <mark key="[" line="91" column="10" />
+        <mark key="]" line="91" column="10" />
+        <mark key="." line="91" column="10" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
         <mark key="[" line="95" column="4" />
@@ -644,11 +640,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/src/Resources/ZonesMock/Handler.js" timestamp="1503474359527">
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="10" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="3" column="10" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/src/Resources/ZonesMock/Handler.js" timestamp="1503485696982">
+        <mark key="[" line="56" column="23" />
+        <mark key="]" line="57" column="24" />
+        <mark key="." line="57" column="24" />
+        <mark key="^" line="57" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1502959206399">
         <mark key="[" line="12" column="49" />
@@ -720,7 +716,6 @@
         <mark key="]" line="130" column="0" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/BrandController.js" timestamp="1503480096618" />
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/somefile.js" timestamp="1498127473924">
         <mark key="[" line="0" column="0" />
       </file>
@@ -921,7 +916,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/poslux/embed-api/src/controllers/TrustController.js" timestamp="1503480275894" />
       <file name="$USER_HOME$/repositories/poslux-node/circle.yml" timestamp="1493192302936">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -1156,10 +1150,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>Feature</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>Feature</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1168,34 +1162,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWluSXRlbXM6IDIKICAgICAgICAgICAgICAgICAgICAgICAgbWF4SXRlbXM6IDIK</text>
+        <text encoding="base64">ICAgICAgICAgIFpvbmU6CiAgICAgICAgICAgIHRpdGxlOiBab25lIGFzIEdlb0pTT04KICAgICAgICAgICAgdHlwZTogb2JqZWN0CiAgICAgICAgICAgIHJlcXVpcmVkOgogICAgICAgICAgICAtIHR5cGUKICAgICAgICAgICAgLSBmZWF0dXJlcwogICAgICAgICAgICBwcm9wZXJ0aWVzOgogICAgICAgICAgICAgIHR5cGU6CiAgICAgICAgICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICAgICAgICAgIGVudW06IFsgJ0ZlYXR1cmVDb2xsZWN0aW9uJyBdCiAgICAgICAgICAgICAgZmVhdHVyZXM6CiAgICAgICAgICAgICAgICB0eXBlOiBhcnJheQogICAgICAgICAgICAgICAgaXRlbXM6CiAgICAgICAgICAgICAgICAgICRyZWY6ICcjL2RlZmluaXRpb25zL0ZlYXR1cmUnCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ZXhwb3J0cyA9IHsgbGlzdCwgY3JlYXRlLCBnZXQsIHVwZGF0ZSwgZGVzdHJveSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBJbnZva2VBdXRob3JpemVyTGFtYmRhUGVybWlzc2lvbjoKICAgIFR5cGU6IEFXUzo6TGFtYmRhOjpQZXJtaXNzaW9uCiAgICBQcm9wZXJ0aWVzOgogICAgICBBY3Rpb246IGxhbWJkYTpJbnZva2VGdW5jdGlvbgogICAgICBTb3VyY2VBcm46ICFTdWIgYXJuOmF3czpleGVjdXRlLWFwaToke0FXUzo6UmVnaW9ufToke0FXUzo6QWNjb3VudElkfToqL2F1dGhvcml6ZXJzLyoKICAgICAgRnVuY3Rpb25OYW1lOiAhR2V0QXR0IERyaXZlclN0YXR1c0F1dGhvcml6ZXIuQXJuCiAgICAgIFByaW5jaXBhbDogYXBpZ2F0ZXdheS5hbWF6b25hd3MuY29t</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLSAhR2V0QXR0IFN0YXR1c1VwZGF0ZS5Bcm4KICAgICAgICAgICAgLSAhR2V0QXR0IEdldERyaXZlclN0YXR1cy5Bcm4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyMjIEdldHRpbmcgdGhlIEFQSSB1cmwKClRoZSBmb2xsb3dpbmcgY29tbWFuZCB3aWxsIGdldCB5b3VyIEFQSSBnYXRld2F5IFVSTDoKCmBgYGJhc2gKbnBtIHJ1biBnZXQtYXBpLXVybApgYGAKCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7CiAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICBib2R5OiB6b25lCiAgfSkKfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7CiAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh6b25lKQogIH0pCg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgY2FsbGJhY2sobnVsbCwgewogICAgc3RhdHVzQ29kZTogMjAwLAogICAgYm9keTogSlNPTi5zdHJpbmdpZnkoem9uZSkKICB9KQp9</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjIEdldHRpbmcgdGhlIEFQSSB1cmwKClRoZSBmb2xsb3dpbmcgY29tbWFuZCB3aWxsIGdldCB5b3VyIEFQSSBnYXRld2F5IFVSTDoK</text>
+        <text encoding="base64">ICBjYWxsYmFjayhudWxsLCB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJnZXQtYXBpLXVybCI6ICIuL2Jpbi9nZXQtYXBpLXVybC5zaCIsCg==</text>
+        <text encoding="base64">ICAgIHN0YXR1c0NvZGU6IDIwMCwKICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KFt6b25lXSkKICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
@@ -1208,7 +1202,7 @@
       <last-replace />
       <last-substitute>\^</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
