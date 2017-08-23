@@ -614,10 +614,11 @@
       <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/OutputWriter.scala" timestamp="1499336473808">
         <mark key="[" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503475541457">
-        <mark key="[" line="127" column="36" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" timestamp="1503476998544">
+        <mark key="[" line="180" column="12" />
+        <mark key="]" line="180" column="12" />
+        <mark key="." line="180" column="12" />
+        <mark key="^" line="180" column="11" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/spec/unit/Ptsi/lib/ControllerProxySpec.js" timestamp="1492703866988">
         <mark key="[" line="95" column="4" />
@@ -1158,11 +1159,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbWluSXRlbXM6IDIKICAgICAgICAgICAgICAgICAgICAgICAgbWF4SXRlbXM6IDIK</text>
+      <register name="&quot;" type="4">
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
