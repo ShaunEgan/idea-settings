@@ -533,11 +533,11 @@
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/sam.yaml" timestamp="1503574554677">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="^" line="6" column="13" />
-        <mark key="." line="6" column="14" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/sam.yaml" timestamp="1503585252180">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
         <mark key="[" line="2" column="20" />
@@ -983,7 +983,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC0tcHJvZmlsZSBzaGF1biBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>npm run deploy:stack</text>
@@ -995,34 +995,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0tcHJvZmlsZSBzaGF1biBcCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfTkFNRURfSUFNIFwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC0tcmVnaW9uIGV1LXdlc3QtMQo=</text>
+        <text encoding="base64">ICAgIFByb3BlcnRpZXM6CiAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBFeGFtcGxlOgogICAgVHlwZTogQVdTOjpTZXJ2ZXJsZXNzOjpGdW5jdGlvbgogICAgUHJvcGVydGllczoKICAgICAgQ29kZVVyaTogcmVzb3VyY2VzLnppcAogICAgICBIYW5kbGVyOiBkaXN0L0V4YW1wbGUvSGFuZGxlci5nZXRNZXNzYWdlCiAgICAgIFJ1bnRpbWU6IG5vZGVqczYuMTAKICAgICAgRXZlbnRzOgogICAgICAgIEdldFJlc291cmNlOgogICAgICAgICAgVHlwZTogQXBpCiAgICAgICAgICBQcm9wZXJ0aWVzOgogICAgICAgICAgICBQYXRoOiAvCiAgICAgICAgICAgIE1ldGhvZDogZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGFnaW5nOgogICAgYnJhbmNoOiBkZXZlbG9wCiAgICBjb21tYW5kczoKICAgIC0gRU5WPXN0YWdpbmcgbnBtIHJ1biBkZXBsb3k6c3RhY2sK</text>
+        <text encoding="base64">ICAgIC0tcHJvZmlsZSBzaGF1biBcCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMgRGVwZW5kZW5jaWVzCgpUaGUgY3VycmVudCBDb2duaXRvIENsb3VkZm9ybWF0aW9uIGltcGxlbWVudGF0aW9uIHJlcXVpcmVzIGEgbWFwIHdpdGggZHluYW1pYyBrZXlzCndoaWNoIGlzIG5vdCBwb3NzaWJsZSBpbiBZQU1MIG9yIEpTT04uIFRoZSBgT3JkZXJJbi1PcHMtVXRpbHNgIHN0YWNrIGlzIHJlcXVpcmVkIHRvIApiZSBhdmFpbGFibGUgc28gdGhhdCB0aGlzIHN0YWNrIGNhbiB1c2UgdGhlIGBEeW5hbWljTWFwVHJhbnNmb3JtYCBmdW5jdGlvbiB0byBjcmVhdGUKdGhpcyBtYXAuCg==</text>
+        <text encoding="base64">ICAgIC0tY2FwYWJpbGl0aWVzIENBUEFCSUxJVFlfTkFNRURfSUFNIFwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnJvbnRFbmRBcGlQcm90b2NvbD0ke0FQSV9QUk9UT0NPTH06IFwKICAgICAgICAgICAgRnJvbnRFbmRBcGlIb3N0bmFtZT0ke0FQSV9IT1NUfSBcCiAgICAgICAgICAgIEZyb250RW5kQXBpUGF0aD0ke0FQSV9QQVRIfSBcCiAgICAgICAgICAgIEZyb250RW5kQXBpUG9ydD0ke0FQSV9QT1JUfQo=</text>
+        <text encoding="base64">ICAgIC0tcmVnaW9uIGV1LXdlc3QtMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgICAgICByZXF1ZXN0UGFyYW1ldGVyczoKIyAgICAgICAgICAgICAgICAgIGludGVncmF0aW9uLnJlcXVlc3QucXVlcnlzdHJpbmcuZmlsdGVyOiBtZXRob2QucmVxdWVzdC5xdWVyeXN0cmluZy5maWx0ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QVBJX1BST1RPQ09MPSJodHRwIgpBUElfSE9TVD0icHJpdmF0ZS1mZGIwZC1wb2xsc2FwaTcyLmFwaWFyeS1tb2NrLmNvbSIKQVBJX1BBVEg9Ii9kcml2ZXItc3RhdHVzIgpBUElfUE9SVD0iODAiCg==</text>
+        <text encoding="base64">ICBzdGFnaW5nOgogICAgYnJhbmNoOiBkZXZlbG9wCiAgICBjb21tYW5kczoKICAgIC0gRU5WPXN0YWdpbmcgbnBtIHJ1biBkZXBsb3k6c3RhY2sK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
