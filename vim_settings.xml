@@ -625,6 +625,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/doc/DriverRegistration.md" timestamp="1503664508743">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1495522316533">
         <mark key="[" line="5" column="22" />
         <mark key="]" line="73" column="0" />
@@ -912,7 +917,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/circle.yml" timestamp="1503652975860" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497181720670">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -1207,8 +1211,8 @@
       <jump line="3" column="1" filename="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PostConfirmation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IVtkcml2ZXIgc3RhdHVzIGZsb3ddKGh0dHBzOi8vbWVybWFpZGpzLmdpdGh1Yi5pby9tZXJtYWlkLWxpdmUtZWRpdG9yLyMvdmlldy9aM0poY0dnZ1ZFUUtDazVsZHkxVGRHRjBkWE10VlhCa1lYUmxJQzB0UGlCRWNtbDJaWEl0UlhocGMzUnpDa1J5YVhabGNpMUZlR2x6ZEhNZ0xTMCtJRmxsY3dwWlpYTWdMUzArSUZWelpTMVFjbVYyYVc5MWN5MVRkR0YwZFhNS1ZYTmxMVkJ5WlhacGIzVnpMVk4wWVhSMWN5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNrUnlhWFpsY2kxRmVHbHpkSE1nTFMwK0lFNXZDazV2SUMwdFBpQlRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ3cFRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNsTjBiM0psTFZOMFlYUjFjeUF0TFQ0Z1EyOXRjR3hsZEdVPSkK</text>
       </register>
       <register name="-" type="4">
         <text>PostConfirmation</text>
@@ -1220,34 +1224,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IVtkcml2ZXIgc3RhdHVzIGZsb3ddKGh0dHBzOi8vbWVybWFpZGpzLmdpdGh1Yi5pby9tZXJtYWlkLWxpdmUtZWRpdG9yLyMvdmlldy9aM0poY0dnZ1ZFUUtDazVsZHkxVGRHRjBkWE10VlhCa1lYUmxJQzB0UGlCRWNtbDJaWEl0UlhocGMzUnpDa1J5YVhabGNpMUZlR2x6ZEhNZ0xTMCtJRmxsY3dwWlpYTWdMUzArSUZWelpTMVFjbVYyYVc5MWN5MVRkR0YwZFhNS1ZYTmxMVkJ5WlhacGIzVnpMVk4wWVhSMWN5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNrUnlhWFpsY2kxRmVHbHpkSE1nTFMwK0lFNXZDazV2SUMwdFBpQlRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ3cFRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNsTjBiM0psTFZOMFlYUjFjeUF0TFQ0Z1EyOXRjR3hsZEdVPSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJnZXQtYXBpLXVybCI6ICIuL2Jpbi9nZXQtYXBpLXVybC5zaCIsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">LS0tCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RGVzY3JpcHRpb246IE9yZGVySW4gQ29nbml0byBEZWZpbml0aW9uCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">TWV0YWRhdGE6IHt9CkNvbmRpdGlvbnM6IHt9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">bGV0IHggPSAxCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJnZXQtYXBpLXVybCI6ICIuL2Jpbi9nZXQtYXBpLXVybC5zaCIsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0tCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RGVzY3JpcHRpb246IE9yZGVySW4gQ29nbml0byBEZWZpbml0aW9uCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">TWV0YWRhdGE6IHt9CkNvbmRpdGlvbnM6IHt9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIEdldFJlc291cmNlOgogICAgICAgICAgVHlwZTogQXBpCiAgICAgICAgICBQcm9wZXJ0aWVzOgogICAgICAgICAgICBQYXRoOiAvdGVzdAogICAgICAgICAgICBNZXRob2Q6IHBvc3QK</text>
+        <text encoding="base64">bGV0IHggPSAxCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIEZuOjpKb2luOgojICAgICAgICAgICAgLSAvCiMgICAgICAgICAgICAtIC0gIVN1YiBhcm46YXdzOmR5bmFtb2RiOiR7QVdTOjpSZWdpb259OiR7QVdTOjpBY2NvdW50SWR9OnRhYmxlCiMgICAgICAgICAgICAgIC0gUmVmOiBPcmRlclN0YXR1c1RhYmxlCg==</text>
+        <text encoding="base64">ICAgICAgRXZlbnRzOgogICAgICAgIEdldFJlc291cmNlOgogICAgICAgICAgVHlwZTogQXBpCiAgICAgICAgICBQcm9wZXJ0aWVzOgogICAgICAgICAgICBQYXRoOiAvdGVzdAogICAgICAgICAgICBNZXRob2Q6IHBvc3QK</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>

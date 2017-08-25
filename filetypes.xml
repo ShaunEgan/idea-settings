@@ -14,7 +14,6 @@
       <mapping pattern=".ebignore" type="PLAIN_TEXT" />
       <mapping pattern="MetaClient" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="template" type="YAML" />
       <mapping ext="config" type="YAML" />
     </extensionMap>
