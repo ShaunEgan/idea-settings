@@ -625,10 +625,11 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/doc/DriverRegistration.md" timestamp="1503908276297">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/doc/DriverRegistration.md" timestamp="1503909145244">
+        <mark key="[" line="22" column="24" />
+        <mark key="]" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+        <mark key="^" line="22" column="23" />
       </file>
       <file name="$USER_HOME$/repositories/powerx/svc-hermes-v2/src/Ptsi/repositories/PtsiRepository.js" timestamp="1495522316533">
         <mark key="[" line="5" column="22" />
@@ -1211,11 +1212,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Qm9keQoK</text>
+      <register name="&quot;" type="4">
+        <text>https://mermaidjs.github.io/mermaid-live-editor/#/view/Z3JhcGggVEQKCk5ldy1TdGF0dXMtVXBkYXRlIC0tPiBEcml2ZXItRXhpc3RzCkRyaXZlci1FeGlzdHMgLS0+IFllcwpZZXMgLS0+IFVzZS1QcmV2aW91cy1TdGF0dXMKVXNlLVByZXZpb3VzLVN0YXR1cyAtLT4gU3RvcmUtU3RhdHVzCkRyaXZlci1FeGlzdHMgLS0+IE5vCk5vIC0tPiBTZXQtU3RhdHVzLVRvLU5FVwpTZXQtU3RhdHVzLVRvLU5FVyAtLT4gU3RvcmUtU3RhdHVzClN0b3JlLVN0YXR1cyAtLT4gQ29tcGxldGU=</text>
       </register>
       <register name="-" type="4">
-        <text>HOST</text>
+        <text>https://mermaidjs.github.io/mermaid-live-editor/#/view/Z3JhcGggVEQKCk5ldy1TdGF0dXMtVXBkYXRlIC0tPiBEcml2ZXItRXhpc3RzCkRyaXZlci1FeGlzdHMgLS0+IFllcwpZZXMgLS0+IFVzZS1QcmV2aW91cy1TdGF0dXMKVXNlLVByZXZpb3VzLVN0YXR1cyAtLT4gU3RvcmUtU3RhdHVzCkRyaXZlci1FeGlzdHMgLS0+IE5vCk5vIC0tPiBTZXQtU3RhdHVzLVRvLU5FVwpTZXQtU3RhdHVzLVRvLU5FVyAtLT4gU3RvcmUtU3RhdHVzClN0b3JlLVN0YXR1cyAtLT4gQ29tcGxldGU=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
