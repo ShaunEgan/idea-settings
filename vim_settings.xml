@@ -228,11 +228,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/StatusUpdate/Handler.js" timestamp="1503387332728">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="46" column="31" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/StatusUpdate/Handler.js" timestamp="1503921550808">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+        <mark key="^" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/OrderIn-Ops-Utils/README.md" timestamp="1500272028933">
         <mark key="[" line="11" column="0" />
@@ -323,7 +323,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1502950853891">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/GetDriverStatus/Handler.js" timestamp="1503921484551">
         <mark key="[" line="30" column="10" />
         <mark key="]" line="30" column="10" />
         <mark key="." line="30" column="10" />
@@ -377,11 +377,11 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1503561942652">
-        <mark key="[" line="287" column="25" />
-        <mark key="]" line="287" column="26" />
-        <mark key="^" line="342" column="19" />
-        <mark key="." line="287" column="26" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/sam.yaml" timestamp="1503922059725">
+        <mark key="[" line="407" column="95" />
+        <mark key="]" line="407" column="95" />
+        <mark key="^" line="407" column="107" />
+        <mark key="." line="407" column="95" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/tests/specs/admin_should_be_able_to_enable_disable_accounts.js" timestamp="1496991030366">
         <mark key="[" line="11" column="0" />
@@ -424,6 +424,9 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/SetStatus/Handler.js" timestamp="1503921274706">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/scala-test/src/main/scala/JsonTests/ComplexModels.scala" timestamp="1494394737902">
         <mark key="[" line="8" column="19" />
@@ -487,6 +490,12 @@
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusRepository.js" timestamp="1503921315777">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/kinesis/producer/src/index.js" timestamp="1497443908117">
         <mark key="[" line="31" column="5" />
@@ -708,8 +717,10 @@
         <mark key="." line="57" column="24" />
         <mark key="^" line="57" column="24" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1502959206399">
-        <mark key="[" line="12" column="49" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusServiceFactory.js" timestamp="1503920946058">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/nonacli/nonacli/package.json" timestamp="1493184039501">
         <mark key="[" line="13" column="4" />
@@ -946,10 +957,10 @@
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/.gitignore" timestamp="1501494463361">
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1503917866337">
-        <mark key="[" line="33" column="52" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1503921291472">
+        <mark key="[" line="74" column="3" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
         <mark key="[" line="0" column="0" />
@@ -1223,11 +1234,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtYmRhJwo=</text>
+      <register name="&quot;" type="4">
+        <text>GetDriverStatus</text>
       </register>
       <register name="-" type="4">
-        <text>esult</text>
+        <text>GetDriverStatus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1236,34 +1247,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtYmRhJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVyaTogIVN1YiBhcm46YXdzOmFwaWdhdGV3YXk6JHtBV1M6OlJlZ2lvbn06bGFtYmRhOnBhdGgvMjAxNS0wMy0zMS9mdW5jdGlvbnMvJHtHZXREcml2ZXJTdGF0dXMuQXJufS9pbnZvY2F0aW9ucwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ZHJpdmVyID0+IHsKICAgICAgICBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIgPyBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMgOiAnTkVXJwoKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGRyaXZlclN0YXR1cykKICAgICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0cy5zZXRTdGF0dXMgPSAoZXZlbnQsIGNvbnRleHQsIGNhbGxiYWNrKSA9PiB7CiAgCn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoZHJpdmVyKSBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMKICAgICAgICAvLyBlbHNlIGRyaXZlclN0YXR1cy5wcm9wZXJ0aWVzLnN0YXR1cyA9ICdORVcnCiAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IFJlcG9zaXRvcnkgZnJvbSAnLi4vLi4vbGliL1JlcG9zaXRvcnknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Qm9keQoK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGdldFN0YXR1c0ZpZWxkID0gCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YGBganNvbgoKYGBgCg==</text>
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtYmRhJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">YGBgdGV4dApQT1NUIGh0dHBzOi8vPEFwaUlEPi5leGVjdXRlLWFwaS5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9wcm9kL3N0YXR1cwpIRUFERVJTIENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiwgQXV0aG9yaXphdGlvbjogPElEIFRva2VuPgpgYGAK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZHJpdmVyID0+IHsKICAgICAgICBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIgPyBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMgOiAnTkVXJwoKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGRyaXZlclN0YXR1cykKICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IVtkcml2ZXIgc3RhdHVzIGZsb3ddKGh0dHBzOi8vbWVybWFpZGpzLmdpdGh1Yi5pby9tZXJtYWlkLWxpdmUtZWRpdG9yLyMvdmlldy9aM0poY0dnZ1ZFUUtDazVsZHkxVGRHRjBkWE10VlhCa1lYUmxJQzB0UGlCRWNtbDJaWEl0UlhocGMzUnpDa1J5YVhabGNpMUZlR2x6ZEhNZ0xTMCtJRmxsY3dwWlpYTWdMUzArSUZWelpTMVFjbVYyYVc5MWN5MVRkR0YwZFhNS1ZYTmxMVkJ5WlhacGIzVnpMVk4wWVhSMWN5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNrUnlhWFpsY2kxRmVHbHpkSE1nTFMwK0lFNXZDazV2SUMwdFBpQlRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ3cFRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNsTjBiM0psTFZOMFlYUjFjeUF0TFQ0Z1EyOXRjR3hsZEdVPSkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoZHJpdmVyKSBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMKICAgICAgICAvLyBlbHNlIGRyaXZlclN0YXR1cy5wcm9wZXJ0aWVzLnN0YXR1cyA9ICdORVcnCiAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Qm9keQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">YGBganNvbgoKYGBgCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
