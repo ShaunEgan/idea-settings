@@ -946,6 +946,11 @@
       <file name="$USER_HOME$/repositories/orderin/DriverStatusSimulator/.gitignore" timestamp="1501494463361">
         <mark key="[" line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Services/DriverStatusService/DriverStatusService.js" timestamp="1503917866337">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/test.js" timestamp="1498206331111">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1218,11 +1223,11 @@
       <jump line="3" column="1" filename="$USER_HOME$/repositories/orderin/OrderIn-Zones/sam.yaml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://mermaidjs.github.io/mermaid-live-editor/#/view/Z3JhcGggVEQKCjMwLVNlY29uZC1Qb2xsIC0tPiBHZXROZXdPcmRlcnMKR2V0TmV3T3JkZXJzIC0tPiBHZXQtTmV4dC1PcmRlcgpHZXQtTmV4dC1PcmRlciAtLT4gb3JkZXJzRG9uZXtEb25lfQpvcmRlcnNEb25lIC0tIHllcyAtLT4gQ29tcGxldGUKb3JkZXJzRG9uZSAtLSBubyAtLT4gb3JkZXJFeGlzdHN7T3JkZXIgRXhpc3RzfQpvcmRlckV4aXN0cyAtLSB5ZXMgLS0+IEdldC1OZXh0LU9yZGVyCm9yZGVyRXhpc3RzIC0tIG5vIC0tPiBTYXZlLU5ldy1PcmRlcgpTYXZlLU5ldy1PcmRlciAtLT4gR2V0LU5leHQtT3JkZXI=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtYmRhJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>https://mermaidjs.github.io/mermaid-live-editor/#/view/Z3JhcGggVEQKCjMwLVNlY29uZC1Qb2xsIC0tPiBHZXROZXdPcmRlcnMKR2V0TmV3T3JkZXJzIC0tPiBHZXQtTmV4dC1PcmRlcgpHZXQtTmV4dC1PcmRlciAtLT4gb3JkZXJzRG9uZXtEb25lfQpvcmRlcnNEb25lIC0tIHllcyAtLT4gQ29tcGxldGUKb3JkZXJzRG9uZSAtLSBubyAtLT4gb3JkZXJFeGlzdHN7T3JkZXIgRXhpc3RzfQpvcmRlckV4aXN0cyAtLSB5ZXMgLS0+IEdldC1OZXh0LU9yZGVyCm9yZGVyRXhpc3RzIC0tIG5vIC0tPiBTYXZlLU5ldy1PcmRlcgpTYXZlLU5ldy1PcmRlciAtLT4gR2V0LU5leHQtT3JkZXI=</text>
+        <text>esult</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1231,34 +1236,34 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Qm9keQoK</text>
+        <text encoding="base64">aW1wb3J0IFIgZnJvbSAncmFtYmRhJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YGBganNvbgoKYGBgCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ZHJpdmVyID0+IHsKICAgICAgICBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIgPyBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMgOiAnTkVXJwoKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZXNvbHZlKGRyaXZlclN0YXR1cykKICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">YGBgdGV4dApQT1NUIGh0dHBzOi8vPEFwaUlEPi5leGVjdXRlLWFwaS5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9wcm9kL3N0YXR1cwpIRUFERVJTIENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiwgQXV0aG9yaXphdGlvbjogPElEIFRva2VuPgpgYGAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoZHJpdmVyKSBkcml2ZXJTdGF0dXMucHJvcGVydGllcy5zdGF0dXMgPSBkcml2ZXIucHJvcGVydGllcy5zdGF0dXMKICAgICAgICAvLyBlbHNlIGRyaXZlclN0YXR1cy5wcm9wZXJ0aWVzLnN0YXR1cyA9ICdORVcnCiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IVtkcml2ZXIgc3RhdHVzIGZsb3ddKGh0dHBzOi8vbWVybWFpZGpzLmdpdGh1Yi5pby9tZXJtYWlkLWxpdmUtZWRpdG9yLyMvdmlldy9aM0poY0dnZ1ZFUUtDazVsZHkxVGRHRjBkWE10VlhCa1lYUmxJQzB0UGlCRWNtbDJaWEl0UlhocGMzUnpDa1J5YVhabGNpMUZlR2x6ZEhNZ0xTMCtJRmxsY3dwWlpYTWdMUzArSUZWelpTMVFjbVYyYVc5MWN5MVRkR0YwZFhNS1ZYTmxMVkJ5WlhacGIzVnpMVk4wWVhSMWN5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNrUnlhWFpsY2kxRmVHbHpkSE1nTFMwK0lFNXZDazV2SUMwdFBpQlRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ3cFRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNsTjBiM0psTFZOMFlYUjFjeUF0TFQ0Z1EyOXRjR3hsZEdVPSkK</text>
+        <text encoding="base64">Qm9keQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YGBganNvbgoKYGBgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGV0IHggPSAxCg==</text>
+        <text encoding="base64">YGBgdGV4dApQT1NUIGh0dHBzOi8vPEFwaUlEPi5leGVjdXRlLWFwaS5ldS13ZXN0LTEuYW1hem9uYXdzLmNvbS9wcm9kL3N0YXR1cwpIRUFERVJTIENvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbiwgQXV0aG9yaXphdGlvbjogPElEIFRva2VuPgpgYGAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJnZXQtYXBpLXVybCI6ICIuL2Jpbi9nZXQtYXBpLXVybC5zaCIsCg==</text>
+        <text encoding="base64">IVtkcml2ZXIgc3RhdHVzIGZsb3ddKGh0dHBzOi8vbWVybWFpZGpzLmdpdGh1Yi5pby9tZXJtYWlkLWxpdmUtZWRpdG9yLyMvdmlldy9aM0poY0dnZ1ZFUUtDazVsZHkxVGRHRjBkWE10VlhCa1lYUmxJQzB0UGlCRWNtbDJaWEl0UlhocGMzUnpDa1J5YVhabGNpMUZlR2x6ZEhNZ0xTMCtJRmxsY3dwWlpYTWdMUzArSUZWelpTMVFjbVYyYVc5MWN5MVRkR0YwZFhNS1ZYTmxMVkJ5WlhacGIzVnpMVk4wWVhSMWN5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNrUnlhWFpsY2kxRmVHbHpkSE1nTFMwK0lFNXZDazV2SUMwdFBpQlRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ3cFRaWFF0VTNSaGRIVnpMVlJ2TFU1RlZ5QXRMVDRnVTNSdmNtVXRVM1JoZEhWekNsTjBiM0psTFZOMFlYUjFjeUF0TFQ0Z1EyOXRjR3hsZEdVPSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LS0tCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">RGVzY3JpcHRpb246IE9yZGVySW4gQ29nbml0byBEZWZpbml0aW9uCg==</text>
+        <text encoding="base64">bGV0IHggPSAxCg==</text>
       </register>
       <register name=":" type="4">
         <text>nohl</text>
