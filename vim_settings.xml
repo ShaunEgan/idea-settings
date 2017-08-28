@@ -503,7 +503,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1503922904658">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1503924657980">
         <mark key="[" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1503043482921">
@@ -582,7 +582,7 @@
         <mark key="." line="25" column="6" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1503922989870">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/deploy.sh" timestamp="1503924689648">
         <mark key="[" line="41" column="38" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -826,8 +826,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Services/DriverStatusService/DriverStatusService.js" timestamp="1503401937958">
-        <mark key="[" line="50" column="31" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/test/Services/DriverStatusService/DriverStatusService.js" timestamp="1503924580894">
+        <mark key="[" line="46" column="31" />
+        <mark key="]" line="40" column="20" />
+        <mark key="^" line="40" column="20" />
+        <mark key="." line="40" column="20" />
       </file>
       <file name="$USER_HOME$/repositories/apolitical/apolitical-elasticsearch/src/Apolitical/Search/Models/User.php" timestamp="1493032182563">
         <mark key="[" line="141" column="65" />
