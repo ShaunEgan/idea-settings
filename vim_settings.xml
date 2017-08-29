@@ -61,6 +61,10 @@
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/lib/mapRecordToStatus.js" timestamp="1503388259374">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/deploy.sh" timestamp="1503577478354">
+        <mark key="[" line="16" column="41" />
+        <mark key="^" line="2" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.json" timestamp="1502357908996">
         <mark key="[" line="0" column="0" />
       </file>
@@ -360,11 +364,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.yaml" timestamp="1502878185832">
-        <mark key="[" line="88" column="62" />
-        <mark key="]" line="90" column="16" />
-        <mark key="." line="90" column="16" />
-        <mark key="^" line="90" column="16" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-User-Permissions/cloudformation.yaml" timestamp="1504003070407">
+        <mark key="[" line="104" column="57" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/orderIn-driver-status/process.js" timestamp="1497870286839">
         <mark key="[" line="0" column="0" />
@@ -700,6 +703,10 @@
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
         <mark key="^" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/sam.yaml" timestamp="1504000944292">
+        <mark key="[" line="43" column="100" />
+        <mark key="^" line="53" column="24" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Ping/Handler.js" timestamp="1499861463942">
         <mark key="[" line="2" column="20" />
@@ -1101,9 +1108,11 @@
         <mark key="]" line="42" column="46" />
         <mark key="." line="42" column="46" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/src/Resources/OrderStatusSync/Handler.js" timestamp="1503997587599">
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/src/Resources/OrderStatusSync/Handler.js" timestamp="1504000544974">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/order-in-fleet-management-app/app/imports/migrations/api/server/data/demoUsers/drivers.js" timestamp="1497011777424">
         <mark key="[" line="38" column="25" />
@@ -1274,10 +1283,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLm9yZGVyc1JlcG9zaXRvcnkuY3JlYXRlKG9yZGVySWQsIG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gJyonCg==</text>
       </register>
       <register name="-" type="4">
-        <text>condition</text>
+        <text>orderin-ord-OrderStatusSyncScheduled-1L2SWUUHS46R7</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDb2duaXRvXD4=</text>
@@ -1286,31 +1295,31 @@
         <text>&quot;allocations&quot;: []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLm9yZGVyc1JlcG9zaXRvcnkuY3JlYXRlKG9yZGVySWQsIG9yZGVyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gJyonCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgc2V0dGluZyBjb25kaXRpb24gZXhwcmVzc2lvbjogYXR0cmlidXRlX25vdF9leGlzdHMoJHt0aGlzLmhhc2hBdHRyaWJ1dGVOYW1lfSlgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0gYXJuOmF3czpldmVudHM6KjoqOnJ1bGUvZGV2LSR7YXdzOnVzZXJuYW1lfS0qCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXR1cm4gb3JkZXJJbkNsaWVudC5mZXRjaE9yZGVycygpCiAgICAvLyAudGhlbihvcmRlcnMgPT4gewogICAgLy8gICBjYWxsYmFjayhudWxsLCB7CiAgICAvLyAgICAgc3RhdHVzQ29kZTogMjAwLAogICAgLy8gICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KG9yZGVycywgbnVsbCwgMikKICAgIC8vICAgfSkKICAgIC8vIH0pCiAgICAvLyAuY2F0Y2goY2FsbGJhY2spCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjcmVhdGVJZkRvZXNudEV4aXN0KG9yZGVySWQsIG9yZGVyKSB7CiAgICByZXR1cm4gdGhpcy5vcmRlcnNSZXBvc2l0b3J5LmdldChvcmRlcklkKQogICAgICAuY2F0Y2goKCkgPT4gdGhpcy5vcmRlcnNSZXBvc2l0b3J5LmNyZWF0ZShvcmRlcklkLCBvcmRlcikpCiAgfQo=</text>
+        <text encoding="base64">ICAgIC5jYQogICAgICBzdGF0dXNDb2RlOiAyMDAsCiAgICAgIGJvZHk6ICdPcmRlciBhbHJlYWR5IGV4aXN0cycKICAgIH0pKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLm9yZGVyc1JlcG9zaXRvcnkuY3JlYXRlKG9yZGVySWQsIG9yZGVyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KyBSZXF1ZXN0IChhcHBsaWNhdGlvbi9qc29uKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgc2V0dGluZyBjb25kaXRpb24gZXhwcmVzc2lvbjogYXR0cmlidXRlX25vdF9leGlzdHMoJHt0aGlzLmhhc2hBdHRyaWJ1dGVOYW1lfSlgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBvcmRlcnNTZXJ2aWNlLmNyZWF0ZSgnbXktdGVzdC1vcmRlcicsIHsgbmFtZTogInNoYXVuIiB9KQogIC8vCiAgLy8gY2FsbGJhY2sobnVsbCwgJ1N5bmMgY29tcGxldGUnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXBvc2l0b3J5LmNyZWF0ZSgndGVzdC1vcmRlcicsIHsgc3RhdHVzOiAnY3JlYXRlZCcgfSkK</text>
+        <text encoding="base64">ICBjcmVhdGVJZkRvZXNudEV4aXN0KG9yZGVySWQsIG9yZGVyKSB7CiAgICByZXR1cm4gdGhpcy5vcmRlcnNSZXBvc2l0b3J5LmdldChvcmRlcklkKQogICAgICAuY2F0Y2goKCkgPT4gdGhpcy5vcmRlcnNSZXBvc2l0b3J5LmNyZWF0ZShvcmRlcklkLCBvcmRlcikpCiAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
