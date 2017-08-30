@@ -528,9 +528,6 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/bin/config.sh" timestamp="1503924657980">
-        <mark key="[" line="7" column="41" />
-      </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/Resources/Authorizer/DriverStatusAuthorizer.js" timestamp="1503043482921">
         <mark key="[" line="29" column="58" />
         <mark key="]" line="7" column="0" />
@@ -612,7 +609,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/circle.yml" timestamp="1503574251195">
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/circle.yml" timestamp="1504093753502">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -965,6 +962,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/repositories/orderin/OrderIn-Orders/circle.yml" timestamp="1504093380559" />
       <file name="$USER_HOME$/repositories/poslux/embed-frontend/src/components/Landing.vue" timestamp="1497181720670">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
