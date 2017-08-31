@@ -560,7 +560,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504160826196">
+      <file name="/fragment.java" timestamp="1504161607254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-AWS-Cognito/bin/config.sh" timestamp="1503652848530">
@@ -709,6 +709,9 @@
         <mark key="]" line="4" column="9" />
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
+      </file>
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/README.md" timestamp="1504162149708">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.yml" timestamp="1499950718527">
         <mark key="[" line="0" column="0" />
@@ -1140,10 +1143,11 @@
         <mark key="." line="22" column="82" />
         <mark key="^" line="22" column="82" />
       </file>
-      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1496221655874">
-        <mark key="[" line="26" column="18" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/repositories/powerx/svc-vector/src/main/scala/library/Config.scala" timestamp="1504161793074">
+        <mark key="[" line="26" column="91" />
+        <mark key="]" line="26" column="90" />
+        <mark key="." line="26" column="90" />
+        <mark key="^" line="26" column="90" />
       </file>
       <file name="$USER_HOME$/repositories/orderin/OrderIn-Driver-Status/src/EventProcessors/ServiceStreamProcessor.js" timestamp="1502788119925">
         <mark key="[" line="15" column="0" />
